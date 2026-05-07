@@ -1,151 +1,46 @@
 <!doctype html>
 <html lang="sv">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="theme-color" content="#0a1120" />
-  <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-  <title>Träningsapp</title>
-  <link rel="manifest" href="manifest.json" />
-  <link rel="stylesheet" href="style.css" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Alard</title>
+  <style>
+    :root { color-scheme: dark; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      font-family: Segoe UI, system-ui, sans-serif;
+      background: radial-gradient(circle at 20% 20%, #133a70 0%, #071126 55%, #030914 100%);
+      color: #e8f0ff;
+    }
+    .card {
+      width: min(92vw, 560px);
+      border: 1px solid rgba(142, 183, 255, .35);
+      border-radius: 16px;
+      padding: 28px;
+      background: rgba(8, 21, 44, .72);
+      box-shadow: 0 16px 44px rgba(0, 0, 0, .35);
+      text-align: center;
+    }
+    a {
+      display: inline-block;
+      margin-top: 12px;
+      padding: 12px 18px;
+      border-radius: 12px;
+      text-decoration: none;
+      color: #021722;
+      font-weight: 700;
+      background: linear-gradient(180deg, #79f28a, #4ed168);
+    }
+  </style>
 </head>
 <body>
-  <main class="app">
-    <section id="tab-start" class="tab-page is-active">
-      <section class="person-banner">
-        <span>Aktiv person:</span>
-        <strong id="active-person-name">Anton</strong>
-      </section>
-
-      <section class="card pass-list-shell">
-        <div class="section-head">
-          <button id="add-pass-btn" class="ok">Nytt pass</button>
-        </div>
-        <div id="pass-list" class="pass-list"></div>
-      </section>
-
-      <section id="steps-card" class="card">
-        <div class="steps-panel">
-          <div class="steps-cover">
-            <img src="assets/Icons/Gång.png" alt="Steg" />
-          </div>
-          <div class="steps-info">
-            <strong>Steg</strong>
-            <small>Idag: 11234 steg</small>
-            <small>Igår: -</small>
-            <small>Förrgår: -</small>
-          </div>
-        </div>
-      </section>
-
-      <section id="pass-detail" class="card hidden">
-        <div class="detail-top">
-          <h2 id="detail-title">Pass</h2>
-          <button id="add-exercise-btn" class="ok">Lägg till övning</button>
-        </div>
-        <ul id="exercise-list" class="exercise-list"></ul>
-        <div class="pass-bottom-actions">
-          <button id="done-pass-btn" class="done-pass-btn">KLAR</button>
-          <button id="delete-pass-btn" class="danger">Radera pass</button>
-        </div>
-      </section>
-    </section>
-
-    <section id="tab-history" class="tab-page">
-      <section class="card">
-        <h2>Historik</h2>
-        <ul id="history-list" class="pr-list"></ul>
-      </section>
-    </section>
-
-    <section id="tab-progress" class="tab-page">
-      <section class="card">
-        <h2>Progress</h2>
-        <div id="progress-pass-legend" class="progress-legend" aria-label="Färgförklaring pass">
-          <button type="button" class="legend-item" data-pass-id="upper"><i class="legend-dot upper"></i>Överkroppspass</button>
-          <button type="button" class="legend-item" data-pass-id="legs-shoulders"><i class="legend-dot lower"></i>Ben och axelpass</button>
-          <button type="button" class="legend-item" data-pass-id="full"><i class="legend-dot full"></i>Helkroppspass</button>
-          <button type="button" class="legend-item" data-pass-id="custom"><i class="legend-dot extra"></i>Extra pass</button>
-        </div>
-        <div id="progress-volume" class="metric-grid"></div>
-        <canvas id="progress-pass-chart" height="220"></canvas>
-        <p id="progress-pass-chart-empty" class="muted hidden">Ingen körd passhistorik ännu.</p>
-      </section>
-      <section class="card">
-        <h2>Utveckling per övning</h2>
-        <div id="progress-exercise-legend" class="progress-legend" aria-label="Färgförklaring övningar"></div>
-        <canvas id="progress-chart" height="220"></canvas>
-        <p id="progress-chart-empty" class="muted hidden">Ingen loggad data för övningar ännu.</p>
-      </section>
-      <section class="card">
-        <h2>Personbästa per övning</h2>
-        <ul id="pr-list" class="pr-list"></ul>
-      </section>
-    </section>
-
-    <section id="tab-more" class="tab-page">
-      <section class="card">
-        <h2>Byt person</h2>
-        <div id="person-list" class="person-list"></div>
-        <div class="person-actions">
-          <button id="add-person-btn" class="ghost">Lägg till person</button>
-          <button id="delete-person-btn" class="danger">Radera person</button>
-        </div>
-      </section>
-    </section>
+  <main class="card">
+    <h1>Alard</h1>
+    <p>Öppna Liftlog här:</p>
+    <a href="/liftlog/">Gå till Liftlog</a>
   </main>
-
-  <nav class="bottom-nav">
-    <button class="tab-btn is-active" data-tab="start">Pass</button>
-    <button class="tab-btn" data-tab="history">Historik</button>
-    <button class="tab-btn" data-tab="progress">Progress</button>
-    <button class="tab-btn" data-tab="more">Byt person</button>
-  </nav>
-
-  <dialog id="edit-modal" class="edit-modal">
-    <form method="dialog" id="edit-form" class="edit-form">
-      <div class="modal-top">
-        <h3>Redigera övning</h3>
-        <button type="button" id="close-modal" class="ghost">Stäng</button>
-      </div>
-
-      <label>
-        Övning
-        <input id="edit-name" required />
-      </label>
-
-      <div class="group-title">Uppvärmning</div>
-      <div class="edit-row">
-        <span>Reps</span>
-        <div class="stepper" data-field="warmupReps"></div>
-      </div>
-      <div class="edit-row">
-        <span>Vikt (kg)</span>
-        <div class="stepper" data-field="warmupWeight"></div>
-      </div>
-
-      <div class="group-title">Arbetsset</div>
-      <div class="edit-row">
-        <span>Set</span>
-        <div class="stepper" data-field="workSets"></div>
-      </div>
-      <div class="edit-row">
-        <span>Reps</span>
-        <div class="stepper" data-field="workReps"></div>
-      </div>
-      <div class="edit-row">
-        <span>Vikt (kg)</span>
-        <div class="stepper" data-field="workWeight"></div>
-      </div>
-
-      <div class="modal-actions">
-        <button type="submit" class="primary">Spara</button>
-        <button type="button" id="delete-exercise" class="danger">Ta bort övning</button>
-      </div>
-    </form>
-  </dialog>
-
-  <script src="app.js"></script>
 </body>
 </html>
