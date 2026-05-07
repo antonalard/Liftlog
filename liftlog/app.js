@@ -85,6 +85,7 @@ const state = normalizeState(JSON.parse(localStorage.getItem(STORAGE_KEY) || "nu
 let activeTab = "start";
 let activePassId = null;
 let editing = null;
+let showAllExerciseTools = false;
 
 function currentPerson() {
   return state.people.find((p) => p.id === state.activePersonId) || state.people[0];
@@ -164,6 +165,7 @@ const stepsCard = document.getElementById("steps-card");
 const passDetail = document.getElementById("pass-detail");
 const detailTitle = document.getElementById("detail-title");
 const exerciseList = document.getElementById("exercise-list");
+const toggleExerciseToolsBtn = document.getElementById("toggle-exercise-tools-btn");
 const addExerciseBtn = document.getElementById("add-exercise-btn");
 const addPassBtn = document.getElementById("add-pass-btn");
 const donePassBtn = document.getElementById("done-pass-btn");
@@ -328,7 +330,6 @@ function renderPassDetail() {
     const li = document.createElement("li");
     li.className = `exercise-item ${visual.tone}`;
     li.innerHTML = `
-      <button class="exercise-tools-toggle" data-action="toggle-tools" data-id="${ex.id}" aria-label="Visa verktyg">✎</button>
       <div class="exercise-card-row">
         <div class="exercise-thumb"><img src="${visual.image}" alt="${ex.name}" loading="lazy"></div>
         <div class="exercise-info">
@@ -344,6 +345,7 @@ function renderPassDetail() {
     `;
     exerciseList.appendChild(li);
   });
+  passDetail.classList.toggle("show-tools-all", showAllExerciseTools);
 }
 
 function metricRow(label, value) {
@@ -826,13 +828,14 @@ exerciseList.addEventListener("click", (e) => {
   if (!btn) return;
   const exId = btn.dataset.id;
   const action = btn.dataset.action;
-  if (action === "toggle-tools") {
-    btn.closest(".exercise-item")?.classList.toggle("show-tools");
-    return;
-  }
   if (action === "up") moveExercise(exId, -1);
   if (action === "down") moveExercise(exId, 1);
   if (action === "edit") openEditModal(exId);
+});
+
+toggleExerciseToolsBtn?.addEventListener("click", () => {
+  showAllExerciseTools = !showAllExerciseTools;
+  passDetail.classList.toggle("show-tools-all", showAllExerciseTools);
 });
 
 prList.addEventListener("change", (e) => {
