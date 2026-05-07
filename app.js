@@ -328,6 +328,7 @@ function renderPassDetail() {
     const li = document.createElement("li");
     li.className = `exercise-item ${visual.tone}`;
     li.innerHTML = `
+      <button class="exercise-tools-toggle" data-action="toggle-tools" data-id="${ex.id}" aria-label="Visa verktyg">✎</button>
       <div class="exercise-card-row">
         <div class="exercise-thumb"><img src="${visual.image}" alt="${ex.name}" loading="lazy"></div>
         <div class="exercise-info">
@@ -825,6 +826,10 @@ exerciseList.addEventListener("click", (e) => {
   if (!btn) return;
   const exId = btn.dataset.id;
   const action = btn.dataset.action;
+  if (action === "toggle-tools") {
+    btn.closest(".exercise-item")?.classList.toggle("show-tools");
+    return;
+  }
   if (action === "up") moveExercise(exId, -1);
   if (action === "down") moveExercise(exId, 1);
   if (action === "edit") openEditModal(exId);
