@@ -107,10 +107,10 @@ function currentPersonalBests() {
 }
 
 function passTheme(pass) {
-  if (pass.id === "upper") return { tone: "pass-upper", icon: "assets/Icons/Överkroppspass.png", bodyTheme: "theme-pass-upper" };
-  if (pass.id === "legs-shoulders") return { tone: "pass-lower", icon: "assets/Icons/Benpass.png", bodyTheme: "theme-pass-lower" };
-  if (pass.id === "full") return { tone: "pass-full", icon: "assets/Icons/Helkroppspass.png", bodyTheme: "theme-pass-full" };
-  return { tone: "pass-custom", icon: "assets/Icons/Extrapass.png", bodyTheme: "theme-pass-custom" };
+  if (pass.id === "upper") return { tone: "pass-upper", icon: "assets/Icons/Iphoneikon.png", bodyTheme: "theme-pass-upper" };
+  if (pass.id === "legs-shoulders") return { tone: "pass-lower", icon: "assets/Icons/Iphoneikon.png", bodyTheme: "theme-pass-lower" };
+  if (pass.id === "full") return { tone: "pass-full", icon: "assets/Icons/Iphoneikon.png", bodyTheme: "theme-pass-full" };
+  return { tone: "pass-custom", icon: "assets/Icons/Iphoneikon.png", bodyTheme: "theme-pass-custom" };
 }
 
 function setActivePerson(id) {
