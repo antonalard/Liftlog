@@ -77,6 +77,13 @@ def update_pokemon():
 
 if __name__ == "__main__":
     DATA.mkdir(parents=True, exist_ok=True)
-    update_weather()
-    update_market()
-    update_pokemon()
+    errors = []
+    for fn in (update_weather, update_market, update_pokemon):
+        try:
+            fn()
+        except Exception as exc:
+            errors.append(f"{fn.__name__}: {exc}")
+    if errors:
+        print("Non-fatal feed update errors:")
+        for err in errors:
+            print(f"- {err}")
