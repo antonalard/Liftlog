@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <div class="scroll-progress" aria-hidden="true"><span id="scroll-progress-bar"></span></div>
   <div class="noise" aria-hidden="true"></div>
   <div class="glow glow-a" aria-hidden="true"></div>
   <div class="glow glow-b" aria-hidden="true"></div>
@@ -32,7 +33,7 @@
       </div>
     </section>
 
-    <section id="weather" class="panel weather-grid">
+    <section id="weather" class="panel weather-grid section-block" data-parallax>
       <article class="module reveal tilt" data-reveal>
         <h2>Väderobjekt A: Yr Embed</h2>
         <p class="muted">Direkt inbäddat objekt från Yr för Lindome.</p>
@@ -58,7 +59,7 @@
       </article>
     </section>
 
-    <section id="objects" class="panel objects-grid">
+    <section id="objects" class="panel objects-grid section-block" data-parallax>
       <article class="module reveal tilt" data-reveal>
         <h2>Projektobjekt</h2>
         <p class="muted">Exempelblock med innehållsyta för fler objekt från andra sidor.</p>
@@ -69,7 +70,7 @@
       </article>
     </section>
 
-    <section class="panel objects-grid">
+    <section class="panel objects-grid section-block" data-parallax>
       <article class="module reveal tilt" data-reveal>
         <h2>Börsinfo: OMX Stockholm PI</h2>
         <p class="muted">Inbäddning från Avanza. Om inbäddning blockeras, använd direktlänken under.</p>

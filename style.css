@@ -20,6 +20,23 @@ body {
   min-height: 100%;
 }
 
+.scroll-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  z-index: 30;
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.scroll-progress span {
+  display: block;
+  height: 100%;
+  width: 0%;
+  background: linear-gradient(90deg, #76d5ff, #5f96ff);
+}
+
 body::before {
   content: "";
   position: fixed;
@@ -110,6 +127,13 @@ main {
   align-content: center;
   gap: 1rem;
   padding: 2rem 0;
+}
+
+.hero h1 {
+  background: linear-gradient(130deg, #f2f8ff 0%, #a6d5ff 42%, #6fa8ff 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
 }
 
 .eyebrow {
@@ -264,6 +288,10 @@ h2 {
 
 .module.tilt:hover {
   border-color: rgba(162, 199, 255, 0.6);
+}
+
+.section-block {
+  transition: transform 500ms ease, opacity 500ms ease;
 }
 
 @media (max-width: 900px) {

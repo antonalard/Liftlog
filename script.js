@@ -1,4 +1,6 @@
 const reveals = Array.from(document.querySelectorAll("[data-reveal]"));
+const progressBar = document.getElementById("scroll-progress-bar");
+const parallaxSections = Array.from(document.querySelectorAll("[data-parallax]"));
 
 const revealObserver = new IntersectionObserver(
   (entries) => {
@@ -38,3 +40,24 @@ window.addEventListener("pointermove", (event) => {
   document.body.style.setProperty("--mx", `${x}%`);
   document.body.style.setProperty("--my", `${y}%`);
 });
+
+function onScrollMotion() {
+  const scrollTop = window.scrollY;
+  const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+  const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+  if (progressBar) progressBar.style.width = `${Math.max(0, Math.min(100, progress))}%`;
+
+  parallaxSections.forEach((section) => {
+    const rect = section.getBoundingClientRect();
+    const center = rect.top + rect.height / 2;
+    const distance = (window.innerHeight / 2 - center) / window.innerHeight;
+    const y = distance * 22;
+    const opacity = Math.max(0.72, 1 - Math.abs(distance) * 0.35);
+    section.style.transform = `translateY(${y}px)`;
+    section.style.opacity = `${opacity}`;
+  });
+}
+
+window.addEventListener("scroll", onScrollMotion, { passive: true });
+window.addEventListener("resize", onScrollMotion);
+onScrollMotion();
