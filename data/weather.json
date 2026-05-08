@@ -1,17 +1,45 @@
 {
-  "updated": "2026-05-08 14:00",
+  "updated": "2026-05-08 11:42",
   "today": {
-    "weekday": "fredag",
-    "temp": 14,
-    "meta": "Regnskurar • Vind 5 m/s"
+    "weekday": "friday",
+    "temp": 18,
+    "meta": "partlycloudy day • Vind 3 m/s"
   },
   "week": [
-    { "weekday": "fre", "min": 8, "max": 14 },
-    { "weekday": "lör", "min": 7, "max": 13 },
-    { "weekday": "sön", "min": 6, "max": 12 },
-    { "weekday": "mån", "min": 5, "max": 11 },
-    { "weekday": "tis", "min": 5, "max": 12 },
-    { "weekday": "ons", "min": 6, "max": 13 },
-    { "weekday": "tor", "min": 7, "max": 14 }
+    {
+      "weekday": "fri",
+      "min": 6,
+      "max": 18
+    },
+    {
+      "weekday": "sat",
+      "min": 2,
+      "max": 18
+    },
+    {
+      "weekday": "sun",
+      "min": 8,
+      "max": 12
+    },
+    {
+      "weekday": "mon",
+      "min": 6,
+      "max": 11
+    },
+    {
+      "weekday": "tue",
+      "min": 5,
+      "max": 12
+    },
+    {
+      "weekday": "wed",
+      "min": 8,
+      "max": 12
+    },
+    {
+      "weekday": "thu",
+      "min": 6,
+      "max": 12
+    }
   ]
 }

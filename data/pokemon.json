@@ -1,8 +1,29 @@
 {
-  "updated": "2026-05-08 14:00",
+  "updated": "2026-05-08 11:42",
   "items": [
-    { "title": "Event Placeholder 1", "date": "2026-05-08" },
-    { "title": "Event Placeholder 2", "date": "2026-05-07" },
-    { "title": "Event Placeholder 3", "date": "2026-05-06" }
+    {
+      "title": "Lechonk Community Day (May 2026): Shiny Odds, Bonuses & Mud-Slap Oinkologne",
+      "date": "Fri, 08 May 2026"
+    },
+    {
+      "title": "Pokémon GO Events This Week: 4 – 10 May 2026",
+      "date": "Sun, 03 May 2026"
+    },
+    {
+      "title": "Shadow Entei Raid Day in Pokémon GO: Shiny Odds, Counters & Bonuses",
+      "date": "Sat, 02 May 2026"
+    },
+    {
+      "title": "Pokémon GO May 2026 Events",
+      "date": "Fri, 01 May 2026"
+    },
+    {
+      "title": "Steeled Resolve: Taken Over",
+      "date": "Wed, 29 Apr 2026"
+    },
+    {
+      "title": "Pokémon GO Fest 2026: Global",
+      "date": "Tue, 28 Apr 2026"
+    }
   ]
 }
