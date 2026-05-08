@@ -202,8 +202,9 @@ main {
 h1 {
   margin: 0;
   font-size: clamp(2.2rem, 6.6vw, 5rem);
-  line-height: 1.06;
+  line-height: 1.15;
   letter-spacing: -0.02em;
+  padding-bottom: 0.08em;
 }
 
 .hero-copy {

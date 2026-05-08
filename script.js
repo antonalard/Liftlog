@@ -172,7 +172,7 @@ function buildGreeting() {
     "Du är ett original.", "Du är sevärd.", "Du är trygg och modig.", "Du är en solstråle.", "Du är helt enkelt grym."
   ];
 
-  const index = now.getDate() % kindLines.length;
+  const index = Math.floor(Math.random() * kindLines.length);
   const kind = kindLines[index];
 
   const titleEl = document.getElementById("greeting-title");
