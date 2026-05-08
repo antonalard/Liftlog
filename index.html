@@ -8,21 +8,22 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="build-tag">Testversion: 10</div>
+  <div class="build-tag">Testversion: 11</div>
   <div class="scroll-progress" aria-hidden="true"><span id="scroll-progress-bar"></span></div>
   <div class="noise" aria-hidden="true"></div>
   <div class="glow glow-a" aria-hidden="true"></div>
   <div class="glow glow-b" aria-hidden="true"></div>
 
-  <main>
+  <div class="layout-shell">
+    <aside class="apps-rail">
+      <h2>Appar</h2>
+      <a class="app-link" href="/liftlog/">Liftlog</a>
+    </aside>
+    <main>
     <section class="hero">
       <h1 class="reveal" data-reveal id="greeting-title">God dag!</h1>
       <p class="hero-copy reveal" data-reveal id="greeting-day"></p>
       <p class="hero-copy reveal" data-reveal id="greeting-kind">Du är grym.</p>
-      <div class="hero-actions reveal" data-reveal>
-        <a class="btn btn-solid" href="/liftlog/">Öppna Liftlog</a>
-        <a class="btn btn-ghost" href="#weather">Se väderobjekt</a>
-      </div>
     </section>
 
     <section id="weather" class="panel weather-grid section-block" data-parallax>
@@ -49,8 +50,11 @@
         <p class="muted">Exempelblock med innehållsyta för fler objekt från andra sidor.</p>
       </article>
       <article class="module reveal tilt" data-reveal>
-        <h2>Nyhetsobjekt</h2>
-        <p class="muted">Placeholder-text. Här kan vi lägga nästa riktiga objekt i samma stil.</p>
+        <h2>SVT Toppnyheter</h2>
+        <p class="muted">Senaste rubrikerna med länkar.</p>
+        <ul id="svt-list" class="feed-list pretty-feed">
+          <li>Laddar SVT-nyheter...</li>
+        </ul>
       </article>
     </section>
 
@@ -72,9 +76,10 @@
         <h2>Pokemon Go: Event</h2>
         <p class="muted">Senaste eventrubriker från PokemonGoHub.</p>
         <div class="community-card">
-          <img id="pogo-community-image" alt="Nästa Community Day">
-          <p id="pogo-community-title">Laddar nästa Community Day...</p>
-          <p class="fallback-link"><a id="pogo-community-link" href="https://pokemongohub.net/post/category/event/" target="_blank" rel="noopener noreferrer">Källa till bild</a></p>
+          <a id="pogo-community-anchor" href="https://pokemongohub.net/post/category/event/" target="_blank" rel="noopener noreferrer">
+            <img id="pogo-community-image" alt="Nästa Community Day">
+            <p id="pogo-community-title">Laddar nästa Community Day...</p>
+          </a>
         </div>
         <div class="weather-card">
           <ul id="pogo-list" class="feed-list pretty-feed">
@@ -82,10 +87,10 @@
           </ul>
         </div>
         <p class="fallback-link" id="pogo-updated"></p>
-        <p class="fallback-link"><a href="https://pokemongohub.net/post/category/event/" target="_blank" rel="noopener noreferrer">Öppna PokemonGoHub Events i ny flik</a></p>
       </article>
     </section>
-  </main>
+    </main>
+  </div>
   <script src="script.js"></script>
 </body>
 </html>

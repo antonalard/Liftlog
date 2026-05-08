@@ -95,11 +95,12 @@ function buildOmxSvg(values) {
   const width = 520;
   const height = 140;
   const pad = 24;
-  const labels = ["1d", "1v", "1m"];
+  const labels = ["1m", "1v", "1d"];
+  const reversed = [...values].reverse();
   const maxAbs = Math.max(1, ...values.map((v) => Math.abs(v)));
   const zeroY = height / 2;
   const step = (width - pad * 2) / (values.length - 1);
-  const points = values.map((v, i) => {
+  const points = reversed.map((v, i) => {
     const x = pad + i * step;
     const y = zeroY - (v / maxAbs) * (height * 0.32);
     return { x, y, v };
@@ -107,7 +108,7 @@ function buildOmxSvg(values) {
   const path = points.map((p, i) => `${i ? "L" : "M"} ${p.x} ${p.y}`).join(" ");
   const circles = points.map((p) => `<circle cx="${p.x}" cy="${p.y}" r="4" fill="#8ed5ff" />`).join("");
   const marks = points.map((p, i) => `<text x="${p.x}" y="${height - 10}" text-anchor="middle" fill="#b7cef0" font-size="12">${labels[i]}</text>`).join("");
-  const vals = points.map((p, i) => `<text x="${p.x}" y="${p.y - 10}" text-anchor="middle" fill="#dfeeff" font-size="11">${values[i].toFixed(2)}%</text>`).join("");
+  const vals = points.map((p, i) => `<text x="${p.x}" y="${p.y - 10}" text-anchor="middle" fill="#dfeeff" font-size="11">${reversed[i].toFixed(2)}%</text>`).join("");
   return `
     <svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">
       <rect x="0" y="0" width="${width}" height="${height}" fill="#0f1d3f"/>
@@ -232,7 +233,7 @@ async function loadPokemon() {
     const items = (data.items || []).slice(0, 5);
     const img = document.getElementById("pogo-community-image");
     const titleEl = document.getElementById("pogo-community-title");
-    const linkEl = document.getElementById("pogo-community-link");
+    const anchorEl = document.getElementById("pogo-community-anchor");
     if (data.community_day_image) {
       img.src = data.community_day_image;
       img.style.display = "block";
@@ -240,7 +241,7 @@ async function loadPokemon() {
       img.style.display = "none";
     }
     titleEl.textContent = data.community_day_title || "Nästa Community Day hittades inte ännu.";
-    if (linkEl && data.community_day_link) linkEl.href = data.community_day_link;
+    if (anchorEl && data.community_day_link) anchorEl.href = data.community_day_link;
     const list = document.getElementById("pogo-list");
     list.innerHTML = "";
     if (!items.length) {
@@ -248,7 +249,8 @@ async function loadPokemon() {
     } else {
       items.forEach((item) => {
         const li = document.createElement("li");
-        li.innerHTML = `<strong>${item.title}</strong><br><span class="muted">${item.date || ""}</span>`;
+        const link = item.link || "https://pokemongohub.net/post/category/event/";
+        li.innerHTML = `<a href="${link}" target="_blank" rel="noopener noreferrer"><strong>${item.title}</strong></a><br><span class="muted">${item.date || ""}</span>`;
         list.appendChild(li);
       });
     }
@@ -258,7 +260,33 @@ async function loadPokemon() {
   }
 }
 
+async function loadSvtNews() {
+  try {
+    const data = await getJson("data/svt.json");
+    const items = (data.items || []).slice(0, 6);
+    const list = document.getElementById("svt-list");
+    if (!list) return;
+    list.innerHTML = "";
+    if (!items.length) {
+      list.innerHTML = "<li>Inga nyheter hittades.</li>";
+      return;
+    }
+    items.forEach((item) => {
+      const li = document.createElement("li");
+      const img = item.image ? `<img src="${item.image}" alt="">` : "";
+      li.innerHTML = `<a href="${item.link}" target="_blank" rel="noopener noreferrer">${img}<span>${item.title}</span></a>`;
+      li.style.display = "flex";
+      li.style.alignItems = "center";
+      list.appendChild(li);
+    });
+  } catch {
+    const list = document.getElementById("svt-list");
+    if (list) list.innerHTML = "<li>Kunde inte läsa SVT-nyheter just nu.</li>";
+  }
+}
+
 loadWeather();
 loadOmx();
 loadPokemon();
+loadSvtNews();
 buildGreeting();

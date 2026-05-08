@@ -116,7 +116,7 @@ def update_pokemon():
         pub = (item.findtext("pubDate") or "").strip()
         date = pub[:16] if pub else ""
         if title:
-            items.append({"title": title, "date": date})
+            items.append({"title": title, "date": date, "link": (item.findtext("link") or "").strip()})
         if not community_title and "community day" in title.lower():
             community_title = title
             link = (item.findtext("link") or "").strip()
@@ -150,10 +150,27 @@ def update_pokemon():
     (DATA / "pokemon.json").write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
+def update_svt():
+    rss = fetch("https://www.svt.se/nyheter/rss.xml")
+    root = ET.fromstring(rss)
+    items = []
+    for item in root.findall("./channel/item")[:8]:
+        title = (item.findtext("title") or "").strip()
+        link = (item.findtext("link") or "").strip()
+        image = ""
+        enclosure = item.find("enclosure")
+        if enclosure is not None and enclosure.attrib.get("url"):
+            image = enclosure.attrib.get("url", "")
+        if title and link:
+            items.append({"title": title, "link": link, "image": image})
+    out = {"updated": ts(), "items": items}
+    (DATA / "svt.json").write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
 if __name__ == "__main__":
     DATA.mkdir(parents=True, exist_ok=True)
     errors = []
-    for fn in (update_weather, update_market, update_pokemon):
+    for fn in (update_weather, update_market, update_pokemon, update_svt):
         try:
             fn()
         except Exception as exc:

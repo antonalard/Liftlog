@@ -135,12 +135,46 @@ main {
   padding: 0.8rem 1rem 3rem;
 }
 
+.layout-shell {
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: 0 1rem 2.4rem;
+  display: grid;
+  grid-template-columns: 220px minmax(0, 1fr);
+  gap: 1rem;
+}
+
+.apps-rail {
+  position: sticky;
+  top: 18px;
+  align-self: start;
+  border: 1px solid var(--stroke);
+  border-radius: 14px;
+  padding: 0.7rem;
+  background: linear-gradient(170deg, rgba(9, 15, 30, 0.7), rgba(10, 18, 36, 0.92));
+}
+
+.apps-rail h2 {
+  font-size: 0.95rem;
+  margin-bottom: 0.55rem;
+}
+
+.app-link {
+  display: block;
+  text-decoration: none;
+  color: #dbe8ff;
+  border: 1px solid rgba(142, 175, 238, 0.3);
+  border-radius: 10px;
+  padding: 0.55rem 0.65rem;
+  background: rgba(255, 255, 255, 0.03);
+}
+
 .hero {
-  min-height: 30vh;
+  min-height: 38vh;
   display: grid;
   align-content: center;
   gap: 0.35rem;
-  padding: 0.45rem 0 0.55rem;
+  padding: 0.7rem 0 0.8rem;
 }
 
 .hero h1 {
@@ -160,8 +194,8 @@ main {
 
 h1 {
   margin: 0;
-  font-size: clamp(2rem, 6.2vw, 4.7rem);
-  line-height: 0.98;
+  font-size: clamp(2.2rem, 6.6vw, 5rem);
+  line-height: 1.06;
   letter-spacing: -0.02em;
 }
 
@@ -268,14 +302,16 @@ h2 {
 
 .weather-temp-row {
   display: flex;
-  align-items: flex-end;
+  align-items: center;
   justify-content: space-between;
 }
 
 .weather-icon {
-  font-size: 3.2rem;
+  font-size: 6.4rem;
   line-height: 1;
-  margin-left: 1rem;
+  margin-left: 0.7rem;
+  width: 45%;
+  text-align: right;
 }
 
 .weather-place,
@@ -380,6 +416,24 @@ h2 {
   height: auto;
 }
 
+#pogo-community-anchor {
+  text-decoration: none;
+}
+
+#svt-list img {
+  width: 56px;
+  height: 56px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-right: 0.55rem;
+  border: 1px solid rgba(142, 175, 238, 0.28);
+}
+
+#svt-list a {
+  color: #dbe8ff;
+  text-decoration: none;
+}
+
 .reveal {
   opacity: 0;
   transform: translateY(22px) scale(0.985);
@@ -404,6 +458,14 @@ h2 {
 }
 
 @media (max-width: 900px) {
+  .layout-shell {
+    grid-template-columns: 1fr;
+  }
+
+  .apps-rail {
+    position: static;
+  }
+
   .module {
     grid-column: span 12;
   }
