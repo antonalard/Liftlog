@@ -62,72 +62,27 @@ window.addEventListener("scroll", onScrollMotion, { passive: true });
 window.addEventListener("resize", onScrollMotion);
 onScrollMotion();
 
-async function fetchWithTimeout(url, ms = 8000) {
-  const controller = new AbortController();
-  const timer = setTimeout(() => controller.abort(), ms);
-  try {
-    return await fetch(url, { signal: controller.signal });
-  } finally {
-    clearTimeout(timer);
-  }
-}
-
-async function firstOkJson(urls) {
-  for (const url of urls) {
-    try {
-      const res = await fetchWithTimeout(url, 9000);
-      if (!res.ok) continue;
-      return await res.json();
-    } catch {}
-  }
-  throw new Error("No JSON source worked");
-}
-
-async function firstOkText(urls) {
-  for (const url of urls) {
-    try {
-      const res = await fetchWithTimeout(url, 9000);
-      if (!res.ok) continue;
-      return await res.text();
-    } catch {}
-  }
-  throw new Error("No text source worked");
+async function getJson(path) {
+  const res = await fetch(path, { cache: "no-store" });
+  if (!res.ok) throw new Error(`Failed to load ${path}`);
+  return await res.json();
 }
 
 async function loadWeather() {
   try {
-    const lat = 57.58;
-    const lon = 12.08;
-    const weatherUrl = `https://api.met.no/weatherapi/locationforecast/2.0/compact?lat=${lat}&lon=${lon}`;
-    const data = await firstOkJson([
-      `https://api.allorigins.win/raw?url=${encodeURIComponent(weatherUrl)}`,
-      `https://corsproxy.io/?${encodeURIComponent(weatherUrl)}`
-    ]);
-    const series = data?.properties?.timeseries || [];
-    const now = series?.[0]?.data?.instant?.details;
-    const symbol = data?.properties?.timeseries?.[0]?.data?.next_1_hours?.summary?.symbol_code || "okänt";
-    document.getElementById("wx-day").textContent = new Date().toLocaleDateString("sv-SE", { weekday: "long" });
-    document.getElementById("wx-temp").textContent = `${Math.round(now?.air_temperature ?? 0)}°`;
-    document.getElementById("wx-meta").textContent = `${symbol.replaceAll("_", " ")} • Vind ${Math.round(now?.wind_speed ?? 0)} m/s`;
-    document.getElementById("wx-updated").textContent = `Uppdaterad: ${new Date().toLocaleString("sv-SE")}`;
-    const byDay = {};
-    series.forEach((row) => {
-      const d = row.time.slice(0, 10);
-      const t = row?.data?.instant?.details?.air_temperature;
-      if (typeof t !== "number") return;
-      byDay[d] = byDay[d] || [];
-      byDay[d].push(t);
-    });
-    const week = Object.entries(byDay).slice(0, 7);
+    const data = await getJson("data/weather.json");
+    const today = data.today || {};
+    const week = data.week || [];
     const wrap = document.getElementById("wx-week");
+    document.getElementById("wx-day").textContent = today.weekday || "-";
+    document.getElementById("wx-temp").textContent = typeof today.temp === "number" ? `${today.temp}°` : "--°";
+    document.getElementById("wx-meta").textContent = today.meta || "Ingen vädertext tillgänglig.";
+    document.getElementById("wx-updated").textContent = `Uppdaterad: ${data.updated || "-"}`;
     wrap.innerHTML = "";
-    week.forEach(([date, temps]) => {
-      const min = Math.round(Math.min(...temps));
-      const max = Math.round(Math.max(...temps));
-      const wd = new Date(date).toLocaleDateString("sv-SE", { weekday: "short" });
+    week.forEach((day) => {
       const chip = document.createElement("div");
       chip.className = "day-chip";
-      chip.textContent = `${wd}: ${min}° / ${max}°`;
+      chip.textContent = `${day.weekday}: ${day.min}° / ${day.max}°`;
       wrap.appendChild(chip);
     });
   } catch {
@@ -137,16 +92,10 @@ async function loadWeather() {
 
 async function loadOmx() {
   try {
-    const src = "https://www.avanza.se/index/om-indexet.html/18988/omx-stockholm-pi";
-    const txt = await firstOkText([
-      `https://r.jina.ai/http://${src.replace("https://", "")}`,
-      `https://r.jina.ai/http://r.jina.ai/http://${src.replace("https://", "")}`
-    ]);
-    const pct = txt.match(/[+-]\d+,\d+%/);
-    const idx = txt.match(/OMX Stockholm PI[\s\S]{0,220}?(\d[\d\s.,]*)/i);
-    document.getElementById("omx-price").textContent = pct ? `Idag: ${pct[0]}` : "Idag: ej hittad";
-    document.getElementById("omx-meta").textContent = idx ? `Index: ${idx[1].trim()} • Källa Avanza` : "Källa: Avanza";
-    document.getElementById("omx-updated").textContent = `Uppdaterad: ${new Date().toLocaleString("sv-SE")}`;
+    const data = await getJson("data/market.json");
+    document.getElementById("omx-price").textContent = `Idag: ${data.change_percent || "-"}`;
+    document.getElementById("omx-meta").textContent = `Index: ${data.index_value || "-"} • Källa: ${data.source || "okänd"}`;
+    document.getElementById("omx-updated").textContent = `Uppdaterad: ${data.updated || "-"}`;
   } catch {
     document.getElementById("omx-price").textContent = "Ej tillgänglig";
     document.getElementById("omx-meta").textContent = "Kunde inte läsa OMX-data just nu.";
@@ -155,13 +104,8 @@ async function loadOmx() {
 
 async function loadPokemon() {
   try {
-    const feedUrl = "https://pokemongohub.net/post/category/event/feed/";
-    const data = await firstOkJson([
-      `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feedUrl)}`,
-      `https://api.allorigins.win/get?url=${encodeURIComponent(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feedUrl)}`)}`
-    ]);
-    const normalized = data.items ? data : JSON.parse(data.contents || "{}");
-    const items = (normalized.items || []).slice(0, 5);
+    const data = await getJson("data/pokemon.json");
+    const items = (data.items || []).slice(0, 5);
     const list = document.getElementById("pogo-list");
     list.innerHTML = "";
     if (!items.length) {
@@ -169,12 +113,11 @@ async function loadPokemon() {
     } else {
       items.forEach((item) => {
         const li = document.createElement("li");
-        const d = item.pubDate ? new Date(item.pubDate).toLocaleDateString("sv-SE") : "";
-        li.innerHTML = `<strong>${item.title}</strong><br><span class="muted">${d}</span>`;
+        li.innerHTML = `<strong>${item.title}</strong><br><span class="muted">${item.date || ""}</span>`;
         list.appendChild(li);
       });
     }
-    document.getElementById("pogo-updated").textContent = `Uppdaterad: ${new Date().toLocaleString("sv-SE")}`;
+    document.getElementById("pogo-updated").textContent = `Uppdaterad: ${data.updated || "-"}`;
   } catch {
     document.getElementById("pogo-list").innerHTML = "<li>Kunde inte läsa Pokémon-events just nu.</li>";
   }

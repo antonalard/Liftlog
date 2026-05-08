@@ -1,0 +1,17 @@
+{
+  "updated": "2026-05-08 14:00",
+  "today": {
+    "weekday": "fredag",
+    "temp": 14,
+    "meta": "Regnskurar • Vind 5 m/s"
+  },
+  "week": [
+    { "weekday": "fre", "min": 8, "max": 14 },
+    { "weekday": "lör", "min": 7, "max": 13 },
+    { "weekday": "sön", "min": 6, "max": 12 },
+    { "weekday": "mån", "min": 5, "max": 11 },
+    { "weekday": "tis", "min": 5, "max": 12 },
+    { "weekday": "ons", "min": 6, "max": 13 },
+    { "weekday": "tor", "min": 7, "max": 14 }
+  ]
+}
