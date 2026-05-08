@@ -30,6 +30,20 @@ body {
   background: rgba(255, 255, 255, 0.06);
 }
 
+.build-tag {
+  position: fixed;
+  top: 8px;
+  right: 12px;
+  z-index: 40;
+  padding: 0.28rem 0.6rem;
+  border-radius: 999px;
+  border: 1px solid rgba(146, 184, 250, 0.5);
+  background: rgba(8, 14, 29, 0.82);
+  color: #c9e2ff;
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+}
+
 .scroll-progress span {
   display: block;
   height: 100%;
