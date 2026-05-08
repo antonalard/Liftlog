@@ -23,21 +23,40 @@ def update_weather():
     now = series[0]["data"]["instant"]["details"]
     symbol = series[0]["data"].get("next_1_hours", {}).get("summary", {}).get("symbol_code", "okänt")
     by_day = {}
+    symbol_by_day = {}
     for row in series:
         d = row["time"][:10]
+        hour = int(row["time"][11:13])
         t = row["data"]["instant"]["details"].get("air_temperature")
         if isinstance(t, (int, float)):
             by_day.setdefault(d, []).append(t)
+        summary = (
+            row["data"].get("next_1_hours", {}).get("summary", {}).get("symbol_code")
+            or row["data"].get("next_6_hours", {}).get("summary", {}).get("symbol_code")
+            or row["data"].get("next_12_hours", {}).get("summary", {}).get("symbol_code")
+        )
+        if summary and d not in symbol_by_day:
+            symbol_by_day[d] = summary
+        if summary and 10 <= hour <= 14:
+            symbol_by_day[d] = summary
     days = []
     for d, temps in list(by_day.items())[:7]:
         weekday = dt.datetime.fromisoformat(d).strftime("%a").lower()
-        days.append({"weekday": weekday, "min": round(min(temps)), "max": round(max(temps))})
+        days.append(
+            {
+                "weekday": weekday,
+                "night": round(min(temps)),
+                "day": round(max(temps)),
+                "symbol_code": symbol_by_day.get(d, "clearsky_day"),
+            }
+        )
     out = {
         "updated": dt.datetime.now().strftime("%Y-%m-%d %H:%M"),
         "today": {
             "weekday": dt.datetime.now().strftime("%A").lower(),
             "temp": round(now.get("air_temperature", 0)),
             "meta": f"{symbol.replace('_', ' ')} • Vind {round(now.get('wind_speed', 0))} m/s",
+            "symbol_code": symbol,
         },
         "week": days,
     }

@@ -68,6 +68,22 @@ async function getJson(path) {
   return await res.json();
 }
 
+function weatherSymbolGlyph(code) {
+  const key = (code || "").toLowerCase();
+  if (key.includes("thunder")) return "⛈️";
+  if (key.includes("sleet")) return "🌨️";
+  if (key.includes("snow")) return "❄️";
+  if (key.includes("rainshowers")) return "🌦️";
+  if (key.includes("heavyrain") || key.includes("rain")) return "🌧️";
+  if (key.includes("fog")) return "🌫️";
+  if (key.includes("partlycloudy")) return "⛅";
+  if (key.includes("cloudy")) return "☁️";
+  if (key.includes("fair")) return "🌤️";
+  if (key.includes("clearsky_night")) return "🌙";
+  if (key.includes("clearsky")) return "☀️";
+  return "🌡️";
+}
+
 async function loadWeather() {
   try {
     const data = await getJson("data/weather.json");
@@ -76,13 +92,13 @@ async function loadWeather() {
     const wrap = document.getElementById("wx-week");
     document.getElementById("wx-day").textContent = today.weekday || "-";
     document.getElementById("wx-temp").textContent = typeof today.temp === "number" ? `${today.temp}°` : "--°";
-    document.getElementById("wx-meta").textContent = today.meta || "Ingen vädertext tillgänglig.";
+    document.getElementById("wx-meta").textContent = `${weatherSymbolGlyph(today.symbol_code)} ${today.meta || "Ingen vädertext tillgänglig."}`;
     document.getElementById("wx-updated").textContent = `Uppdaterad: ${data.updated || "-"}`;
     wrap.innerHTML = "";
     week.forEach((day) => {
       const chip = document.createElement("div");
       chip.className = "day-chip";
-      chip.textContent = `${day.weekday}: ${day.min}° / ${day.max}°`;
+      chip.innerHTML = `<span class="day-chip-top">${weatherSymbolGlyph(day.symbol_code)} ${day.weekday}</span><span class="day-chip-temp">Dag ${day.day}° • Natt ${day.night}°</span>`;
       wrap.appendChild(chip);
     });
   } catch {
