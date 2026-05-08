@@ -108,7 +108,7 @@ function buildOmxSvg(values) {
   const circles = points.map((p) => `<circle cx="${p.x}" cy="${p.y}" r="4" fill="#8ed5ff" />`).join("");
   const marks = points.map((p, i) => `<text x="${p.x}" y="${height - 10}" text-anchor="middle" fill="#b7cef0" font-size="12">${labels[i]}</text>`).join("");
   const vals = points.map((p, i) => `<text x="${p.x}" y="${p.y - 10}" text-anchor="middle" fill="#dfeeff" font-size="11">${values[i].toFixed(2)}%</text>`).join("");
-  return `data:image/svg+xml;utf8,${encodeURIComponent(`
+  return `
     <svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">
       <rect x="0" y="0" width="${width}" height="${height}" fill="#0f1d3f"/>
       <line x1="${pad}" y1="${zeroY}" x2="${width - pad}" y2="${zeroY}" stroke="#4b648d" stroke-width="1"/>
@@ -117,7 +117,7 @@ function buildOmxSvg(values) {
       ${marks}
       ${vals}
     </svg>
-  `)}`;
+  `;
 }
 
 function buildGreeting() {
@@ -196,7 +196,7 @@ async function loadWeather() {
     if (iconEl) iconEl.textContent = weatherSymbolGlyph(today.symbol_code);
     document.getElementById("wx-updated").textContent = `Uppdaterad: ${data.updated || "-"}`;
     wrap.innerHTML = "";
-    week.forEach((day) => {
+    week.slice(0, 3).forEach((day) => {
       const chip = document.createElement("div");
       chip.className = "day-chip";
       chip.innerHTML = `<span class="day-chip-top">${weatherSymbolGlyph(day.symbol_code)} ${day.weekday}</span><span class="day-chip-temp">Dag ${day.day}° • Natt ${day.night}°</span>`;
@@ -213,13 +213,13 @@ async function loadOmx() {
     document.getElementById("omx-price").textContent = `Idag: ${data.change_percent || "-"}`;
     document.getElementById("omx-meta").textContent = `Index: ${data.index_value || "-"} • Källa: ${data.source || "okänd"}`;
     document.getElementById("omx-updated").textContent = `Uppdaterad: ${data.updated || "-"}`;
-    const img = document.getElementById("omx-week-image");
+    const chart = document.getElementById("omx-week-chart");
     const values = [
       percentToFloat(data.change_percent),
       percentToFloat(data.week_percent),
       percentToFloat(data.month_percent)
     ];
-    if (img) img.src = buildOmxSvg(values);
+    if (chart) chart.innerHTML = buildOmxSvg(values);
   } catch {
     document.getElementById("omx-price").textContent = "Ej tillgänglig";
     document.getElementById("omx-meta").textContent = "Kunde inte läsa OMX-data just nu.";

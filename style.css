@@ -264,6 +264,7 @@ h2 {
   justify-content: space-between;
   align-items: center;
 }
+.weather-module { grid-column: span 12; }
 
 .weather-temp-row {
   display: flex;
@@ -318,15 +319,15 @@ h2 {
 .week-grid {
   margin-top: 0.7rem;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 0.45rem;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.38rem;
 }
 .day-chip {
   border: 1px solid rgba(142, 175, 238, 0.25);
   border-radius: 10px;
-  padding: 0.45rem 0.55rem;
+  padding: 0.34rem 0.45rem;
   background: rgba(255, 255, 255, 0.02);
-  font-size: 0.88rem;
+  font-size: 0.82rem;
 }
 
 .day-chip-top {
@@ -337,7 +338,7 @@ h2 {
 
 .day-chip-temp {
   display: block;
-  margin-top: 0.15rem;
+  margin-top: 0.08rem;
   color: #b8caea;
 }
 
@@ -364,12 +365,19 @@ h2 {
   font-weight: 700;
 }
 
-#omx-week-image {
+#omx-week-chart {
   width: 100%;
   margin-top: 0.65rem;
   border: 1px solid rgba(142, 175, 238, 0.26);
   border-radius: 10px;
   background: rgba(255, 255, 255, 0.02);
+  overflow: hidden;
+}
+
+#omx-week-chart svg {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
 .reveal {
