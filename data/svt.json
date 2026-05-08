@@ -1,6 +1,11 @@
 {
-  "updated": "2026-05-09 00:42 CEST",
+  "updated": "2026-05-09 01:43 CEST",
   "items": [
+    {
+      "title": "”Historiskt maktskifte – så blir nya Ungern”",
+      "link": "https://www.svt.se/nyheter/utrikes/historiskt-maktskifte-sa-blir-nya-ungern",
+      "image": ""
+    },
     {
       "title": "Olycka med fyrhjuling utanför Östersund – en till sjukhus",
       "link": "https://www.svt.se/nyheter/lokalt/jamtland/olycka-med-fyrhjuling-utanfor-ostersund-en-till-sjukhus",
@@ -34,11 +39,6 @@
     {
       "title": "Global hackerattack mot LTU: ”Vet inte om det skett en större attack”",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/global-hackerattack-mot-ltu-vet-inte-om-det-skett-en-storre-attack",
-      "image": ""
-    },
-    {
-      "title": "Örebro: Lyfter teckenspråket under fokusvecka",
-      "link": "https://www.svt.se/nyheter/nyhetstecken/orebro-lyfter-teckenpraket-under-fokusvecka",
       "image": ""
     }
   ]
