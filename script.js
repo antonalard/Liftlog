@@ -62,14 +62,47 @@ window.addEventListener("scroll", onScrollMotion, { passive: true });
 window.addEventListener("resize", onScrollMotion);
 onScrollMotion();
 
+async function fetchWithTimeout(url, ms = 8000) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), ms);
+  try {
+    return await fetch(url, { signal: controller.signal });
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+async function firstOkJson(urls) {
+  for (const url of urls) {
+    try {
+      const res = await fetchWithTimeout(url, 9000);
+      if (!res.ok) continue;
+      return await res.json();
+    } catch {}
+  }
+  throw new Error("No JSON source worked");
+}
+
+async function firstOkText(urls) {
+  for (const url of urls) {
+    try {
+      const res = await fetchWithTimeout(url, 9000);
+      if (!res.ok) continue;
+      return await res.text();
+    } catch {}
+  }
+  throw new Error("No text source worked");
+}
+
 async function loadWeather() {
   try {
     const lat = 57.58;
     const lon = 12.08;
-    const url = `https://api.met.no/weatherapi/locationforecast/2.0/compact?lat=${lat}&lon=${lon}`;
-    const res = await fetch(url, { headers: { Accept: "application/json" } });
-    if (!res.ok) throw new Error("Väderfel");
-    const data = await res.json();
+    const weatherUrl = `https://api.met.no/weatherapi/locationforecast/2.0/compact?lat=${lat}&lon=${lon}`;
+    const data = await firstOkJson([
+      `https://api.allorigins.win/raw?url=${encodeURIComponent(weatherUrl)}`,
+      `https://corsproxy.io/?${encodeURIComponent(weatherUrl)}`
+    ]);
     const now = data?.properties?.timeseries?.[0]?.data?.instant?.details;
     const symbol = data?.properties?.timeseries?.[0]?.data?.next_1_hours?.summary?.symbol_code || "okänt";
     document.getElementById("wx-day").textContent = new Date().toLocaleDateString("sv-SE", { weekday: "long" });
@@ -84,26 +117,29 @@ async function loadWeather() {
 async function loadOmx() {
   try {
     const src = "https://www.avanza.se/index/om-indexet.html/18988/omx-stockholm-pi";
-    const res = await fetch(`https://r.jina.ai/http://${src.replace("https://", "")}`);
-    if (!res.ok) throw new Error("OMX-fel");
-    const txt = await res.text();
-    const m = txt.match(/OMX Stockholm PI[\s\S]{0,200}([\d\s]+,\d+|[\d\s]+\.\d+)/i);
-    document.getElementById("omx-price").textContent = m ? m[1].trim() : "Data hittad, men utan tydligt indexvärde";
-    document.getElementById("omx-meta").textContent = "Källa: Avanza (tolkad textdata)";
+    const txt = await firstOkText([
+      `https://r.jina.ai/http://${src.replace("https://", "")}`,
+      `https://r.jina.ai/http://r.jina.ai/http://${src.replace("https://", "")}`
+    ]);
+    const m = txt.match(/([\d]{1,3}(?:[\s.,]\d{3})*(?:[.,]\d+))/);
+    document.getElementById("omx-price").textContent = m ? m[1].trim() : "Indexdata hittad";
+    document.getElementById("omx-meta").textContent = "Källa: Avanza (proxytolkad text)";
     document.getElementById("omx-updated").textContent = `Uppdaterad: ${new Date().toLocaleString("sv-SE")}`;
   } catch {
     document.getElementById("omx-price").textContent = "Ej tillgänglig";
-    document.getElementById("omx-meta").textContent = "Avanza blockerar direktläsning ibland.";
+    document.getElementById("omx-meta").textContent = "Kunde inte läsa OMX-data just nu.";
   }
 }
 
 async function loadPokemon() {
   try {
     const feedUrl = "https://pokemongohub.net/post/category/event/feed/";
-    const res = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feedUrl)}`);
-    if (!res.ok) throw new Error("RSS-fel");
-    const data = await res.json();
-    const items = (data.items || []).slice(0, 5);
+    const data = await firstOkJson([
+      `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feedUrl)}`,
+      `https://api.allorigins.win/get?url=${encodeURIComponent(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feedUrl)}`)}`
+    ]);
+    const normalized = data.items ? data : JSON.parse(data.contents || "{}");
+    const items = (normalized.items || []).slice(0, 5);
     const list = document.getElementById("pogo-list");
     list.innerHTML = "";
     if (!items.length) {
