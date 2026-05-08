@@ -47,13 +47,18 @@ def update_weather():
 def update_market():
     src = "https://www.avanza.se/index/om-indexet.html/18988/omx-stockholm-pi"
     txt = fetch(f"https://r.jina.ai/http://{src.replace('https://', '')}")
-    pct = re.search(r"[+-]\d+,\d+%", txt)
-    idx = re.search(r"OMX Stockholm PI[\s\S]{0,240}?(\d[\d\s.,]*)", txt, re.IGNORECASE)
+    day = re.search(r"1 d\.\s*([+\-\u2212?]?\d+,\d+%)", txt, re.IGNORECASE)
+    latest = re.search(r"Senaste kurs\s*([0-9][0-9\s.,]*)\s*SEK", txt, re.IGNORECASE)
+    change_percent = day.group(1).strip() if day else "-"
+    # In Avanza text dumps, unicode minus may degrade to "?".
+    if change_percent.startswith("?"):
+      change_percent = f"-{change_percent[1:]}"
+    change_percent = change_percent.replace("\u2212", "-")
     out = {
         "updated": dt.datetime.now().strftime("%Y-%m-%d %H:%M"),
         "source": "Avanza",
-        "index_value": idx.group(1).strip() if idx else "-",
-        "change_percent": pct.group(0) if pct else "-",
+        "index_value": latest.group(1).strip() if latest else "-",
+        "change_percent": change_percent,
     }
     (DATA / "market.json").write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
 
