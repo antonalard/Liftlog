@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="build-tag">Testversion: 3</div>
+  <div class="build-tag">Testversion: 4</div>
   <div class="scroll-progress" aria-hidden="true"><span id="scroll-progress-bar"></span></div>
   <div class="noise" aria-hidden="true"></div>
   <div class="glow glow-a" aria-hidden="true"></div>
@@ -36,27 +36,15 @@
 
     <section id="weather" class="panel weather-grid section-block" data-parallax>
       <article class="module reveal tilt" data-reveal>
-        <h2>Väderobjekt A: Yr Embed</h2>
-        <p class="muted">Direkt inbäddat objekt från Yr för Lindome.</p>
-        <div class="embed-wrap">
-          <iframe
-            src="https://www.yr.no/en/forecast/daily-table/2-2694831/Sweden/V%C3%A4stra%20G%C3%B6taland%20County/M%C3%B6lndal%20Municipality/Lindome"
-            title="Yr väder Lindome"
-            loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade">
-          </iframe>
-        </div>
-      </article>
-
-      <article class="module reveal tilt" data-reveal>
-        <h2>Väderobjekt B: Egen design</h2>
-        <p class="muted">Samma typ av information, presenterad i sidans egna visuella stil.</p>
+        <h2>Väder: Lindome (Yr-data)</h2>
+        <p class="muted">Veckoprognos i egen design.</p>
         <div class="weather-card">
           <p class="weather-place">Lindome</p>
           <p class="weather-day" id="wx-day">Laddar...</p>
           <p class="weather-temp" id="wx-temp">--°</p>
           <p class="weather-meta" id="wx-meta">Hämtar väderdata...</p>
         </div>
+        <div id="wx-week" class="week-grid"></div>
         <p class="fallback-link" id="wx-updated"></p>
       </article>
     </section>
@@ -79,7 +67,7 @@
         <div class="weather-card">
           <p class="weather-place">OMX Stockholm PI</p>
           <p class="weather-day" id="omx-price">Laddar...</p>
-          <p class="weather-meta" id="omx-meta">Hämtar börsdata...</p>
+          <p class="weather-meta" id="omx-meta">Hämtar dagens förändring...</p>
         </div>
         <p class="fallback-link" id="omx-updated"></p>
         <p class="fallback-link"><a href="https://www.avanza.se/index/om-indexet.html/18988/omx-stockholm-pi" target="_blank" rel="noopener noreferrer">Öppna OMX Stockholm PI i ny flik</a></p>
@@ -89,7 +77,7 @@
         <h2>Pokemon Go: Event</h2>
         <p class="muted">Senaste eventrubriker från PokemonGoHub.</p>
         <div class="weather-card">
-          <ul id="pogo-list" class="feed-list">
+          <ul id="pogo-list" class="feed-list pretty-feed">
             <li>Laddar events...</li>
           </ul>
         </div>

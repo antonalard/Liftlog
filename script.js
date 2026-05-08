@@ -103,12 +103,33 @@ async function loadWeather() {
       `https://api.allorigins.win/raw?url=${encodeURIComponent(weatherUrl)}`,
       `https://corsproxy.io/?${encodeURIComponent(weatherUrl)}`
     ]);
-    const now = data?.properties?.timeseries?.[0]?.data?.instant?.details;
+    const series = data?.properties?.timeseries || [];
+    const now = series?.[0]?.data?.instant?.details;
     const symbol = data?.properties?.timeseries?.[0]?.data?.next_1_hours?.summary?.symbol_code || "okänt";
     document.getElementById("wx-day").textContent = new Date().toLocaleDateString("sv-SE", { weekday: "long" });
     document.getElementById("wx-temp").textContent = `${Math.round(now?.air_temperature ?? 0)}°`;
     document.getElementById("wx-meta").textContent = `${symbol.replaceAll("_", " ")} • Vind ${Math.round(now?.wind_speed ?? 0)} m/s`;
     document.getElementById("wx-updated").textContent = `Uppdaterad: ${new Date().toLocaleString("sv-SE")}`;
+    const byDay = {};
+    series.forEach((row) => {
+      const d = row.time.slice(0, 10);
+      const t = row?.data?.instant?.details?.air_temperature;
+      if (typeof t !== "number") return;
+      byDay[d] = byDay[d] || [];
+      byDay[d].push(t);
+    });
+    const week = Object.entries(byDay).slice(0, 7);
+    const wrap = document.getElementById("wx-week");
+    wrap.innerHTML = "";
+    week.forEach(([date, temps]) => {
+      const min = Math.round(Math.min(...temps));
+      const max = Math.round(Math.max(...temps));
+      const wd = new Date(date).toLocaleDateString("sv-SE", { weekday: "short" });
+      const chip = document.createElement("div");
+      chip.className = "day-chip";
+      chip.textContent = `${wd}: ${min}° / ${max}°`;
+      wrap.appendChild(chip);
+    });
   } catch {
     document.getElementById("wx-meta").textContent = "Kunde inte läsa väderdata just nu.";
   }
@@ -121,9 +142,10 @@ async function loadOmx() {
       `https://r.jina.ai/http://${src.replace("https://", "")}`,
       `https://r.jina.ai/http://r.jina.ai/http://${src.replace("https://", "")}`
     ]);
-    const m = txt.match(/([\d]{1,3}(?:[\s.,]\d{3})*(?:[.,]\d+))/);
-    document.getElementById("omx-price").textContent = m ? m[1].trim() : "Indexdata hittad";
-    document.getElementById("omx-meta").textContent = "Källa: Avanza (proxytolkad text)";
+    const pct = txt.match(/[+-]\d+,\d+%/);
+    const idx = txt.match(/OMX Stockholm PI[\s\S]{0,220}?(\d[\d\s.,]*)/i);
+    document.getElementById("omx-price").textContent = pct ? `Idag: ${pct[0]}` : "Idag: ej hittad";
+    document.getElementById("omx-meta").textContent = idx ? `Index: ${idx[1].trim()} • Källa Avanza` : "Källa: Avanza";
     document.getElementById("omx-updated").textContent = `Uppdaterad: ${new Date().toLocaleString("sv-SE")}`;
   } catch {
     document.getElementById("omx-price").textContent = "Ej tillgänglig";
@@ -147,7 +169,8 @@ async function loadPokemon() {
     } else {
       items.forEach((item) => {
         const li = document.createElement("li");
-        li.textContent = item.title;
+        const d = item.pubDate ? new Date(item.pubDate).toLocaleDateString("sv-SE") : "";
+        li.innerHTML = `<strong>${item.title}</strong><br><span class="muted">${d}</span>`;
         list.appendChild(li);
       });
     }

@@ -286,6 +286,30 @@ h2 {
 }
 .feed-list { margin: 0; padding-left: 1.1rem; color: var(--ink); }
 .feed-list li { margin: 0 0 0.45rem; }
+.pretty-feed {
+  list-style: none;
+  padding: 0;
+}
+.pretty-feed li {
+  margin: 0 0 0.55rem;
+  padding: 0.65rem 0.75rem;
+  border: 1px solid rgba(142, 175, 238, 0.28);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.03);
+}
+.week-grid {
+  margin-top: 0.7rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.45rem;
+}
+.day-chip {
+  border: 1px solid rgba(142, 175, 238, 0.25);
+  border-radius: 10px;
+  padding: 0.45rem 0.55rem;
+  background: rgba(255, 255, 255, 0.02);
+  font-size: 0.9rem;
+}
 
 .reveal {
   opacity: 0;
