@@ -1,6 +1,11 @@
 {
-  "updated": "2026-05-08 22:43 CEST",
+  "updated": "2026-05-08 23:45 CEST",
   "items": [
+    {
+      "title": "Olycka med fyrhjuling utanför Östersund – en till sjukhus",
+      "link": "https://www.svt.se/nyheter/lokalt/jamtland/olycka-med-fyrhjuling-utanfor-ostersund-en-till-sjukhus",
+      "image": ""
+    },
     {
       "title": "PH-Felicia: Vänskap och kärlek viktigare än pengar",
       "link": "https://www.svt.se/nyheter/uutiset/svenska/ph-felicia-vanskap-och-karlek-viktigare-an-pengar",
@@ -34,11 +39,6 @@
     {
       "title": "Örebro: Lyfter teckenspråket under fokusvecka",
       "link": "https://www.svt.se/nyheter/nyhetstecken/orebro-lyfter-teckenpraket-under-fokusvecka",
-      "image": ""
-    },
-    {
-      "title": "Tidigare tingsrättsanställd åtalas för grovt barnpornografibrott",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/tidigare-tingsrattsanstalld-atalas-for-grovt-barnpornografibrott",
       "image": ""
     }
   ]
