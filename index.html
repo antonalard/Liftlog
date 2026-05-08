@@ -12,7 +12,7 @@
   <div class="glow glow-a" aria-hidden="true"></div>
   <div class="glow glow-b" aria-hidden="true"></div>
 
-  <header class="topbar">
+  <header class="topbar reveal" data-reveal>
     <p class="logo">ALARD.SE</p>
     <nav>
       <a href="#weather">Väder</a>
@@ -23,17 +23,17 @@
 
   <main>
     <section class="hero">
-      <p class="eyebrow">Modern layout test</p>
-      <h1>Alard, Test!</h1>
-      <p class="hero-copy">Exempeltext för att fylla en hero-sektion med tydlig typografi, djup och rörelse i bakgrunden.</p>
-      <div class="hero-actions">
+      <p class="eyebrow reveal" data-reveal>Modern layout test</p>
+      <h1 class="reveal" data-reveal>Alard, Test!</h1>
+      <p class="hero-copy reveal" data-reveal>Exempeltext för att fylla en hero-sektion med tydlig typografi, djup och rörelse i bakgrunden.</p>
+      <div class="hero-actions reveal" data-reveal>
         <a class="btn btn-solid" href="/liftlog/">Öppna Liftlog</a>
         <a class="btn btn-ghost" href="#weather">Se väderobjekt</a>
       </div>
     </section>
 
     <section id="weather" class="panel weather-grid">
-      <article class="module">
+      <article class="module reveal tilt" data-reveal>
         <h2>Väderobjekt A: Yr Embed</h2>
         <p class="muted">Direkt inbäddat objekt från Yr för Lindome.</p>
         <div class="embed-wrap">
@@ -46,7 +46,7 @@
         </div>
       </article>
 
-      <article class="module">
+      <article class="module reveal tilt" data-reveal>
         <h2>Väderobjekt B: Egen design</h2>
         <p class="muted">Samma typ av information, presenterad i sidans egna visuella stil.</p>
         <div class="weather-card">
@@ -59,18 +59,18 @@
     </section>
 
     <section id="objects" class="panel objects-grid">
-      <article class="module">
+      <article class="module reveal tilt" data-reveal>
         <h2>Projektobjekt</h2>
         <p class="muted">Exempelblock med innehållsyta för fler objekt från andra sidor.</p>
       </article>
-      <article class="module">
+      <article class="module reveal tilt" data-reveal>
         <h2>Nyhetsobjekt</h2>
         <p class="muted">Placeholder-text. Här kan vi lägga nästa riktiga objekt i samma stil.</p>
       </article>
     </section>
 
     <section class="panel objects-grid">
-      <article class="module">
+      <article class="module reveal tilt" data-reveal>
         <h2>Börsinfo: OMX Stockholm PI</h2>
         <p class="muted">Inbäddning från Avanza. Om inbäddning blockeras, använd direktlänken under.</p>
         <div class="embed-wrap">
@@ -84,7 +84,7 @@
         <p class="fallback-link"><a href="https://www.avanza.se/index/om-indexet.html/18988/omx-stockholm-pi" target="_blank" rel="noopener noreferrer">Öppna OMX Stockholm PI i ny flik</a></p>
       </article>
 
-      <article class="module">
+      <article class="module reveal tilt" data-reveal>
         <h2>Pokemon Go: Event</h2>
         <p class="muted">Inbäddning från PokemonGoHub. Om inbäddning blockeras, använd direktlänken under.</p>
         <div class="embed-wrap">
@@ -99,5 +99,6 @@
       </article>
     </section>
   </main>
+  <script src="script.js"></script>
 </body>
 </html>
