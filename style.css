@@ -284,6 +284,8 @@ h2 {
 .weather-meta {
   color: var(--muted);
 }
+.feed-list { margin: 0; padding-left: 1.1rem; color: var(--ink); }
+.feed-list li { margin: 0 0 0.45rem; }
 
 .reveal {
   opacity: 0;

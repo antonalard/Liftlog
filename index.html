@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="build-tag">Testversion: 1</div>
+  <div class="build-tag">Testversion: 2</div>
   <div class="scroll-progress" aria-hidden="true"><span id="scroll-progress-bar"></span></div>
   <div class="noise" aria-hidden="true"></div>
   <div class="glow glow-a" aria-hidden="true"></div>
@@ -53,10 +53,11 @@
         <p class="muted">Samma typ av information, presenterad i sidans egna visuella stil.</p>
         <div class="weather-card">
           <p class="weather-place">Lindome</p>
-          <p class="weather-day">Fredag</p>
-          <p class="weather-temp">14°</p>
-          <p class="weather-meta">Regnskurar • Vind 5 m/s</p>
+          <p class="weather-day" id="wx-day">Laddar...</p>
+          <p class="weather-temp" id="wx-temp">--°</p>
+          <p class="weather-meta" id="wx-meta">Hämtar väderdata...</p>
         </div>
+        <p class="fallback-link" id="wx-updated"></p>
       </article>
     </section>
 
@@ -74,29 +75,25 @@
     <section class="panel objects-grid section-block" data-parallax>
       <article class="module reveal tilt" data-reveal>
         <h2>Börsinfo: OMX Stockholm PI</h2>
-        <p class="muted">Inbäddning från Avanza. Om inbäddning blockeras, använd direktlänken under.</p>
-        <div class="embed-wrap">
-          <iframe
-            src="https://www.avanza.se/index/om-indexet.html/18988/omx-stockholm-pi"
-            title="Avanza OMX Stockholm PI"
-            loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade">
-          </iframe>
+        <p class="muted">Egen data-ruta med källa Avanza-sida.</p>
+        <div class="weather-card">
+          <p class="weather-place">OMX Stockholm PI</p>
+          <p class="weather-day" id="omx-price">Laddar...</p>
+          <p class="weather-meta" id="omx-meta">Hämtar börsdata...</p>
         </div>
+        <p class="fallback-link" id="omx-updated"></p>
         <p class="fallback-link"><a href="https://www.avanza.se/index/om-indexet.html/18988/omx-stockholm-pi" target="_blank" rel="noopener noreferrer">Öppna OMX Stockholm PI i ny flik</a></p>
       </article>
 
       <article class="module reveal tilt" data-reveal>
         <h2>Pokemon Go: Event</h2>
-        <p class="muted">Inbäddning från PokemonGoHub. Om inbäddning blockeras, använd direktlänken under.</p>
-        <div class="embed-wrap">
-          <iframe
-            src="https://pokemongohub.net/post/category/event/"
-            title="Pokemon Go Hub Events"
-            loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade">
-          </iframe>
+        <p class="muted">Senaste eventrubriker från PokemonGoHub.</p>
+        <div class="weather-card">
+          <ul id="pogo-list" class="feed-list">
+            <li>Laddar events...</li>
+          </ul>
         </div>
+        <p class="fallback-link" id="pogo-updated"></p>
         <p class="fallback-link"><a href="https://pokemongohub.net/post/category/event/" target="_blank" rel="noopener noreferrer">Öppna PokemonGoHub Events i ny flik</a></p>
       </article>
     </section>
