@@ -1,35 +1,13 @@
-const CACHE_NAME = "workout-tracker-v4";
-const ASSETS = [
-  ".",
-  "index.html",
-  "style.css",
-  "app.js",
-  "manifest.json",
-  "assets/ex-curl.svg",
-  "assets/ex-press.svg",
-  "assets/ex-row.svg",
-  "assets/ex-legs.svg",
-  "assets/ex-shoulders.svg",
-  "assets/ex-core.svg"
-];
-
-self.addEventListener("install", (event) => {
-  event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(ASSETS)));
+self.addEventListener("install", () => {
   self.skipWaiting();
 });
 
 self.addEventListener("activate", (event) => {
-  event.waitUntil(
-    caches.keys().then((keys) =>
-      Promise.all(keys.filter((k) => k !== CACHE_NAME).map((k) => caches.delete(k)))
-    )
-  );
-  self.clients.claim();
-});
-
-self.addEventListener("fetch", (event) => {
-  if (event.request.method !== "GET") return;
-  event.respondWith(
-    caches.match(event.request).then((cached) => cached || fetch(event.request))
-  );
+  event.waitUntil((async () => {
+    const keys = await caches.keys();
+    await Promise.all(keys.map((k) => caches.delete(k)));
+    await self.registration.unregister();
+    const clients = await self.clients.matchAll({ type: "window" });
+    clients.forEach((client) => client.navigate(client.url));
+  })());
 });
