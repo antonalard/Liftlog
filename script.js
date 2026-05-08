@@ -84,6 +84,42 @@ function weatherSymbolGlyph(code) {
   return "🌡️";
 }
 
+function percentToFloat(raw) {
+  if (!raw || raw === "-") return 0;
+  const s = String(raw).replace("%", "").replace(",", ".").trim();
+  const n = Number(s);
+  return Number.isFinite(n) ? n : 0;
+}
+
+function buildOmxSvg(values) {
+  const width = 520;
+  const height = 140;
+  const pad = 24;
+  const labels = ["1d", "1v", "1m"];
+  const maxAbs = Math.max(1, ...values.map((v) => Math.abs(v)));
+  const zeroY = height / 2;
+  const step = (width - pad * 2) / (values.length - 1);
+  const points = values.map((v, i) => {
+    const x = pad + i * step;
+    const y = zeroY - (v / maxAbs) * (height * 0.32);
+    return { x, y, v };
+  });
+  const path = points.map((p, i) => `${i ? "L" : "M"} ${p.x} ${p.y}`).join(" ");
+  const circles = points.map((p) => `<circle cx="${p.x}" cy="${p.y}" r="4" fill="#8ed5ff" />`).join("");
+  const marks = points.map((p, i) => `<text x="${p.x}" y="${height - 10}" text-anchor="middle" fill="#b7cef0" font-size="12">${labels[i]}</text>`).join("");
+  const vals = points.map((p, i) => `<text x="${p.x}" y="${p.y - 10}" text-anchor="middle" fill="#dfeeff" font-size="11">${values[i].toFixed(2)}%</text>`).join("");
+  return `data:image/svg+xml;utf8,${encodeURIComponent(`
+    <svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">
+      <rect x="0" y="0" width="${width}" height="${height}" fill="#0f1d3f"/>
+      <line x1="${pad}" y1="${zeroY}" x2="${width - pad}" y2="${zeroY}" stroke="#4b648d" stroke-width="1"/>
+      <path d="${path}" fill="none" stroke="#6ec3ff" stroke-width="3" />
+      ${circles}
+      ${marks}
+      ${vals}
+    </svg>
+  `)}`;
+}
+
 function buildGreeting() {
   const now = new Date();
   const hour = now.getHours();
@@ -177,6 +213,13 @@ async function loadOmx() {
     document.getElementById("omx-price").textContent = `Idag: ${data.change_percent || "-"}`;
     document.getElementById("omx-meta").textContent = `Index: ${data.index_value || "-"} • Källa: ${data.source || "okänd"}`;
     document.getElementById("omx-updated").textContent = `Uppdaterad: ${data.updated || "-"}`;
+    const img = document.getElementById("omx-week-image");
+    const values = [
+      percentToFloat(data.change_percent),
+      percentToFloat(data.week_percent),
+      percentToFloat(data.month_percent)
+    ];
+    if (img) img.src = buildOmxSvg(values);
   } catch {
     document.getElementById("omx-price").textContent = "Ej tillgänglig";
     document.getElementById("omx-meta").textContent = "Kunde inte läsa OMX-data just nu.";
@@ -189,6 +232,7 @@ async function loadPokemon() {
     const items = (data.items || []).slice(0, 5);
     const img = document.getElementById("pogo-community-image");
     const titleEl = document.getElementById("pogo-community-title");
+    const linkEl = document.getElementById("pogo-community-link");
     if (data.community_day_image) {
       img.src = data.community_day_image;
       img.style.display = "block";
@@ -196,6 +240,7 @@ async function loadPokemon() {
       img.style.display = "none";
     }
     titleEl.textContent = data.community_day_title || "Nästa Community Day hittades inte ännu.";
+    if (linkEl && data.community_day_link) linkEl.href = data.community_day_link;
     const list = document.getElementById("pogo-list");
     list.innerHTML = "";
     if (!items.length) {

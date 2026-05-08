@@ -77,17 +77,29 @@ def update_market():
     src = "https://www.avanza.se/index/om-indexet.html/18988/omx-stockholm-pi"
     txt = fetch(f"https://r.jina.ai/http://{src.replace('https://', '')}")
     day = re.search(r"1 d\.\s*([+\-\u2212?]?\d+,\d+%)", txt, re.IGNORECASE)
+    week = re.search(r"1 v\.\s*([+\-\u2212?]?\d+,\d+%)", txt, re.IGNORECASE)
+    month = re.search(r"1 m\.\s*([+\-\u2212?]?\d+,\d+%)", txt, re.IGNORECASE)
     latest = re.search(r"Senaste kurs\s*([0-9][0-9\s.,]*)\s*SEK", txt, re.IGNORECASE)
     change_percent = day.group(1).strip() if day else "-"
+    week_percent = week.group(1).strip() if week else "-"
+    month_percent = month.group(1).strip() if month else "-"
     # In Avanza text dumps, unicode minus may degrade to "?".
     if change_percent.startswith("?"):
       change_percent = f"-{change_percent[1:]}"
+    if week_percent.startswith("?"):
+      week_percent = f"-{week_percent[1:]}"
+    if month_percent.startswith("?"):
+      month_percent = f"-{month_percent[1:]}"
     change_percent = change_percent.replace("\u2212", "-")
+    week_percent = week_percent.replace("\u2212", "-")
+    month_percent = month_percent.replace("\u2212", "-")
     out = {
         "updated": ts(),
         "source": "Avanza",
         "index_value": latest.group(1).strip() if latest else "-",
         "change_percent": change_percent,
+        "week_percent": week_percent,
+        "month_percent": month_percent,
     }
     (DATA / "market.json").write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
 
@@ -98,6 +110,7 @@ def update_pokemon():
     items = []
     community_title = ""
     community_image = ""
+    community_link = ""
     for item in root.findall("./channel/item")[:10]:
         title = (item.findtext("title") or "").strip()
         pub = (item.findtext("pubDate") or "").strip()
@@ -107,6 +120,7 @@ def update_pokemon():
         if not community_title and "community day" in title.lower():
             community_title = title
             link = (item.findtext("link") or "").strip()
+            community_link = link
             # Try media RSS image first.
             media = item.find("{http://search.yahoo.com/mrss/}content")
             if media is not None and media.attrib.get("url"):
@@ -130,6 +144,7 @@ def update_pokemon():
         "updated": ts(),
         "community_day_title": community_title,
         "community_day_image": community_image,
+        "community_day_link": community_link,
         "items": items,
     }
     (DATA / "pokemon.json").write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
