@@ -311,6 +311,29 @@ h2 {
   font-size: 0.9rem;
 }
 
+.community-card {
+  margin: 0.65rem 0 0.8rem;
+  border: 1px solid rgba(142, 175, 238, 0.28);
+  border-radius: 12px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.03);
+}
+
+#pogo-community-image {
+  display: block;
+  width: 100%;
+  max-height: 280px;
+  object-fit: cover;
+  background: rgba(255, 255, 255, 0.04);
+}
+
+#pogo-community-title {
+  margin: 0;
+  padding: 0.72rem 0.78rem;
+  color: #dbe9ff;
+  font-weight: 700;
+}
+
 .reveal {
   opacity: 0;
   transform: translateY(22px) scale(0.985);

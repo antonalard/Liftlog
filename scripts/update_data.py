@@ -67,14 +67,40 @@ def update_pokemon():
     rss = fetch("https://pokemongohub.net/post/category/event/feed/")
     root = ET.fromstring(rss)
     items = []
-    for item in root.findall("./channel/item")[:6]:
+    community_title = ""
+    community_image = ""
+    for item in root.findall("./channel/item")[:10]:
         title = (item.findtext("title") or "").strip()
         pub = (item.findtext("pubDate") or "").strip()
         date = pub[:16] if pub else ""
         if title:
             items.append({"title": title, "date": date})
+        if not community_title and "community day" in title.lower():
+            community_title = title
+            link = (item.findtext("link") or "").strip()
+            # Try media RSS image first.
+            media = item.find("{http://search.yahoo.com/mrss/}content")
+            if media is not None and media.attrib.get("url"):
+                community_image = media.attrib.get("url", "")
+            # Fallback: parse first <img src="..."> in item XML.
+            if not community_image:
+                item_xml = ET.tostring(item, encoding="unicode")
+                img_match = re.search(r'<img[^>]+src="([^"]+)"', item_xml, re.IGNORECASE)
+                if img_match:
+                    community_image = img_match.group(1)
+            # Final fallback: parse article page for og:image.
+            if not community_image and link:
+                try:
+                    html = fetch(link)
+                    og = re.search(r'<meta[^>]+property="og:image"[^>]+content="([^"]+)"', html, re.IGNORECASE)
+                    if og:
+                        community_image = og.group(1)
+                except Exception:
+                    pass
     out = {
         "updated": dt.datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "community_day_title": community_title,
+        "community_day_image": community_image,
         "items": items,
     }
     (DATA / "pokemon.json").write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")

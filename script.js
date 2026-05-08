@@ -106,6 +106,15 @@ async function loadPokemon() {
   try {
     const data = await getJson("data/pokemon.json");
     const items = (data.items || []).slice(0, 5);
+    const img = document.getElementById("pogo-community-image");
+    const titleEl = document.getElementById("pogo-community-title");
+    if (data.community_day_image) {
+      img.src = data.community_day_image;
+      img.style.display = "block";
+    } else {
+      img.style.display = "none";
+    }
+    titleEl.textContent = data.community_day_title || "Nästa Community Day hittades inte ännu.";
     const list = document.getElementById("pogo-list");
     list.innerHTML = "";
     if (!items.length) {
