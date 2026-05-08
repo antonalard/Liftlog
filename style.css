@@ -136,11 +136,11 @@ main {
 }
 
 .hero {
-  min-height: 48vh;
+  min-height: 30vh;
   display: grid;
   align-content: center;
-  gap: 1rem;
-  padding: 2rem 0;
+  gap: 0.45rem;
+  padding: 0.7rem 0 1.4rem;
 }
 
 .hero h1 {
@@ -169,7 +169,7 @@ h1 {
   margin: 0;
   max-width: 680px;
   color: var(--muted);
-  font-size: clamp(1rem, 2vw, 1.25rem);
+  font-size: clamp(0.95rem, 1.7vw, 1.08rem);
 }
 
 .hero-actions {
@@ -259,6 +259,16 @@ h2 {
   background: radial-gradient(circle at top right, rgba(71, 125, 255, 0.28), rgba(71, 125, 255, 0));
 }
 
+.weather-main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.weather-icon {
+  font-size: 2rem;
+}
+
 .weather-place,
 .weather-day,
 .weather-meta,
@@ -308,7 +318,7 @@ h2 {
   border-radius: 10px;
   padding: 0.45rem 0.55rem;
   background: rgba(255, 255, 255, 0.02);
-  font-size: 0.9rem;
+  font-size: 0.88rem;
 }
 
 .day-chip-top {

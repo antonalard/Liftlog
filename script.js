@@ -84,15 +84,80 @@ function weatherSymbolGlyph(code) {
   return "🌡️";
 }
 
+function buildGreeting() {
+  const now = new Date();
+  const hour = now.getHours();
+  let title = "God dag!";
+  if (hour >= 5 && hour < 10) title = "God morgon!";
+  else if (hour >= 10 && hour < 14) title = "Lunchdags!";
+  else if (hour >= 14 && hour < 18) title = "God eftermiddag!";
+  else if (hour >= 18 && hour < 23) title = "God kväll!";
+  else title = "Godnatt!";
+
+  const specialDays = {
+    "01-01": "Gott nytt år!",
+    "02-14": "Alla hjärtans dag",
+    "03-08": "Internationella kvinnodagen",
+    "04-01": "April, april!",
+    "05-01": "Första maj",
+    "06-06": "Sveriges nationaldag",
+    "10-04": "Kanelbullens dag",
+    "10-31": "Halloween",
+    "11-11": "Singles Day",
+    "12-13": "Lucia",
+    "12-24": "Julafton",
+    "12-31": "Nyårsafton"
+  };
+
+  const mmdd = `${String(now.getMonth() + 1).padStart(2, "0")}-${String(now.getDate()).padStart(2, "0")}`;
+  const dayText = specialDays[mmdd] || "";
+
+  const kindLines = [
+    "Du ser pigg ut idag!", "Looking gooood!", "Hej snygging!", "Wow wow wow!", "Du lyser upp rummet.",
+    "Du är en legend.", "Du fixar mer än du tror.", "Din energi smittar.", "Snygg timing idag.", "Toppen att du är här.",
+    "Du har grym stil.", "Du har bra vibe idag.", "Du gör det svårt att inte le.", "Du är starkare än du vet.",
+    "Du är skarpare än kaffe.", "Vilken stjärna du är.", "Du har en vinnaraura.", "Du är riktigt imponerande.",
+    "Du gör vardagen roligare.", "Du levererar alltid.", "Du är ett helt mood.", "Du ser fokuserad ut.", "Du är guld värd.",
+    "Du är otrolig.", "Det här blir din dag.", "Du har bra flow.", "Du har huvudrolls-energi.", "Du är ett powerhouse.",
+    "Du gör saker snyggt.", "Du är smart och snabb.", "Din närvaro gör skillnad.", "Du är en favoritperson.", "Du är i zonen.",
+    "Du har bra smak.", "Du gör det enkelt att heja.", "Du är 10/10 idag.", "Din humor sitter.", "Du är magisk.",
+    "Du är kreativ på riktigt.", "Du känns ostoppbar.", "Du får saker att hända.", "Du är en game changer.", "Du är glödhet idag.",
+    "Du höjer nivån.", "Du är bättre än bra.", "Du har rätt känsla.", "Du är klass.", "Du ser stark ut.",
+    "Du ger huvudperson-vibbar.", "Du är inspirerande.", "Du är snygg inifrån och ut.", "Du är stabil.", "Du är en riktig hjälte.",
+    "Du har pondus.", "Du är färgstark.", "Du är cool utan att försöka.", "Du är en frisk fläkt.", "Du är fantastisk.",
+    "Du gör andra bättre.", "Du är supervass.", "Du är en ikon.", "Du är så bra på att vara du.", "Du är en naturkraft.",
+    "Du är varm och skarp.", "Du är stark och snäll.", "Du är älskvärd.", "Du är bländande.", "Du är en favorit i repris.",
+    "Du är smartare än du anar.", "Du är en raket.", "Du har pondus och hjärta.", "Du har fin energi.", "Du ser ut att må bra.",
+    "Du är ett kap.", "Du är elegant och trygg.", "Du är next level.", "Du är en klass för sig.", "Du är proffsig.",
+    "Du är vänlig och vass.", "Du är dagens stjärna.", "Du gör bra val.", "Du är full av möjligheter.", "Du är målmedveten.",
+    "Du är en sann vinnare.", "Du är briljant.", "Du är värd allt gott.", "Du gör det med stil.", "Du är på topp.",
+    "Du är stark i motvind.", "Du är riktigt charmig.", "Du gör skillnad varje dag.", "Du är glimrande.", "Du har wow-faktor.",
+    "Du är ett original.", "Du är sevärd.", "Du är trygg och modig.", "Du är en solstråle.", "Du är helt enkelt grym."
+  ];
+
+  const index = now.getDate() % kindLines.length;
+  const kind = kindLines[index];
+
+  const titleEl = document.getElementById("greeting-title");
+  const dayEl = document.getElementById("greeting-day");
+  const kindEl = document.getElementById("greeting-kind");
+  if (titleEl) titleEl.textContent = title;
+  if (dayEl) dayEl.textContent = dayText;
+  if (kindEl) kindEl.textContent = kind;
+}
+
 async function loadWeather() {
   try {
     const data = await getJson("data/weather.json");
     const today = data.today || {};
     const week = data.week || [];
     const wrap = document.getElementById("wx-week");
-    document.getElementById("wx-day").textContent = today.weekday || "-";
+    const weekdaySv = new Date().toLocaleDateString("sv-SE", { weekday: "long" });
+    document.getElementById("wx-day").textContent = weekdaySv;
     document.getElementById("wx-temp").textContent = typeof today.temp === "number" ? `${today.temp}°` : "--°";
     document.getElementById("wx-meta").textContent = `${weatherSymbolGlyph(today.symbol_code)} ${today.meta || "Ingen vädertext tillgänglig."}`;
+    const iconEl = document.getElementById("wx-icon");
+    if (iconEl) iconEl.textContent = weatherSymbolGlyph(today.symbol_code);
     document.getElementById("wx-updated").textContent = `Uppdaterad: ${data.updated || "-"}`;
     wrap.innerHTML = "";
     week.forEach((day) => {
@@ -151,3 +216,4 @@ async function loadPokemon() {
 loadWeather();
 loadOmx();
 loadPokemon();
+buildGreeting();

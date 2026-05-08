@@ -4,9 +4,19 @@ import re
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
+TZ = ZoneInfo("Europe/Stockholm")
+
+
+def now_local():
+    return dt.datetime.now(TZ)
+
+
+def ts():
+    return now_local().strftime("%Y-%m-%d %H:%M %Z")
 
 
 def fetch(url: str) -> str:
@@ -51,9 +61,9 @@ def update_weather():
             }
         )
     out = {
-        "updated": dt.datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "updated": ts(),
         "today": {
-            "weekday": dt.datetime.now().strftime("%A").lower(),
+            "weekday": now_local().strftime("%A").lower(),
             "temp": round(now.get("air_temperature", 0)),
             "meta": f"{symbol.replace('_', ' ')} • Vind {round(now.get('wind_speed', 0))} m/s",
             "symbol_code": symbol,
@@ -74,7 +84,7 @@ def update_market():
       change_percent = f"-{change_percent[1:]}"
     change_percent = change_percent.replace("\u2212", "-")
     out = {
-        "updated": dt.datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "updated": ts(),
         "source": "Avanza",
         "index_value": latest.group(1).strip() if latest else "-",
         "change_percent": change_percent,
@@ -117,7 +127,7 @@ def update_pokemon():
                 except Exception:
                     pass
     out = {
-        "updated": dt.datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "updated": ts(),
         "community_day_title": community_title,
         "community_day_image": community_image,
         "items": items,

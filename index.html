@@ -8,26 +8,17 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="build-tag">Testversion: 7</div>
+  <div class="build-tag">Testversion: 8</div>
   <div class="scroll-progress" aria-hidden="true"><span id="scroll-progress-bar"></span></div>
   <div class="noise" aria-hidden="true"></div>
   <div class="glow glow-a" aria-hidden="true"></div>
   <div class="glow glow-b" aria-hidden="true"></div>
 
-  <header class="topbar reveal" data-reveal>
-    <p class="logo">ALARD.SE</p>
-    <nav>
-      <a href="#weather">Väder</a>
-      <a href="#objects">Objekt</a>
-      <a href="/liftlog/">Liftlog</a>
-    </nav>
-  </header>
-
   <main>
     <section class="hero">
-      <p class="eyebrow reveal" data-reveal>Modern layout test</p>
-      <h1 class="reveal" data-reveal>Alard, Test!</h1>
-      <p class="hero-copy reveal" data-reveal>Exempeltext för att fylla en hero-sektion med tydlig typografi, djup och rörelse i bakgrunden.</p>
+      <h1 class="reveal" data-reveal id="greeting-title">God dag!</h1>
+      <p class="hero-copy reveal" data-reveal id="greeting-day"></p>
+      <p class="hero-copy reveal" data-reveal id="greeting-kind">Du är grym.</p>
       <div class="hero-actions reveal" data-reveal>
         <a class="btn btn-solid" href="/liftlog/">Öppna Liftlog</a>
         <a class="btn btn-ghost" href="#weather">Se väderobjekt</a>
@@ -39,8 +30,13 @@
         <h2>Väder: Lindome (Yr-data)</h2>
         <p class="muted">Veckoprognos i egen design.</p>
         <div class="weather-card">
-          <p class="weather-place">Lindome</p>
-          <p class="weather-day" id="wx-day">Laddar...</p>
+          <div class="weather-main">
+            <div>
+              <p class="weather-place">Lindome</p>
+              <p class="weather-day" id="wx-day">Laddar...</p>
+            </div>
+            <div class="weather-icon" id="wx-icon">☁️</div>
+          </div>
           <p class="weather-temp" id="wx-temp">--°</p>
           <p class="weather-meta" id="wx-meta">Hämtar väderdata...</p>
         </div>
