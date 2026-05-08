@@ -146,27 +146,34 @@ main {
 
 .apps-rail {
   position: sticky;
-  top: 18px;
+  top: 120px;
   align-self: start;
-  border: 1px solid var(--stroke);
-  border-radius: 14px;
-  padding: 0.7rem;
-  background: linear-gradient(170deg, rgba(9, 15, 30, 0.7), rgba(10, 18, 36, 0.92));
+  display: grid;
+  gap: 0.7rem;
 }
 
-.apps-rail h2 {
-  font-size: 0.95rem;
-  margin-bottom: 0.55rem;
-}
-
-.app-link {
-  display: block;
+.app-tile {
+  width: 92px;
+  display: grid;
+  justify-items: center;
+  gap: 0.4rem;
   text-decoration: none;
   color: #dbe8ff;
   border: 1px solid rgba(142, 175, 238, 0.3);
-  border-radius: 10px;
-  padding: 0.55rem 0.65rem;
-  background: rgba(255, 255, 255, 0.03);
+  border-radius: 14px;
+  padding: 0.6rem 0.45rem 0.5rem;
+  background: linear-gradient(170deg, rgba(9, 15, 30, 0.7), rgba(10, 18, 36, 0.92));
+}
+
+.app-tile img {
+  width: 52px;
+  height: 52px;
+  border-radius: 12px;
+}
+
+.app-tile span {
+  font-size: 0.86rem;
+  color: #cfe0ff;
 }
 
 .hero {
@@ -307,10 +314,10 @@ h2 {
 }
 
 .weather-icon {
-  font-size: 6.4rem;
+  font-size: 8.6rem;
   line-height: 1;
-  margin-left: 0.7rem;
-  width: 45%;
+  margin-left: 0.2rem;
+  width: 50%;
   text-align: right;
 }
 

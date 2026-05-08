@@ -195,7 +195,7 @@ async function loadWeather() {
     document.getElementById("wx-meta").textContent = `${weatherSymbolGlyph(today.symbol_code)} ${today.meta || "Ingen vädertext tillgänglig."}`;
     const iconEl = document.getElementById("wx-icon");
     if (iconEl) iconEl.textContent = weatherSymbolGlyph(today.symbol_code);
-    document.getElementById("wx-updated").textContent = `Uppdaterad: ${data.updated || "-"}`;
+    document.getElementById("wx-updated").textContent = `Uppdaterad: ${data.updated || "-"} • Källa: Yr/met.no`;
     wrap.innerHTML = "";
     week.slice(0, 3).forEach((day) => {
       const chip = document.createElement("div");

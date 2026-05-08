@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="build-tag">Testversion: 11</div>
+  <div class="build-tag">Testversion: 12</div>
   <div class="scroll-progress" aria-hidden="true"><span id="scroll-progress-bar"></span></div>
   <div class="noise" aria-hidden="true"></div>
   <div class="glow glow-a" aria-hidden="true"></div>
@@ -16,8 +16,10 @@
 
   <div class="layout-shell">
     <aside class="apps-rail">
-      <h2>Appar</h2>
-      <a class="app-link" href="/liftlog/">Liftlog</a>
+      <a class="app-tile" href="/liftlog/" aria-label="Liftlog">
+        <img src="/liftlog/icon-192.png" alt="Liftlog ikon">
+        <span>Liftlog</span>
+      </a>
     </aside>
     <main>
     <section class="hero">
@@ -28,8 +30,6 @@
 
     <section id="weather" class="panel weather-grid section-block" data-parallax>
       <article class="module weather-module reveal tilt" data-reveal>
-        <h2>Väder: Lindome (Yr-data)</h2>
-        <p class="muted">Veckoprognos i egen design.</p>
         <div class="weather-card">
           <p class="weather-place">Lindome</p>
           <p class="weather-day" id="wx-day">Laddar...</p>
@@ -40,7 +40,7 @@
           <p class="weather-meta" id="wx-meta">Hämtar väderdata...</p>
         </div>
         <div id="wx-week" class="week-grid"></div>
-        <p class="fallback-link" id="wx-updated"></p>
+        <p class="fallback-link" id="wx-updated">Uppdaterad: - • Källa: Yr/met.no</p>
       </article>
     </section>
 
