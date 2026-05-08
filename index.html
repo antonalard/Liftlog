@@ -4,33 +4,99 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>alard.se</title>
-  <meta name="description" content="Anton Alards startsida med länkar till projekt och kontakt.">
+  <meta name="description" content="Modern startsida med väderobjekt, projekt och exempelinnehåll.">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="bg-shape bg-shape-1" aria-hidden="true"></div>
-  <div class="bg-shape bg-shape-2" aria-hidden="true"></div>
+  <div class="noise" aria-hidden="true"></div>
+  <div class="glow glow-a" aria-hidden="true"></div>
+  <div class="glow glow-b" aria-hidden="true"></div>
 
-  <header class="site-header">
-    <p class="kicker">alard.se</p>
-    <h1>Alard, Test!</h1>
-    <p class="lead">Välkommen. Här hittar du mina projekt och snabblänkar.</p>
+  <header class="topbar">
+    <p class="logo">ALARD.SE</p>
+    <nav>
+      <a href="#weather">Väder</a>
+      <a href="#objects">Objekt</a>
+      <a href="/liftlog/">Liftlog</a>
+    </nav>
   </header>
 
-  <main class="container">
-    <section class="card">
-      <h2>Projekt</h2>
-      <div class="link-grid">
-        <a class="link-card primary" href="/liftlog/">
-          <span class="link-title">Liftlog</span>
-          <span class="link-text">Öppna träningsappen</span>
-        </a>
+  <main>
+    <section class="hero">
+      <p class="eyebrow">Modern layout test</p>
+      <h1>Alard, Test!</h1>
+      <p class="hero-copy">Exempeltext för att fylla en hero-sektion med tydlig typografi, djup och rörelse i bakgrunden.</p>
+      <div class="hero-actions">
+        <a class="btn btn-solid" href="/liftlog/">Öppna Liftlog</a>
+        <a class="btn btn-ghost" href="#weather">Se väderobjekt</a>
       </div>
     </section>
 
-    <section class="card">
-      <h2>Kontakt</h2>
-      <p>Fler länkar kan läggas till här när du vill.</p>
+    <section id="weather" class="panel weather-grid">
+      <article class="module">
+        <h2>Väderobjekt A: Yr Embed</h2>
+        <p class="muted">Direkt inbäddat objekt från Yr för Lindome.</p>
+        <div class="embed-wrap">
+          <iframe
+            src="https://www.yr.no/en/forecast/daily-table/2-2694831/Sweden/V%C3%A4stra%20G%C3%B6taland%20County/M%C3%B6lndal%20Municipality/Lindome"
+            title="Yr väder Lindome"
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade">
+          </iframe>
+        </div>
+      </article>
+
+      <article class="module">
+        <h2>Väderobjekt B: Egen design</h2>
+        <p class="muted">Samma typ av information, presenterad i sidans egna visuella stil.</p>
+        <div class="weather-card">
+          <p class="weather-place">Lindome</p>
+          <p class="weather-day">Fredag</p>
+          <p class="weather-temp">14°</p>
+          <p class="weather-meta">Regnskurar • Vind 5 m/s</p>
+        </div>
+      </article>
+    </section>
+
+    <section id="objects" class="panel objects-grid">
+      <article class="module">
+        <h2>Projektobjekt</h2>
+        <p class="muted">Exempelblock med innehållsyta för fler objekt från andra sidor.</p>
+      </article>
+      <article class="module">
+        <h2>Nyhetsobjekt</h2>
+        <p class="muted">Placeholder-text. Här kan vi lägga nästa riktiga objekt i samma stil.</p>
+      </article>
+    </section>
+
+    <section class="panel objects-grid">
+      <article class="module">
+        <h2>Börsinfo: OMX Stockholm PI</h2>
+        <p class="muted">Inbäddning från Avanza. Om inbäddning blockeras, använd direktlänken under.</p>
+        <div class="embed-wrap">
+          <iframe
+            src="https://www.avanza.se/index/om-indexet.html/18988/omx-stockholm-pi"
+            title="Avanza OMX Stockholm PI"
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade">
+          </iframe>
+        </div>
+        <p class="fallback-link"><a href="https://www.avanza.se/index/om-indexet.html/18988/omx-stockholm-pi" target="_blank" rel="noopener noreferrer">Öppna OMX Stockholm PI i ny flik</a></p>
+      </article>
+
+      <article class="module">
+        <h2>Pokemon Go: Event</h2>
+        <p class="muted">Inbäddning från PokemonGoHub. Om inbäddning blockeras, använd direktlänken under.</p>
+        <div class="embed-wrap">
+          <iframe
+            src="https://pokemongohub.net/post/category/event/"
+            title="Pokemon Go Hub Events"
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade">
+          </iframe>
+        </div>
+        <p class="fallback-link"><a href="https://pokemongohub.net/post/category/event/" target="_blank" rel="noopener noreferrer">Öppna PokemonGoHub Events i ny flik</a></p>
+      </article>
     </section>
   </main>
 </body>
