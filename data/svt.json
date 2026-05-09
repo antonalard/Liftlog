@@ -1,13 +1,18 @@
 {
-  "updated": "2026-05-09 16:42 CEST",
+  "updated": "2026-05-09 17:39 CEST",
   "items": [
+    {
+      "title": "Publikrusning när JAS-plan visades upp i Jönköping",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/publikrusning-nar-jas-plan-visades-upp-i-jonkoping",
+      "image": ""
+    },
     {
       "title": "Man körde in i väntkur vid Klippans färjeläge – förd till sjukhus",
       "link": "https://www.svt.se/nyheter/lokalt/vast/man-korde-in-i-racke-vid-klippans-farjelage-ford-till-sjukhus",
       "image": ""
     },
     {
-      "title": "Drömstart för Mjällby mot Degerfors",
+      "title": "Drömhalvlek frälste Mjällby mot Degerfors",
       "link": "https://www.svt.se/sport/fotboll/dromstart-for-mjallby-mot-degerfors",
       "image": ""
     },
@@ -17,7 +22,7 @@
       "image": ""
     },
     {
-      "title": "Bäver oskyldig – råtta bakom strömavbrott",
+      "title": "Bäver oskyldigt anklagad – råtta bakom strömavbrott",
       "link": "https://www.svt.se/nyheter/lokalt/skane/bitsk-baver-gjorde-tusentals-stromlosa-i-norra-skane",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Brand i mindre villa utanför Ulricehamn – kraftig rökutveckling",
       "link": "https://www.svt.se/nyheter/lokalt/vast/brand-i-villa-i-ulricehamn-kraftig-rokutveckling",
-      "image": ""
-    },
-    {
-      "title": "Göteborg får direkttåg till Berlin",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/goteborg-far-direkttag-till-berlin",
       "image": ""
     }
   ]
