@@ -1,8 +1,23 @@
 {
-  "updated": "2026-05-09 09:01 CEST",
+  "updated": "2026-05-09 10:56 CEST",
   "items": [
     {
-      "title": "Misstänkt mordbrand i Finspång – brand i ytterdörr",
+      "title": "Brand i mindre villa utanför Ulricehamn – kraftig rökutveckling",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/brand-i-villa-i-ulricehamn-kraftig-rokutveckling",
+      "image": ""
+    },
+    {
+      "title": "Göteborg får direkttåg till Berlin",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/goteborg-far-direkttag-till-berlin",
+      "image": ""
+    },
+    {
+      "title": "Fyrhjuling välte – kvinna allvarligt skadad",
+      "link": "https://www.svt.se/nyheter/lokalt/varmland/fyrhjuling-valte-kvinna-allvarligt-skadad",
+      "image": ""
+    },
+    {
+      "title": "Misstänkt mordbrand i Finspång – ytterdörr brann",
       "link": "https://www.svt.se/nyheter/lokalt/ost/misstankt-mordbrand-i-finspang-brand-i-ytterdorr",
       "image": ""
     },
@@ -24,21 +39,6 @@
     {
       "title": "Johns prov visade cancer – så gör du skitlätta testet hemma",
       "link": "https://www.svt.se/nyheter/lokalt/jamtland/johns-prov-visade-cancer-sa-gor-du-skitlatta-testet-hemma-xxbd74",
-      "image": ""
-    },
-    {
-      "title": "Johns prov visade cancer – så gör du skitlätta testet hemma",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/johns-prov-visade-cancer-sa-gor-du-skitlatta-testet-hemma",
-      "image": ""
-    },
-    {
-      "title": "Fågeljakt på badstranden – här testar SVT:s reporter lasern mot kanadagässen",
-      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/fageljakt-pa-badstranden-har-testar-svts-reporter-lasern-mot-kanadagassen",
-      "image": ""
-    },
-    {
-      "title": "Här sparar du tusenlappar på maten – varje år",
-      "link": "https://www.svt.se/nyheter/lokalt/dalarna/har-sparar-du-tusenlappar-pa-maten-varje-ar",
       "image": ""
     }
   ]
