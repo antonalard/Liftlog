@@ -1,6 +1,11 @@
 {
-  "updated": "2026-05-09 15:56 CEST",
+  "updated": "2026-05-09 16:42 CEST",
   "items": [
+    {
+      "title": "Man körde in i väntkur vid Klippans färjeläge – förd till sjukhus",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/man-korde-in-i-racke-vid-klippans-farjelage-ford-till-sjukhus",
+      "image": ""
+    },
     {
       "title": "Drömstart för Mjällby mot Degerfors",
       "link": "https://www.svt.se/sport/fotboll/dromstart-for-mjallby-mot-degerfors",
@@ -34,11 +39,6 @@
     {
       "title": "Göteborg får direkttåg till Berlin",
       "link": "https://www.svt.se/nyheter/lokalt/vast/goteborg-far-direkttag-till-berlin",
-      "image": ""
-    },
-    {
-      "title": "Fyrhjuling välte i Rackstad – kvinna allvarligt skadad",
-      "link": "https://www.svt.se/nyheter/lokalt/varmland/fyrhjuling-valte-kvinna-allvarligt-skadad",
       "image": ""
     }
   ]
