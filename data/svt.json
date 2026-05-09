@@ -1,8 +1,13 @@
 {
-  "updated": "2026-05-09 14:06 CEST",
+  "updated": "2026-05-09 15:56 CEST",
   "items": [
     {
-      "title": "Fullt utvecklad brand i centrala Karlstad",
+      "title": "Drömstart för Mjällby mot Degerfors",
+      "link": "https://www.svt.se/sport/fotboll/dromstart-for-mjallby-mot-degerfors",
+      "image": ""
+    },
+    {
+      "title": "Kraftig brand på balkong i centrala Karlstad",
       "link": "https://www.svt.se/nyheter/lokalt/varmland/fullt-utvecklad-brand-i-karlstad",
       "image": ""
     },
@@ -32,13 +37,8 @@
       "image": ""
     },
     {
-      "title": "Fyrhjuling välte – kvinna allvarligt skadad",
+      "title": "Fyrhjuling välte i Rackstad – kvinna allvarligt skadad",
       "link": "https://www.svt.se/nyheter/lokalt/varmland/fyrhjuling-valte-kvinna-allvarligt-skadad",
-      "image": ""
-    },
-    {
-      "title": "Misstänkt mordbrand i Finspång – ytterdörr brann",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/misstankt-mordbrand-i-finspang-brand-i-ytterdorr",
       "image": ""
     }
   ]
