@@ -1,9 +1,9 @@
 {
-  "updated": "2026-05-09 12:00 CEST",
+  "updated": "2026-05-09 13:15 CEST",
   "today": {
     "weekday": "saturday",
-    "temp": 15,
-    "meta": "partlycloudy day • Vind 2 m/s",
+    "temp": 16,
+    "meta": "partlycloudy day • Vind 3 m/s",
     "symbol_code": "partlycloudy_day"
   },
   "week": [
@@ -21,7 +21,7 @@
     },
     {
       "weekday": "mon",
-      "night": 3,
+      "night": 4,
       "day": 12,
       "symbol_code": "partlycloudy_day"
     },
