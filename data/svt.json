@@ -1,6 +1,11 @@
 {
-  "updated": "2026-05-09 20:40 CEST",
+  "updated": "2026-05-09 21:47 CEST",
   "items": [
+    {
+      "title": "Här firar ”Hide the pain Harold” efter att Magyar svurits in i parlamentet",
+      "link": "https://www.svt.se/nyheter/utrikes/har-firar-hide-the-pain-harold-efter-att-magyar-svurits-in-i-parlamentet",
+      "image": ""
+    },
     {
       "title": "”Dansministern” tillbaka i rampljuset: ”Lysande PR-strategi”",
       "link": "https://www.svt.se/nyheter/utrikes/dansministern-tillbaka-i-rampljuset-lysande-pr-strategi",
@@ -17,7 +22,7 @@
       "image": ""
     },
     {
-      "title": "Återigen tekniska problem med körkortsprov",
+      "title": "Tekniska problem hos Transportstyrelsen",
       "link": "https://www.svt.se/nyheter/inrikes/aterigen-tekniska-problem-med-korkortsprov",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Drömhalvlek frälste Mjällby mot Degerfors",
       "link": "https://www.svt.se/sport/fotboll/dromstart-for-mjallby-mot-degerfors",
-      "image": ""
-    },
-    {
-      "title": "Kraftig brand på balkong i centrala Karlstad",
-      "link": "https://www.svt.se/nyheter/lokalt/varmland/fullt-utvecklad-brand-i-karlstad",
       "image": ""
     }
   ]
