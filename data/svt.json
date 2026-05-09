@@ -1,6 +1,11 @@
 {
-  "updated": "2026-05-09 10:56 CEST",
+  "updated": "2026-05-09 12:00 CEST",
   "items": [
+    {
+      "title": "Störningar i pendeltågen under Kristi himmelsfärd – så påverkas Södertälje",
+      "link": "https://www.svt.se/nyheter/lokalt/sodertalje/nu-ska-pendelns-signalfel-atgardas-trafik-stangs-av",
+      "image": ""
+    },
     {
       "title": "Brand i mindre villa utanför Ulricehamn – kraftig rökutveckling",
       "link": "https://www.svt.se/nyheter/lokalt/vast/brand-i-villa-i-ulricehamn-kraftig-rokutveckling",
@@ -34,11 +39,6 @@
     {
       "title": "Elevernas mardrömstid hos värdfamiljerna i USA – kritik mot EF: ”Värsta jag upplevt”",
       "link": "https://www.svt.se/nyhetskoll/elevernas-mardromstid-hos-vardfamiljerna-i-usa-kritik-mot-ef-varsta-jag-upplevt",
-      "image": ""
-    },
-    {
-      "title": "Johns prov visade cancer – så gör du skitlätta testet hemma",
-      "link": "https://www.svt.se/nyheter/lokalt/jamtland/johns-prov-visade-cancer-sa-gor-du-skitlatta-testet-hemma-xxbd74",
       "image": ""
     }
   ]
