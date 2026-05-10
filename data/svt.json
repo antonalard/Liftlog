@@ -1,6 +1,11 @@
 {
-  "updated": "2026-05-10 17:28 CEST",
+  "updated": "2026-05-10 18:28 CEST",
   "items": [
+    {
+      "title": "Svenska kyrkan ber om ursäkt för arbetsstugornas mörka historia",
+      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/svenska-kyrkan-ber-om-ursakt-for-arbetsstugornas-morka-historia",
+      "image": ""
+    },
     {
       "title": "Eurovision i Wien invigs officiellt",
       "link": "https://www.svt.se/kultur/eurovision-i-wien-invigs-officiellt",
@@ -34,11 +39,6 @@
     {
       "title": "Så blir du kung på minigolfbanan i sommar",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/sa-blir-du-kung-pa-minigolfbanan-i-sommar",
-      "image": ""
-    },
-    {
-      "title": "Läcker chipp av Åberg på PGA-touren: ”Väldigt fint”",
-      "link": "https://www.svt.se/sport/golf/lacker-chipp-av-aberg-pa-pga-touren-valdigt-fint",
       "image": ""
     }
   ]
