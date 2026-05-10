@@ -1,17 +1,17 @@
 {
-  "updated": "2026-05-10 23:35 CEST",
+  "updated": "2026-05-11 00:33 CEST",
   "today": {
-    "weekday": "sunday",
-    "temp": 8,
-    "meta": "partlycloudy night • Vind 3 m/s",
-    "symbol_code": "partlycloudy_night"
+    "weekday": "monday",
+    "temp": 7,
+    "meta": "clearsky night • Vind 3 m/s",
+    "symbol_code": "clearsky_night"
   },
   "week": [
     {
       "weekday": "sun",
       "night": 5,
-      "day": 8,
-      "symbol_code": "partlycloudy_night"
+      "day": 7,
+      "symbol_code": "clearsky_night"
     },
     {
       "weekday": "mon",
