@@ -1,9 +1,34 @@
 {
-  "updated": "2026-05-11 07:46 CEST",
+  "updated": "2026-05-11 10:52 CEST",
   "items": [
     {
-      "title": "Berätta: Vad är viktigast när du väljer förskola?",
-      "link": "https://www.svt.se/nyheter/nyhetstecken/beratta-vad-ar-viktigast-nar-du-valjer-forskola",
+      "title": "Fartyget Caffa har tagits i beslag och förts in i Trelleborgs hamn",
+      "link": "https://www.svt.se/nyheter/lokalt/skane/fartyget-caffa-har-tagits-i-beslag-och-forts-in-i-trelleborgs-hamn",
+      "image": ""
+    },
+    {
+      "title": "Ställ dina frågor om hantavirus till experten",
+      "link": "https://www.svt.se/nyheter/utrikes/stall-dina-fragor-om-hantavirus-till-experten",
+      "image": ""
+    },
+    {
+      "title": "Kollision mellan tvärbana och lastbil",
+      "link": "https://www.svt.se/nyheter/lokalt/stockholm/kollision-mellan-tvarbana-och-lastbil",
+      "image": ""
+    },
+    {
+      "title": "Läkarna i da Costa-fallet begär ersättning av staten",
+      "link": "https://www.svt.se/nyheter/inrikes/lakarna-i-da-costa-fallet-begar-ersattning-av-staten",
+      "image": ""
+    },
+    {
+      "title": "Båtolycka i Norge – tre turister döda",
+      "link": "https://www.svt.se/nyheter/utrikes/batolycka-i-norge-tre-turister-doda",
+      "image": ""
+    },
+    {
+      "title": "Evakuering av kryssningsfartyget pågår efter utbrottet av hantavirus",
+      "link": "https://www.svt.se/nyheter/inrikes/evakueringen-av-mv-hondius-pagar-hoppas-vara-klara-i-kvall",
       "image": ""
     },
     {
@@ -12,33 +37,8 @@
       "image": ""
     },
     {
-      "title": "I Vaxholm går äldre i Kulturskolan – Berit, 83: ”Nu tar jag chansen”",
+      "title": "Kulturskolan hade för få elever – fyller på med 80-åringar",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-far-80-aringar-ga-i-kulturskolan-kommer-nog-aldrig-bli-nan-stor-violinist",
-      "image": ""
-    },
-    {
-      "title": "Avfall ska samlas in vid husen – behöver hitta lösning för turister i Orsa och Idre",
-      "link": "https://www.svt.se/nyheter/lokalt/dalarna/avfall-ska-samlas-in-vid-husen-behover-hitta-losning-for-turister-i-orsa-och-idre",
-      "image": ""
-    },
-    {
-      "title": "Så lyckas du med din trädgård i norr – Majvor: ”Tålamod”",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/sa-lyckas-du-med-din-tradgard-i-norr-majvor-talamod",
-      "image": ""
-    },
-    {
-      "title": "Försvarets materielverk växer – från 50 till 100 anställda i Östersund på fem år",
-      "link": "https://www.svt.se/nyheter/lokalt/jamtland/myndigheten-vaxer-50-till-100-anstallda-pa-fem-ar",
-      "image": ""
-    },
-    {
-      "title": "Falkens scoutkår i Kalmar har blivit överfull – köer för första gången",
-      "link": "https://www.svt.se/nyheter/lokalt/smaland/falkens-scoutkar-i-kalmar-har-blivit-overfull-koer-for-forsta-gangen",
-      "image": ""
-    },
-    {
-      "title": "Fembarnspappan Torsten lever med ALS – har samlat in 3,7 miljoner till forskningen",
-      "link": "https://www.svt.se/nyheter/lokalt/varmland/fembarnspappan-torsten-lever-med-als-har-samlat-in-37-miljoner-till-forskningen",
       "image": ""
     }
   ]

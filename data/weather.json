@@ -1,53 +1,53 @@
 {
-  "updated": "2026-05-11 07:46 CEST",
+  "updated": "2026-05-11 10:52 CEST",
   "today": {
     "weekday": "monday",
-    "temp": 5,
-    "meta": "partlycloudy day • Vind 1 m/s",
-    "symbol_code": "partlycloudy_day"
+    "temp": 10,
+    "meta": "cloudy • Vind 2 m/s",
+    "symbol_code": "cloudy"
   },
   "week": [
     {
       "weekday": "mon",
-      "night": 5,
-      "day": 12,
+      "night": 7,
+      "day": 14,
       "symbol_code": "cloudy"
     },
     {
       "weekday": "tue",
       "night": 6,
-      "day": 13,
-      "symbol_code": "cloudy"
+      "day": 12,
+      "symbol_code": "partlycloudy_day"
     },
     {
       "weekday": "wed",
-      "night": 6,
-      "day": 11,
-      "symbol_code": "partlycloudy_day"
+      "night": 7,
+      "day": 12,
+      "symbol_code": "rain"
     },
     {
       "weekday": "thu",
       "night": 6,
       "day": 13,
-      "symbol_code": "rainshowers_day"
+      "symbol_code": "rain"
     },
     {
       "weekday": "fri",
       "night": 7,
-      "day": 14,
-      "symbol_code": "partlycloudy_day"
+      "day": 12,
+      "symbol_code": "cloudy"
     },
     {
       "weekday": "sat",
       "night": 6,
-      "day": 15,
-      "symbol_code": "partlycloudy_day"
+      "day": 14,
+      "symbol_code": "cloudy"
     },
     {
       "weekday": "sun",
-      "night": 8,
-      "day": 16,
-      "symbol_code": "cloudy"
+      "night": 6,
+      "day": 14,
+      "symbol_code": "partlycloudy_day"
     }
   ]
 }
