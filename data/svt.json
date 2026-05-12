@@ -1,6 +1,11 @@
 {
-  "updated": "2026-05-12 21:17 CEST",
+  "updated": "2026-05-12 22:55 CEST",
   "items": [
+    {
+      "title": "Se när sälen solbadar i centrala Luleå",
+      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/se-nar-salen-solbadar-i-centrala-lulea",
+      "image": ""
+    },
     {
       "title": "Fotbollsarenan i Linköping säljs i mångmiljonaffär",
       "link": "https://www.svt.se/nyheter/lokalt/ost/fotbollsarenan-i-linkoping-saljs-i-mangmiljonaffar",
@@ -34,11 +39,6 @@
     {
       "title": "Flera rekryteringsförsök i Umeå – polisen: Tar det på allvar",
       "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/flera-rekryteringsforsok-i-umea-polisen-tar-det-pa-allvar",
-      "image": ""
-    },
-    {
-      "title": "Ex-ministern kan göra comeback: ”Inte bestämt”",
-      "link": "https://www.svt.se/nyheter/inrikes/ex-ministern-kan-gora-comeback-inte-bestamt",
       "image": ""
     }
   ]
