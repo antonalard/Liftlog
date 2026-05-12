@@ -1,9 +1,14 @@
 {
-  "updated": "2026-05-12 06:11 CEST",
+  "updated": "2026-05-12 09:21 CEST",
   "community_day_title": "Lechonk Community Day (May 2026): Shiny Odds, Bonuses & Mud-Slap Oinkologne",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/04/lechonk-community-day.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/lechonk-community-day-may-2026-shiny-odds-bonuses-mud-slap-oinkologne/",
   "items": [
+    {
+      "title": "Pokémon GO Spring Marathon Event (2026)",
+      "date": "Tue, 12 May 2026",
+      "link": "https://pokemongohub.net/post/event/spring-marathon-2026/"
+    },
     {
       "title": "Pokémon GO Events This Week: 11 – 17 May 2026",
       "date": "Sun, 10 May 2026",
@@ -48,11 +53,6 @@
       "title": "Steeled Resolve Event: Orthworm Debut, Shiny Meltan & More",
       "date": "Tue, 28 Apr 2026",
       "link": "https://pokemongohub.net/post/event/steeled-resolve-event-2026/"
-    },
-    {
-      "title": "Super Mega Falinks Raid Day (2026): Shiny Odds, Counters & Bonuses",
-      "date": "Mon, 27 Apr 2026",
-      "link": "https://pokemongohub.net/post/event/super-mega-falinks-raid-day-2026/"
     }
   ]
 }
