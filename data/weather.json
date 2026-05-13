@@ -1,21 +1,21 @@
 {
-  "updated": "2026-05-13 18:12 CEST",
+  "updated": "2026-05-13 20:21 CEST",
   "today": {
     "weekday": "wednesday",
-    "temp": 10,
+    "temp": 8,
     "meta": "lightrain • Vind 3 m/s",
     "symbol_code": "lightrain"
   },
   "week": [
     {
       "weekday": "wed",
-      "night": 7,
-      "day": 10,
+      "night": 6,
+      "day": 8,
       "symbol_code": "lightrain"
     },
     {
       "weekday": "thu",
-      "night": 7,
+      "night": 6,
       "day": 10,
       "symbol_code": "rain"
     },
