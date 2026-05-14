@@ -1,6 +1,11 @@
 {
-  "updated": "2026-05-14 19:17 CEST",
+  "updated": "2026-05-14 21:14 CEST",
   "items": [
+    {
+      "title": "Pojke i 15-årsåldern grovt misshandlad i västra Stockholm",
+      "link": "https://www.svt.se/nyheter/lokalt/stockholm/15-aring-nedslagen-och-sparkad",
+      "image": ""
+    },
     {
       "title": "Kuba: Vi har slut på bränsle",
       "link": "https://www.svt.se/nyheter/utrikes/kuba-vi-har-slut-pa-bransle",
@@ -34,11 +39,6 @@
     {
       "title": "Nära 100 döda i sandstormar och kraftiga skyfall i norra Indien",
       "link": "https://www.svt.se/nyheter/utrikes/nara-100-doda-i-sandstormar-och-kraftiga-skyfall-i-norra-indien",
-      "image": ""
-    },
-    {
-      "title": "ORF: Inte inblandande i att censurera protestrop",
-      "link": "https://www.svt.se/kultur/orf-inte-inblandande-i-att-censurera-protestrop",
       "image": ""
     }
   ]
