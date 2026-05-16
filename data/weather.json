@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-16 12:41 CEST",
+  "updated": "2026-05-16 13:40 CEST",
   "today": {
     "weekday": "saturday",
     "temp": 10,
-    "meta": "lightrain • Vind 4 m/s",
-    "symbol_code": "lightrain"
+    "meta": "rain • Vind 3 m/s",
+    "symbol_code": "rain"
   },
   "week": [
     {
