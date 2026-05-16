@@ -1,17 +1,17 @@
 {
-  "updated": "2026-05-16 19:43 CEST",
+  "updated": "2026-05-16 20:43 CEST",
   "today": {
     "weekday": "saturday",
     "temp": 10,
-    "meta": "heavyrain • Vind 4 m/s",
-    "symbol_code": "heavyrain"
+    "meta": "cloudy • Vind 5 m/s",
+    "symbol_code": "cloudy"
   },
   "week": [
     {
       "weekday": "sat",
-      "night": 8,
+      "night": 9,
       "day": 10,
-      "symbol_code": "heavyrain"
+      "symbol_code": "cloudy"
     },
     {
       "weekday": "sun",
