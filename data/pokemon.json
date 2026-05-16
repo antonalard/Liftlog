@@ -1,9 +1,14 @@
 {
-  "updated": "2026-05-16 09:09 CEST",
+  "updated": "2026-05-16 11:09 CEST",
   "community_day_title": "Deino Community Day Classic Guide (May 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2022/06/deino-family-image.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/deino-community-day-classic-2026/",
   "items": [
+    {
+      "title": "Pokémon GO Fest 2026: Global",
+      "date": "Sat, 16 May 2026",
+      "link": "https://pokemongohub.net/post/event/pokemon-go-fest-2026-global/"
+    },
     {
       "title": "Deino Community Day Classic Guide (May 2026)",
       "date": "Fri, 15 May 2026",
@@ -48,11 +53,6 @@
       "title": "Steeled Resolve: Taken Over",
       "date": "Wed, 29 Apr 2026",
       "link": "https://pokemongohub.net/post/event/steeled-resolve-taken-over/"
-    },
-    {
-      "title": "Pokémon GO Fest 2026: Global",
-      "date": "Tue, 28 Apr 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-fest-2026-global/"
     }
   ]
 }
