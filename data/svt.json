@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-16 16:16 CEST",
+  "updated": "2026-05-16 17:31 CEST",
   "items": [
+    {
+      "title": "Brand i hönseri utanför Perstorp",
+      "link": "https://www.svt.se/nyheter/lokalt/helsingborg/brand-i-honseri-utanfor-perstorp",
+      "image": ""
+    },
+    {
+      "title": "Ny skatepark i Linköping – kan bli träningsanläggning inför OS",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/ny-skatepark-i-linkoping-kan-bli-traningsanlaggning-infor-os",
+      "image": ""
+    },
     {
       "title": "Bilförare har kört på fotgängare i New York – två döda",
       "link": "https://www.svt.se/nyheter/utrikes/bilforare-har-kort-pa-fotgangare-i-new-york-tva-doda",
@@ -29,16 +39,6 @@
     {
       "title": "Död person hittades i Åby – tros vara försvunnen kvinna",
       "link": "https://www.svt.se/nyheter/lokalt/ost/avsparrningar-i-aby-utanfor-norrkoping",
-      "image": ""
-    },
-    {
-      "title": "Här får Nooshi Dadgostar nog: ”Du är sjuk i huvudet”",
-      "link": "https://www.svt.se/nyheter/inrikes/har-far-nooshi-dadgostar-nog-du-ar-sjuk-i-huvudet",
-      "image": ""
-    },
-    {
-      "title": "Journalisten Dawit Isaak har hållits fängslad i 9 000 dagar",
-      "link": "https://www.svt.se/kultur/journalisten-dawit-isaak-har-hallits-fangslad-i-9000-dagar",
       "image": ""
     }
   ]
