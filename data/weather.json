@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18 00:40 CEST",
+  "updated": "2026-05-18 01:44 CEST",
   "today": {
     "weekday": "monday",
     "temp": 9,
@@ -15,7 +15,7 @@
     },
     {
       "weekday": "mon",
-      "night": 8,
+      "night": 9,
       "day": 17,
       "symbol_code": "cloudy"
     },
