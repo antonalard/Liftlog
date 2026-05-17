@@ -1,6 +1,11 @@
 {
-  "updated": "2026-05-17 07:37 CEST",
+  "updated": "2026-05-17 10:06 CEST",
   "items": [
+    {
+      "title": "Polisjakt i centrala Vetlanda – A‑traktor i över 100 km/h",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/polisjakt-i-centrala-vetlanda-atraktor-i-over-100-kmh",
+      "image": ""
+    },
     {
       "title": "Skidåkare döms för olycka i Åre",
       "link": "https://www.svt.se/nyheter/lokalt/jamtland/skidakare-doms-for-olycka-i-are",
@@ -34,11 +39,6 @@
     {
       "title": "48 000 höns döda efter brand utanför Perstorp",
       "link": "https://www.svt.se/nyheter/lokalt/helsingborg/brand-i-honseri-utanfor-perstorp",
-      "image": ""
-    },
-    {
-      "title": "Över 30 gripna efter dubbla demonstrationer i London",
-      "link": "https://www.svt.se/nyheter/utrikes/londonpolisen-rustar-infor-massdemonstrationer",
       "image": ""
     }
   ]
