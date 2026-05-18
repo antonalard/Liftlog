@@ -1,9 +1,24 @@
 {
-  "updated": "2026-05-18 19:14 CEST",
+  "updated": "2026-05-18 21:09 CEST",
   "community_day_title": "Deino Community Day Classic Guide (May 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2022/06/deino-family-image.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/deino-community-day-classic-2026/",
   "items": [
+    {
+      "title": "Candela’s Quest for Victory",
+      "date": "Mon, 18 May 2026",
+      "link": "https://pokemongohub.net/post/event/candelas-quest-for-victory/"
+    },
+    {
+      "title": "Spark’s Caretaking Quest",
+      "date": "Mon, 18 May 2026",
+      "link": "https://pokemongohub.net/post/event/sparks-caretaking-quest/"
+    },
+    {
+      "title": "Blanche’s Quest for Knowledge",
+      "date": "Mon, 18 May 2026",
+      "link": "https://pokemongohub.net/post/event/blanches-quest-for-knowledge/"
+    },
     {
       "title": "Pokémon GO Events This Week: May 18–24, 2026",
       "date": "Sun, 17 May 2026",
@@ -38,21 +53,6 @@
       "title": "A PvP Analysis on Community Day Oinkologne",
       "date": "Fri, 08 May 2026",
       "link": "https://pokemongohub.net/post/pvp/a-pvp-analysis-on-community-day-oinkologne/"
-    },
-    {
-      "title": "Pokémon GO Events This Week: 4 – 10 May 2026",
-      "date": "Sun, 03 May 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-4-10-may-2026/"
-    },
-    {
-      "title": "Shadow Entei Raid Day in Pokémon GO: Shiny Odds, Counters & Bonuses",
-      "date": "Sat, 02 May 2026",
-      "link": "https://pokemongohub.net/post/event/shadow-entei-raid-day-2026/"
-    },
-    {
-      "title": "Pokémon GO May 2026 Events",
-      "date": "Fri, 01 May 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-may-2026-events/"
     }
   ]
 }
