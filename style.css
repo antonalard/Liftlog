@@ -153,26 +153,29 @@ main {
 }
 
 .app-tile {
-  width: 92px;
+  width: 108px;
   display: grid;
   justify-items: center;
-  gap: 0.4rem;
+  gap: 0.5rem;
   text-decoration: none;
   color: #dbe8ff;
   border: 1px solid rgba(142, 175, 238, 0.3);
   border-radius: 14px;
-  padding: 0.6rem 0.45rem 0.5rem;
+  padding: 0.7rem 0.55rem 0.6rem;
   background: linear-gradient(170deg, rgba(9, 15, 30, 0.7), rgba(10, 18, 36, 0.92));
 }
 
 .app-tile img {
-  width: 52px;
-  height: 52px;
+  width: 68px;
+  height: 68px;
   border-radius: 12px;
+  object-fit: contain;
+  background: rgba(0, 0, 0, 0.22);
+  padding: 4px;
 }
 
 .app-tile span {
-  font-size: 0.86rem;
+  font-size: 0.98rem;
   color: #cfe0ff;
 }
 
