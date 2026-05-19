@@ -83,5 +83,109 @@
       <span class="st-leg st-leg-right"></span>
     </div>
   </div>
+  <button class="mob-zombie-rider" id="mob-zombie-rider" type="button" aria-label="Zombie rider">
+    <span class="zr-chicken-body"></span>
+    <span class="zr-chicken-head"></span>
+    <span class="zr-chicken-beak"></span>
+    <span class="zr-chicken-leg zr-chicken-leg-left"></span>
+    <span class="zr-chicken-leg zr-chicken-leg-right"></span>
+    <span class="zr-z-head"></span>
+    <span class="zr-z-eye zr-z-eye-left"></span>
+    <span class="zr-z-eye zr-z-eye-right"></span>
+    <span class="zr-z-body"></span>
+    <span class="zr-z-arm zr-z-arm-left"></span>
+    <span class="zr-z-arm zr-z-arm-right"></span>
+    <span class="zr-z-leg zr-z-leg-left"></span>
+    <span class="zr-z-leg zr-z-leg-right"></span>
+  </button>
+
+  <script>
+    (() => {
+      const mob = document.getElementById("mob-zombie-rider");
+      if (!mob) return;
+
+      const state = {
+        x: Math.max(120, window.innerWidth * 0.78),
+        y: Math.max(140, window.innerHeight * 0.72),
+        targetX: 0,
+        targetY: 0,
+        attackX: null,
+        attackY: null,
+        attacking: false
+      };
+
+      const mobW = 120;
+      const mobH = 140;
+      const avoidRadius = 180;
+
+      function clamp(v, min, max) {
+        return Math.min(max, Math.max(min, v));
+      }
+
+      function place() {
+        state.x = clamp(state.x, 0, window.innerWidth - mobW);
+        state.y = clamp(state.y, 0, window.innerHeight - mobH);
+        mob.style.left = state.x + "px";
+        mob.style.top = state.y + "px";
+      }
+
+      function pointerMove(e) {
+        state.targetX = e.clientX;
+        state.targetY = e.clientY;
+
+        if (state.attacking) return;
+
+        const cx = state.x + mobW / 2;
+        const cy = state.y + mobH / 2;
+        const dx = cx - e.clientX;
+        const dy = cy - e.clientY;
+        const dist = Math.hypot(dx, dy);
+
+        if (dist < avoidRadius) {
+          const force = (avoidRadius - dist) / avoidRadius;
+          const push = 22 + force * 26;
+          state.x += (dx / (dist || 1)) * push;
+          state.y += (dy / (dist || 1)) * push;
+          place();
+        }
+      }
+
+      function tick() {
+        if (state.attacking && state.attackX !== null && state.attackY !== null) {
+          const dx = state.attackX - (state.x + mobW / 2);
+          const dy = state.attackY - (state.y + mobH / 2);
+          const dist = Math.hypot(dx, dy);
+          const speed = 7.5;
+
+          if (dist < 18) {
+            state.attacking = false;
+            mob.classList.remove("is-attacking");
+          } else {
+            state.x += (dx / (dist || 1)) * speed;
+            state.y += (dy / (dist || 1)) * speed;
+          }
+        } else {
+          state.x += Math.sin(Date.now() / 460) * 0.5;
+          state.y += Math.cos(Date.now() / 520) * 0.35;
+        }
+
+        place();
+        requestAnimationFrame(tick);
+      }
+
+      mob.addEventListener("click", (e) => {
+        e.preventDefault();
+        state.attacking = true;
+        state.attackX = state.targetX || window.innerWidth * 0.5;
+        state.attackY = state.targetY || window.innerHeight * 0.5;
+        mob.classList.add("is-attacking");
+      });
+
+      window.addEventListener("mousemove", pointerMove, { passive: true });
+      window.addEventListener("resize", place);
+      place();
+      requestAnimationFrame(tick);
+    })();
+  </script>
 </body>
 </html>
