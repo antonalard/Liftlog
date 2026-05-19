@@ -147,3 +147,53 @@ h1 {
   .gallery { grid-template-columns: 1fr; }
   .gallery img { height: 220px; }
 }
+
+.mc-anim-layer {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 120px;
+  pointer-events: none;
+  z-index: 20;
+  overflow: hidden;
+}
+
+.mc-chicken,
+.mc-steve {
+  position: absolute;
+  bottom: 10px;
+  filter: drop-shadow(0 4px 0 rgba(0, 0, 0, 0.28));
+  image-rendering: pixelated;
+}
+
+.mc-chicken {
+  font-size: 46px;
+  animation:
+    chicken-walk 16s linear infinite,
+    chicken-hop 0.9s steps(2) infinite;
+}
+
+.mc-steve {
+  right: -80px;
+  font-size: 58px;
+  animation: steve-peek 8s ease-in-out infinite;
+}
+
+@keyframes chicken-walk {
+  0% { left: -60px; transform: translateY(0) scaleX(1); }
+  49% { transform: translateY(0) scaleX(1); }
+  50% { left: calc(100% + 20px); transform: translateY(0) scaleX(-1); }
+  100% { left: -60px; transform: translateY(0) scaleX(-1); }
+}
+
+@keyframes chicken-hop {
+  0%, 100% { bottom: 10px; }
+  50% { bottom: 16px; }
+}
+
+@keyframes steve-peek {
+  0%, 60%, 100% { right: -88px; }
+  72% { right: -8px; }
+  86% { right: -20px; }
+}
