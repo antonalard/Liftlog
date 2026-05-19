@@ -40,11 +40,13 @@ body {
 }
 
 .side-box {
+  display: block;
   border: 1px solid rgba(150, 189, 255, 0.26);
   border-radius: 12px;
   padding: 0.55rem 0.65rem;
   background: rgba(10, 24, 18, 0.56);
   backdrop-filter: blur(4px);
+  text-decoration: none;
 }
 
 .side-box strong {
@@ -85,6 +87,11 @@ h1 {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 0.8rem;
+}
+
+.side-link:hover {
+  border-color: rgba(182, 216, 255, 0.62);
+  background: rgba(13, 32, 24, 0.74);
 }
 
 .gallery img {
