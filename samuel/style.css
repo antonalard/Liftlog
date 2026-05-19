@@ -5,8 +5,19 @@ body {
   font-family: "Segoe UI", sans-serif;
   color: #eaf2ff;
   background:
-    radial-gradient(1000px 500px at 10% -20%, rgba(255, 124, 57, 0.34), transparent 70%),
-    linear-gradient(180deg, #091328, #05080f 60%);
+    linear-gradient(rgba(7, 16, 28, 0.62), rgba(7, 16, 28, 0.72)),
+    radial-gradient(1400px 700px at 20% -10%, rgba(74, 189, 84, 0.22), transparent 70%),
+    repeating-linear-gradient(
+      0deg,
+      rgba(57, 102, 59, 0.28) 0 48px,
+      rgba(45, 83, 47, 0.28) 48px 96px
+    ),
+    repeating-linear-gradient(
+      90deg,
+      rgba(68, 120, 70, 0.18) 0 48px,
+      rgba(52, 95, 55, 0.18) 48px 96px
+    ),
+    linear-gradient(180deg, #162d1b 0%, #2a482f 28%, #4f7a56 55%, #315236 100%);
 }
 
 .subpage-shell {
@@ -30,7 +41,8 @@ body {
   border: 1px solid rgba(150, 189, 255, 0.26);
   border-radius: 12px;
   padding: 0.55rem 0.65rem;
-  background: rgba(9, 18, 38, 0.78);
+  background: rgba(10, 24, 18, 0.56);
+  backdrop-filter: blur(4px);
 }
 
 .side-box strong {
@@ -67,7 +79,7 @@ h1 {
   height: 240px;
   object-fit: cover;
   border-radius: 16px;
-  border: 1px solid rgba(255, 170, 140, 0.36);
+  border: 1px solid rgba(156, 223, 154, 0.45);
 }
 
 .link-row {
