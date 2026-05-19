@@ -1,0 +1,51 @@
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  min-height: 100vh;
+  font-family: "Segoe UI", sans-serif;
+  color: #eaf2ff;
+  background:
+    radial-gradient(1000px 500px at 10% -20%, rgba(57, 139, 255, 0.32), transparent 70%),
+    linear-gradient(180deg, #091328, #05080f 60%);
+}
+
+.wrap {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 1.1rem 1rem 2rem;
+}
+
+.back {
+  color: #9fd0ff;
+  text-decoration: none;
+}
+
+h1 {
+  margin: 0.7rem 0 0.2rem;
+  font-size: clamp(2rem, 6vw, 3.4rem);
+}
+
+p { color: #b7cae9; }
+
+.cards {
+  margin-top: 1rem;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.8rem;
+}
+
+.card {
+  border: 1px solid rgba(150, 189, 255, 0.26);
+  border-radius: 14px;
+  padding: 0.9rem;
+  background: rgba(9, 18, 38, 0.78);
+}
+
+.card h2 {
+  margin: 0;
+  font-size: 1.05rem;
+}
+
+@media (max-width: 760px) {
+  .cards { grid-template-columns: 1fr; }
+}
