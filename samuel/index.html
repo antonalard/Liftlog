@@ -23,9 +23,47 @@
         <img src="https://images.unsplash.com/photo-1583121274602-3e2820c69888?auto=format&fit=crop&w=1200&q=80" alt="Ferrari sportbil">
       </section>
       <p class="link-row">
-        <a class="fun-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">Min flickvän</a>
+        <button class="fun-link" id="open-video" type="button">Min flickvän</button>
       </p>
     </main>
   </div>
+
+  <dialog id="video-modal" class="video-modal">
+    <button class="close-video" id="close-video" type="button">Stäng</button>
+    <div class="video-wrap">
+      <iframe
+        id="rickroll-frame"
+        src=""
+        title="Video"
+        allow="autoplay; encrypted-media; picture-in-picture"
+        allowfullscreen>
+      </iframe>
+    </div>
+  </dialog>
+
+  <script>
+    const openBtn = document.getElementById("open-video");
+    const closeBtn = document.getElementById("close-video");
+    const modal = document.getElementById("video-modal");
+    const frame = document.getElementById("rickroll-frame");
+    const videoUrl = "https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ?autoplay=1&rel=0";
+
+    openBtn.addEventListener("click", () => {
+      frame.src = videoUrl;
+      modal.showModal();
+    });
+
+    closeBtn.addEventListener("click", () => {
+      modal.close();
+      frame.src = "";
+    });
+
+    modal.addEventListener("click", (e) => {
+      if (e.target === modal) {
+        modal.close();
+        frame.src = "";
+      }
+    });
+  </script>
 </body>
 </html>
