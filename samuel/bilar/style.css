@@ -71,6 +71,12 @@ p {
   object-fit: cover;
 }
 
+.card figcaption {
+  padding: 0.6rem 0.7rem 0.75rem;
+  color: #d2e2ff;
+  font-size: 0.84rem;
+}
+
 @media (max-width: 950px) {
   .gallery {
     grid-template-columns: 1fr;

@@ -12,20 +12,54 @@
     <header class="hero">
       <a class="back" href="/samuel/">Tillbaka</a>
       <h1>Bilar</h1>
-      <p>Favoriter i mörk stil.</p>
+      <p>100 supersportbilar.</p>
     </header>
 
-    <main class="gallery">
-      <figure class="card">
-        <img src="https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=1600&q=80" alt="Lamborghini i solnedgång">
-      </figure>
-      <figure class="card">
-        <img src="https://images.unsplash.com/photo-1621135802920-133df287f89c?auto=format&fit=crop&w=1600&q=80" alt="Blå Lamborghini">
-      </figure>
-      <figure class="card">
-        <img src="https://images.unsplash.com/photo-1583121274602-3e2820c69888?auto=format&fit=crop&w=1600&q=80" alt="Ferrari sportbil">
-      </figure>
-    </main>
+    <main class="gallery" id="supercar-gallery"></main>
   </div>
+
+  <script>
+    const supercars = [
+      "Bugatti Chiron Super Sport", "Bugatti Bolide", "Bugatti Divo", "Bugatti Mistral", "Bugatti Centodieci",
+      "Ferrari LaFerrari", "Ferrari SF90 Stradale", "Ferrari 296 GTB", "Ferrari F8 Tributo", "Ferrari Daytona SP3",
+      "Ferrari Monza SP2", "Ferrari Enzo", "Ferrari 488 Pista", "Ferrari Purosangue", "Ferrari 812 Competizione",
+      "Lamborghini Aventador SVJ", "Lamborghini Revuelto", "Lamborghini Huracan STO", "Lamborghini Sian", "Lamborghini Veneno",
+      "Lamborghini Centenario", "Lamborghini Essenza SCV12", "Lamborghini Countach LPI 800-4", "Lamborghini Murcielago SV", "Lamborghini Reventon",
+      "McLaren P1", "McLaren Senna", "McLaren Speedtail", "McLaren 765LT", "McLaren 720S",
+      "McLaren Elva", "McLaren Artura", "McLaren F1", "McLaren 675LT", "McLaren Sabre",
+      "Porsche 918 Spyder", "Porsche Carrera GT", "Porsche 911 GT2 RS", "Porsche 911 GT3 RS", "Porsche 959",
+      "Porsche 911 Turbo S", "Porsche 911 Dakar", "Porsche Mission X", "Porsche 911 R", "Porsche 911 S/T",
+      "Koenigsegg Jesko", "Koenigsegg Regera", "Koenigsegg Gemera", "Koenigsegg Agera RS", "Koenigsegg One:1",
+      "Koenigsegg CCX", "Koenigsegg CC850", "Koenigsegg Trevita", "Koenigsegg CCR", "Koenigsegg CCXR",
+      "Pagani Huayra", "Pagani Zonda R", "Pagani Utopia", "Pagani Imola", "Pagani Huayra BC",
+      "Pagani Zonda Cinque", "Pagani Zonda F", "Pagani Huayra Roadster", "Pagani Zonda Revolucion", "Pagani Codalunga",
+      "Aston Martin Valkyrie", "Aston Martin Valhalla", "Aston Martin Vantage GT12", "Aston Martin One-77", "Aston Martin DBS Superleggera",
+      "Aston Martin Victor", "Aston Martin Vulcan", "Aston Martin V12 Speedster", "Aston Martin DB11 AMR", "Aston Martin Vanquish Zagato",
+      "Mercedes-AMG One", "Mercedes SLR McLaren", "Mercedes CLK GTR", "Mercedes AMG GT Black Series", "Mercedes Project Maybach",
+      "Rimac Nevera", "Rimac Concept One", "Nio EP9", "Lotus Evija", "Lotus Emira V6",
+      "Hennessey Venom F5", "Hennessey Venom GT", "SSC Tuatara", "Saleen S7", "Noble M600",
+      "Ford GT", "Chevrolet Corvette ZR1", "Dodge Viper ACR", "Maserati MC20", "Alfa Romeo 33 Stradale",
+      "De Tomaso P72", "Gordon Murray T.50", "Gordon Murray T.33", "Apollo Intensa Emozione", "Zenvo TSR-S"
+    ];
+
+    const gallery = document.getElementById("supercar-gallery");
+    supercars.forEach((name, i) => {
+      const card = document.createElement("figure");
+      card.className = "card";
+
+      const img = document.createElement("img");
+      img.loading = "lazy";
+      img.decoding = "async";
+      img.src = `https://source.unsplash.com/1600x900/?supercar,hypercar,${encodeURIComponent(name)}&sig=${i + 1}`;
+      img.alt = name;
+
+      const cap = document.createElement("figcaption");
+      cap.textContent = `${i + 1}. ${name}`;
+
+      card.appendChild(img);
+      card.appendChild(cap);
+      gallery.appendChild(card);
+    });
+  </script>
 </body>
 </html>
