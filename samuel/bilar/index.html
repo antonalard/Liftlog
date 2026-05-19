@@ -18,6 +18,12 @@
     <main class="gallery" id="supercar-gallery"></main>
   </div>
 
+  <dialog id="car-lightbox" class="car-lightbox">
+    <button type="button" id="close-lightbox" class="close-lightbox">Stäng</button>
+    <img id="lightbox-image" src="" alt="">
+    <p id="lightbox-title"></p>
+  </dialog>
+
   <script>
     const supercars = [
       "Bugatti Chiron Super Sport", "Bugatti Bolide", "Bugatti Divo", "Bugatti Mistral", "Bugatti Centodieci",
@@ -43,6 +49,19 @@
     ];
 
     const gallery = document.getElementById("supercar-gallery");
+    const lightbox = document.getElementById("car-lightbox");
+    const lightboxImage = document.getElementById("lightbox-image");
+    const lightboxTitle = document.getElementById("lightbox-title");
+    const closeLightboxBtn = document.getElementById("close-lightbox");
+
+    function buildPrimaryImageUrl(name, i) {
+      return `https://loremflickr.com/1600/900/supercar?lock=${i + 1}`;
+    }
+
+    function buildFallbackImageUrl(name, i) {
+      return `https://picsum.photos/seed/${encodeURIComponent(name)}-${i + 1}/1600/900`;
+    }
+
     supercars.forEach((name, i) => {
       const card = document.createElement("figure");
       card.className = "card";
@@ -50,15 +69,42 @@
       const img = document.createElement("img");
       img.loading = "lazy";
       img.decoding = "async";
-      img.src = `https://source.unsplash.com/1600x900/?supercar,hypercar,${encodeURIComponent(name)}&sig=${i + 1}`;
+      img.src = buildPrimaryImageUrl(name, i);
       img.alt = name;
+      img.dataset.fallback = buildFallbackImageUrl(name, i);
+      img.addEventListener("error", () => {
+        if (img.dataset.failedOnce === "1") return;
+        img.dataset.failedOnce = "1";
+        img.src = img.dataset.fallback;
+      });
 
       const cap = document.createElement("figcaption");
       cap.textContent = `${i + 1}. ${name}`;
 
+      card.tabIndex = 0;
+      card.setAttribute("role", "button");
+      card.setAttribute("aria-label", `Visa större bild för ${name}`);
+      card.addEventListener("click", () => {
+        lightboxImage.src = img.currentSrc || img.src;
+        lightboxImage.alt = name;
+        lightboxTitle.textContent = `${i + 1}. ${name}`;
+        lightbox.showModal();
+      });
+      card.addEventListener("keydown", (e) => {
+        if (e.key === "Enter" || e.key === " ") {
+          e.preventDefault();
+          card.click();
+        }
+      });
+
       card.appendChild(img);
       card.appendChild(cap);
       gallery.appendChild(card);
+    });
+
+    closeLightboxBtn.addEventListener("click", () => lightbox.close());
+    lightbox.addEventListener("click", (e) => {
+      if (e.target === lightbox) lightbox.close();
     });
   </script>
 </body>

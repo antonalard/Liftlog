@@ -62,6 +62,15 @@ p {
   border: 1px solid rgba(148, 183, 245, 0.26);
   background: rgba(255, 255, 255, 0.02);
   box-shadow: 0 18px 48px rgba(0, 0, 0, 0.42);
+  cursor: pointer;
+  transition: transform 180ms ease, border-color 180ms ease;
+}
+
+.card:hover,
+.card:focus-visible {
+  transform: translateY(-3px);
+  border-color: rgba(180, 210, 255, 0.72);
+  outline: none;
 }
 
 .card img {
@@ -75,6 +84,42 @@ p {
   padding: 0.6rem 0.7rem 0.75rem;
   color: #d2e2ff;
   font-size: 0.84rem;
+}
+
+.car-lightbox {
+  width: min(1200px, 94vw);
+  border: 1px solid rgba(168, 200, 255, 0.48);
+  border-radius: 14px;
+  background: rgba(8, 14, 24, 0.96);
+  color: #eaf2ff;
+  padding: 0.8rem;
+}
+
+.car-lightbox::backdrop {
+  background: rgba(0, 0, 0, 0.75);
+}
+
+.close-lightbox {
+  border: 1px solid rgba(168, 200, 255, 0.45);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.06);
+  color: #eaf2ff;
+  padding: 0.42rem 0.7rem;
+  cursor: pointer;
+}
+
+#lightbox-image {
+  display: block;
+  width: 100%;
+  max-height: 72vh;
+  object-fit: contain;
+  margin-top: 0.7rem;
+  border-radius: 10px;
+}
+
+#lightbox-title {
+  margin: 0.65rem 0 0.2rem;
+  color: #d2e2ff;
 }
 
 @media (max-width: 950px) {
