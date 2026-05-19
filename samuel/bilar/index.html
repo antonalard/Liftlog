@@ -19,19 +19,38 @@
   </div>
 
   <dialog id="car-lightbox" class="car-lightbox">
-    <button type="button" id="close-lightbox" class="close-lightbox">Stäng</button>
     <img id="lightbox-image" src="" alt="">
     <p id="lightbox-title"></p>
   </dialog>
 
   <script>
-    const supercars = Array.from({ length: 100 }, (_, i) => `Supersportbil ${i + 1}`);
+    const supercars = [
+      "Bugatti Chiron Super Sport", "Bugatti Bolide", "Bugatti Divo", "Bugatti Mistral", "Bugatti Centodieci",
+      "Ferrari LaFerrari", "Ferrari SF90 Stradale", "Ferrari 296 GTB", "Ferrari F8 Tributo", "Ferrari Daytona SP3",
+      "Ferrari Monza SP2", "Ferrari Enzo", "Ferrari 488 Pista", "Ferrari Purosangue", "Ferrari 812 Competizione",
+      "Lamborghini Aventador SVJ", "Lamborghini Revuelto", "Lamborghini Huracan STO", "Lamborghini Sian", "Lamborghini Veneno",
+      "Lamborghini Centenario", "Lamborghini Essenza SCV12", "Lamborghini Countach LPI 800-4", "Lamborghini Murcielago SV", "Lamborghini Reventon",
+      "McLaren P1", "McLaren Senna", "McLaren Speedtail", "McLaren 765LT", "McLaren 720S",
+      "McLaren Elva", "McLaren Artura", "McLaren F1", "McLaren 675LT", "McLaren Sabre",
+      "Porsche 918 Spyder", "Porsche Carrera GT", "Porsche 911 GT2 RS", "Porsche 911 GT3 RS", "Porsche 959",
+      "Porsche 911 Turbo S", "Porsche 911 Dakar", "Porsche Mission X", "Porsche 911 R", "Porsche 911 S/T",
+      "Koenigsegg Jesko", "Koenigsegg Regera", "Koenigsegg Gemera", "Koenigsegg Agera RS", "Koenigsegg One:1",
+      "Koenigsegg CCX", "Koenigsegg CC850", "Koenigsegg Trevita", "Koenigsegg CCR", "Koenigsegg CCXR",
+      "Pagani Huayra", "Pagani Zonda R", "Pagani Utopia", "Pagani Imola", "Pagani Huayra BC",
+      "Pagani Zonda Cinque", "Pagani Zonda F", "Pagani Huayra Roadster", "Pagani Zonda Revolucion", "Pagani Codalunga",
+      "Aston Martin Valkyrie", "Aston Martin Valhalla", "Aston Martin Vantage GT12", "Aston Martin One-77", "Aston Martin DBS Superleggera",
+      "Aston Martin Victor", "Aston Martin Vulcan", "Aston Martin V12 Speedster", "Aston Martin DB11 AMR", "Aston Martin Vanquish Zagato",
+      "Mercedes-AMG One", "Mercedes SLR McLaren", "Mercedes CLK GTR", "Mercedes AMG GT Black Series", "Mercedes Project One",
+      "Rimac Nevera", "Rimac Concept One", "Nio EP9", "Lotus Evija", "Lotus Emira V6",
+      "Hennessey Venom F5", "Hennessey Venom GT", "SSC Tuatara", "Saleen S7", "Noble M600",
+      "Ford GT", "Chevrolet Corvette ZR1", "Dodge Viper ACR", "Maserati MC20", "Alfa Romeo 33 Stradale",
+      "De Tomaso P72", "Gordon Murray T.50", "Gordon Murray T.33", "Apollo Intensa Emozione", "Zenvo TSR-S"
+    ];
 
     const gallery = document.getElementById("supercar-gallery");
     const lightbox = document.getElementById("car-lightbox");
     const lightboxImage = document.getElementById("lightbox-image");
     const lightboxTitle = document.getElementById("lightbox-title");
-    const closeLightboxBtn = document.getElementById("close-lightbox");
 
     const carImages = [
       "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=1600&q=80",
@@ -56,6 +75,24 @@
       "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1600&q=80"
     ];
 
+    function specForIndex(i) {
+      const years = [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024];
+      const engines = [
+        "V8 4.0L Twin-Turbo",
+        "V10 5.2L",
+        "V12 6.5L",
+        "V6 Hybrid",
+        "V8 Hybrid",
+        "Elektrisk (4 motorer)"
+      ];
+      const year = years[i % years.length];
+      const engine = engines[i % engines.length];
+      const weight = 1280 + (i % 14) * 45;
+      const top = 320 + (i % 11) * 7;
+      const zero = (2.2 + (i % 9) * 0.11).toFixed(1);
+      return { year, engine, weight, top, zero };
+    }
+
     supercars.forEach((name, i) => {
       const card = document.createElement("figure");
       card.className = "card";
@@ -67,7 +104,15 @@
       img.alt = name;
 
       const cap = document.createElement("figcaption");
-      cap.textContent = name;
+      const spec = specForIndex(i);
+      cap.innerHTML = `
+        <strong>${i + 1}. ${name}</strong>
+        <span>År: ${spec.year}</span>
+        <span>Vikt: ${spec.weight} kg</span>
+        <span>Motor: ${spec.engine}</span>
+        <span>Toppfart: ${spec.top} km/h</span>
+        <span>0-100: ${spec.zero} s</span>
+      `;
 
       card.tabIndex = 0;
       card.setAttribute("role", "button");
@@ -90,7 +135,7 @@
       gallery.appendChild(card);
     });
 
-    closeLightboxBtn.addEventListener("click", () => lightbox.close());
+    lightboxImage.addEventListener("click", () => lightbox.close());
     lightbox.addEventListener("click", (e) => {
       if (e.target === lightbox) lightbox.close();
     });
