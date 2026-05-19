@@ -170,8 +170,8 @@ h1 {
 }
 
 .mc-chicken {
-  width: 110px;
-  height: 110px;
+  width: 150px;
+  height: 125px;
   left: -120px;
   animation: chicken-walk 13s linear infinite;
 }
@@ -184,138 +184,157 @@ h1 {
 }
 
 .ch-head {
-  width: 38px;
-  height: 36px;
-  left: 36px;
-  top: 18px;
-  background: #f8f8f8;
-  border: 2px solid #d9d9d9;
+  width: 56px;
+  height: 46px;
+  left: 20px;
+  top: 24px;
+  background: linear-gradient(135deg, #efefef 0%, #dcdcdc 100%);
+  border: 2px solid #cfcfcf;
+  transform: skewY(-8deg);
 }
 
 .ch-head::before,
 .ch-head::after {
   content: "";
   position: absolute;
-  top: 11px;
-  width: 4px;
-  height: 4px;
+  top: 14px;
+  width: 5px;
+  height: 5px;
   background: #131313;
 }
 
-.ch-head::before { left: 8px; }
-.ch-head::after { right: 8px; }
+.ch-head::before { left: 12px; }
+.ch-head::after { right: 12px; }
 
 .ch-body {
-  width: 54px;
-  height: 40px;
-  left: 28px;
-  top: 50px;
-  background: #ffffff;
-  border: 2px solid #e5e5e5;
+  width: 78px;
+  height: 56px;
+  left: 58px;
+  top: 30px;
+  background: linear-gradient(125deg, #f9f9f9 0%, #dedede 100%);
+  border: 2px solid #d3d3d3;
+  transform: skewY(-6deg);
 }
 
 .ch-beak {
-  width: 14px;
-  height: 10px;
-  left: 70px;
-  top: 31px;
-  background: #e39a33;
-  border: 2px solid #c88223;
+  width: 30px;
+  height: 12px;
+  left: 4px;
+  top: 42px;
+  background: #b48a4c;
+  border: 2px solid #8d6d3e;
+}
+
+.ch-beak::after {
+  content: "";
+  position: absolute;
+  left: 3px;
+  top: 12px;
+  width: 18px;
+  height: 8px;
+  background: #d62d1f;
 }
 
 .mc-steve {
-  right: -140px;
-  width: 130px;
-  height: 150px;
+  right: -180px;
+  width: 180px;
+  height: 190px;
   animation: steve-peek 8s ease-in-out infinite;
 }
 
 .st-head {
-  width: 44px;
-  height: 44px;
-  left: 44px;
+  width: 56px;
+  height: 56px;
+  left: 64px;
   top: 12px;
-  background: #d6a07f;
-  border: 2px solid #bc8564;
+  background: linear-gradient(140deg, #dfad86 0%, #c48b66 100%);
+  border: 2px solid #a97957;
+  transform: skewY(-10deg);
 }
 
 .st-hair {
-  width: 44px;
-  height: 16px;
-  left: 44px;
+  width: 56px;
+  height: 20px;
+  left: 64px;
   top: 12px;
   background: #6f4633;
+  transform: skewY(-10deg);
 }
 
 .st-eye {
-  width: 4px;
-  height: 4px;
-  top: 34px;
-  background: #0d0d0d;
+  width: 7px;
+  height: 7px;
+  top: 40px;
+  background: #5566ff;
 }
-.st-eye-left { left: 56px; }
-.st-eye-right { left: 72px; }
+.st-eye-left { left: 78px; }
+.st-eye-right { left: 100px; }
 
 .st-torso {
-  width: 50px;
-  height: 46px;
-  left: 41px;
-  top: 58px;
-  background: #5bb4de;
-  border: 2px solid #4395bc;
+  width: 70px;
+  height: 62px;
+  left: 58px;
+  top: 70px;
+  background: linear-gradient(145deg, #62c0ea 0%, #3da7d6 100%);
+  border: 2px solid #3d91b7;
+  transform: skewY(-8deg);
 }
 
 .st-arm {
-  width: 16px;
-  height: 44px;
-  top: 60px;
-  background: #58aacf;
+  width: 22px;
+  height: 62px;
+  top: 74px;
+  background: linear-gradient(145deg, #6dc3ea 0%, #4ba4cc 100%);
   transform-origin: top center;
 }
 
 .st-arm-left {
   left: 22px;
   animation: arm-swing-left 0.7s ease-in-out infinite;
+  transform: rotate(24deg) skewY(-6deg);
 }
 
 .st-arm-right {
-  left: 92px;
+  left: 130px;
   animation: arm-swing-right 0.7s ease-in-out infinite;
+  transform: rotate(-20deg) skewY(4deg);
 }
 
 .st-leg {
-  width: 18px;
-  height: 44px;
-  top: 104px;
-  background: #2d52b4;
+  width: 26px;
+  height: 66px;
+  top: 128px;
+  background: linear-gradient(160deg, #61c6f2 0%, #2754bf 55%, #1b2a71 100%);
   transform-origin: top center;
 }
 
 .st-leg-left {
-  left: 47px;
+  left: 70px;
   animation: leg-swing-left 0.7s ease-in-out infinite;
+  transform: rotate(20deg) skewY(-6deg);
 }
 
 .st-leg-right {
-  left: 69px;
+  left: 100px;
   animation: leg-swing-right 0.7s ease-in-out infinite;
+  transform: rotate(-14deg) skewY(6deg);
 }
 
 .ch-leg {
-  width: 8px;
-  height: 24px;
+  width: 12px;
+  height: 38px;
   top: 84px;
-  background: #d89438;
+  background: #d3c068;
   transform-origin: top center;
 }
 
 .ch-leg-left {
-  left: 43px;
+  left: 76px;
   animation: leg-swing-left 0.45s ease-in-out infinite;
 }
 
 .ch-leg-right {
-  left: 59px;
+  left: 98px;
   animation: leg-swing-right 0.45s ease-in-out infinite;
 }
 
@@ -327,9 +346,9 @@ h1 {
 }
 
 @keyframes steve-peek {
-  0%, 60%, 100% { right: -140px; }
-  72% { right: -22px; }
-  86% { right: -35px; }
+  0%, 60%, 100% { right: -180px; }
+  72% { right: -36px; }
+  86% { right: -50px; }
 }
 
 @keyframes leg-swing-left {
