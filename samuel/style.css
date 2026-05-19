@@ -5,13 +5,12 @@ body {
   font-family: "Segoe UI", sans-serif;
   color: #eaf2ff;
   background:
-    linear-gradient(rgba(5, 12, 20, 0.52), rgba(5, 12, 20, 0.58)),
-    radial-gradient(900px 420px at 50% -120px, rgba(153, 214, 255, 0.34), transparent 72%),
-    linear-gradient(to top, rgba(73, 120, 66, 0.52) 0 34%, rgba(102, 170, 255, 0.08) 34% 100%),
-    linear-gradient(90deg, rgba(255, 255, 255, 0.07) 1px, transparent 1px),
-    linear-gradient(0deg, rgba(255, 255, 255, 0.07) 1px, transparent 1px),
-    linear-gradient(180deg, #61a5e8 0%, #6fba72 36%, #4e8a4a 66%, #2f4b2c 100%);
-  background-size: auto, auto, auto, 32px 32px, 32px 32px, auto;
+    linear-gradient(rgba(4, 10, 16, 0.42), rgba(4, 10, 16, 0.58)),
+    radial-gradient(1200px 520px at 50% -140px, rgba(245, 255, 195, 0.24), transparent 70%),
+    url("../assets/minecraft_jungle.webp");
+  background-size: auto, auto, cover;
+  background-position: center, center, center;
+  background-repeat: no-repeat;
   background-attachment: fixed;
 }
 
