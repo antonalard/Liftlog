@@ -5,19 +5,14 @@ body {
   font-family: "Segoe UI", sans-serif;
   color: #eaf2ff;
   background:
-    linear-gradient(rgba(7, 16, 28, 0.62), rgba(7, 16, 28, 0.72)),
-    radial-gradient(1400px 700px at 20% -10%, rgba(74, 189, 84, 0.22), transparent 70%),
-    repeating-linear-gradient(
-      0deg,
-      rgba(57, 102, 59, 0.28) 0 48px,
-      rgba(45, 83, 47, 0.28) 48px 96px
-    ),
-    repeating-linear-gradient(
-      90deg,
-      rgba(68, 120, 70, 0.18) 0 48px,
-      rgba(52, 95, 55, 0.18) 48px 96px
-    ),
-    linear-gradient(180deg, #162d1b 0%, #2a482f 28%, #4f7a56 55%, #315236 100%);
+    linear-gradient(rgba(5, 12, 20, 0.52), rgba(5, 12, 20, 0.58)),
+    radial-gradient(900px 420px at 50% -120px, rgba(153, 214, 255, 0.34), transparent 72%),
+    linear-gradient(to top, rgba(73, 120, 66, 0.52) 0 34%, rgba(102, 170, 255, 0.08) 34% 100%),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.07) 1px, transparent 1px),
+    linear-gradient(0deg, rgba(255, 255, 255, 0.07) 1px, transparent 1px),
+    linear-gradient(180deg, #61a5e8 0%, #6fba72 36%, #4e8a4a 66%, #2f4b2c 100%);
+  background-size: auto, auto, auto, 32px 32px, 32px 32px, auto;
+  background-attachment: fixed;
 }
 
 .subpage-shell {
@@ -165,26 +160,85 @@ h1 {
   bottom: 10px;
   filter: drop-shadow(0 4px 0 rgba(0, 0, 0, 0.28));
   image-rendering: pixelated;
+  transform-origin: bottom center;
 }
 
 .mc-chicken {
-  font-size: 46px;
+  width: 96px;
+  height: 96px;
+  background-repeat: no-repeat;
+  background-size: 12px 12px;
+  background-image:
+    linear-gradient(#131313, #131313),
+    linear-gradient(#131313, #131313),
+    linear-gradient(#ffffff, #ffffff),
+    linear-gradient(#ffffff, #ffffff),
+    linear-gradient(#f4f4f4, #f4f4f4),
+    linear-gradient(#f4f4f4, #f4f4f4),
+    linear-gradient(#dbdbdb, #dbdbdb),
+    linear-gradient(#f6c33d, #f6c33d),
+    linear-gradient(#df9230, #df9230),
+    linear-gradient(#f4f4f4, #f4f4f4),
+    linear-gradient(#f4f4f4, #f4f4f4),
+    linear-gradient(#efe8ff, #efe8ff);
+  background-position:
+    24px 12px,
+    60px 12px,
+    12px 24px,
+    24px 24px,
+    36px 24px,
+    48px 24px,
+    60px 24px,
+    72px 24px,
+    72px 36px,
+    24px 36px,
+    36px 36px,
+    24px 48px;
   animation:
     chicken-walk 16s linear infinite,
     chicken-hop 0.9s steps(2) infinite;
 }
 
 .mc-steve {
-  right: -80px;
-  font-size: 58px;
+  right: -110px;
+  width: 100px;
+  height: 120px;
+  background-repeat: no-repeat;
+  background-size: 10px 10px;
+  background-image:
+    linear-gradient(#7a4f33, #7a4f33),
+    linear-gradient(#7a4f33, #7a4f33),
+    linear-gradient(#7a4f33, #7a4f33),
+    linear-gradient(#d6a07f, #d6a07f),
+    linear-gradient(#d6a07f, #d6a07f),
+    linear-gradient(#121212, #121212),
+    linear-gradient(#121212, #121212),
+    linear-gradient(#59b6d8, #59b6d8),
+    linear-gradient(#59b6d8, #59b6d8),
+    linear-gradient(#2b52b6, #2b52b6),
+    linear-gradient(#2b52b6, #2b52b6),
+    linear-gradient(#1f3f8d, #1f3f8d);
+  background-position:
+    30px 0,
+    40px 0,
+    50px 0,
+    30px 10px,
+    40px 10px,
+    30px 20px,
+    40px 20px,
+    20px 40px,
+    40px 40px,
+    20px 70px,
+    50px 70px,
+    20px 90px;
   animation: steve-peek 8s ease-in-out infinite;
 }
 
 @keyframes chicken-walk {
-  0% { left: -60px; transform: translateY(0) scaleX(1); }
+  0% { left: -100px; transform: translateY(0) scaleX(1); }
   49% { transform: translateY(0) scaleX(1); }
-  50% { left: calc(100% + 20px); transform: translateY(0) scaleX(-1); }
-  100% { left: -60px; transform: translateY(0) scaleX(-1); }
+  50% { left: calc(100% + 30px); transform: translateY(0) scaleX(-1); }
+  100% { left: -100px; transform: translateY(0) scaleX(-1); }
 }
 
 @keyframes chicken-hop {
@@ -193,7 +247,7 @@ h1 {
 }
 
 @keyframes steve-peek {
-  0%, 60%, 100% { right: -88px; }
-  72% { right: -8px; }
-  86% { right: -20px; }
+  0%, 60%, 100% { right: -110px; }
+  72% { right: -12px; }
+  86% { right: -24px; }
 }
