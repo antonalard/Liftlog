@@ -4,11 +4,13 @@
   font-display: swap;
 }
 
-* { box-sizing: border-box; }
+* {
+  box-sizing: border-box;
+  font-family: "Minecraft", "Segoe UI", sans-serif;
+}
 html, body { margin: 0; }
 body {
   min-height: 100vh;
-  font-family: "Minecraft", "Segoe UI", sans-serif;
   color: #eaf2ff;
   background:
     linear-gradient(rgba(4, 10, 16, 0.26), rgba(4, 10, 16, 0.36)),
