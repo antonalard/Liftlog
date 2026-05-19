@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Samuel | alard.se</title>
   <meta name="description" content="Samuels sida med coola bilar.">
+  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
   <link rel="stylesheet" href="style.css?v=2">
 </head>
 <body>
@@ -82,19 +83,16 @@
     </div>
   </div>
   <button class="mob-zombie-rider" id="mob-zombie-rider" type="button" aria-label="Zombie rider">
-    <span class="zr-chicken-body"></span>
-    <span class="zr-chicken-head"></span>
-    <span class="zr-chicken-beak"></span>
-    <span class="zr-chicken-leg zr-chicken-leg-left"></span>
-    <span class="zr-chicken-leg zr-chicken-leg-right"></span>
-    <span class="zr-z-head"></span>
-    <span class="zr-z-eye zr-z-eye-left"></span>
-    <span class="zr-z-eye zr-z-eye-right"></span>
-    <span class="zr-z-body"></span>
-    <span class="zr-z-arm zr-z-arm-left"></span>
-    <span class="zr-z-arm zr-z-arm-right"></span>
-    <span class="zr-z-leg zr-z-leg-left"></span>
-    <span class="zr-z-leg zr-z-leg-right"></span>
+    <model-viewer
+      src="/assets/zombie_on_chicken_blocky.glb"
+      camera-controls
+      disable-pan
+      auto-rotate
+      interaction-prompt="none"
+      shadow-intensity="0.8"
+      exposure="1"
+      alt="Zombie på kyckling 3D modell">
+    </model-viewer>
   </button>
 
   <script>
