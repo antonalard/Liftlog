@@ -64,22 +64,28 @@
   </script>
   <div class="mc-anim-layer" aria-hidden="true">
     <div class="mc-chicken" title="Minecraft-kyckling">
-      <span class="ch-head"></span>
-      <span class="ch-body"></span>
-      <span class="ch-beak"></span>
-      <span class="ch-leg ch-leg-left"></span>
-      <span class="ch-leg ch-leg-right"></span>
+      <model-viewer
+        src="/assets/chicken_blocky.glb"
+        auto-rotate
+        camera-controls
+        disable-pan
+        interaction-prompt="none"
+        shadow-intensity="0.8"
+        exposure="1"
+        alt="Kyckling 3D modell">
+      </model-viewer>
     </div>
     <div class="mc-steve" title="Steve">
-      <span class="st-head"></span>
-      <span class="st-hair"></span>
-      <span class="st-eye st-eye-left"></span>
-      <span class="st-eye st-eye-right"></span>
-      <span class="st-torso"></span>
-      <span class="st-arm st-arm-left"></span>
-      <span class="st-arm st-arm-right"></span>
-      <span class="st-leg st-leg-left"></span>
-      <span class="st-leg st-leg-right"></span>
+      <model-viewer
+        src="/assets/steve_blocky.glb"
+        auto-rotate
+        camera-controls
+        disable-pan
+        interaction-prompt="none"
+        shadow-intensity="0.8"
+        exposure="1"
+        alt="Steve 3D modell">
+      </model-viewer>
     </div>
   </div>
   <button class="mob-zombie-rider" id="mob-zombie-rider" type="button" aria-label="Zombie rider">
