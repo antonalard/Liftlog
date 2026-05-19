@@ -1,17 +1,17 @@
 {
-  "updated": "2026-05-19 19:42 CEST",
+  "updated": "2026-05-19 21:30 CEST",
   "today": {
     "weekday": "tuesday",
-    "temp": 17,
-    "meta": "partlycloudy day • Vind 2 m/s",
-    "symbol_code": "partlycloudy_day"
+    "temp": 15,
+    "meta": "fair day • Vind 0 m/s",
+    "symbol_code": "fair_day"
   },
   "week": [
     {
       "weekday": "tue",
       "night": 9,
-      "day": 17,
-      "symbol_code": "partlycloudy_day"
+      "day": 15,
+      "symbol_code": "fair_day"
     },
     {
       "weekday": "wed",
@@ -23,11 +23,11 @@
       "weekday": "thu",
       "night": 9,
       "day": 17,
-      "symbol_code": "partlycloudy_day"
+      "symbol_code": "fair_day"
     },
     {
       "weekday": "fri",
-      "night": 8,
+      "night": 9,
       "day": 17,
       "symbol_code": "cloudy"
     },
