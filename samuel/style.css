@@ -5,9 +5,9 @@ body {
   font-family: "Segoe UI", sans-serif;
   color: #eaf2ff;
   background:
-    linear-gradient(rgba(4, 10, 16, 0.42), rgba(4, 10, 16, 0.58)),
-    radial-gradient(1200px 520px at 50% -140px, rgba(245, 255, 195, 0.24), transparent 70%),
-    url("../assets/minecraft_jungle.webp");
+    linear-gradient(rgba(4, 10, 16, 0.26), rgba(4, 10, 16, 0.36)),
+    radial-gradient(1200px 520px at 50% -140px, rgba(245, 255, 195, 0.18), transparent 70%),
+    url("/assets/minecraft_jungle.webp");
   background-size: auto, auto, cover;
   background-position: center, center, center;
   background-repeat: no-repeat;
