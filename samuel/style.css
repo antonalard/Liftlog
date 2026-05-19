@@ -69,6 +69,17 @@ h1 {
   font-size: clamp(2.1rem, 7vw, 4rem);
 }
 
+.title-image-wrap {
+  margin: 0.2rem 0 0.9rem;
+}
+
+.title-image {
+  display: block;
+  width: min(740px, 100%);
+  height: auto;
+  image-rendering: auto;
+}
+
 .gallery {
   margin-top: 0.6rem;
   display: grid;
