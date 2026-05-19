@@ -54,13 +54,28 @@
     const lightboxTitle = document.getElementById("lightbox-title");
     const closeLightboxBtn = document.getElementById("close-lightbox");
 
-    function buildPrimaryImageUrl(name, i) {
-      return `https://loremflickr.com/1600/900/supercar?lock=${i + 1}`;
-    }
-
-    function buildFallbackImageUrl(name, i) {
-      return `https://picsum.photos/seed/${encodeURIComponent(name)}-${i + 1}/1600/900`;
-    }
+    const carImages = [
+      "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1621135802920-133df287f89c?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1583121274602-3e2820c69888?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1493238792000-8113da705763?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1553440569-bcc63803a83d?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1484136063621-1acbc3f8e36e?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1532581140115-3e355d1ed1de?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1507136566006-cfc505b114fc?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1619405399517-d7fce0f13302?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1517524206127-48bbd363f3d7?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1592853625511-adf1f8c3de9a?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1600&q=80"
+    ];
 
     supercars.forEach((name, i) => {
       const card = document.createElement("figure");
@@ -69,14 +84,8 @@
       const img = document.createElement("img");
       img.loading = "lazy";
       img.decoding = "async";
-      img.src = buildPrimaryImageUrl(name, i);
+      img.src = carImages[i % carImages.length];
       img.alt = name;
-      img.dataset.fallback = buildFallbackImageUrl(name, i);
-      img.addEventListener("error", () => {
-        if (img.dataset.failedOnce === "1") return;
-        img.dataset.failedOnce = "1";
-        img.src = img.dataset.fallback;
-      });
 
       const cap = document.createElement("figcaption");
       cap.textContent = `${i + 1}. ${name}`;
