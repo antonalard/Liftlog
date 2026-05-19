@@ -1,0 +1,427 @@
+{
+  "generated_at": 1779196564,
+  "source": "Wikipedia + Wikidata",
+  "count": 30,
+  "cars": [
+    {
+      "name": "Bugatti Chiron Super Sport",
+      "page_title": "Bugatti Chiron Super Sport",
+      "source_url": "",
+      "image_url": "",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1450,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/batmobile-concept-car-with-neon-lights.jpg"
+    },
+    {
+      "name": "Bugatti Bolide",
+      "page_title": "Bugatti Bolide",
+      "source_url": "https://en.wikipedia.org/wiki/Bugatti_Bolide",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2024_Bugatti_Bolide_4.jpg/330px-2024_Bugatti_Bolide_4.jpg",
+      "stats": {
+        "year": 2024,
+        "weight_kg": 1450,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 380,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/supercar-library/images/bugatti-bolide.jpg"
+    },
+    {
+      "name": "Bugatti Divo",
+      "page_title": "Bugatti Divo",
+      "source_url": "https://en.wikipedia.org/wiki/Bugatti_Divo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bugatti_Divo%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0029%29.jpg/330px-Bugatti_Divo%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0029%29.jpg",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 2035,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 200000,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/supercar-library/images/bugatti-divo.jpg"
+    },
+    {
+      "name": "Ferrari LaFerrari",
+      "page_title": "LaFerrari",
+      "source_url": "https://en.wikipedia.org/wiki/LaFerrari",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/LaFerrari_in_Beverly_Hills_%2814563979888%29.jpg/330px-LaFerrari_in_Beverly_Hills_%2814563979888%29.jpg",
+      "stats": {
+        "year": 2013,
+        "weight_kg": 1430,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/supercar-library/images/ferrari-laferrari.jpg"
+    },
+    {
+      "name": "Ferrari SF90 Stradale",
+      "page_title": "Ferrari SF90 Stradale",
+      "source_url": "https://en.wikipedia.org/wiki/Ferrari_SF90_Stradale",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Red_2019_Ferrari_SF90_Stradale_%2848264238897%29_%28cropped%29.jpg/330px-Red_2019_Ferrari_SF90_Stradale_%2848264238897%29_%28cropped%29.jpg",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1570,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 340,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/batmobile-concept-car-with-neon-lights.jpg"
+    },
+    {
+      "name": "Ferrari 296 GTB",
+      "page_title": "Ferrari 296",
+      "source_url": "https://en.wikipedia.org/wiki/Ferrari_296",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2022_Ferrari_296_%28cropped%29.jpg/330px-2022_Ferrari_296_%28cropped%29.jpg",
+      "stats": {
+        "year": 2021,
+        "weight_kg": 1470,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/batmobile-concept-car-with-neon-lights.jpg"
+    },
+    {
+      "name": "Lamborghini Aventador SVJ",
+      "page_title": "Lamborghini Aventador SVJ",
+      "source_url": "",
+      "image_url": "",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1450,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/batmobile-concept-car-with-neon-lights.jpg"
+    },
+    {
+      "name": "Lamborghini Revuelto",
+      "page_title": "Lamborghini Revuelto",
+      "source_url": "",
+      "image_url": "",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1450,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/batmobile-concept-car-with-neon-lights.jpg"
+    },
+    {
+      "name": "Lamborghini Huracan STO",
+      "page_title": "Lamborghini Huracan STO",
+      "source_url": "",
+      "image_url": "",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1450,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/batmobile-concept-car-with-neon-lights.jpg"
+    },
+    {
+      "name": "McLaren P1",
+      "page_title": "McLaren P1",
+      "source_url": "",
+      "image_url": "",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1450,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/batmobile-concept-car-with-neon-lights.jpg"
+    },
+    {
+      "name": "McLaren Senna",
+      "page_title": "McLaren Senna",
+      "source_url": "https://en.wikipedia.org/wiki/McLaren_Senna",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/McLaren_Senna_IMG_3279.jpg/330px-McLaren_Senna_IMG_3279.jpg",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1273,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/supercar-library/images/mclaren-senna.jpg"
+    },
+    {
+      "name": "McLaren Speedtail",
+      "page_title": "McLaren Speedtail",
+      "source_url": "https://en.wikipedia.org/wiki/McLaren_Speedtail",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/McLaren_Speedtail_Genf_2019_1Y7A5636.jpg/330px-McLaren_Speedtail_Genf_2019_1Y7A5636.jpg",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1430,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/supercar-library/images/mclaren-speedtail.jpg"
+    },
+    {
+      "name": "Porsche 918 Spyder",
+      "page_title": "Porsche 918 Spyder",
+      "source_url": "https://en.wikipedia.org/wiki/Porsche_918_Spyder",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Porsche_918_Spyder_IAA_2013.jpg/330px-Porsche_918_Spyder_IAA_2013.jpg",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1642,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 345,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/supercar-library/images/porsche-918-spyder.jpg"
+    },
+    {
+      "name": "Porsche Carrera GT",
+      "page_title": "Porsche Carrera GT",
+      "source_url": "https://en.wikipedia.org/wiki/Porsche_Carrera_GT",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Porsche_Carrera_GT_-_Goodwood_Breakfast_Club_%28July_2008%29.jpg/330px-Porsche_Carrera_GT_-_Goodwood_Breakfast_Club_%28July_2008%29.jpg",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1380,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/supercar-library/images/porsche-carrera-gt.jpg"
+    },
+    {
+      "name": "Koenigsegg Jesko",
+      "page_title": "Koenigsegg Jesko",
+      "source_url": "https://en.wikipedia.org/wiki/Koenigsegg_Jesko",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0833%29.jpg/330px-GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0833%29.jpg",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1450,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/batmobile-concept-car-with-neon-lights.jpg"
+    },
+    {
+      "name": "Koenigsegg Regera",
+      "page_title": "Koenigsegg Regera",
+      "source_url": "https://en.wikipedia.org/wiki/Koenigsegg_Regera",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Regera_%28light_gradient%29.png/330px-Regera_%28light_gradient%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1420,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/batmobile-concept-car-with-neon-lights.jpg"
+    },
+    {
+      "name": "Koenigsegg Gemera",
+      "page_title": "Koenigsegg Gemera",
+      "source_url": "https://en.wikipedia.org/wiki/Koenigsegg_Gemera",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Koenigsegg_Gemera.jpg/330px-Koenigsegg_Gemera.jpg",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1850,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/supercar-library/images/koenigsegg-gemera.jpg"
+    },
+    {
+      "name": "Pagani Huayra",
+      "page_title": "Pagani Huayra",
+      "source_url": "https://en.wikipedia.org/wiki/Pagani_Huayra",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pagani%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0023%29.jpg/330px-Pagani%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0023%29.jpg",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1450,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/batmobile-concept-car-with-neon-lights.jpg"
+    },
+    {
+      "name": "Pagani Utopia",
+      "page_title": "Pagani Utopia",
+      "source_url": "https://en.wikipedia.org/wiki/Pagani_Utopia",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Pagani_Utopia.jpg/330px-Pagani_Utopia.jpg",
+      "stats": {
+        "year": 2022,
+        "weight_kg": 1280,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/batmobile-concept-car-with-neon-lights.jpg"
+    },
+    {
+      "name": "Aston Martin Valkyrie",
+      "page_title": "Aston Martin Valkyrie",
+      "source_url": "https://en.wikipedia.org/wiki/Aston_Martin_Valkyrie",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Aston_Martin_Valkyrie_Verification_Prototype_001_Genf_2019_1Y7A5569.jpg/330px-Aston_Martin_Valkyrie_Verification_Prototype_001_Genf_2019_1Y7A5569.jpg",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1450,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/batmobile-concept-car-with-neon-lights.jpg"
+    },
+    {
+      "name": "Mercedes-AMG ONE",
+      "page_title": "Mercedes-AMG ONE",
+      "source_url": "",
+      "image_url": "",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1450,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/batmobile-concept-car-with-neon-lights.jpg"
+    },
+    {
+      "name": "Rimac Nevera",
+      "page_title": "Rimac Nevera",
+      "source_url": "",
+      "image_url": "",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1450,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/batmobile-concept-car-with-neon-lights.jpg"
+    },
+    {
+      "name": "Hennessey Venom F5",
+      "page_title": "Hennessey Venom F5",
+      "source_url": "",
+      "image_url": "",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1450,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/batmobile-concept-car-with-neon-lights.jpg"
+    },
+    {
+      "name": "SSC Tuatara",
+      "page_title": "SSC Tuatara",
+      "source_url": "",
+      "image_url": "",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1450,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/batmobile-concept-car-with-neon-lights.jpg"
+    },
+    {
+      "name": "Ford GT",
+      "page_title": "Ford GT",
+      "source_url": "",
+      "image_url": "",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1450,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/batmobile-concept-car-with-neon-lights.jpg"
+    },
+    {
+      "name": "Maserati MC20",
+      "page_title": "Maserati MC20",
+      "source_url": "",
+      "image_url": "",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1450,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/batmobile-concept-car-with-neon-lights.jpg"
+    },
+    {
+      "name": "Lotus Evija",
+      "page_title": "Lotus Evija",
+      "source_url": "https://en.wikipedia.org/wiki/Lotus_Evija",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2020_Lotus_Evija.jpg/330px-2020_Lotus_Evija.jpg",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1680,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/supercar-library/images/lotus-evija.jpg"
+    },
+    {
+      "name": "Nio EP9",
+      "page_title": "Nio EP9",
+      "source_url": "https://en.wikipedia.org/wiki/Nio_EP9",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Nio_EP9.jpg/330px-Nio_EP9.jpg",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1735,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/supercar-library/images/nio-ep9.jpg"
+    },
+    {
+      "name": "Apollo Intensa Emozione",
+      "page_title": "Apollo Intensa Emozione",
+      "source_url": "https://en.wikipedia.org/wiki/Apollo_Intensa_Emozione",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Apollo_Intensa_Emozione_%28IE%29_Golden_Dragon%2C_front_2.1.20.jpg/330px-Apollo_Intensa_Emozione_%28IE%29_Golden_Dragon%2C_front_2.1.20.jpg",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1250,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/supercar-library/images/apollo-intensa-emozione.jpg"
+    },
+    {
+      "name": "Zenvo TSR-S",
+      "page_title": "Zenvo TS1 GT",
+      "source_url": "https://en.wikipedia.org/wiki/Zenvo_TS1_GT",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Zenvo_TS1_cropped_%28cropped%29.jpg/330px-Zenvo_TS1_cropped_%28cropped%29.jpg",
+      "stats": {
+        "year": 2016,
+        "weight_kg": 1580,
+        "engine": "Performance engine / hybrid",
+        "top_speed_kmh": 330,
+        "zero_to_100_s": 2.8
+      },
+      "local_image": "/assets/supercar-library/images/zenvo-tsr-s.jpg"
+    }
+  ]
+}

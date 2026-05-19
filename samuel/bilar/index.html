@@ -29,140 +29,73 @@
   </dialog>
 
   <script>
-    const supercars = [
-      "Bugatti Chiron Super Sport", "Bugatti Bolide", "Bugatti Divo", "Bugatti Mistral", "Bugatti Centodieci",
-      "Ferrari LaFerrari", "Ferrari SF90 Stradale", "Ferrari 296 GTB", "Ferrari F8 Tributo", "Ferrari Daytona SP3",
-      "Ferrari Monza SP2", "Ferrari Enzo", "Ferrari 488 Pista", "Ferrari Purosangue", "Ferrari 812 Competizione",
-      "Lamborghini Aventador SVJ", "Lamborghini Revuelto", "Lamborghini Huracan STO", "Lamborghini Sian", "Lamborghini Veneno",
-      "Lamborghini Centenario", "Lamborghini Essenza SCV12", "Lamborghini Countach LPI 800-4", "Lamborghini Murcielago SV", "Lamborghini Reventon",
-      "McLaren P1", "McLaren Senna", "McLaren Speedtail", "McLaren 765LT", "McLaren 720S",
-      "McLaren Elva", "McLaren Artura", "McLaren F1", "McLaren 675LT", "McLaren Sabre",
-      "Porsche 918 Spyder", "Porsche Carrera GT", "Porsche 911 GT2 RS", "Porsche 911 GT3 RS", "Porsche 959",
-      "Porsche 911 Turbo S", "Porsche 911 Dakar", "Porsche Mission X", "Porsche 911 R", "Porsche 911 S/T",
-      "Koenigsegg Jesko", "Koenigsegg Regera", "Koenigsegg Gemera", "Koenigsegg Agera RS", "Koenigsegg One:1",
-      "Koenigsegg CCX", "Koenigsegg CC850", "Koenigsegg Trevita", "Koenigsegg CCR", "Koenigsegg CCXR",
-      "Pagani Huayra", "Pagani Zonda R", "Pagani Utopia", "Pagani Imola", "Pagani Huayra BC",
-      "Pagani Zonda Cinque", "Pagani Zonda F", "Pagani Huayra Roadster", "Pagani Zonda Revolucion", "Pagani Codalunga",
-      "Aston Martin Valkyrie", "Aston Martin Valhalla", "Aston Martin Vantage GT12", "Aston Martin One-77", "Aston Martin DBS Superleggera",
-      "Aston Martin Victor", "Aston Martin Vulcan", "Aston Martin V12 Speedster", "Aston Martin DB11 AMR", "Aston Martin Vanquish Zagato",
-      "Mercedes-AMG One", "Mercedes SLR McLaren", "Mercedes CLK GTR", "Mercedes AMG GT Black Series", "Mercedes Project One",
-      "Rimac Nevera", "Rimac Concept One", "Nio EP9", "Lotus Evija", "Lotus Emira V6",
-      "Hennessey Venom F5", "Hennessey Venom GT", "SSC Tuatara", "Saleen S7", "Noble M600",
-      "Ford GT", "Chevrolet Corvette ZR1", "Dodge Viper ACR", "Maserati MC20", "Alfa Romeo 33 Stradale",
-      "De Tomaso P72", "Gordon Murray T.50", "Gordon Murray T.33", "Apollo Intensa Emozione", "Zenvo TSR-S"
-    ];
-
-    const cars = supercars.map((name, i) => {
-      const years = [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024];
-      const engines = [
-        "V8 4.0L Twin-Turbo",
-        "V10 5.2L",
-        "V12 6.5L",
-        "V6 Hybrid",
-        "V8 Hybrid",
-        "Elektrisk (4 motorer)"
-      ];
-      const wikiTitle = name
-        .replace(/\s+/g, "_")
-        .replace("Mercedes-AMG_One", "Mercedes-AMG_ONE");
-      return {
-        name,
-        wikiTitle,
-        year: years[i % years.length],
-        weight: 1280 + (i % 14) * 45,
-        engine: engines[i % engines.length],
-        top: 320 + (i % 11) * 7,
-        zero: (2.2 + (i % 9) * 0.11).toFixed(1)
-      };
-    });
-
     const gallery = document.getElementById("supercar-gallery");
     const lightbox = document.getElementById("car-lightbox");
     const lightboxImage = document.getElementById("lightbox-image");
     const lightboxTitle = document.getElementById("lightbox-title");
     const lightboxStats = document.getElementById("lightbox-stats");
 
-    const carImages = [
-      "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1621135802920-133df287f89c?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1583121274602-3e2820c69888?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1493238792000-8113da705763?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1553440569-bcc63803a83d?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1484136063621-1acbc3f8e36e?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1532581140115-3e355d1ed1de?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1507136566006-cfc505b114fc?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1619405399517-d7fce0f13302?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1517524206127-48bbd363f3d7?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1592853625511-adf1f8c3de9a?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1600&q=80"
-    ];
+    function renderCards(cars) {
+      gallery.innerHTML = "";
+      cars.forEach((car) => {
+        const card = document.createElement("figure");
+        card.className = "card";
 
-    async function wikiImageFor(title) {
-      const url = `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(title)}`;
-      const res = await fetch(url, { headers: { accept: "application/json" } });
-      if (!res.ok) throw new Error("No image");
-      const data = await res.json();
-      return data?.thumbnail?.source || null;
+        const img = document.createElement("img");
+        img.loading = "lazy";
+        img.decoding = "async";
+        img.src = car.local_image || "/assets/batmobile-concept-car-with-neon-lights.jpg";
+        img.alt = car.name;
+
+        const cap = document.createElement("figcaption");
+        cap.textContent = car.name;
+
+        card.tabIndex = 0;
+        card.setAttribute("role", "button");
+        card.setAttribute("aria-label", `Visa större bild för ${car.name}`);
+        card.addEventListener("click", () => {
+          lightboxImage.src = img.currentSrc || img.src;
+          lightboxImage.alt = car.name;
+          lightboxTitle.textContent = car.name;
+          lightboxStats.innerHTML = `
+            <li><strong>År:</strong> <span>${car.stats?.year ?? "-"}</span></li>
+            <li><strong>Vikt:</strong> <span>${car.stats?.weight_kg ?? "-"} kg</span></li>
+            <li><strong>Motor:</strong> <span>${car.stats?.engine ?? "-"}</span></li>
+            <li><strong>Toppfart:</strong> <span>${car.stats?.top_speed_kmh ?? "-"} km/h</span></li>
+            <li><strong>0-100:</strong> <span>${car.stats?.zero_to_100_s ?? "-"} s</span></li>
+          `;
+          lightbox.showModal();
+        });
+        card.addEventListener("keydown", (e) => {
+          if (e.key === "Enter" || e.key === " ") {
+            e.preventDefault();
+            card.click();
+          }
+        });
+
+        card.appendChild(img);
+        card.appendChild(cap);
+        gallery.appendChild(card);
+      });
     }
 
-    cars.forEach(async (car, i) => {
-      const card = document.createElement("figure");
-      card.className = "card";
-
-      const img = document.createElement("img");
-      img.loading = "lazy";
-      img.decoding = "async";
-      img.src = carImages[i % carImages.length];
-      img.alt = car.name;
-
+    async function init() {
       try {
-        const wikiImg = await wikiImageFor(car.wikiTitle);
-        if (wikiImg) img.src = wikiImg;
-      } catch (_) {}
-
-      const cap = document.createElement("figcaption");
-      cap.textContent = car.name;
-
-      card.tabIndex = 0;
-      card.setAttribute("role", "button");
-      card.setAttribute("aria-label", `Visa större bild för ${car.name}`);
-      card.addEventListener("click", () => {
-        lightboxImage.src = img.currentSrc || img.src;
-        lightboxImage.alt = car.name;
-        lightboxTitle.textContent = car.name;
-        lightboxStats.innerHTML = `
-          <li><strong>År:</strong> <span>${car.year}</span></li>
-          <li><strong>Vikt:</strong> <span>${car.weight} kg</span></li>
-          <li><strong>Motor:</strong> <span>${car.engine}</span></li>
-          <li><strong>Toppfart:</strong> <span>${car.top} km/h</span></li>
-          <li><strong>0-100:</strong> <span>${car.zero} s</span></li>
-        `;
-        lightbox.showModal();
-      });
-      card.addEventListener("keydown", (e) => {
-        if (e.key === "Enter" || e.key === " ") {
-          e.preventDefault();
-          card.click();
-        }
-      });
-
-      card.appendChild(img);
-      card.appendChild(cap);
-      gallery.appendChild(card);
-    });
+        const res = await fetch("/assets/supercar-library/cars.json");
+        if (!res.ok) throw new Error("No library");
+        const data = await res.json();
+        renderCards(data.cars || []);
+      } catch (err) {
+        console.error(err);
+        renderCards([]);
+      }
+    }
 
     lightboxImage.addEventListener("click", () => lightbox.close());
     lightbox.addEventListener("click", (e) => {
       if (e.target === lightbox) lightbox.close();
     });
+    init();
   </script>
 </body>
 </html>
