@@ -82,24 +82,12 @@ p {
 
 .card figcaption {
   padding: 0.6rem 0.7rem 0.75rem;
-  color: #d2e2ff;
-  font-size: 0.84rem;
-  display: grid;
-  gap: 0.18rem;
-}
-
-.card figcaption strong {
   color: #edf5ff;
-  font-size: 0.9rem;
-}
-
-.card figcaption span {
-  color: #bad0f1;
-  font-size: 0.8rem;
+  font-size: 0.92rem;
 }
 
 .car-lightbox {
-  width: min(1200px, 94vw);
+  width: min(1100px, 94vw);
   border: 0;
   border-radius: 0;
   background: transparent;
@@ -114,16 +102,60 @@ p {
 #lightbox-image {
   display: block;
   width: 100%;
-  max-height: 72vh;
+  max-height: 70vh;
   object-fit: contain;
   margin-top: 0;
-  border-radius: 0;
+  border-radius: 12px;
   cursor: zoom-out;
 }
 
 #lightbox-title {
-  margin: 0.65rem 0 0.2rem;
-  color: #d2e2ff;
+  margin: 0;
+  color: #eef5ff;
+  font-size: 1.35rem;
+}
+
+.car-detail {
+  display: grid;
+  grid-template-columns: 1.35fr 1fr;
+  gap: 0.9rem;
+  align-items: start;
+  background: rgba(8, 14, 24, 0.96);
+  border: 1px solid rgba(168, 200, 255, 0.45);
+  border-radius: 14px;
+  padding: 0.8rem;
+}
+
+.car-stats {
+  border: 1px solid rgba(168, 200, 255, 0.35);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.03);
+  padding: 0.75rem;
+}
+
+#lightbox-stats {
+  list-style: none;
+  margin: 0.7rem 0 0;
+  padding: 0;
+  display: grid;
+  gap: 0.42rem;
+}
+
+#lightbox-stats li {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.6rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  padding-bottom: 0.35rem;
+}
+
+#lightbox-stats strong {
+  color: #cfe2ff;
+}
+
+#lightbox-stats span {
+  color: #eef5ff;
+  text-align: right;
 }
 
 @media (max-width: 950px) {
@@ -133,5 +165,9 @@ p {
 
   .card img {
     height: 260px;
+  }
+
+  .car-detail {
+    grid-template-columns: 1fr;
   }
 }

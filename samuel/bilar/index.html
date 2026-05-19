@@ -19,8 +19,13 @@
   </div>
 
   <dialog id="car-lightbox" class="car-lightbox">
-    <img id="lightbox-image" src="" alt="">
-    <p id="lightbox-title"></p>
+    <article class="car-detail">
+      <img id="lightbox-image" src="" alt="">
+      <section class="car-stats">
+        <h2 id="lightbox-title"></h2>
+        <ul id="lightbox-stats"></ul>
+      </section>
+    </article>
   </dialog>
 
   <script>
@@ -47,10 +52,35 @@
       "De Tomaso P72", "Gordon Murray T.50", "Gordon Murray T.33", "Apollo Intensa Emozione", "Zenvo TSR-S"
     ];
 
+    const cars = supercars.map((name, i) => {
+      const years = [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024];
+      const engines = [
+        "V8 4.0L Twin-Turbo",
+        "V10 5.2L",
+        "V12 6.5L",
+        "V6 Hybrid",
+        "V8 Hybrid",
+        "Elektrisk (4 motorer)"
+      ];
+      const wikiTitle = name
+        .replace(/\s+/g, "_")
+        .replace("Mercedes-AMG_One", "Mercedes-AMG_ONE");
+      return {
+        name,
+        wikiTitle,
+        year: years[i % years.length],
+        weight: 1280 + (i % 14) * 45,
+        engine: engines[i % engines.length],
+        top: 320 + (i % 11) * 7,
+        zero: (2.2 + (i % 9) * 0.11).toFixed(1)
+      };
+    });
+
     const gallery = document.getElementById("supercar-gallery");
     const lightbox = document.getElementById("car-lightbox");
     const lightboxImage = document.getElementById("lightbox-image");
     const lightboxTitle = document.getElementById("lightbox-title");
+    const lightboxStats = document.getElementById("lightbox-stats");
 
     const carImages = [
       "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=1600&q=80",
@@ -75,25 +105,15 @@
       "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1600&q=80"
     ];
 
-    function specForIndex(i) {
-      const years = [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024];
-      const engines = [
-        "V8 4.0L Twin-Turbo",
-        "V10 5.2L",
-        "V12 6.5L",
-        "V6 Hybrid",
-        "V8 Hybrid",
-        "Elektrisk (4 motorer)"
-      ];
-      const year = years[i % years.length];
-      const engine = engines[i % engines.length];
-      const weight = 1280 + (i % 14) * 45;
-      const top = 320 + (i % 11) * 7;
-      const zero = (2.2 + (i % 9) * 0.11).toFixed(1);
-      return { year, engine, weight, top, zero };
+    async function wikiImageFor(title) {
+      const url = `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(title)}`;
+      const res = await fetch(url, { headers: { accept: "application/json" } });
+      if (!res.ok) throw new Error("No image");
+      const data = await res.json();
+      return data?.thumbnail?.source || null;
     }
 
-    supercars.forEach((name, i) => {
+    cars.forEach(async (car, i) => {
       const card = document.createElement("figure");
       card.className = "card";
 
@@ -101,26 +121,30 @@
       img.loading = "lazy";
       img.decoding = "async";
       img.src = carImages[i % carImages.length];
-      img.alt = name;
+      img.alt = car.name;
+
+      try {
+        const wikiImg = await wikiImageFor(car.wikiTitle);
+        if (wikiImg) img.src = wikiImg;
+      } catch (_) {}
 
       const cap = document.createElement("figcaption");
-      const spec = specForIndex(i);
-      cap.innerHTML = `
-        <strong>${i + 1}. ${name}</strong>
-        <span>År: ${spec.year}</span>
-        <span>Vikt: ${spec.weight} kg</span>
-        <span>Motor: ${spec.engine}</span>
-        <span>Toppfart: ${spec.top} km/h</span>
-        <span>0-100: ${spec.zero} s</span>
-      `;
+      cap.textContent = car.name;
 
       card.tabIndex = 0;
       card.setAttribute("role", "button");
-      card.setAttribute("aria-label", `Visa större bild för ${name}`);
+      card.setAttribute("aria-label", `Visa större bild för ${car.name}`);
       card.addEventListener("click", () => {
         lightboxImage.src = img.currentSrc || img.src;
-        lightboxImage.alt = name;
-        lightboxTitle.textContent = `${i + 1}. ${name}`;
+        lightboxImage.alt = car.name;
+        lightboxTitle.textContent = car.name;
+        lightboxStats.innerHTML = `
+          <li><strong>År:</strong> <span>${car.year}</span></li>
+          <li><strong>Vikt:</strong> <span>${car.weight} kg</span></li>
+          <li><strong>Motor:</strong> <span>${car.engine}</span></li>
+          <li><strong>Toppfart:</strong> <span>${car.top} km/h</span></li>
+          <li><strong>0-100:</strong> <span>${car.zero} s</span></li>
+        `;
         lightbox.showModal();
       });
       card.addEventListener("keydown", (e) => {
