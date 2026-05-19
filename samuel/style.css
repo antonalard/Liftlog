@@ -161,96 +161,187 @@ h1 {
   filter: drop-shadow(0 4px 0 rgba(0, 0, 0, 0.28));
   image-rendering: pixelated;
   transform-origin: bottom center;
-  background-repeat: no-repeat;
-  background-size: contain;
 }
 
 .mc-chicken {
-  width: 100px;
-  height: 100px;
+  width: 110px;
+  height: 110px;
   left: -120px;
+  animation: chicken-walk 13s linear infinite;
 }
 
-.mc-chicken::before,
-.mc-chicken::after,
-.mc-steve::before,
-.mc-steve::after {
+.mc-chicken span,
+.mc-steve span {
+  position: absolute;
+  display: block;
+  border-radius: 1px;
+}
+
+.ch-head {
+  width: 38px;
+  height: 36px;
+  left: 36px;
+  top: 18px;
+  background: #f8f8f8;
+  border: 2px solid #d9d9d9;
+}
+
+.ch-head::before,
+.ch-head::after {
   content: "";
   position: absolute;
-  inset: 0;
-  background-repeat: no-repeat;
-  background-size: contain;
-  image-rendering: pixelated;
+  top: 11px;
+  width: 4px;
+  height: 4px;
+  background: #131313;
 }
 
-.mc-chicken::before {
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' shape-rendering='crispEdges'%3E%3Crect width='16' height='16' fill='none'/%3E%3Crect x='4' y='1' width='8' height='1' fill='%23f6c73f'/%3E%3Crect x='3' y='2' width='10' height='1' fill='%23f9f9f9'/%3E%3Crect x='2' y='3' width='12' height='6' fill='%23ffffff'/%3E%3Crect x='3' y='4' width='1' height='1' fill='%23d9d9d9'/%3E%3Crect x='12' y='4' width='1' height='1' fill='%23d9d9d9'/%3E%3Crect x='10' y='5' width='3' height='2' fill='%23f5c13a'/%3E%3Crect x='12' y='6' width='2' height='1' fill='%23d8842a'/%3E%3Crect x='4' y='6' width='1' height='1' fill='%230f0f0f'/%3E%3Crect x='5' y='6' width='1' height='1' fill='%230f0f0f'/%3E%3Crect x='5' y='9' width='6' height='3' fill='%23f7f7f7'/%3E%3Crect x='6' y='12' width='1' height='2' fill='%23d79235'/%3E%3Crect x='9' y='12' width='1' height='2' fill='%23d79235'/%3E%3C/svg%3E");
+.ch-head::before { left: 8px; }
+.ch-head::after { right: 8px; }
+
+.ch-body {
+  width: 54px;
+  height: 40px;
+  left: 28px;
+  top: 50px;
+  background: #ffffff;
+  border: 2px solid #e5e5e5;
 }
 
-.mc-chicken::after {
-  opacity: 0;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' shape-rendering='crispEdges'%3E%3Crect width='16' height='16' fill='none'/%3E%3Crect x='4' y='1' width='8' height='1' fill='%23f6c73f'/%3E%3Crect x='3' y='2' width='10' height='1' fill='%23f9f9f9'/%3E%3Crect x='2' y='3' width='12' height='6' fill='%23ffffff'/%3E%3Crect x='3' y='4' width='1' height='1' fill='%23d9d9d9'/%3E%3Crect x='12' y='4' width='1' height='1' fill='%23d9d9d9'/%3E%3Crect x='10' y='5' width='3' height='2' fill='%23f5c13a'/%3E%3Crect x='12' y='6' width='2' height='1' fill='%23d8842a'/%3E%3Crect x='4' y='6' width='1' height='1' fill='%230f0f0f'/%3E%3Crect x='5' y='6' width='1' height='1' fill='%230f0f0f'/%3E%3Crect x='5' y='9' width='6' height='3' fill='%23f7f7f7'/%3E%3Crect x='5' y='12' width='1' height='2' fill='%23d79235'/%3E%3Crect x='10' y='12' width='1' height='2' fill='%23d79235'/%3E%3C/svg%3E");
-  animation: sprite-swap 0.6s steps(1) infinite;
-}
-
-.mc-chicken::before,
-.mc-chicken::after {
-  animation-name: chicken-bob, sprite-swap;
-  animation-duration: 0.7s, 0.6s;
-  animation-timing-function: ease-in-out, steps(1);
-  animation-iteration-count: infinite, infinite;
-}
-
-.mc-chicken::before {
-  animation-name: chicken-bob;
-  animation-duration: 0.7s;
-  animation-timing-function: ease-in-out;
-  animation-iteration-count: infinite;
+.ch-beak {
+  width: 14px;
+  height: 10px;
+  left: 70px;
+  top: 31px;
+  background: #e39a33;
+  border: 2px solid #c88223;
 }
 
 .mc-steve {
-  right: -120px;
-  width: 120px;
-  height: 140px;
-}
-
-.mc-steve::before {
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 24' shape-rendering='crispEdges'%3E%3Crect width='16' height='24' fill='none'/%3E%3Crect x='4' y='0' width='8' height='1' fill='%23673f2a'/%3E%3Crect x='3' y='1' width='10' height='4' fill='%237b4a33'/%3E%3Crect x='4' y='2' width='8' height='2' fill='%23d2a07d'/%3E%3Crect x='5' y='3' width='1' height='1' fill='%230e0e0e'/%3E%3Crect x='10' y='3' width='1' height='1' fill='%230e0e0e'/%3E%3Crect x='3' y='5' width='10' height='1' fill='%2368b9e2'/%3E%3Crect x='2' y='6' width='12' height='8' fill='%235db2dc'/%3E%3Crect x='1' y='7' width='2' height='7' fill='%234ea4ce'/%3E%3Crect x='13' y='7' width='2' height='7' fill='%234ea4ce'/%3E%3Crect x='4' y='14' width='4' height='10' fill='%232e56bc'/%3E%3Crect x='8' y='14' width='4' height='10' fill='%23284ca8'/%3E%3Crect x='4' y='23' width='4' height='1' fill='%231a2f6a'/%3E%3Crect x='8' y='23' width='4' height='1' fill='%231a2f6a'/%3E%3C/svg%3E");
-}
-
-.mc-steve::after {
-  opacity: 0;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 24' shape-rendering='crispEdges'%3E%3Crect width='16' height='24' fill='none'/%3E%3Crect x='4' y='0' width='8' height='1' fill='%23673f2a'/%3E%3Crect x='3' y='1' width='10' height='4' fill='%237b4a33'/%3E%3Crect x='4' y='2' width='8' height='2' fill='%23d2a07d'/%3E%3Crect x='5' y='3' width='1' height='1' fill='%230e0e0e'/%3E%3Crect x='10' y='3' width='1' height='1' fill='%230e0e0e'/%3E%3Crect x='3' y='5' width='10' height='1' fill='%2368b9e2'/%3E%3Crect x='2' y='6' width='12' height='8' fill='%235db2dc'/%3E%3Crect x='1' y='7' width='2' height='7' fill='%234ea4ce'/%3E%3Crect x='13' y='7' width='2' height='7' fill='%234ea4ce'/%3E%3Crect x='4' y='14' width='4' height='10' fill='%23284ca8'/%3E%3Crect x='8' y='14' width='4' height='10' fill='%232e56bc'/%3E%3Crect x='4' y='23' width='4' height='1' fill='%231a2f6a'/%3E%3Crect x='8' y='23' width='4' height='1' fill='%231a2f6a'/%3E%3C/svg%3E");
-  animation: sprite-swap 0.5s steps(1) infinite;
-}
-
-.mc-chicken {
-  animation: chicken-walk 16s linear infinite;
-}
-
-.mc-steve {
+  right: -140px;
+  width: 130px;
+  height: 150px;
   animation: steve-peek 8s ease-in-out infinite;
+}
+
+.st-head {
+  width: 44px;
+  height: 44px;
+  left: 44px;
+  top: 12px;
+  background: #d6a07f;
+  border: 2px solid #bc8564;
+}
+
+.st-hair {
+  width: 44px;
+  height: 16px;
+  left: 44px;
+  top: 12px;
+  background: #6f4633;
+}
+
+.st-eye {
+  width: 4px;
+  height: 4px;
+  top: 34px;
+  background: #0d0d0d;
+}
+.st-eye-left { left: 56px; }
+.st-eye-right { left: 72px; }
+
+.st-torso {
+  width: 50px;
+  height: 46px;
+  left: 41px;
+  top: 58px;
+  background: #5bb4de;
+  border: 2px solid #4395bc;
+}
+
+.st-arm {
+  width: 16px;
+  height: 44px;
+  top: 60px;
+  background: #58aacf;
+  transform-origin: top center;
+}
+
+.st-arm-left {
+  left: 22px;
+  animation: arm-swing-left 0.7s ease-in-out infinite;
+}
+
+.st-arm-right {
+  left: 92px;
+  animation: arm-swing-right 0.7s ease-in-out infinite;
+}
+
+.st-leg {
+  width: 18px;
+  height: 44px;
+  top: 104px;
+  background: #2d52b4;
+  transform-origin: top center;
+}
+
+.st-leg-left {
+  left: 47px;
+  animation: leg-swing-left 0.7s ease-in-out infinite;
+}
+
+.st-leg-right {
+  left: 69px;
+  animation: leg-swing-right 0.7s ease-in-out infinite;
+}
+
+.ch-leg {
+  width: 8px;
+  height: 24px;
+  top: 84px;
+  background: #d89438;
+  transform-origin: top center;
+}
+
+.ch-leg-left {
+  left: 43px;
+  animation: leg-swing-left 0.45s ease-in-out infinite;
+}
+
+.ch-leg-right {
+  left: 59px;
+  animation: leg-swing-right 0.45s ease-in-out infinite;
 }
 
 @keyframes chicken-walk {
   0% { left: -120px; transform: translateY(0) scaleX(1); }
-  49% { transform: translateY(0) scaleX(1); }
+  49% { transform: translateY(-2px) scaleX(1); }
   50% { left: calc(100% + 24px); transform: translateY(0) scaleX(-1); }
-  100% { left: -120px; transform: translateY(0) scaleX(-1); }
-}
-
-@keyframes chicken-bob {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-5px); }
+  100% { left: -120px; transform: translateY(-2px) scaleX(-1); }
 }
 
 @keyframes steve-peek {
-  0%, 60%, 100% { right: -110px; }
-  72% { right: -12px; }
-  86% { right: -24px; }
+  0%, 60%, 100% { right: -140px; }
+  72% { right: -22px; }
+  86% { right: -35px; }
 }
 
-@keyframes sprite-swap {
-  0%, 49% { opacity: 0; }
-  50%, 100% { opacity: 1; }
+@keyframes leg-swing-left {
+  0%, 100% { transform: rotate(10deg); }
+  50% { transform: rotate(-12deg); }
+}
+
+@keyframes leg-swing-right {
+  0%, 100% { transform: rotate(-12deg); }
+  50% { transform: rotate(10deg); }
+}
+
+@keyframes arm-swing-left {
+  0%, 100% { transform: rotate(-12deg); }
+  50% { transform: rotate(14deg); }
+}
+
+@keyframes arm-swing-right {
+  0%, 100% { transform: rotate(14deg); }
+  50% { transform: rotate(-12deg); }
 }
