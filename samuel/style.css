@@ -177,7 +177,7 @@ h1 {
   left: 0;
   right: 0;
   bottom: 0;
-  height: 170px;
+  height: 280px;
   pointer-events: none;
   z-index: 40;
   overflow: hidden;
@@ -187,7 +187,7 @@ h1 {
 .mc-chicken,
 .mc-steve {
   position: absolute;
-  bottom: 14px;
+  bottom: 8px;
   filter: drop-shadow(0 4px 0 rgba(0, 0, 0, 0.28));
   image-rendering: pixelated;
   transform-origin: bottom center;
@@ -271,7 +271,7 @@ h1 {
 .mc-steve {
   right: -180px;
   width: 200px;
-  height: 210px;
+  height: 240px;
   animation: steve-peek 8s ease-in-out infinite;
 }
 
