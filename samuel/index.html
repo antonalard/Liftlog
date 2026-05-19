@@ -85,6 +85,7 @@
   <button class="mob-zombie-rider" id="mob-zombie-rider" type="button" aria-label="Zombie rider">
     <model-viewer
       src="/assets/zombie_on_chicken_blocky.glb"
+      orientation="90deg 0deg 0deg"
       camera-controls
       disable-pan
       auto-rotate
@@ -103,16 +104,19 @@
       const state = {
         x: Math.max(120, window.innerWidth * 0.78),
         y: Math.max(140, window.innerHeight * 0.72),
+        vx: 0,
+        vy: 0,
         targetX: 0,
         targetY: 0,
         attackX: null,
         attackY: null,
-        attacking: false
+        attacking: false,
+        t: 0
       };
 
-      const mobW = 120;
-      const mobH = 140;
-      const avoidRadius = 180;
+      const mobW = 170;
+      const mobH = 180;
+      const avoidRadius = 240;
 
       function clamp(v, min, max) {
         return Math.min(max, Math.max(min, v));
@@ -128,42 +132,59 @@
       function pointerMove(e) {
         state.targetX = e.clientX;
         state.targetY = e.clientY;
-
-        if (state.attacking) return;
-
-        const cx = state.x + mobW / 2;
-        const cy = state.y + mobH / 2;
-        const dx = cx - e.clientX;
-        const dy = cy - e.clientY;
-        const dist = Math.hypot(dx, dy);
-
-        if (dist < avoidRadius) {
-          const force = (avoidRadius - dist) / avoidRadius;
-          const push = 22 + force * 26;
-          state.x += (dx / (dist || 1)) * push;
-          state.y += (dy / (dist || 1)) * push;
-          place();
-        }
       }
 
       function tick() {
+        state.t += 0.016;
+        const cx = state.x + mobW / 2;
+        const cy = state.y + mobH / 2;
+
         if (state.attacking && state.attackX !== null && state.attackY !== null) {
-          const dx = state.attackX - (state.x + mobW / 2);
-          const dy = state.attackY - (state.y + mobH / 2);
+          const dx = state.attackX - cx;
+          const dy = state.attackY - cy;
           const dist = Math.hypot(dx, dy);
-          const speed = 7.5;
+          const accel = 1.35;
+          const maxSpeed = 14;
 
           if (dist < 18) {
             state.attacking = false;
             mob.classList.remove("is-attacking");
           } else {
-            state.x += (dx / (dist || 1)) * speed;
-            state.y += (dy / (dist || 1)) * speed;
+            state.vx += (dx / (dist || 1)) * accel;
+            state.vy += (dy / (dist || 1)) * accel;
+            const speed = Math.hypot(state.vx, state.vy);
+            if (speed > maxSpeed) {
+              state.vx = (state.vx / speed) * maxSpeed;
+              state.vy = (state.vy / speed) * maxSpeed;
+            }
           }
         } else {
-          state.x += Math.sin(Date.now() / 460) * 0.5;
-          state.y += Math.cos(Date.now() / 520) * 0.35;
+          const dx = cx - state.targetX;
+          const dy = cy - state.targetY;
+          const dist = Math.hypot(dx, dy);
+
+          if (dist < avoidRadius) {
+            const panic = (avoidRadius - dist) / avoidRadius;
+            const steer = 1.1 + panic * 1.9;
+            state.vx += (dx / (dist || 1)) * steer;
+            state.vy += (dy / (dist || 1)) * steer;
+          } else {
+            state.vx += Math.sin(state.t * 1.2) * 0.08;
+            state.vy += Math.cos(state.t * 1.0) * 0.06;
+          }
+
+          const roamMax = 5.6;
+          const roamSpeed = Math.hypot(state.vx, state.vy);
+          if (roamSpeed > roamMax) {
+            state.vx = (state.vx / roamSpeed) * roamMax;
+            state.vy = (state.vy / roamSpeed) * roamMax;
+          }
         }
+
+        state.vx *= 0.92;
+        state.vy *= 0.92;
+        state.x += state.vx;
+        state.y += state.vy;
 
         place();
         requestAnimationFrame(tick);
