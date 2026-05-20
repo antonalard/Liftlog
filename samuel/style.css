@@ -191,6 +191,8 @@ h1 {
   filter: drop-shadow(0 4px 0 rgba(0, 0, 0, 0.28));
   image-rendering: pixelated;
   transform-origin: bottom center;
+  will-change: transform, left, bottom;
+  pointer-events: none;
 }
 
 .mc-chicken model-viewer,
@@ -206,7 +208,6 @@ h1 {
   width: 160px;
   height: 150px;
   left: -120px;
-  animation: chicken-walk 13s linear infinite;
 }
 
 .mc-chicken span,
@@ -272,7 +273,6 @@ h1 {
   right: -180px;
   width: 200px;
   height: 240px;
-  animation: steve-peek 8s ease-in-out infinite;
 }
 
 .st-head {
@@ -427,6 +427,7 @@ h1 {
   border-radius: 10px;
   --progress-bar-color: #8ad6ff;
   --poster-color: transparent;
+  transition: transform 140ms linear;
 }
 
 .mob-zombie-rider.is-attacking {

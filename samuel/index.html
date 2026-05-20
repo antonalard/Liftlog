@@ -63,24 +63,26 @@
     });
   </script>
   <div class="mc-anim-layer" aria-hidden="true">
-    <div class="mc-chicken" title="Minecraft-kyckling">
+    <div class="mc-chicken" id="mc-chicken" title="Minecraft-kyckling">
       <model-viewer
         src="/assets/minecraft_-_chicken.glb"
-        auto-rotate
         camera-controls
         disable-pan
+        camera-orbit="0deg 78deg 3.4m"
+        field-of-view="36deg"
         interaction-prompt="none"
         shadow-intensity="0.8"
         exposure="1"
         alt="Kyckling 3D modell">
       </model-viewer>
     </div>
-    <div class="mc-steve" title="Steve">
+    <div class="mc-steve" id="mc-steve" title="Steve">
       <model-viewer
         src="/assets/minecraft_-_steve.glb"
-        auto-rotate
         camera-controls
         disable-pan
+        camera-orbit="0deg 78deg 3.8m"
+        field-of-view="34deg"
         interaction-prompt="none"
         shadow-intensity="0.8"
         exposure="1"
@@ -102,7 +104,79 @@
 
   <script>
     (() => {
+      const steve = document.getElementById("mc-steve");
+      const chicken = document.getElementById("mc-chicken");
+      let mouseX = window.innerWidth * 0.5;
+      let mouseY = window.innerHeight * 0.75;
+      if (!steve || !chicken) return;
+
+      const actors = [
+        { el: steve, x: window.innerWidth * 0.7, y: 26, vx: -1.2, vy: 0, max: 3.8, avoid: 180, steer: 0.33 },
+        { el: chicken, x: window.innerWidth * 0.2, y: 80, vx: 1.4, vy: 0, max: 4.6, avoid: 150, steer: 0.42 }
+      ];
+
+      function clamp(v, min, max) {
+        return Math.min(max, Math.max(min, v));
+      }
+
+      function tickActors() {
+        const maxX = window.innerWidth - 40;
+        const minX = -180;
+        const minY = 6;
+        const maxY = 120;
+
+        for (const a of actors) {
+          const rect = a.el.getBoundingClientRect();
+          const cx = a.x + rect.width * 0.5;
+          const cy = window.innerHeight - 280 + a.y + rect.height * 0.5;
+          const dx = mouseX - cx;
+          const dy = mouseY - cy;
+          const dist = Math.hypot(dx, dy);
+
+          if (dist < a.avoid) {
+            const push = (a.avoid - dist) / a.avoid;
+            a.vx -= (dx / (dist || 1)) * (a.steer + push * 0.55);
+            a.vy -= (dy / (dist || 1)) * (a.steer * 0.22 + push * 0.25);
+          } else {
+            a.vx += Math.sin(Date.now() / 900 + a.x * 0.003) * 0.03;
+            a.vy += Math.cos(Date.now() / 1050 + a.y * 0.02) * 0.02;
+          }
+
+          const speed = Math.hypot(a.vx, a.vy);
+          if (speed > a.max) {
+            a.vx = (a.vx / speed) * a.max;
+            a.vy = (a.vy / speed) * a.max;
+          }
+
+          a.vx *= 0.95;
+          a.vy *= 0.92;
+          a.x += a.vx;
+          a.y += a.vy;
+
+          if (a.x < minX || a.x > maxX) a.vx *= -1;
+          if (a.y < minY || a.y > maxY) a.vy *= -1;
+          a.x = clamp(a.x, minX, maxX);
+          a.y = clamp(a.y, minY, maxY);
+
+          a.el.style.left = `${a.x}px`;
+          a.el.style.bottom = `${a.y}px`;
+          const dir = a.vx >= 0 ? 1 : -1;
+          a.el.style.transform = `scaleX(${dir})`;
+        }
+        requestAnimationFrame(tickActors);
+      }
+
+      window.addEventListener("mousemove", (e) => {
+        mouseX = e.clientX;
+        mouseY = e.clientY;
+      }, { passive: true });
+
+      requestAnimationFrame(tickActors);
+    })();
+
+    (() => {
       const mob = document.getElementById("mob-zombie-rider");
+      const mobModel = mob?.querySelector("model-viewer");
       if (!mob) return;
 
       const state = {
@@ -142,6 +216,10 @@
         state.t += 0.016;
         const cx = state.x + mobW / 2;
         const cy = state.y + mobH / 2;
+        const lookDx = state.targetX - cx;
+        const lookDy = state.targetY - cy;
+        const lookDeg = (Math.atan2(lookDy, lookDx) * 180) / Math.PI + 90;
+        if (mobModel) mobModel.style.transform = `rotate(${lookDeg}deg)`;
 
         if (state.attacking && state.attackX !== null && state.attackY !== null) {
           const dx = state.attackX - cx;
