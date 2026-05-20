@@ -204,6 +204,12 @@ h1 {
   --progress-bar-color: #8ad6ff;
 }
 
+model-viewer::part(default-progress-bar),
+model-viewer::part(default-progress-mask),
+model-viewer::part(default-progress-text) {
+  display: none;
+}
+
 .mc-chicken {
   width: 72px;
   height: 72px;
