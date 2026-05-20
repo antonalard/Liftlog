@@ -162,18 +162,23 @@
         { el: chicken, x: window.innerWidth * 0.2, y: 48, vx: 1.6, vy: 0, max: 4.9, avoid: 150, steer: 0.42, minY: 8, maxY: 64, walker: true }
       ];
       extraChickens.forEach((extra, idx) => {
+        const phase = Math.random() * Math.PI * 2;
+        const startX = Math.random() * window.innerWidth * 0.42;
+        const startY = 6 + Math.random() * 68;
+        const baseVx = (Math.random() * 1.6 + 0.7) * (Math.random() > 0.5 ? 1 : -1);
         actors.push({
           el: extra,
-          x: 18 + (idx % 5) * 24,
-          y: 10 + Math.floor(idx / 5) * 18,
-          vx: 1.1 + idx * 0.08,
+          x: startX,
+          y: startY,
+          vx: baseVx,
           vy: 0,
           max: 3.8,
           avoid: 110,
           steer: 0.25,
           minY: 6,
           maxY: 74,
-          walker: true
+          walker: true,
+          phase
         });
       });
 
@@ -201,8 +206,8 @@
             a.vy -= (dy / (dist || 1)) * (a.steer * 0.22 + push * 0.25);
           } else {
             if (a.walker) {
-              a.vx += Math.sin(Date.now() / 1900) * 0.03;
-              a.vy += Math.cos(Date.now() / 850 + a.x * 0.02) * 0.008;
+              a.vx += Math.sin(Date.now() / 1900 + (a.phase || 0)) * 0.03;
+              a.vy += Math.cos(Date.now() / 850 + a.x * 0.02 + (a.phase || 0)) * 0.008;
             } else {
               a.vx += Math.sin(Date.now() / 900 + a.x * 0.003) * 0.03;
               a.vy += Math.cos(Date.now() / 1050 + a.y * 0.02) * 0.02;
@@ -231,7 +236,7 @@
           a.el.style.bottom = `${a.y}px`;
           if (a.walker) {
             const dir = a.vx >= 0 ? -1 : 1;
-            const bob = Math.sin(Date.now() / 120) * 2.2;
+            const bob = Math.sin(Date.now() / 120 + (a.phase || 0)) * 2.2;
             a.el.style.transform = `translateY(${bob}px) scaleX(${dir})`;
           }
 
@@ -256,6 +261,7 @@
       let yaw = 0;
       let pitch = 66;
       let roll = 0;
+      const baseJockeyOrientation = { x: 180, y: 180, z: 135 };
 
       const state = {
         x: Math.max(120, window.innerWidth * 0.78),
@@ -354,9 +360,15 @@
 
         place();
         if (mobModel) {
-          const dir = state.vx >= 0 ? -1 : 1;
+          const facingOffset = state.vx >= 0 ? 0 : 180;
           const bob = Math.sin(state.t * 13) * 2.2;
-          mobModel.style.transform = `translateY(${bob}px) scaleX(${dir})`;
+          mobModel.style.transform = `translateY(${bob}px)`;
+          if (!debug3d) {
+            mobModel.setAttribute(
+              "orientation",
+              `${baseJockeyOrientation.x}deg ${(baseJockeyOrientation.y + facingOffset)}deg ${baseJockeyOrientation.z}deg`
+            );
+          }
         }
         requestAnimationFrame(tick);
       }
