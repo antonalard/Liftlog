@@ -128,11 +128,10 @@
       const steve = document.getElementById("mc-steve");
       const chicken = document.getElementById("mc-chicken");
       const mob = document.getElementById("mob-zombie-rider");
-      const mobInner = document.getElementById("mob-zombie-rider-inner");
       const layer = document.querySelector(".mc-anim-layer");
       let mouseX = window.innerWidth * 0.5;
       let mouseY = window.innerHeight * 0.75;
-      if (!steve || !chicken || !mob || !mobInner || !layer) return;
+      if (!steve || !chicken || !mob || !layer) return;
 
       const extraChickens = [];
       for (let i = 0; i < 10; i += 1) {
@@ -162,9 +161,9 @@
       }
 
       const actors = [
-        { el: steve, x: window.innerWidth * 0.7, y: 10, vx: -3.2, vy: 0, max: 6.2, avoid: 80, steer: 0.16, minY: 4, maxY: 82, walker: true },
-        { el: chicken, x: window.innerWidth * 0.2, y: 48, vx: 1.6, vy: 0, max: 4.9, avoid: 150, steer: 0.42, minY: 8, maxY: 64, walker: true },
-        { el: mob, innerEl: mobInner, x: window.innerWidth * 0.78, y: 120, vx: -2.8, vy: 0, max: 5.8, avoid: 120, steer: 0.18, minY: 14, maxY: Math.max(180, window.innerHeight - 260), walker: true }
+        { el: steve, x: window.innerWidth * 0.7, y: 10, vx: -3.2, vy: 0, max: 6.2, avoid: 80, steer: 0.16, minY: 4, maxY: 82, walker: true, phase: 0.35 },
+        { el: chicken, x: window.innerWidth * 0.2, y: 48, vx: 1.6, vy: 0, max: 4.9, avoid: 150, steer: 0.42, minY: 8, maxY: 64, walker: true, phase: 1.45 },
+        { el: mob, x: window.innerWidth * 0.78, y: 120, vx: -2.8, vy: 0, max: 5.8, avoid: 120, steer: 0.18, minY: 14, maxY: Math.max(180, window.innerHeight - 260), walker: true, phase: 2.55 }
       ];
       extraChickens.forEach((extra, idx) => {
         const phase = Math.random() * Math.PI * 2;
@@ -242,12 +241,7 @@
           if (a.walker) {
             const dir = a.vx >= 0 ? -1 : 1;
             const bob = Math.sin(Date.now() / 120 + (a.phase || 0)) * 2.2;
-            a.el.style.transform = `translateY(${bob}px)`;
-            if (a.innerEl) {
-              a.innerEl.style.transform = `scaleX(${dir})`;
-            } else {
-              a.el.style.transform += ` scaleX(${dir})`;
-            }
+            a.el.style.transform = `translateY(${bob}px) scaleX(${dir})`;
           }
 
           // Keep camera fixed so models stay fully visible.
