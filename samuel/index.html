@@ -261,7 +261,6 @@
       let yaw = 0;
       let pitch = 66;
       let roll = 0;
-      const baseJockeyOrientation = { x: 180, y: 180, z: 135 };
 
       const state = {
         x: Math.max(120, window.innerWidth * 0.78),
@@ -360,15 +359,9 @@
 
         place();
         if (mobModel) {
-          const facingOffset = state.vx >= 0 ? 0 : 180;
+          const dir = state.vx >= 0 ? -1 : 1;
           const bob = Math.sin(state.t * 13) * 2.2;
-          mobModel.style.transform = `translateY(${bob}px)`;
-          if (!debug3d) {
-            mobModel.setAttribute(
-              "orientation",
-              `${baseJockeyOrientation.x}deg ${(baseJockeyOrientation.y + facingOffset)}deg ${baseJockeyOrientation.z}deg`
-            );
-          }
+          mob.style.transform = `translateY(${bob}px) scaleX(${dir})`;
         }
         requestAnimationFrame(tick);
       }
