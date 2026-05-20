@@ -111,8 +111,8 @@
       if (!steve || !chicken) return;
 
       const actors = [
-        { el: steve, x: window.innerWidth * 0.7, y: 26, vx: -1.2, vy: 0, max: 3.8, avoid: 180, steer: 0.33 },
-        { el: chicken, x: window.innerWidth * 0.2, y: 80, vx: 1.4, vy: 0, max: 4.6, avoid: 150, steer: 0.42 }
+        { el: steve, x: window.innerWidth * 0.7, y: 22, vx: -1.2, vy: 0, max: 3.8, avoid: 180, steer: 0.33, minY: 4, maxY: 28 },
+        { el: chicken, x: window.innerWidth * 0.2, y: 48, vx: 1.4, vy: 0, max: 4.6, avoid: 150, steer: 0.42, minY: 8, maxY: 64 }
       ];
 
       function clamp(v, min, max) {
@@ -122,8 +122,8 @@
       function tickActors() {
         const maxX = window.innerWidth - 40;
         const minX = -180;
-        const minY = 6;
-        const maxY = 120;
+        const minYDefault = 6;
+        const maxYDefault = 80;
 
         for (const a of actors) {
           const rect = a.el.getBoundingClientRect();
@@ -153,6 +153,8 @@
           a.x += a.vx;
           a.y += a.vy;
 
+          const minY = a.minY ?? minYDefault;
+          const maxY = a.maxY ?? maxYDefault;
           if (a.x < minX || a.x > maxX) a.vx *= -1;
           if (a.y < minY || a.y > maxY) a.vy *= -1;
           a.x = clamp(a.x, minX, maxX);

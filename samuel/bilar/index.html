@@ -87,7 +87,7 @@
         renderCards(data.cars || []);
       } catch (err) {
         console.error(err);
-        renderCards([]);
+        gallery.innerHTML = `<p style="color:#dbe8ff;padding:0.8rem 0.4rem">Kunde inte ladda bilbiblioteket just nu. Testa att uppdatera sidan.</p>`;
       }
     }
 

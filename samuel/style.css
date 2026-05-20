@@ -180,7 +180,7 @@ h1 {
   height: 280px;
   pointer-events: none;
   z-index: 40;
-  overflow: hidden;
+  overflow: visible;
   background: linear-gradient(to top, rgba(19, 56, 23, 0.55), rgba(19, 56, 23, 0));
 }
 
