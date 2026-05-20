@@ -93,7 +93,6 @@
       src="/assets/minecraft_chicken_jockey.glb"
       camera-controls
       disable-pan
-      auto-rotate
       interaction-prompt="none"
       shadow-intensity="0.8"
       exposure="1"
@@ -201,6 +200,11 @@
         state.attackX = state.targetX || window.innerWidth * 0.5;
         state.attackY = state.targetY || window.innerHeight * 0.5;
         mob.classList.add("is-attacking");
+        mob.classList.remove("is-clicked");
+        // restart click animation cleanly on repeated clicks
+        void mob.offsetWidth;
+        mob.classList.add("is-clicked");
+        window.setTimeout(() => mob.classList.remove("is-clicked"), 360);
       });
 
       window.addEventListener("mousemove", pointerMove, { passive: true });

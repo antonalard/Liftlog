@@ -433,6 +433,10 @@ h1 {
   animation: zr-shake 0.11s linear infinite;
 }
 
+.mob-zombie-rider.is-clicked {
+  animation: zr-click-punch 0.36s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
 .zr-chicken-body {
   width: 66px;
   height: 42px;
@@ -551,4 +555,11 @@ h1 {
   50% { transform: translateX(-1px) translateY(1px); }
   75% { transform: translateX(1px) translateY(1px); }
   100% { transform: translateX(0) translateY(0); }
+}
+
+@keyframes zr-click-punch {
+  0% { transform: scale(1) rotate(0deg); }
+  30% { transform: scale(1.12) rotate(-2deg); }
+  65% { transform: scale(0.96) rotate(2deg); }
+  100% { transform: scale(1) rotate(0deg); }
 }
