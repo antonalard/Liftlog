@@ -103,7 +103,7 @@
   <button class="mob-zombie-rider" id="mob-zombie-rider" type="button" aria-label="Zombie rider">
     <model-viewer
       src="/assets/minecraft_chicken_jockey.glb"
-      orientation="0deg 0deg 0deg"
+      orientation="0deg 180deg 0deg"
       scale="1 1 1"
       camera-controls
       disable-pan
@@ -128,7 +128,7 @@
       if (!steve || !chicken) return;
 
       const actors = [
-        { el: steve, x: window.innerWidth * 0.7, y: 22, vx: -1.2, vy: 0, max: 3.8, avoid: 180, steer: 0.33, minY: 4, maxY: 28 },
+        { el: steve, x: window.innerWidth * 0.7, y: 10, vx: -2.8, vy: 0, max: 5.8, avoid: 120, steer: 0.18, minY: 4, maxY: 14 },
         { el: chicken, x: window.innerWidth * 0.2, y: 48, vx: 1.4, vy: 0, max: 4.6, avoid: 150, steer: 0.42, minY: 8, maxY: 64 }
       ];
 
@@ -155,8 +155,13 @@
             a.vx -= (dx / (dist || 1)) * (a.steer + push * 0.55);
             a.vy -= (dy / (dist || 1)) * (a.steer * 0.22 + push * 0.25);
           } else {
-            a.vx += Math.sin(Date.now() / 900 + a.x * 0.003) * 0.03;
-            a.vy += Math.cos(Date.now() / 1050 + a.y * 0.02) * 0.02;
+            if (a.el.id === "mc-steve") {
+              a.vx += Math.sin(Date.now() / 1200) * 0.06;
+              a.vy += Math.cos(Date.now() / 700 + a.x * 0.02) * 0.012;
+            } else {
+              a.vx += Math.sin(Date.now() / 900 + a.x * 0.003) * 0.03;
+              a.vy += Math.cos(Date.now() / 1050 + a.y * 0.02) * 0.02;
+            }
           }
 
           const speed = Math.hypot(a.vx, a.vy);
@@ -179,7 +184,10 @@
 
           a.el.style.left = `${a.x}px`;
           a.el.style.bottom = `${a.y}px`;
-          const dir = a.vx >= 0 ? 1 : -1;
+          if (a.el.id === "mc-steve") {
+            const step = 1 + Math.sin(Date.now() / 130) * 0.04;
+            a.el.style.transform = `scale(${step})`;
+          }
 
           // Keep camera fixed so models stay fully visible.
         }
