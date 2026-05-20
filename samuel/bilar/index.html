@@ -63,6 +63,7 @@
             <li><strong>Motor:</strong> <span>${car.stats?.engine ?? "-"}</span></li>
             <li><strong>Toppfart:</strong> <span>${car.stats?.top_speed_kmh ?? "-"} km/h</span></li>
             <li><strong>0-100:</strong> <span>${car.stats?.zero_to_100_s ?? "-"} s</span></li>
+            <li><strong>Källa:</strong> <span>${car.source_url ? `<a href="${car.source_url}" target="_blank" rel="noopener noreferrer">Wikipedia</a>` : "-"}</span></li>
           `;
           lightbox.showModal();
         });
@@ -84,7 +85,14 @@
         const res = await fetch("/assets/supercar-library/cars.json");
         if (!res.ok) throw new Error("No library");
         const data = await res.json();
-        renderCards(data.cars || []);
+        const verifiedCars = (data.cars || []).filter((car) =>
+          car &&
+          car.name &&
+          car.source_url &&
+          car.local_image &&
+          !String(car.local_image).includes("batmobile-concept-car-with-neon-lights.jpg")
+        );
+        renderCards(verifiedCars);
       } catch (err) {
         console.error(err);
         gallery.innerHTML = `<p style="color:#dbe8ff;padding:0.8rem 0.4rem">Kunde inte ladda bilbiblioteket just nu. Testa att uppdatera sidan.</p>`;
