@@ -104,7 +104,7 @@
   <button class="mob-zombie-rider" id="mob-zombie-rider" type="button" aria-label="Zombie rider">
     <model-viewer
       src="/assets/minecraft_chicken_jockey.glb"
-      orientation="180deg 180deg 90deg"
+      orientation="180deg 160deg 90deg"
       scale="1 1 1"
       autoplay
       camera-controls
@@ -131,7 +131,7 @@
 
       const actors = [
         { el: steve, x: window.innerWidth * 0.7, y: 10, vx: -2.8, vy: 0, max: 5.8, avoid: 120, steer: 0.18, minY: 4, maxY: 14, walker: true },
-        { el: chicken, x: window.innerWidth * 0.2, y: 48, vx: 1.4, vy: 0, max: 4.6, avoid: 150, steer: 0.42, minY: 8, maxY: 64 }
+        { el: chicken, x: window.innerWidth * 0.2, y: 48, vx: 1.6, vy: 0, max: 4.9, avoid: 150, steer: 0.42, minY: 8, maxY: 64, walker: true }
       ];
 
       function clamp(v, min, max) {
