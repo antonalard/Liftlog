@@ -69,8 +69,11 @@
         orientation="0deg 0deg 0deg"
         camera-controls
         disable-pan
-        camera-orbit="0deg 64deg 7.2m"
-        field-of-view="36deg"
+        disable-zoom
+        camera-orbit="25deg 70deg 12.5m"
+        min-camera-orbit="25deg 70deg 12.5m"
+        max-camera-orbit="25deg 70deg 12.5m"
+        field-of-view="46deg"
         interaction-prompt="none"
         shadow-intensity="0.8"
         exposure="1"
@@ -83,8 +86,11 @@
         orientation="0deg 0deg 0deg"
         camera-controls
         disable-pan
-        camera-orbit="0deg 62deg 12.5m"
-        field-of-view="34deg"
+        disable-zoom
+        camera-orbit="25deg 70deg 18m"
+        min-camera-orbit="25deg 70deg 18m"
+        max-camera-orbit="25deg 70deg 18m"
+        field-of-view="50deg"
         interaction-prompt="none"
         shadow-intensity="0.8"
         exposure="1"
@@ -98,8 +104,11 @@
       orientation="0deg 0deg 0deg"
       camera-controls
       disable-pan
-      camera-orbit="0deg 66deg 4.1m"
-      field-of-view="34deg"
+      disable-zoom
+      camera-orbit="25deg 70deg 8m"
+      min-camera-orbit="25deg 70deg 8m"
+      max-camera-orbit="25deg 70deg 8m"
+      field-of-view="42deg"
       interaction-prompt="none"
       shadow-intensity="0.8"
       exposure="1"
@@ -169,13 +178,7 @@
           a.el.style.bottom = `${a.y}px`;
           const dir = a.vx >= 0 ? 1 : -1;
 
-          const mv = a.el.querySelector("model-viewer");
-          if (mv) {
-            const heading = dir > 0 ? 20 : 200;
-            const tilt = a.el.id === "mc-steve" ? 62 : 64;
-            const zoom = a.el.id === "mc-steve" ? 12.5 : 7.2;
-            mv.setAttribute("camera-orbit", `${heading}deg ${tilt}deg ${zoom}m`);
-          }
+          // Keep camera fixed so models stay fully visible.
         }
         requestAnimationFrame(tickActors);
       }
@@ -239,10 +242,10 @@
         const lookDeg = (Math.atan2(lookDy, lookDx) * 180) / Math.PI + 90;
         const normalizedDeg = ((lookDeg % 360) + 360) % 360;
         if (!debug3d) yaw = normalizedDeg;
-        if (mobModel) {
+        if (mobModel && debug3d) {
           mobModel.setAttribute("orientation", `${roll.toFixed(1)}deg ${yaw.toFixed(1)}deg 0deg`);
-          mobModel.setAttribute("camera-orbit", `${yaw.toFixed(1)}deg ${pitch.toFixed(1)}deg 4.1m`);
-          mobModel.setAttribute("field-of-view", "34deg");
+          mobModel.setAttribute("camera-orbit", `${yaw.toFixed(1)}deg ${pitch.toFixed(1)}deg 8m`);
+          mobModel.setAttribute("field-of-view", "42deg");
         }
 
         if (state.attacking && state.attackX !== null && state.attackY !== null) {
