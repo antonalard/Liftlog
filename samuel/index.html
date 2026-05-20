@@ -127,10 +127,12 @@
     (() => {
       const steve = document.getElementById("mc-steve");
       const chicken = document.getElementById("mc-chicken");
+      const mob = document.getElementById("mob-zombie-rider");
+      const mobInner = document.getElementById("mob-zombie-rider-inner");
       const layer = document.querySelector(".mc-anim-layer");
       let mouseX = window.innerWidth * 0.5;
       let mouseY = window.innerHeight * 0.75;
-      if (!steve || !chicken || !layer) return;
+      if (!steve || !chicken || !mob || !mobInner || !layer) return;
 
       const extraChickens = [];
       for (let i = 0; i < 10; i += 1) {
@@ -161,7 +163,8 @@
 
       const actors = [
         { el: steve, x: window.innerWidth * 0.7, y: 10, vx: -3.2, vy: 0, max: 6.2, avoid: 80, steer: 0.16, minY: 4, maxY: 82, walker: true },
-        { el: chicken, x: window.innerWidth * 0.2, y: 48, vx: 1.6, vy: 0, max: 4.9, avoid: 150, steer: 0.42, minY: 8, maxY: 64, walker: true }
+        { el: chicken, x: window.innerWidth * 0.2, y: 48, vx: 1.6, vy: 0, max: 4.9, avoid: 150, steer: 0.42, minY: 8, maxY: 64, walker: true },
+        { el: mob, innerEl: mobInner, x: window.innerWidth * 0.78, y: 120, vx: -2.8, vy: 0, max: 5.8, avoid: 120, steer: 0.18, minY: 14, maxY: Math.max(180, window.innerHeight - 260), walker: true }
       ];
       extraChickens.forEach((extra, idx) => {
         const phase = Math.random() * Math.PI * 2;
@@ -239,7 +242,12 @@
           if (a.walker) {
             const dir = a.vx >= 0 ? -1 : 1;
             const bob = Math.sin(Date.now() / 120 + (a.phase || 0)) * 2.2;
-            a.el.style.transform = `translateY(${bob}px) scaleX(${dir})`;
+            a.el.style.transform = `translateY(${bob}px)`;
+            if (a.innerEl) {
+              a.innerEl.style.transform = `scaleX(${dir})`;
+            } else {
+              a.el.style.transform += ` scaleX(${dir})`;
+            }
           }
 
           // Keep camera fixed so models stay fully visible.
@@ -253,150 +261,6 @@
       }, { passive: true });
 
       requestAnimationFrame(tickActors);
-    })();
-
-    (() => {
-      const mob = document.getElementById("mob-zombie-rider");
-      const mobInner = document.getElementById("mob-zombie-rider-inner");
-      const mobModel = mob?.querySelector("model-viewer");
-      if (!mob || !mobInner) return;
-      const debug3d = new URLSearchParams(window.location.search).get("debug3d") === "1";
-      let yaw = 0;
-      let pitch = 66;
-      let roll = 0;
-
-      const state = {
-        x: Math.max(120, window.innerWidth * 0.78),
-        y: Math.max(140, window.innerHeight * 0.72),
-        vx: 0,
-        vy: 0,
-        targetX: 0,
-        targetY: 0,
-        attackX: null,
-        attackY: null,
-        attacking: false,
-        t: 0
-      };
-
-      const mobW = 170;
-      const mobH = 180;
-      const avoidRadius = 240;
-
-      function clamp(v, min, max) {
-        return Math.min(max, Math.max(min, v));
-      }
-
-      function place() {
-        state.x = clamp(state.x, 0, window.innerWidth - mobW);
-        state.y = clamp(state.y, 0, window.innerHeight - mobH);
-        mob.style.left = state.x + "px";
-        mob.style.top = state.y + "px";
-      }
-
-      function pointerMove(e) {
-        state.targetX = e.clientX;
-        state.targetY = e.clientY;
-      }
-
-      function tick() {
-        state.t += 0.016;
-        const cx = state.x + mobW / 2;
-        const cy = state.y + mobH / 2;
-        const lookDx = state.targetX - cx;
-        const lookDy = state.targetY - cy;
-        const lookDeg = (Math.atan2(lookDy, lookDx) * 180) / Math.PI + 90;
-        const normalizedDeg = ((lookDeg % 360) + 360) % 360;
-        if (!debug3d) yaw = normalizedDeg;
-        if (mobModel && debug3d) {
-          mobModel.setAttribute("orientation", `${roll.toFixed(1)}deg ${yaw.toFixed(1)}deg 0deg`);
-          mobModel.setAttribute("camera-orbit", `${yaw.toFixed(1)}deg ${pitch.toFixed(1)}deg 8m`);
-          mobModel.setAttribute("field-of-view", "42deg");
-        }
-
-        if (state.attacking && state.attackX !== null && state.attackY !== null) {
-          const dx = state.attackX - cx;
-          const dy = state.attackY - cy;
-          const dist = Math.hypot(dx, dy);
-          const accel = 1.35;
-          const maxSpeed = 14;
-
-          if (dist < 18) {
-            state.attacking = false;
-            mob.classList.remove("is-attacking");
-          } else {
-            state.vx += (dx / (dist || 1)) * accel;
-            state.vy += (dy / (dist || 1)) * accel;
-            const speed = Math.hypot(state.vx, state.vy);
-            if (speed > maxSpeed) {
-              state.vx = (state.vx / speed) * maxSpeed;
-              state.vy = (state.vy / speed) * maxSpeed;
-            }
-          }
-        } else {
-          const dx = cx - state.targetX;
-          const dy = cy - state.targetY;
-          const dist = Math.hypot(dx, dy);
-
-          if (dist < avoidRadius) {
-            const panic = (avoidRadius - dist) / avoidRadius;
-            const steer = 1.1 + panic * 1.9;
-            state.vx += (dx / (dist || 1)) * steer;
-            state.vy += (dy / (dist || 1)) * steer;
-          } else {
-            state.vx += Math.sin(state.t * 1.2) * 0.08;
-            state.vy += Math.cos(state.t * 1.0) * 0.06;
-          }
-
-          const roamMax = 5.6;
-          const roamSpeed = Math.hypot(state.vx, state.vy);
-          if (roamSpeed > roamMax) {
-            state.vx = (state.vx / roamSpeed) * roamMax;
-            state.vy = (state.vy / roamSpeed) * roamMax;
-          }
-        }
-
-        state.vx *= 0.92;
-        state.vy *= 0.92;
-        state.x += state.vx;
-        state.y += state.vy;
-
-        place();
-        if (mobModel) {
-          const dir = state.vx >= 0 ? 180 : 0;
-          const bob = Math.sin(state.t * 13) * 2.2;
-          mob.style.transform = `translateY(${bob}px)`;
-          mobInner.style.transform = `rotateY(${dir}deg)`;
-        }
-        requestAnimationFrame(tick);
-      }
-
-      mob.addEventListener("click", (e) => {
-        e.preventDefault();
-        state.attacking = true;
-        state.attackX = state.targetX || window.innerWidth * 0.5;
-        state.attackY = state.targetY || window.innerHeight * 0.5;
-        mob.classList.add("is-attacking");
-        mob.classList.remove("is-clicked");
-        // restart click animation cleanly on repeated clicks
-        void mob.offsetWidth;
-        mob.classList.add("is-clicked");
-        window.setTimeout(() => mob.classList.remove("is-clicked"), 360);
-      });
-
-      window.addEventListener("mousemove", pointerMove, { passive: true });
-      if (debug3d) {
-        window.addEventListener("keydown", (e) => {
-          if (e.key === "ArrowLeft") yaw -= 5;
-          if (e.key === "ArrowRight") yaw += 5;
-          if (e.key === "ArrowUp") pitch = Math.max(40, pitch - 2);
-          if (e.key === "ArrowDown") pitch = Math.min(85, pitch + 2);
-          if (e.key === "[") roll -= 5;
-          if (e.key === "]") roll += 5;
-        });
-      }
-      window.addEventListener("resize", place);
-      place();
-      requestAnimationFrame(tick);
     })();
   </script>
 </body>
