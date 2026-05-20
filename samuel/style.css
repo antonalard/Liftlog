@@ -216,6 +216,11 @@ model-viewer::part(default-progress-text) {
   left: -120px;
 }
 
+.mc-chicken-extra {
+  width: 58px;
+  height: 58px;
+}
+
 .mc-chicken span,
 .mc-steve span {
   position: absolute;

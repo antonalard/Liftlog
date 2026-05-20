@@ -125,14 +125,57 @@
     (() => {
       const steve = document.getElementById("mc-steve");
       const chicken = document.getElementById("mc-chicken");
+      const layer = document.querySelector(".mc-anim-layer");
       let mouseX = window.innerWidth * 0.5;
       let mouseY = window.innerHeight * 0.75;
-      if (!steve || !chicken) return;
+      if (!steve || !chicken || !layer) return;
+
+      const extraChickens = [];
+      for (let i = 0; i < 10; i += 1) {
+        const extra = document.createElement("div");
+        extra.className = "mc-chicken mc-chicken-extra";
+        extra.title = `Kyckling ${i + 2}`;
+        extra.innerHTML = `
+          <model-viewer
+            src="/assets/minecraft_-_chicken.glb"
+            orientation="0deg 0deg 0deg"
+            scale="0.11 0.11 0.11"
+            camera-controls
+            disable-pan
+            disable-zoom
+            camera-orbit="20deg 68deg 5.2m"
+            min-camera-orbit="20deg 68deg 5.2m"
+            max-camera-orbit="20deg 68deg 5.2m"
+            field-of-view="34deg"
+            interaction-prompt="none"
+            shadow-intensity="0.8"
+            exposure="1"
+            alt="Kyckling 3D modell">
+          </model-viewer>
+        `;
+        layer.appendChild(extra);
+        extraChickens.push(extra);
+      }
 
       const actors = [
-        { el: steve, x: window.innerWidth * 0.7, y: 10, vx: -2.8, vy: 0, max: 5.8, avoid: 120, steer: 0.18, minY: 4, maxY: 14, walker: true },
+        { el: steve, x: window.innerWidth * 0.7, y: 10, vx: -3.2, vy: 0, max: 6.2, avoid: 80, steer: 0.16, minY: 4, maxY: 82, walker: true },
         { el: chicken, x: window.innerWidth * 0.2, y: 48, vx: 1.6, vy: 0, max: 4.9, avoid: 150, steer: 0.42, minY: 8, maxY: 64, walker: true }
       ];
+      extraChickens.forEach((extra, idx) => {
+        actors.push({
+          el: extra,
+          x: 18 + (idx % 5) * 24,
+          y: 10 + Math.floor(idx / 5) * 18,
+          vx: 1.1 + idx * 0.08,
+          vy: 0,
+          max: 3.8,
+          avoid: 110,
+          steer: 0.25,
+          minY: 6,
+          maxY: 74,
+          walker: true
+        });
+      });
 
       function clamp(v, min, max) {
         return Math.min(max, Math.max(min, v));
@@ -310,6 +353,11 @@
         state.y += state.vy;
 
         place();
+        if (mobModel) {
+          const dir = state.vx >= 0 ? -1 : 1;
+          const bob = Math.sin(state.t * 13) * 2.2;
+          mobModel.style.transform = `translateY(${bob}px) scaleX(${dir})`;
+        }
         requestAnimationFrame(tick);
       }
 
