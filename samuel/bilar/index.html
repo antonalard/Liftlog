@@ -44,7 +44,7 @@
         const img = document.createElement("img");
         img.loading = "lazy";
         img.decoding = "async";
-        img.src = car.local_image || "/assets/batmobile-concept-car-with-neon-lights.jpg";
+        img.src = car.image_url || car.local_image || "/assets/batmobile-concept-car-with-neon-lights.jpg";
         img.alt = car.name;
 
         const cap = document.createElement("figcaption");

@@ -68,7 +68,7 @@
         src="/assets/minecraft_-_chicken.glb"
         camera-controls
         disable-pan
-        camera-orbit="0deg 78deg 3.4m"
+        camera-orbit="0deg 64deg 3.2m"
         field-of-view="36deg"
         interaction-prompt="none"
         shadow-intensity="0.8"
@@ -81,7 +81,7 @@
         src="/assets/minecraft_-_steve.glb"
         camera-controls
         disable-pan
-        camera-orbit="0deg 78deg 3.8m"
+        camera-orbit="0deg 62deg 4.3m"
         field-of-view="34deg"
         interaction-prompt="none"
         shadow-intensity="0.8"
@@ -95,6 +95,8 @@
       src="/assets/minecraft_chicken_jockey.glb"
       camera-controls
       disable-pan
+      camera-orbit="0deg 66deg 4.1m"
+      field-of-view="34deg"
       interaction-prompt="none"
       shadow-intensity="0.8"
       exposure="1"
@@ -221,7 +223,10 @@
         const lookDx = state.targetX - cx;
         const lookDy = state.targetY - cy;
         const lookDeg = (Math.atan2(lookDy, lookDx) * 180) / Math.PI + 90;
-        if (mobModel) mobModel.style.transform = `rotate(${lookDeg}deg)`;
+        if (mobModel) {
+          mobModel.setAttribute("camera-orbit", `${lookDeg.toFixed(1)}deg 66deg 4.1m`);
+          mobModel.setAttribute("field-of-view", "34deg");
+        }
 
         if (state.attacking && state.attackX !== null && state.attackY !== null) {
           const dx = state.attackX - cx;
