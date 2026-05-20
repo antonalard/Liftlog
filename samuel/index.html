@@ -101,27 +101,21 @@
       </model-viewer>
     </div>
   </div>
-  <button class="mob-zombie-rider" id="mob-zombie-rider" type="button" aria-label="Zombie rider">
-    <span class="mob-zombie-rider-inner" id="mob-zombie-rider-inner">
-      <model-viewer
-        src="/assets/minecraft_chicken_jockey.glb"
-        orientation="180deg 180deg 135deg"
-        scale="1 1 1"
-        autoplay
-        camera-controls
-        disable-pan
-        disable-zoom
-        camera-orbit="20deg 68deg 2.2m"
-        min-camera-orbit="20deg 68deg 2.2m"
-        max-camera-orbit="20deg 68deg 2.2m"
-        field-of-view="32deg"
-        interaction-prompt="none"
-        shadow-intensity="0.8"
-        exposure="1"
-        alt="Zombie på kyckling 3D modell">
-      </model-viewer>
-    </span>
-  </button>
+  <div class="mob-zombie-rider" id="mob-zombie-rider" aria-hidden="true">
+    <span class="zr-chicken-head"></span>
+    <span class="zr-chicken-beak"></span>
+    <span class="zr-chicken-body"></span>
+    <span class="zr-chicken-leg zr-chicken-leg-left"></span>
+    <span class="zr-chicken-leg zr-chicken-leg-right"></span>
+    <span class="zr-z-head"></span>
+    <span class="zr-z-eye zr-z-eye-left"></span>
+    <span class="zr-z-eye zr-z-eye-right"></span>
+    <span class="zr-z-body"></span>
+    <span class="zr-z-arm zr-z-arm-left"></span>
+    <span class="zr-z-arm zr-z-arm-right"></span>
+    <span class="zr-z-leg zr-z-leg-left"></span>
+    <span class="zr-z-leg zr-z-leg-right"></span>
+  </div>
 
   <script>
     (() => {

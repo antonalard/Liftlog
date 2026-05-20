@@ -432,24 +432,10 @@ model-viewer::part(default-progress-text) {
   perspective: 900px;
 }
 
-.mob-zombie-rider model-viewer {
-  width: 100%;
-  height: 100%;
-  pointer-events: none;
-  border-radius: 10px;
-  --progress-bar-color: #8ad6ff;
-  --poster-color: transparent;
-  transition: transform 140ms linear;
-}
-
-.mob-zombie-rider-inner {
+.mob-zombie-rider span {
+  position: absolute;
   display: block;
-  width: 100%;
-  height: 100%;
-  transform-origin: 50% 50%;
-  transform-style: preserve-3d;
-  backface-visibility: hidden;
-  will-change: transform;
+  border-radius: 1px;
 }
 
 .mob-zombie-rider.is-attacking {
