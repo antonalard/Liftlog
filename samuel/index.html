@@ -69,7 +69,7 @@
         orientation="0deg 0deg 0deg"
         camera-controls
         disable-pan
-        camera-orbit="0deg 64deg 3.2m"
+        camera-orbit="0deg 64deg 7.2m"
         field-of-view="36deg"
         interaction-prompt="none"
         shadow-intensity="0.8"
@@ -83,7 +83,7 @@
         orientation="0deg 0deg 0deg"
         camera-controls
         disable-pan
-        camera-orbit="0deg 62deg 4.3m"
+        camera-orbit="0deg 62deg 12.5m"
         field-of-view="34deg"
         interaction-prompt="none"
         shadow-intensity="0.8"
@@ -173,7 +173,7 @@
           if (mv) {
             const heading = dir > 0 ? 20 : 200;
             const tilt = a.el.id === "mc-steve" ? 62 : 64;
-            const zoom = a.el.id === "mc-steve" ? 4.3 : 3.2;
+            const zoom = a.el.id === "mc-steve" ? 12.5 : 7.2;
             mv.setAttribute("camera-orbit", `${heading}deg ${tilt}deg ${zoom}m`);
           }
         }

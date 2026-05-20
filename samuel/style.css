@@ -177,7 +177,7 @@ h1 {
   left: 0;
   right: 0;
   bottom: 0;
-  height: 360px;
+  height: 720px;
   pointer-events: none;
   z-index: 40;
   overflow: visible;
@@ -205,8 +205,8 @@ h1 {
 }
 
 .mc-chicken {
-  width: 180px;
-  height: 180px;
+  width: 360px;
+  height: 360px;
   left: -120px;
 }
 
@@ -271,8 +271,8 @@ h1 {
 
 .mc-steve {
   right: -180px;
-  width: 250px;
-  height: 340px;
+  width: 520px;
+  height: 620px;
 }
 
 .st-head {
