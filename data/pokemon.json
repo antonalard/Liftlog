@@ -1,9 +1,14 @@
 {
-  "updated": "2026-05-20 10:48 CEST",
+  "updated": "2026-05-20 13:39 CEST",
   "community_day_title": "Deino Community Day Classic Guide (May 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2022/06/deino-family-image.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/deino-community-day-classic-2026/",
   "items": [
+    {
+      "title": "Pokémon Sports Day: Seoul, South Korea",
+      "date": "Wed, 20 May 2026",
+      "link": "https://pokemongohub.net/post/event/pokemon-sports-day-seoul-korea/"
+    },
     {
       "title": "Candela’s Quest for Victory",
       "date": "Mon, 18 May 2026",
@@ -48,11 +53,6 @@
       "title": "Lechonk Community Day (May 2026): Shiny Odds, Bonuses & Mud-Slap Oinkologne",
       "date": "Sat, 09 May 2026",
       "link": "https://pokemongohub.net/post/event/lechonk-community-day-may-2026-shiny-odds-bonuses-mud-slap-oinkologne/"
-    },
-    {
-      "title": "A PvP Analysis on Community Day Oinkologne",
-      "date": "Fri, 08 May 2026",
-      "link": "https://pokemongohub.net/post/pvp/a-pvp-analysis-on-community-day-oinkologne/"
     }
   ]
 }
