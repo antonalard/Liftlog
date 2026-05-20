@@ -101,21 +101,27 @@
       </model-viewer>
     </div>
   </div>
-  <div class="mob-zombie-rider" id="mob-zombie-rider" aria-hidden="true">
-    <span class="zr-chicken-head"></span>
-    <span class="zr-chicken-beak"></span>
-    <span class="zr-chicken-body"></span>
-    <span class="zr-chicken-leg zr-chicken-leg-left"></span>
-    <span class="zr-chicken-leg zr-chicken-leg-right"></span>
-    <span class="zr-z-head"></span>
-    <span class="zr-z-eye zr-z-eye-left"></span>
-    <span class="zr-z-eye zr-z-eye-right"></span>
-    <span class="zr-z-body"></span>
-    <span class="zr-z-arm zr-z-arm-left"></span>
-    <span class="zr-z-arm zr-z-arm-right"></span>
-    <span class="zr-z-leg zr-z-leg-left"></span>
-    <span class="zr-z-leg zr-z-leg-right"></span>
-  </div>
+  <button class="mob-zombie-rider" id="mob-zombie-rider" type="button" aria-label="Zombie rider">
+    <span class="mob-zombie-rider-inner" id="mob-zombie-rider-inner">
+      <model-viewer
+        src="/assets/minecraft_chicken_jockey.glb"
+        orientation="180deg 180deg 135deg"
+        scale="1 1 1"
+        autoplay
+        camera-controls
+        disable-pan
+        disable-zoom
+        camera-orbit="20deg 68deg 2.2m"
+        min-camera-orbit="20deg 68deg 2.2m"
+        max-camera-orbit="20deg 68deg 2.2m"
+        field-of-view="32deg"
+        interaction-prompt="none"
+        shadow-intensity="0.8"
+        exposure="1"
+        alt="Zombie på kyckling 3D modell">
+      </model-viewer>
+    </span>
+  </button>
 
   <script>
     (() => {
@@ -157,7 +163,7 @@
       const actors = [
         { el: steve, x: window.innerWidth * 0.7, y: 10, vx: -3.2, vy: 0, max: 6.2, avoid: 80, steer: 0.16, minY: 4, maxY: 82, walker: true, phase: 0.35 },
         { el: chicken, x: window.innerWidth * 0.2, y: 48, vx: 1.6, vy: 0, max: 4.9, avoid: 150, steer: 0.42, minY: 8, maxY: 64, walker: true, phase: 1.45 },
-        { el: mob, x: window.innerWidth * 0.78, y: 120, vx: -2.8, vy: 0, max: 5.8, avoid: 120, steer: 0.18, minY: 14, maxY: Math.max(180, window.innerHeight - 260), walker: true, phase: 2.55 }
+        { el: mob, x: window.innerWidth * 0.78, y: 120, vx: 2.4, vy: 0, max: 4.2, avoid: 0, steer: 0, minY: 14, maxY: Math.max(180, window.innerHeight - 260), walker: true, phase: 2.55, wrapX: true, driftX: 2.4, fixedDir: -1 }
       ];
       extraChickens.forEach((extra, idx) => {
         const phase = Math.random() * Math.PI * 2;
@@ -198,7 +204,7 @@
           const dy = mouseY - cy;
           const dist = Math.hypot(dx, dy);
 
-          if (dist < a.avoid) {
+          if (a.avoid > 0 && dist < a.avoid) {
             const push = (a.avoid - dist) / a.avoid;
             a.vx -= (dx / (dist || 1)) * (a.steer + push * 0.55);
             a.vy -= (dy / (dist || 1)) * (a.steer * 0.22 + push * 0.25);
@@ -220,20 +226,32 @@
 
           a.vx *= 0.95;
           a.vy *= 0.92;
+
+          if (a.wrapX) {
+            const drift = a.driftX ?? 2.2;
+            a.vx += (drift - a.vx) * 0.08;
+          }
+
           a.x += a.vx;
           a.y += a.vy;
 
           const minY = a.minY ?? minYDefault;
           const maxY = a.maxY ?? maxYDefault;
-          if (a.x < minX || a.x > maxX) a.vx *= -1;
+          if (a.wrapX) {
+            const wrapPad = 220;
+            if (a.x > maxX + wrapPad) a.x = minX - wrapPad;
+            if (a.x < minX - wrapPad) a.x = maxX + wrapPad;
+          } else if (a.x < minX || a.x > maxX) {
+            a.vx *= -1;
+          }
           if (a.y < minY || a.y > maxY) a.vy *= -1;
-          a.x = clamp(a.x, minX, maxX);
+          if (!a.wrapX) a.x = clamp(a.x, minX, maxX);
           a.y = clamp(a.y, minY, maxY);
 
           a.el.style.left = `${a.x}px`;
           a.el.style.bottom = `${a.y}px`;
           if (a.walker) {
-            const dir = a.vx >= 0 ? -1 : 1;
+            const dir = a.fixedDir ?? (a.vx >= 0 ? -1 : 1);
             const bob = Math.sin(Date.now() / 120 + (a.phase || 0)) * 2.2;
             a.el.style.transform = `translateY(${bob}px) scaleX(${dir})`;
           }
