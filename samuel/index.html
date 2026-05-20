@@ -102,23 +102,25 @@
     </div>
   </div>
   <button class="mob-zombie-rider" id="mob-zombie-rider" type="button" aria-label="Zombie rider">
-    <model-viewer
-      src="/assets/minecraft_chicken_jockey.glb"
-      orientation="180deg 180deg 135deg"
-      scale="1 1 1"
-      autoplay
-      camera-controls
-      disable-pan
-      disable-zoom
-      camera-orbit="20deg 68deg 2.2m"
-      min-camera-orbit="20deg 68deg 2.2m"
-      max-camera-orbit="20deg 68deg 2.2m"
-      field-of-view="32deg"
-      interaction-prompt="none"
-      shadow-intensity="0.8"
-      exposure="1"
-      alt="Zombie på kyckling 3D modell">
-    </model-viewer>
+    <span class="mob-zombie-rider-inner" id="mob-zombie-rider-inner">
+      <model-viewer
+        src="/assets/minecraft_chicken_jockey.glb"
+        orientation="180deg 180deg 135deg"
+        scale="1 1 1"
+        autoplay
+        camera-controls
+        disable-pan
+        disable-zoom
+        camera-orbit="20deg 68deg 2.2m"
+        min-camera-orbit="20deg 68deg 2.2m"
+        max-camera-orbit="20deg 68deg 2.2m"
+        field-of-view="32deg"
+        interaction-prompt="none"
+        shadow-intensity="0.8"
+        exposure="1"
+        alt="Zombie på kyckling 3D modell">
+      </model-viewer>
+    </span>
   </button>
 
   <script>
@@ -255,8 +257,9 @@
 
     (() => {
       const mob = document.getElementById("mob-zombie-rider");
+      const mobInner = document.getElementById("mob-zombie-rider-inner");
       const mobModel = mob?.querySelector("model-viewer");
-      if (!mob) return;
+      if (!mob || !mobInner) return;
       const debug3d = new URLSearchParams(window.location.search).get("debug3d") === "1";
       let yaw = 0;
       let pitch = 66;
@@ -361,7 +364,8 @@
         if (mobModel) {
           const dir = state.vx >= 0 ? -1 : 1;
           const bob = Math.sin(state.t * 13) * 2.2;
-          mob.style.transform = `translateY(${bob}px) scaleX(${dir})`;
+          mob.style.transform = `translateY(${bob}px)`;
+          mobInner.style.transform = `scaleX(${dir})`;
         }
         requestAnimationFrame(tick);
       }

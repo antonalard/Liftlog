@@ -441,6 +441,14 @@ model-viewer::part(default-progress-text) {
   transition: transform 140ms linear;
 }
 
+.mob-zombie-rider-inner {
+  display: block;
+  width: 100%;
+  height: 100%;
+  transform-origin: 50% 50%;
+  will-change: transform;
+}
+
 .mob-zombie-rider.is-attacking {
   animation: zr-shake 0.11s linear infinite;
 }
