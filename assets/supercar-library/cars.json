@@ -71,7 +71,7 @@
         "top_speed_kmh": 340,
         "zero_to_100_s": 2.8
       },
-      "local_image": "/assets/batmobile-concept-car-with-neon-lights.jpg"
+      "local_image": "/assets/supercar-library/images/ferrari-sf90-stradale.jpg"
     },
     {
       "name": "Ferrari 296 GTB",
@@ -85,13 +85,13 @@
         "top_speed_kmh": 330,
         "zero_to_100_s": 2.8
       },
-      "local_image": "/assets/batmobile-concept-car-with-neon-lights.jpg"
+      "local_image": "/assets/supercar-library/images/ferrari-296-gtb.jpg"
     },
     {
       "name": "Lamborghini Aventador SVJ",
       "page_title": "Lamborghini Aventador SVJ",
       "source_url": "",
-      "image_url": "",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/2016_Lamborghini_Aventador_SV_%2882931%29.jpg",
       "stats": {
         "year": 2016,
         "weight_kg": 1450,
@@ -99,13 +99,13 @@
         "top_speed_kmh": 330,
         "zero_to_100_s": 2.8
       },
-      "local_image": "/assets/batmobile-concept-car-with-neon-lights.jpg"
+      "local_image": "/assets/supercar-library/images/lamborghini-aventador-svj.jpg"
     },
     {
       "name": "Lamborghini Revuelto",
       "page_title": "Lamborghini Revuelto",
       "source_url": "",
-      "image_url": "",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lamborghini_Revuelto_DSC_6985_%28cropped%29.jpg/3840px-Lamborghini_Revuelto_DSC_6985_%28cropped%29.jpg",
       "stats": {
         "year": 2016,
         "weight_kg": 1450,
@@ -133,7 +133,7 @@
       "name": "McLaren P1",
       "page_title": "McLaren P1",
       "source_url": "",
-      "image_url": "",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/McLaren_P1.jpg/3840px-McLaren_P1.jpg",
       "stats": {
         "year": 2016,
         "weight_kg": 1450,
@@ -287,7 +287,7 @@
       "name": "Mercedes-AMG ONE",
       "page_title": "Mercedes-AMG ONE",
       "source_url": "",
-      "image_url": "",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mercedes-AMG_One_at_the_2022_Goodwood_Festival_of_Speed.jpg/3840px-Mercedes-AMG_One_at_the_2022_Goodwood_Festival_of_Speed.jpg",
       "stats": {
         "year": 2016,
         "weight_kg": 1450,
@@ -301,7 +301,7 @@
       "name": "Rimac Nevera",
       "page_title": "Rimac Nevera",
       "source_url": "",
-      "image_url": "",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Rimac_Nevera.jpg/3840px-Rimac_Nevera.jpg",
       "stats": {
         "year": 2016,
         "weight_kg": 1450,
@@ -315,7 +315,7 @@
       "name": "Hennessey Venom F5",
       "page_title": "Hennessey Venom F5",
       "source_url": "",
-      "image_url": "",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/2022_Hennessey_Venom_F5_Roadster_6.6_Front.jpg/3840px-2022_Hennessey_Venom_F5_Roadster_6.6_Front.jpg",
       "stats": {
         "year": 2016,
         "weight_kg": 1450,
@@ -329,7 +329,7 @@
       "name": "SSC Tuatara",
       "page_title": "SSC Tuatara",
       "source_url": "",
-      "image_url": "",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2019_SSC_Tuatara_at_Pebble_Beach_Press_Conference.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "stats": {
         "year": 2016,
         "weight_kg": 1450,
@@ -343,7 +343,7 @@
       "name": "Ford GT",
       "page_title": "Ford GT",
       "source_url": "",
-      "image_url": "",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Ford_GT_2018_and_Ford_GT_1968_at_Legendy_2019_in_Prague_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "stats": {
         "year": 2016,
         "weight_kg": 1450,
@@ -357,7 +357,7 @@
       "name": "Maserati MC20",
       "page_title": "Maserati MC20",
       "source_url": "",
-      "image_url": "",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Maserati_MC20_IAA_2021_1X7A0087.jpg/3840px-Maserati_MC20_IAA_2021_1X7A0087.jpg",
       "stats": {
         "year": 2016,
         "weight_kg": 1450,
