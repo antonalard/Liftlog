@@ -429,6 +429,7 @@ model-viewer::part(default-progress-text) {
   outline: none;
   filter: drop-shadow(0 5px 0 rgba(0, 0, 0, 0.35));
   image-rendering: pixelated;
+  perspective: 900px;
 }
 
 .mob-zombie-rider model-viewer {
@@ -446,6 +447,8 @@ model-viewer::part(default-progress-text) {
   width: 100%;
   height: 100%;
   transform-origin: 50% 50%;
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
   will-change: transform;
 }
 

@@ -362,10 +362,10 @@
 
         place();
         if (mobModel) {
-          const dir = state.vx >= 0 ? -1 : 1;
+          const dir = state.vx >= 0 ? 180 : 0;
           const bob = Math.sin(state.t * 13) * 2.2;
           mob.style.transform = `translateY(${bob}px)`;
-          mobInner.style.transform = `scaleX(${dir})`;
+          mobInner.style.transform = `rotateY(${dir}deg)`;
         }
         requestAnimationFrame(tick);
       }
