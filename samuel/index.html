@@ -66,6 +66,7 @@
     <div class="mc-chicken" id="mc-chicken" title="Minecraft-kyckling">
       <model-viewer
         src="/assets/minecraft_-_chicken.glb"
+        orientation="0deg 180deg 0deg"
         camera-controls
         disable-pan
         camera-orbit="0deg 64deg 3.2m"
@@ -79,6 +80,7 @@
     <div class="mc-steve" id="mc-steve" title="Steve">
       <model-viewer
         src="/assets/minecraft_-_steve.glb"
+        orientation="0deg 180deg 0deg"
         camera-controls
         disable-pan
         camera-orbit="0deg 62deg 4.3m"
@@ -93,6 +95,7 @@
   <button class="mob-zombie-rider" id="mob-zombie-rider" type="button" aria-label="Zombie rider">
     <model-viewer
       src="/assets/minecraft_chicken_jockey.glb"
+      orientation="0deg 0deg 0deg"
       camera-controls
       disable-pan
       camera-orbit="0deg 66deg 4.1m"
@@ -166,6 +169,14 @@
           a.el.style.bottom = `${a.y}px`;
           const dir = a.vx >= 0 ? 1 : -1;
           a.el.style.transform = `scaleX(${dir})`;
+
+          const mv = a.el.querySelector("model-viewer");
+          if (mv) {
+            const heading = dir > 0 ? 180 : 0;
+            const tilt = a.el.id === "mc-steve" ? 62 : 64;
+            const zoom = a.el.id === "mc-steve" ? 4.3 : 3.2;
+            mv.setAttribute("camera-orbit", `${heading}deg ${tilt}deg ${zoom}m`);
+          }
         }
         requestAnimationFrame(tickActors);
       }
@@ -223,8 +234,9 @@
         const lookDx = state.targetX - cx;
         const lookDy = state.targetY - cy;
         const lookDeg = (Math.atan2(lookDy, lookDx) * 180) / Math.PI + 90;
+        const normalizedDeg = ((lookDeg % 360) + 360) % 360;
         if (mobModel) {
-          mobModel.setAttribute("camera-orbit", `${lookDeg.toFixed(1)}deg 66deg 4.1m`);
+          mobModel.setAttribute("camera-orbit", `${normalizedDeg.toFixed(1)}deg 66deg 4.1m`);
           mobModel.setAttribute("field-of-view", "34deg");
         }
 

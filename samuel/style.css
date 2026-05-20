@@ -177,7 +177,7 @@ h1 {
   left: 0;
   right: 0;
   bottom: 0;
-  height: 280px;
+  height: 360px;
   pointer-events: none;
   z-index: 40;
   overflow: visible;
@@ -271,8 +271,8 @@ h1 {
 
 .mc-steve {
   right: -180px;
-  width: 230px;
-  height: 300px;
+  width: 250px;
+  height: 340px;
 }
 
 .st-head {
