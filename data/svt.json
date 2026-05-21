@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-21 01:01 CEST",
+  "updated": "2026-05-21 03:29 CEST",
   "items": [
+    {
+      "title": "Uppmaningen: Skicka in döda igelkottar",
+      "link": "https://www.svt.se/nyheter/inrikes/uppmaningen-skicka-in-doda-igelkottar",
+      "image": ""
+    },
+    {
+      "title": "Kvinna till sjukhus efter brand i flerfamiljshus",
+      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/person-till-sjukhus-efter-brand-i-vasteras",
+      "image": ""
+    },
     {
       "title": "Anton Frondell tar på sig VM-petningen: ”Det är på mig allting”",
       "link": "https://www.svt.se/sport/ishockey/anton-frondell-tar-pa-sig-vm-petningen-det-ar-pa-mig-allting",
@@ -29,16 +39,6 @@
     {
       "title": "Elisabeth Ulfsparre slutar på SVT: ”Ska möta Eli 2.0”",
       "link": "https://www.svt.se/nyheter/nyhetstecken/elisabeth-ulfsparre-slutar-pa-svt-ska-mota-eli-20",
-      "image": ""
-    },
-    {
-      "title": "Äldre kvinna död efter trafikolycka i Piteå",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kvinna-dog-efter-trafikolycka-i-pitea",
-      "image": ""
-    },
-    {
-      "title": "Student skulle hämta kvarglömd plånbok – spetsades på järnstaket",
-      "link": "https://www.svt.se/nyheter/lokalt/smaland/student-skulle-hamta-kvarglomd-planbok-spetsades-pa-jarnstaket",
       "image": ""
     }
   ]
