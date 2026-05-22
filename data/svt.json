@@ -1,6 +1,31 @@
 {
-  "updated": "2026-05-23 00:45 CEST",
+  "updated": "2026-05-23 01:54 CEST",
   "items": [
+    {
+      "title": "Senegals president upplöser regeringen",
+      "link": "https://www.svt.se/nyheter/utrikes/senegals-president-upploser-regeringen",
+      "image": ""
+    },
+    {
+      "title": "Allvarlig olycka i Gällivare – person till sjukhus",
+      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/allvarlig-olycka-i-gallivare-person-till-sjukhus",
+      "image": ""
+    },
+    {
+      "title": "Musks jätteraket uppskjuten",
+      "link": "https://www.svt.se/nyheter/utrikes/musks-jatteraket-uppskjuten",
+      "image": ""
+    },
+    {
+      "title": "Uppgift: Rekordbud på Felicia Schröder",
+      "link": "https://www.svt.se/sport/artikel/uppgift-rekordbud-pa-felicia-schroder",
+      "image": ""
+    },
+    {
+      "title": "Tonåring allvarligt skadad i trafikolycka i Västervik",
+      "link": "https://www.svt.se/nyheter/lokalt/smaland/tonaring-allvarligt-skadad-i-trafikolycka-i-vastervik",
+      "image": ""
+    },
     {
       "title": "Ivar Stenberg med sitt första VM-mål i Sveriges seger mot Italien",
       "link": "https://www.svt.se/sport/ishockey/ivar-stenberg-med-sitt-forsta-vm-mal-i-sveriges-seger-mot-italien",
@@ -14,31 +39,6 @@
     {
       "title": "Misstänkt mordförsök i Borlänge – man i 45-årsåldern stickskadad",
       "link": "https://www.svt.se/nyheter/lokalt/dalarna/misstankt-mordforsok-i-borlange-ouzpiu",
-      "image": ""
-    },
-    {
-      "title": "Sexdockor lockar nya kunder i Tyskland – bordell satsar på AI och VR",
-      "link": "https://www.svt.se/nyheter/utrikes/sexdockor-lockar-nya-kunder-i-tyskland-bordell-satsar-pa-ai-och-vr",
-      "image": ""
-    },
-    {
-      "title": "Lärare i Skellefteå klämde 12-årig elev på rumpan – döms",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/larare-i-skelleftea-klamde-12-arig-elev-pa-rumpan-doms",
-      "image": ""
-    },
-    {
-      "title": "”Nato-mötet en framgång – Rubio kom till Helsingborg utan utspel”",
-      "link": "https://www.svt.se/nyheter/inrikes/nato-motet-en-framgang-rubio-kom-till-till-helsingborg-utan-utspel",
-      "image": ""
-    },
-    {
-      "title": "Mini-dok: Mordet på Gaboro",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/mini-dok-mordet-pa-gaboro",
-      "image": ""
-    },
-    {
-      "title": "Prisvinnande novell misstänks vara AI-genererad",
-      "link": "https://www.svt.se/kultur/prisvinnande-novell-misstanks-vara-ai-genererad",
       "image": ""
     }
   ]
