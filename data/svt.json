@@ -1,8 +1,13 @@
 {
-  "updated": "2026-05-22 22:16 CEST",
+  "updated": "2026-05-22 23:39 CEST",
   "items": [
     {
-      "title": "Buss och personbil i krock utanför Landskrona",
+      "title": "Ivar Stenberg med sitt första VM-mål i Sveriges seger mot Italien",
+      "link": "https://www.svt.se/sport/ishockey/ivar-stenberg-med-sitt-forsta-vm-mal-i-sveriges-seger-mot-italien",
+      "image": ""
+    },
+    {
+      "title": "En person död efter olycka utanför Landskrona",
       "link": "https://www.svt.se/nyheter/lokalt/helsingborg/buss-och-personbil-i-olycka-utanfor-landskrona",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Prisvinnande novell misstänks vara AI-genererad",
       "link": "https://www.svt.se/kultur/prisvinnande-novell-misstanks-vara-ai-genererad",
-      "image": ""
-    },
-    {
-      "title": "Lista: Morgonöl under VM? Så gör din kommun i Sörmland",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/lista-morgonol-under-vm-sa-gor-din-kommun-i-sormland",
       "image": ""
     }
   ]
