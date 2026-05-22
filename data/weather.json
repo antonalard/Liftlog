@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-22 18:39 CEST",
+  "updated": "2026-05-22 20:25 CEST",
   "today": {
     "weekday": "friday",
-    "temp": 19,
+    "temp": 18,
     "meta": "clearsky day • Vind 2 m/s",
     "symbol_code": "clearsky_day"
   },
@@ -10,7 +10,7 @@
     {
       "weekday": "fri",
       "night": 11,
-      "day": 19,
+      "day": 18,
       "symbol_code": "clearsky_day"
     },
     {
@@ -21,7 +21,7 @@
     },
     {
       "weekday": "sun",
-      "night": 10,
+      "night": 9,
       "day": 19,
       "symbol_code": "clearsky_day"
     },
