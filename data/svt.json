@@ -1,6 +1,11 @@
 {
-  "updated": "2026-05-23 20:49 CEST",
+  "updated": "2026-05-23 21:58 CEST",
   "items": [
+    {
+      "title": "Ukraina: Antalet döda ryska soldater fler än de skadade",
+      "link": "https://www.svt.se/nyheter/utrikes/ukraina-antalet-doda-ryska-soldater-fler-an-de-skadade",
+      "image": ""
+    },
     {
       "title": "Brand i lägenhetshus i Kungsladugård",
       "link": "https://www.svt.se/nyheter/lokalt/vast/brand-i-lagenhetshus-i-kungsladugard",
@@ -34,11 +39,6 @@
     {
       "title": "Bilolycka utanför Norrtälje – två förda till sjukhus",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/bilolycka-utanfor-norrtalje-tva-forda-till-sjukhus",
-      "image": ""
-    },
-    {
-      "title": "Femårig flicka försvann i Hofors",
-      "link": "https://www.svt.se/nyheter/lokalt/gavleborg/femarig-flicka-forsvunnen-i-hofors",
       "image": ""
     }
   ]
