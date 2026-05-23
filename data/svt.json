@@ -1,9 +1,19 @@
 {
-  "updated": "2026-05-23 21:58 CEST",
+  "updated": "2026-05-23 22:46 CEST",
   "items": [
+    {
+      "title": "Tre Kronor föll mot Norge – släppte in två mål i powerplay",
+      "link": "https://www.svt.se/sport/ishockey/tre-kronor-foll-mot-norge-slappte-in-tva-mal-i-powerplay",
+      "image": ""
+    },
     {
       "title": "Ukraina: Antalet döda ryska soldater fler än de skadade",
       "link": "https://www.svt.se/nyheter/utrikes/ukraina-antalet-doda-ryska-soldater-fler-an-de-skadade",
+      "image": ""
+    },
+    {
+      "title": "Polisinsats i södra Stockholm",
+      "link": "https://www.svt.se/nyheter/lokalt/stockholm/pagaende-polisinsats-i-sodra-stockholm",
       "image": ""
     },
     {
@@ -29,16 +39,6 @@
     {
       "title": "Nya fall av ebola i Uganda – totalt fem i landet",
       "link": "https://www.svt.se/nyheter/utrikes/nya-fall-av-ebola-i-uganda-totalt-fem-i-landet",
-      "image": ""
-    },
-    {
-      "title": "Sökes till jättefartygen: 500 sjömän",
-      "link": "https://www.svt.se/nyheter/inrikes/sokes-till-jattefartygen-500-sjoman",
-      "image": ""
-    },
-    {
-      "title": "Bilolycka utanför Norrtälje – två förda till sjukhus",
-      "link": "https://www.svt.se/nyheter/lokalt/stockholm/bilolycka-utanfor-norrtalje-tva-forda-till-sjukhus",
       "image": ""
     }
   ]
