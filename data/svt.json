@@ -1,6 +1,11 @@
 {
-  "updated": "2026-05-23 16:23 CEST",
+  "updated": "2026-05-23 17:37 CEST",
   "items": [
+    {
+      "title": "Brand i lägenhetshus i Kungsladugård",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/brand-i-lagenhetshus-i-kungsladugard",
+      "image": ""
+    },
     {
       "title": "Gick med tumör i 14 månader – innan den upptäcktes",
       "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/gick-med-tumor-i-14-manader-innan-den-upptacktes",
@@ -34,11 +39,6 @@
     {
       "title": "Viggo Björck stöttades av moster Charlotte Perrelli",
       "link": "https://www.svt.se/sport/ishockey/viggo-bjorck-stottades-av-moster-charlotte-perrelli",
-      "image": ""
-    },
-    {
-      "title": "Här sticker Tre Kronors jättetalanger Viggo Björck och Ivar Stenberg ut",
-      "link": "https://www.svt.se/sport/ishockey/har-sticker-jattetalangerna-bjorck-och-stenberg-ut",
       "image": ""
     }
   ]
