@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23 17:37 CEST",
+  "updated": "2026-05-23 18:44 CEST",
   "items": [
     {
       "title": "Brand i lägenhetshus i Kungsladugård",
@@ -9,6 +9,11 @@
     {
       "title": "Gick med tumör i 14 månader – innan den upptäcktes",
       "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/gick-med-tumor-i-14-manader-innan-den-upptacktes",
+      "image": ""
+    },
+    {
+      "title": "Lägenhet i Uppsala totalförstörd i brand",
+      "link": "https://www.svt.se/nyheter/lokalt/uppsala/lagenhet-totalforstord-i-brand-jcc4kt",
       "image": ""
     },
     {
@@ -34,11 +39,6 @@
     {
       "title": "Femårig flicka försvann i Hofors",
       "link": "https://www.svt.se/nyheter/lokalt/gavleborg/femarig-flicka-forsvunnen-i-hofors",
-      "image": ""
-    },
-    {
-      "title": "Viggo Björck stöttades av moster Charlotte Perrelli",
-      "link": "https://www.svt.se/sport/ishockey/viggo-bjorck-stottades-av-moster-charlotte-perrelli",
       "image": ""
     }
   ]
