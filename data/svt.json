@@ -1,6 +1,11 @@
 {
-  "updated": "2026-05-24 00:39 CEST",
+  "updated": "2026-05-24 01:44 CEST",
   "items": [
+    {
+      "title": "Larm om skott nära Vita huset",
+      "link": "https://www.svt.se/nyheter/utrikes/larm-om-skott-nara-vita-huset",
+      "image": ""
+    },
     {
       "title": "Jonas Andersson: ”Ett lag som inte är i harmoni”",
       "link": "https://www.svt.se/sport/ishockey/jonas-andersson-ett-lag-som-inte-ar-i-harmoni",
@@ -34,11 +39,6 @@
     {
       "title": "Gick med tumör i 14 månader – innan den upptäcktes",
       "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/gick-med-tumor-i-14-manader-innan-den-upptacktes",
-      "image": ""
-    },
-    {
-      "title": "Lägenhet i Uppsala totalförstörd i brand",
-      "link": "https://www.svt.se/nyheter/lokalt/uppsala/lagenhet-totalforstord-i-brand-jcc4kt",
       "image": ""
     }
   ]
