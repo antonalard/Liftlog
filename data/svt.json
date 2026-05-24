@@ -1,6 +1,21 @@
 {
-  "updated": "2026-05-24 07:50 CEST",
+  "updated": "2026-05-24 10:11 CEST",
   "items": [
+    {
+      "title": "Inbrott i banklokal i Säter",
+      "link": "https://www.svt.se/nyheter/lokalt/dalarna/inbrott-i-banklokal-i-sater",
+      "image": ""
+    },
+    {
+      "title": "Omfattande ryskt luftangrepp mot Ukraina – många offer",
+      "link": "https://www.svt.se/nyheter/utrikes/omfattande-ryskt-luftangrepp-mot-ukraina-manga-offer",
+      "image": ""
+    },
+    {
+      "title": "Ny hajattack i Australien – en död",
+      "link": "https://www.svt.se/nyheter/utrikes/ny-hajattack-i-australien-en-dod",
+      "image": ""
+    },
     {
       "title": "Här får barn i Umeå testa vårdyrket – vill väcka intresse",
       "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/har-far-barn-i-umea-testa-vardyrket-vill-vacka-intresse",
@@ -24,21 +39,6 @@
     {
       "title": "En död efter skjutning vid Vita huset",
       "link": "https://www.svt.se/nyheter/utrikes/larm-om-skott-nara-vita-huset",
-      "image": ""
-    },
-    {
-      "title": "Jonas Andersson: ”Ett lag som inte är i harmoni”",
-      "link": "https://www.svt.se/sport/ishockey/jonas-andersson-ett-lag-som-inte-ar-i-harmoni",
-      "image": ""
-    },
-    {
-      "title": "Noah Steen sänkte Sverige: ”Känns så jävla skönt”",
-      "link": "https://www.svt.se/sport/ishockey/steen-sankte-sverige-kanns-sa-javla-skont",
-      "image": ""
-    },
-    {
-      "title": "Tre Kronor föll mot Norge – riskerar att missa VM-slutspel",
-      "link": "https://www.svt.se/sport/ishockey/tre-kronor-foll-mot-norge-slappte-in-tva-mal-i-powerplay",
       "image": ""
     }
   ]
