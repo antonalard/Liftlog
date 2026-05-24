@@ -1,8 +1,18 @@
 {
-  "updated": "2026-05-24 10:11 CEST",
+  "updated": "2026-05-24 12:14 CEST",
   "items": [
     {
-      "title": "Inbrott i banklokal i Säter",
+      "title": "Tvåårig pojke försvunnen i Nordmaling",
+      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/tvaarig-pojke-forsvunnen-i-nordmaling",
+      "image": ""
+    },
+    {
+      "title": "Rallyförare diskad från Royal rally efter sexuella trakasserier mot kvinnlig funktionär",
+      "link": "https://www.svt.se/nyheter/lokalt/varmland/rallyforare-diskad-fran-royal-rally-efter-sexuella-trakasserier-mot-kvinnlig-funktionar",
+      "image": ""
+    },
+    {
+      "title": "Inbrott i bank i Säter: ”Svårt att stjäla något av värde”",
       "link": "https://www.svt.se/nyheter/lokalt/dalarna/inbrott-i-banklokal-i-sater",
       "image": ""
     },
@@ -29,16 +39,6 @@
     {
       "title": "Bergsåkershästar klara för Elitlopp: ”Byggd som en superatlet”",
       "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/bergsakerstranaren-daniel-wajersten-tva-hastar-till-elitloppet",
-      "image": ""
-    },
-    {
-      "title": "Tre till sjukhus efter brand i Rättvik – man gripen",
-      "link": "https://www.svt.se/nyheter/lokalt/dalarna/flera-till-sjukhus-efter-brand-i-rattvik",
-      "image": ""
-    },
-    {
-      "title": "En död efter skjutning vid Vita huset",
-      "link": "https://www.svt.se/nyheter/utrikes/larm-om-skott-nara-vita-huset",
       "image": ""
     }
   ]
