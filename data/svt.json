@@ -1,6 +1,11 @@
 {
-  "updated": "2026-05-27 23:31 CEST",
+  "updated": "2026-05-28 01:06 CEST",
   "items": [
+    {
+      "title": "Kritiken: SVT-dokumentären om Lundsberg är för ensidig",
+      "link": "https://www.svt.se/nyheter/inrikes/kritiken-svt-dokumentaren-om-lundsberg-ar-for-ensidig",
+      "image": ""
+    },
     {
       "title": "Skadad man förd till sjukhus – grov misshandel i Växjö",
       "link": "https://www.svt.se/nyheter/lokalt/smaland/skadad-man-ford-till-sjukhus-grov-misshandel-i-vaxjo",
@@ -34,11 +39,6 @@
     {
       "title": "Nio månader kvar till skid-VM i Falun – så är statusen",
       "link": "https://www.svt.se/nyheter/lokalt/dalarna/nio-manader-kvar-till-skid-vm-i-falun-sa-ar-statusen",
-      "image": ""
-    },
-    {
-      "title": "Piteåbo åtalas för grovt narkotikabrott – trots brist på knark",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/piteabo-atalas-for-grovt-narkotikabrott-trots-brist-pa-knark",
       "image": ""
     }
   ]
