@@ -1,6 +1,11 @@
 {
-  "updated": "2026-05-31 00:30 CEST",
+  "updated": "2026-05-31 01:48 CEST",
   "items": [
+    {
+      "title": "200 gripna – kaos igen efter PSG:s titel",
+      "link": "https://www.svt.se/nyheter/utrikes/200-gripna-kaos-igen-efter-psgs-titel",
+      "image": ""
+    },
     {
       "title": "Finland till VM-final – slog Kanada efter drömminut",
       "link": "https://www.svt.se/sport/ishockey/finland-till-vm-final-slog-kanada-efter-dromminut",
@@ -34,11 +39,6 @@
     {
       "title": "Edwin Kiptoo vinner Stockholm Marathon 2026 överlägset",
       "link": "https://www.svt.se/sport/marathon/edwin-kiptoo-vinner-stockholm-marathon-2026-overlagset",
-      "image": ""
-    },
-    {
-      "title": "Beskedet: Emil Holm missar VM",
-      "link": "https://www.svt.se/sport/fotboll/beskedet-emil-holm-missar-vm",
       "image": ""
     }
   ]
