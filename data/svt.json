@@ -1,6 +1,11 @@
 {
-  "updated": "2026-05-30 10:42 CEST",
+  "updated": "2026-05-30 12:31 CEST",
   "items": [
+    {
+      "title": "Beskedet: Emil Holm missar VM",
+      "link": "https://www.svt.se/sport/fotboll/beskedet-emil-holm-missar-vm",
+      "image": ""
+    },
     {
       "title": "Ryska Ljudmila om Ukrainakriget: ”Folk håller på att vakna”",
       "link": "https://www.svt.se/nyheter/utrikes/ryska-ljudmila-om-ukrainakriget-folk-haller-pa-att-vakna",
@@ -34,11 +39,6 @@
     {
       "title": "Örgryte hämtade upp 0–2 efter Noah Christofferssons två första allsvenska mål",
       "link": "https://www.svt.se/sport/fotboll/orgryte-hamtade-upp-0-2-efter-noah-christofferssons-tva-forsta-allsvenska-mal",
-      "image": ""
-    },
-    {
-      "title": "Kristianstad svenska mästare för tionde gången",
-      "link": "https://www.svt.se/sport/handboll/kristianstad-svenska-mastare-for-tionde-gangen",
       "image": ""
     }
   ]
