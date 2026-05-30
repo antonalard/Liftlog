@@ -1,8 +1,28 @@
 {
-  "updated": "2026-05-30 04:54 CEST",
+  "updated": "2026-05-30 08:12 CEST",
   "items": [
     {
-      "title": "”Vi är vuxna och vi har valt att komma hit”",
+      "title": "Försvaret nobbar techjättarnas moln för hemliga uppgifter",
+      "link": "https://www.svt.se/nyheter/inrikes/forsvaret-nobbar-techjattarnas-moln-for-hemliga-uppgifter",
+      "image": ""
+    },
+    {
+      "title": "Här är AI-roboten Hugo – ska leverera post på Campus i Skellefteå",
+      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/har-ar-ai-roboten-hugo-ska-leverera-post-pa-campus-i-skelleftea",
+      "image": ""
+    },
+    {
+      "title": "Kompisarna förverkligar dröm – gör om gammal skåpbil till rullande bokhandel",
+      "link": "https://www.svt.se/nyheter/lokalt/dalarna/kompisarna-forverkligar-drom-gor-om-gammal-skapbil-till-rullande-bokhandel",
+      "image": ""
+    },
+    {
+      "title": "Hämtmaten är inte alltid billigare – trots halverad moms",
+      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/hamtmaten-ar-inte-alltid-billigare-trots-halverad-moms",
+      "image": ""
+    },
+    {
+      "title": "Svenska familjen mitt i kriget: ”Vi är vuxna och vi har valt att komma hit”",
       "link": "https://www.svt.se/nyheter/utrikes/vi-ar-vuxna-och-vi-har-valt-att-komma-hit",
       "image": ""
     },
@@ -19,26 +39,6 @@
     {
       "title": "Ryssland kan välkomnas tillbaka till ishockeyn",
       "link": "https://www.svt.se/sport/ishockey/ryssland-kan-valkomnas-tillbaka-till-ishockeyn",
-      "image": ""
-    },
-    {
-      "title": "Motorcyklist död efter olycka på evenemang i Falkenberg",
-      "link": "https://www.svt.se/nyheter/lokalt/halland/kvinna-pakord-av-motorcyklist-i-falkenberg",
-      "image": ""
-    },
-    {
-      "title": "Sjukdomsfallen på SSAB – undersöks av haverikommissionen",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/sjukdomsfallen-pa-ssab-undersoks-av-haverikommissionen",
-      "image": ""
-    },
-    {
-      "title": "De vill stärka den elektroniska musikscenen i norr",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/de-vill-starka-den-elektroniska-musikscenen-i-norr",
-      "image": ""
-    },
-    {
-      "title": "Polispådrag efter brand i centrala Norrköping",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/larm-om-explosion-i-centrala-norrkoping",
       "image": ""
     }
   ]
