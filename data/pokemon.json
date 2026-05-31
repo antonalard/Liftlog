@@ -1,9 +1,14 @@
 {
-  "updated": "2026-05-31 16:24 CEST",
+  "updated": "2026-05-31 17:44 CEST",
   "community_day_title": "June 2026 Pokémon GO Events: Raids, Max Battles, GO Fest and Community Day",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/05/june-2026-pokemon-go-events.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/june-2026-pokemon-go-events/",
   "items": [
+    {
+      "title": "Pokémon GO Events This Week: June 1-7, 2026",
+      "date": "Sun, 31 May 2026",
+      "link": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-june-1-7-2026/"
+    },
     {
       "title": "Pokémon GO Fest 2026: Tokyo",
       "date": "Fri, 29 May 2026",
@@ -48,11 +53,6 @@
       "title": "Spark’s Caretaking Quest",
       "date": "Mon, 18 May 2026",
       "link": "https://pokemongohub.net/post/event/sparks-caretaking-quest/"
-    },
-    {
-      "title": "Pokémon GO Events This Week: May 18–24, 2026",
-      "date": "Sun, 17 May 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-may-18-24-2026/"
     }
   ]
 }
