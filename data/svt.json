@@ -1,6 +1,21 @@
 {
-  "updated": "2026-05-31 17:44 CEST",
+  "updated": "2026-05-31 18:52 CEST",
   "items": [
+    {
+      "title": "Fullt utvecklad brand i radhus i Sundsvall",
+      "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/fullt-utvecklad-brand-i-radhus-i-sundsvall",
+      "image": ""
+    },
+    {
+      "title": "Norska jättesuccén: VM-brons efter seger mot Kanada",
+      "link": "https://www.svt.se/sport/ishockey/norska-jattesuccen-vm-brons-efter-seger-mot-kanada",
+      "image": ""
+    },
+    {
+      "title": "Örjan Kihlström och Allegiant vann Elitloppet 2026 på världsrekordtid",
+      "link": "https://www.svt.se/sport/trav/svenske-allegiant-vann-elitloppet-2026-pa-rekordtid",
+      "image": ""
+    },
     {
       "title": "Åhman/Hellvig vinner finalen i Ostrava – för tredje året i rad",
       "link": "https://www.svt.se/sport/beachvolleyboll/blagula-succen-ahmanhellvig-vinner-finalen-i-ostrava",
@@ -24,21 +39,6 @@
     {
       "title": "Fyra mål av Tobias Heintz när Blåvitt vann med 5–4: ”Galen match”",
       "link": "https://www.svt.se/sport/fotboll/ifk-goteborgs-dromstart-3-0-efter-nio-minuter-mot-vsk",
-      "image": ""
-    },
-    {
-      "title": "Man döms till fängelse efter dödsolyckan i Arvidsjaur",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/man-doms-till-fangelse-efter-dodsolyckan-i-arvidsjaur",
-      "image": ""
-    },
-    {
-      "title": "Iga Swiatek klappade igenom mot Marta Kostyuk – ute ur Franska Öppna",
-      "link": "https://www.svt.se/sport/tennis/iga-swiatek-klappade-igenom-mot-marta-kostyuk-ute-ur-franska-oppna",
-      "image": ""
-    },
-    {
-      "title": "Även Axfood återkallar ägg – risk för salmonella",
-      "link": "https://www.svt.se/nyheter/inrikes/aven-axfood-aterkallar-agg-risk-for-salmonella",
       "image": ""
     }
   ]
