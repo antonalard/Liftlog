@@ -1,6 +1,16 @@
 {
-  "updated": "2026-05-31 08:36 CEST",
+  "updated": "2026-05-31 11:39 CEST",
   "items": [
+    {
+      "title": "Även Axfood återkallar ägg – risk för salmonella",
+      "link": "https://www.svt.se/nyheter/inrikes/aven-axfood-aterkallar-agg-risk-for-salmonella",
+      "image": ""
+    },
+    {
+      "title": "Tystlåten papegoja förd till polisen",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/tystlaten-papegoja-ford-till-polisen",
+      "image": ""
+    },
     {
       "title": "826 000 svenskar har sjukvårdsförsäkring – ger snabbare vård",
       "link": "https://www.svt.se/nyheter/inrikes/826-000-svenskar-har-sjukvardsforsakring-ger-snabbare-vard",
@@ -29,16 +39,6 @@
     {
       "title": "400 gripna – kaos efter Paris SG:s Champions league-titel",
       "link": "https://www.svt.se/nyheter/utrikes/200-gripna-kaos-igen-efter-psgs-titel",
-      "image": ""
-    },
-    {
-      "title": "Finland till VM-final – slog Kanada efter drömminut",
-      "link": "https://www.svt.se/sport/ishockey/finland-till-vm-final-slog-kanada-efter-dromminut",
-      "image": ""
-    },
-    {
-      "title": "PSG vinner Champions League – avgjorde på straffar",
-      "link": "https://www.svt.se/sport/fotboll/psg-vinner-champions-league-avgjorde-pa-straffar",
       "image": ""
     }
   ]
