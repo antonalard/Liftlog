@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-31 18:52 CEST",
+  "updated": "2026-05-31 19:51 CEST",
   "today": {
     "weekday": "sunday",
-    "temp": 19,
+    "temp": 18,
     "meta": "cloudy • Vind 2 m/s",
     "symbol_code": "cloudy"
   },
@@ -10,7 +10,7 @@
     {
       "weekday": "sun",
       "night": 14,
-      "day": 19,
+      "day": 18,
       "symbol_code": "cloudy"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "weekday": "wed",
-      "night": 16,
+      "night": 15,
       "day": 24,
       "symbol_code": "rain"
     },
