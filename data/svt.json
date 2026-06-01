@@ -1,6 +1,11 @@
 {
-  "updated": "2026-06-01 01:52 CEST",
+  "updated": "2026-06-01 04:08 CEST",
   "items": [
+    {
+      "title": "Petro: Accepterar inte valresultatet",
+      "link": "https://www.svt.se/nyheter/utrikes/petro-accepterar-inte-valresultatet",
+      "image": ""
+    },
     {
       "title": "Finland vann VM-guld – slog Schweiz efter drama",
       "link": "https://www.svt.se/sport/ishockey/finland-vann-vm-guld-slog-schweiz-efter-drama",
@@ -34,11 +39,6 @@
     {
       "title": "Rundringning: Försäkrade får snabbare tid till specialist",
       "link": "https://www.svt.se/nyheter/inrikes/rundringning-forsakrade-far-snabbare-tid-till-specialist",
-      "image": ""
-    },
-    {
-      "title": "Två till sjukhus efter kollision mellan tåg och bil utanför Vetlanda",
-      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/tag-har-krockat-med-personbil-utanfor-vetlanda",
       "image": ""
     }
   ]
