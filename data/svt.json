@@ -1,13 +1,28 @@
 {
-  "updated": "2026-06-03 17:10 CEST",
+  "updated": "2026-06-03 21:02 CEST",
   "items": [
+    {
+      "title": "Man död i trafikolycka – körde av vägen mellan Ödeshög och Vadstena",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/man-dod-i-trafikolycka-efter-att-ha-kort-av-vagen",
+      "image": ""
+    },
+    {
+      "title": "Historisk rättegång i Syrien",
+      "link": "https://www.svt.se/nyheter/utrikes/historisk-rattegang-i-syrien",
+      "image": ""
+    },
+    {
+      "title": "Vårdpersonal i Umeå skrev om boende i Facebookgrupp – anmäls till IVO",
+      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/vardpersonal-i-umea-skrev-om-boende-i-facebookgrupp-anmals-till-ivo",
+      "image": ""
+    },
     {
       "title": "Wafiq får stanna i Luleå – om nya lagen träder i kraft",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/wafiq-far-stanna-i-lulea-om-nya-lagen-trader-i-kraft",
       "image": ""
     },
     {
-      "title": "Man gripen i Irak – kan ha kopplingar till 10 år gammalt mord i Sundsvall",
+      "title": "Man gripen i Irak – kan ha kopplingar till tio år gammalt mord i Sundsvall",
       "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/man-gripen-i-irak-kan-ha-kopplingar-till-10-ar-gammalt-mord-i-sundsvall",
       "image": ""
     },
@@ -17,28 +32,13 @@
       "image": ""
     },
     {
-      "title": "Ambulanshelikopter larmad till mopedolycka i Härjedalen",
+      "title": "Ambulanshelikopter larmades till mopedolycka i Härjedalen",
       "link": "https://www.svt.se/nyheter/lokalt/jamtland/ambulanshelikopter-larmad-till-mopedolycka-i-harjedalen",
       "image": ""
     },
     {
       "title": "Tupac och lowriders – se studenternas dansshow i Västerås: ”Jag spydde innan”",
       "link": "https://www.svt.se/nyheter/lokalt/vastmanland/tupac-och-lowriders-se-studenternas-dansshow-i-vasteras-jag-spydde-innan",
-      "image": ""
-    },
-    {
-      "title": "Horndalsbon Madeleine om Googles besked: ”Möjlighet för arbetslösa”",
-      "link": "https://www.svt.se/nyheter/lokalt/dalarna/horndalsbon-madeleine-om-googles-besked-mojlighet-for-arbetslosa",
-      "image": ""
-    },
-    {
-      "title": "Bodde med sju hundar i husvagn – kvinna döms för grovt djurplågeri",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/bodde-med-sju-hundar-i-husvagn-kvinna-doms-for-grovt-djurplageri",
-      "image": ""
-    },
-    {
-      "title": "Två kvinnor påkörda i Linköping efter eventuellt sjukdomsfall",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/flera-pakorda-i-linkoping-efter-eventuellt-sjukdomsfall",
       "image": ""
     }
   ]
