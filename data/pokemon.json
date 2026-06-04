@@ -1,9 +1,14 @@
 {
-  "updated": "2026-06-04 17:52 CEST",
+  "updated": "2026-06-04 20:05 CEST",
   "community_day_title": "June 2026 Pokémon GO Events: Raids, Max Battles, GO Fest and Community Day",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/05/june-2026-pokemon-go-events.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/june-2026-pokemon-go-events/",
   "items": [
+    {
+      "title": "Super Mega Skarmory Raid Day (2026): Shiny Odds, Counters & Bonuses",
+      "date": "Thu, 04 Jun 2026",
+      "link": "https://pokemongohub.net/post/event/super-mega-skarmory-raid-day-2026-shiny-odds-counters-bonuses/"
+    },
     {
       "title": "Spark’s Caretaking Quest Event Guide",
       "date": "Thu, 04 Jun 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO Events This Week: May 25–31, 2026",
       "date": "Sun, 24 May 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-may-25-31-2026/"
-    },
-    {
-      "title": "Pokémon Sports Day: Seoul, South Korea",
-      "date": "Wed, 20 May 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-sports-day-seoul-korea/"
     }
   ]
 }
