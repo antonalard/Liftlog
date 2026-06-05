@@ -1,6 +1,11 @@
 {
-  "updated": "2026-06-05 20:18 CEST",
+  "updated": "2026-06-05 22:19 CEST",
   "items": [
+    {
+      "title": "Föremålet vid Triangelns station i Malmö var ofarligt",
+      "link": "https://www.svt.se/nyheter/lokalt/skane/misstankt-farligt-foremal-i-malmo-tbhbey",
+      "image": ""
+    },
     {
       "title": "Mc-förare körde av vägen utanför Eskilstuna – förd till sjukhus",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/mc-forare-korde-av-vagen-utanfor-eskilstuna-ford-till-sjukhus",
@@ -34,11 +39,6 @@
     {
       "title": "Här fångas dödsskjutningen på Brynäs av övervakningskamerorna",
       "link": "https://www.svt.se/nyheter/lokalt/gavleborg/har-fangas-dodsskjutningen-pa-brynas-av-overvakningskamerorna",
-      "image": ""
-    },
-    {
-      "title": "Narkotika saknades – Piteåbo döms för grovt narkotikabrott",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/narkotika-saknades-piteabo-doms-for-grovt-narkotikabrott",
       "image": ""
     }
   ]
