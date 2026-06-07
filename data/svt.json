@@ -1,6 +1,11 @@
 {
-  "updated": "2026-06-07 18:48 CEST",
+  "updated": "2026-06-07 19:56 CEST",
   "items": [
+    {
+      "title": "Livlös person hittad i vattnet i Strömstad",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/livlos-person-hittad-i-vattnet-i-stromstad",
+      "image": ""
+    },
     {
       "title": "Armand Duplantis floppade – första förlusten på tre år: ”Jävla skit”",
       "link": "https://www.svt.se/sport/friidrott/armand-duplantis-floppade-forsta-forlusten-pa-tre-ar",
@@ -34,11 +39,6 @@
     {
       "title": "Se Stinas björnfrossa – mötte fyra bamsingar på tre dagar",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/se-stinas-bjornfrossa-motte-fyra-bamsingar-pa-tre-dagar",
-      "image": ""
-    },
-    {
-      "title": "Man allvarligt skadad – körde in i betongvägg i Boden",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/korde-in-i-betongvagg-i-boden-ford-till-sjukhus",
       "image": ""
     }
   ]
