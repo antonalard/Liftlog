@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-09 00:52 CEST",
+  "updated": "2026-06-09 01:55 CEST",
   "today": {
     "weekday": "tuesday",
-    "temp": 15,
-    "meta": "cloudy • Vind 1 m/s",
+    "temp": 14,
+    "meta": "cloudy • Vind 2 m/s",
     "symbol_code": "cloudy"
   },
   "week": [
     {
       "weekday": "mon",
-      "night": 15,
-      "day": 15,
+      "night": 14,
+      "day": 14,
       "symbol_code": "cloudy"
     },
     {
