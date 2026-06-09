@@ -1,9 +1,14 @@
 {
-  "updated": "2026-06-09 11:24 CEST",
+  "updated": "2026-06-09 14:19 CEST",
   "community_day_title": "June 2026 Pokémon GO Events: Raids, Max Battles, GO Fest and Community Day",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/05/june-2026-pokemon-go-events.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/june-2026-pokemon-go-events/",
   "items": [
+    {
+      "title": "Candela’s Quest for Victory Event Guide",
+      "date": "Tue, 09 Jun 2026",
+      "link": "https://pokemongohub.net/post/event/candelas-quest-for-victory/"
+    },
     {
       "title": "Pokémon GO Events This Week: June 8-14, 2026",
       "date": "Sun, 07 Jun 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO Fest 2026: Tokyo",
       "date": "Fri, 29 May 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-fest-2026-tokyo/"
-    },
-    {
-      "title": "June 2026 Community Day: Frigibax",
-      "date": "Tue, 26 May 2026",
-      "link": "https://pokemongohub.net/post/event/frigibax-community-day-june-2026/"
     }
   ]
 }
