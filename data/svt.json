@@ -1,6 +1,11 @@
 {
-  "updated": "2026-06-09 23:26 CEST",
+  "updated": "2026-06-10 00:55 CEST",
   "items": [
+    {
+      "title": "USA: Attackerat Iran i självförsvar",
+      "link": "https://www.svt.se/nyheter/utrikes/usa-attackerat-iran-i-sjalvforsvar",
+      "image": ""
+    },
     {
       "title": "Ilskna protester i Belfast efter knivdåd",
       "link": "https://www.svt.se/nyheter/utrikes/ilskna-protester-i-belfast-efter-knivdad",
@@ -34,11 +39,6 @@
     {
       "title": "Folkhälsomyndigheten ska utreda hur tillgången till antibiotika ska säkras",
       "link": "https://www.svt.se/nyheter/inrikes/folkhalsomyndigheten-ska-utreda-hur-tillgangen-till-antibiotika-ska-sakras",
-      "image": ""
-    },
-    {
-      "title": "Barn påkört av buss i Vetlanda – fördes till sjukhus",
-      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/barn-pakord-av-buss-i-varnamo-fordes-till-sjukhus",
       "image": ""
     }
   ]
