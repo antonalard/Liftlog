@@ -1,6 +1,16 @@
 {
-  "updated": "2026-06-09 21:51 CEST",
+  "updated": "2026-06-09 23:26 CEST",
   "items": [
+    {
+      "title": "Ilskna protester i Belfast efter knivdåd",
+      "link": "https://www.svt.se/nyheter/utrikes/ilskna-protester-i-belfast-efter-knivdad",
+      "image": ""
+    },
+    {
+      "title": "Säkerhetsexperten om avslöjandet: Ta det på allvar",
+      "link": "https://www.svt.se/nyheter/inrikes/sakerhetsexperten-om-avslojandet-ta-det-pa-allvar",
+      "image": ""
+    },
     {
       "title": "Trafiken igång igen efter olycka på spåret i Katrineholm",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/tagstopp-i-katrineholm-efter-olycka-5xp8zm",
@@ -29,16 +39,6 @@
     {
       "title": "Barn påkört av buss i Vetlanda – fördes till sjukhus",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/barn-pakord-av-buss-i-varnamo-fordes-till-sjukhus",
-      "image": ""
-    },
-    {
-      "title": "Kristersson om Aftonbladets säkerhetsavslöjande: Har inget med min frus stiftelse att göra",
-      "link": "https://www.svt.se/nyheter/inrikes/kristersson-om-aftonbladets-sakerhetsavslojande-har-inget-med-min-frus-stiftelse-att-gora",
-      "image": ""
-    },
-    {
-      "title": "Prislapp på 800 miljoner – så betalas järnvägen till Stegra",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/prislapp-pa-800-miljoner-sa-betalas-jarnvagen-till-stegra",
       "image": ""
     }
   ]
