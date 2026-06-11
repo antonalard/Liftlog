@@ -1,9 +1,14 @@
 {
-  "updated": "2026-06-11 17:00 CEST",
+  "updated": "2026-06-11 20:29 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Pokémon GO 10th Anniversary Party Event",
+      "date": "Thu, 11 Jun 2026",
+      "link": "https://pokemongohub.net/post/event/pokemon-go-10th-anniversary-party-event/"
+    },
     {
       "title": "June 2026 Pokémon GO Events",
       "date": "Thu, 11 Jun 2026",
@@ -48,11 +53,6 @@
       "title": "Super Mega Skarmory Raid Day (2026): Shiny Odds, Counters & Bonuses",
       "date": "Thu, 04 Jun 2026",
       "link": "https://pokemongohub.net/post/event/super-mega-skarmory-raid-day-2026-shiny-odds-counters-bonuses/"
-    },
-    {
-      "title": "Spark’s Caretaking Quest Event Guide",
-      "date": "Thu, 04 Jun 2026",
-      "link": "https://pokemongohub.net/post/event/sparks-caretaking-quest/"
     }
   ]
 }
