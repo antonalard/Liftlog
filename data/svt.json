@@ -1,6 +1,11 @@
 {
-  "updated": "2026-06-11 20:29 CEST",
+  "updated": "2026-06-11 22:42 CEST",
   "items": [
+    {
+      "title": "Misstänkt rån efter vägen i Örnsköldsvik – bilförare överfallen",
+      "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/misstankt-ran-efter-vagen-i-ornskoldsvik-bilforare-overfallen",
+      "image": ""
+    },
     {
       "title": "Väktare biten i Tornby – två män omhändertagna",
       "link": "https://www.svt.se/nyheter/lokalt/ost/vaktare-biten-i-tornby-tva-man-omhandertagna",
@@ -34,11 +39,6 @@
     {
       "title": "Sabotage mot hemtjänstens bilar i Torshälla – laddkablar klipps av: ”Väldigt stor stress”",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/sabotage-mot-hemtjanstens-bilar-i-torshalla-laddkablar-klipps-av-valdigt-stor-stress",
-      "image": ""
-    },
-    {
-      "title": "Misstänkt mord i Malmö – tre gripna",
-      "link": "https://www.svt.se/nyheter/lokalt/skane/misshandel-i-malmo-person-ford-till-sjukhus",
       "image": ""
     }
   ]
