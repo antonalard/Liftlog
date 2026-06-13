@@ -1,6 +1,11 @@
 {
-  "updated": "2026-06-13 21:57 CEST",
+  "updated": "2026-06-13 23:08 CEST",
   "items": [
+    {
+      "title": "Tusentals samlades mot rasism i Belfast",
+      "link": "https://www.svt.se/nyheter/utrikes/tusentals-samlades-mot-rasism-i-belfast",
+      "image": ""
+    },
     {
       "title": "Viktor Orbán återvald som partiledare för Fidesz",
       "link": "https://www.svt.se/nyheter/utrikes/viktor-orban-atervald-som-partiledare-for-fidesz",
@@ -34,11 +39,6 @@
     {
       "title": "Sandvikenborna efter dödsolyckan: ”Det känns så onödigt”",
       "link": "https://www.svt.se/nyheter/lokalt/gavleborg/sandvikenborna-efter-dodsolyckan-det-kanns-sa-onodigt",
-      "image": ""
-    },
-    {
-      "title": "Fartyget ”Birger Jarl” kan ha hamnat på botten i Kramfors",
-      "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/fartyget-birger-jarl-har-sjunkit",
       "image": ""
     }
   ]
