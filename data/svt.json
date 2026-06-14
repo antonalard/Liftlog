@@ -1,9 +1,14 @@
 {
-  "updated": "2026-06-14 12:34 CEST",
+  "updated": "2026-06-14 14:30 CEST",
   "items": [
     {
       "title": "Så många svenskar ser Sveriges VM-premiär i Mexiko: ”Ett stort tack”",
       "link": "https://www.svt.se/sport/fotboll/sa-manga-svenskar-ser-sveriges-vm-premiar-i-mexiko-ett-stort-tack",
+      "image": ""
+    },
+    {
+      "title": "Mört på menyn – annorlunda fiskfestival i Ede lockade många",
+      "link": "https://www.svt.se/nyheter/lokalt/jamtland/mort-pa-menyn-annorlunda-fiskfestival-i-ede-lockade-manga",
       "image": ""
     },
     {
@@ -32,13 +37,8 @@
       "image": ""
     },
     {
-      "title": "Fotbolls-VM 2026: Nattens nyheter 14 juni",
-      "link": "https://www.svt.se/sport/fotboll/fotbolls-vm-2026-det-har-hande-nar-du-sov-14-juni",
-      "image": ""
-    },
-    {
-      "title": "Max 10 miljoner invånare – Schweiz röstar om befolkningstak",
-      "link": "https://www.svt.se/nyheter/utrikes/max-10-miljoner-invanare-schweiz-rostar-om-befolkningstak",
+      "title": "Man hittades i vattnet på Gotland – en anhållen",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/man-livshotande-skadad-efter-fall-i-vattnet-en-gripen",
       "image": ""
     }
   ]
