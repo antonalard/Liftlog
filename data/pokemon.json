@@ -1,9 +1,14 @@
 {
-  "updated": "2026-06-15 18:47 CEST",
+  "updated": "2026-06-15 22:18 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Super Mega Raichu Raid Day",
+      "date": "Mon, 15 Jun 2026",
+      "link": "https://pokemongohub.net/post/event/super-mega-raichu-raid-day/"
+    },
     {
       "title": "LEGO Stores x Pokémon GO Stamp Rally, Raids and More!",
       "date": "Mon, 15 Jun 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO Events This Week: June 8-14, 2026",
       "date": "Sun, 07 Jun 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-june-8-14-2026/"
-    },
-    {
-      "title": "Dynamax Electabuzz Max Monday: Event Guide",
-      "date": "Sun, 07 Jun 2026",
-      "link": "https://pokemongohub.net/post/event/dynamax-electabuzz-max-monday-event-guide/"
     }
   ]
 }
