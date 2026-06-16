@@ -1,9 +1,14 @@
 {
-  "updated": "2026-06-16 17:46 CEST",
-  "community_day_title": "",
-  "community_day_image": "",
-  "community_day_link": "",
+  "updated": "2026-06-16 21:25 CEST",
+  "community_day_title": "Sobble Community Day (July 2026)",
+  "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/06/sobble.jpg",
+  "community_day_link": "https://pokemongohub.net/post/event/sobble-community-day-july-2026/",
   "items": [
+    {
+      "title": "Sobble Community Day (July 2026)",
+      "date": "Tue, 16 Jun 2026",
+      "link": "https://pokemongohub.net/post/event/sobble-community-day-july-2026/"
+    },
     {
       "title": "Pokémon 30th Anniversary Tour: PokéXciting",
       "date": "Tue, 16 Jun 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO Flying Taxi Event (2026)",
       "date": "Tue, 09 Jun 2026",
       "link": "https://pokemongohub.net/post/event/flying-taxi-event-2026/"
-    },
-    {
-      "title": "Candela’s Quest for Victory Event Guide",
-      "date": "Tue, 09 Jun 2026",
-      "link": "https://pokemongohub.net/post/event/candelas-quest-for-victory/"
     }
   ]
 }

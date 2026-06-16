@@ -1,8 +1,33 @@
 {
-  "updated": "2026-06-16 17:46 CEST",
+  "updated": "2026-06-16 21:25 CEST",
   "items": [
     {
-      "title": "Tjeckick toppcenter klar för HV71",
+      "title": "Noah Lyles satte nytt världsrekord på 150 meter",
+      "link": "https://www.svt.se/sport/friidrott/noah-lyles-slar-varldsrekord-i-150-meter",
+      "image": ""
+    },
+    {
+      "title": "Sydkorea bojkottar inhemsk media – efter inspelade hånet",
+      "link": "https://www.svt.se/sport/fotboll/sydkorea-bojkottar-inhemsk-media-efter-inspelade-hanet",
+      "image": ""
+    },
+    {
+      "title": "Man skjuten i Jordbro",
+      "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-skjuten-i-jordbro",
+      "image": ""
+    },
+    {
+      "title": "Se när utländska stridsflyg övar för skarpt krig i Luleå",
+      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/se-nar-utlandska-stridsflyg-ovar-for-skarpt-krig-i-lulea",
+      "image": ""
+    },
+    {
+      "title": "En person avliden efter villabrand i Sexdrega",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/villabrand-i-svenljunga",
+      "image": ""
+    },
+    {
+      "title": "Tjeckisk toppcenter klar för HV71",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/tjeckick-toppcenter-klar-for-hv71",
       "image": ""
     },
@@ -14,31 +39,6 @@
     {
       "title": "Ministern om BUP-köerna: ”Alla barn ska inte hamna hos BUP”",
       "link": "https://www.svt.se/nyheter/lokalt/ost/ministern-om-koerna-alla-barn-ska-inte-hamna-hos-bup",
-      "image": ""
-    },
-    {
-      "title": "Före detta medarbetare riktar allvarlig kritik mot socialtjänsten i Alvesta efter misstänkta mordförsöken",
-      "link": "https://www.svt.se/nyheter/lokalt/smaland/fore-detta-medarbetare-riktar-allvarlig-kritik-mot-socialtjansten-i-alvesta-efter-misstankta-mordforsoken",
-      "image": ""
-    },
-    {
-      "title": "Putinkritisk konstnär dödad – under ”avrättningsliknande” former",
-      "link": "https://www.svt.se/nyheter/utrikes/putinkritisk-konstnar-dodad-under-avrattningsliknande-former",
-      "image": ""
-    },
-    {
-      "title": "Slutligt ja till vegokorvar i EU",
-      "link": "https://www.svt.se/nyheter/utrikes/slutligt-ja-till-vegokorvar-i-eu",
-      "image": ""
-    },
-    {
-      "title": "Experten: Kriget i Libanon fortsätter oavsett fredsavtal",
-      "link": "https://www.svt.se/nyheter/utrikes/experten-kriget-i-libanon-fortsatter-oavsett-fredsavtal",
-      "image": ""
-    },
-    {
-      "title": "Olycka under skjutövning i Piteå – kvinna träffad av kulrester",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/olycka-under-skjutovning-i-pitea-kvinna-traffad-av-kulrester",
       "image": ""
     }
   ]
