@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-16 23:57 CEST",
+  "updated": "2026-06-17 01:19 CEST",
   "today": {
-    "weekday": "tuesday",
-    "temp": 13,
-    "meta": "fair night • Vind 3 m/s",
+    "weekday": "wednesday",
+    "temp": 11,
+    "meta": "fair night • Vind 2 m/s",
     "symbol_code": "fair_night"
   },
   "week": [
     {
       "weekday": "tue",
-      "night": 12,
-      "day": 13,
+      "night": 11,
+      "day": 11,
       "symbol_code": "fair_night"
     },
     {
