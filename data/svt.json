@@ -1,44 +1,44 @@
 {
-  "updated": "2026-06-17 03:45 CEST",
+  "updated": "2026-06-17 08:55 CEST",
   "items": [
+    {
+      "title": "Lastbilsolycka på E18 väster om Örebro – en till sjukhus",
+      "link": "https://www.svt.se/nyheter/lokalt/orebro/lastbilsolycka-pa-e18-ambulans-larmad",
+      "image": ""
+    },
+    {
+      "title": "Så blir vädret på midsommar 2026 – solchanser i söder",
+      "link": "https://www.svt.se/nyheter/inrikes/sa-blir-vadret-pa-midsommar-2026-solchanser-i-soder",
+      "image": ""
+    },
+    {
+      "title": "Splitter ny bil förstörd – sjunde bilbranden på kort tid",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/annu-en-bilbrand-i-jonkoping-sjunde-pa-kort-tid",
+      "image": ""
+    },
+    {
+      "title": "Här lär sig räddningstjänsten att agera i krigssituation",
+      "link": "https://www.svt.se/nyheter/lokalt/sormland/har-lar-sig-raddningstjansten-att-agera-i-krigssituation",
+      "image": ""
+    },
+    {
+      "title": "SLU-professorn: ”En ko som mjölkar som Silva mår bra”",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/slu-professorn-en-ko-som-mjolkar-som-silva-mar-bra",
+      "image": ""
+    },
+    {
+      "title": "Asteroiden får namn efter forskarparet från Kiruna",
+      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/asteroiden-far-namn-efter-forskarparet-fran-kiruna",
+      "image": ""
+    },
+    {
+      "title": "Hattrick av Lionel Messi – som skrev VM-historia",
+      "link": "https://www.svt.se/sport/fotboll/hattrick-av-lionel-messi-som-skrev-vm-historia",
+      "image": ""
+    },
     {
       "title": "Se Iraks dundertabbe – när Erling Haaland fixade norsk seger",
       "link": "https://www.svt.se/sport/fotboll/se-iraks-dundertabbe-nar-erling-haaland-fixade-norsk-seger",
-      "image": ""
-    },
-    {
-      "title": "Kylian Mbappé historisk när Frankrike vann VM-premiären",
-      "link": "https://www.svt.se/sport/fotboll/kylian-mbappe-tvamalskytt-nar-frankrike-vann-vm-premiaren",
-      "image": ""
-    },
-    {
-      "title": "Man hittades misshandlad i Varberg centrum – två män gripna",
-      "link": "https://www.svt.se/nyheter/lokalt/halland/man-hittades-misshandlad-i-varberg-centrum-tva-gripna",
-      "image": ""
-    },
-    {
-      "title": "Noah Lyles satte nytt världsrekord på 150 meter",
-      "link": "https://www.svt.se/sport/friidrott/noah-lyles-slar-varldsrekord-i-150-meter",
-      "image": ""
-    },
-    {
-      "title": "Sydkorea bojkottar inhemsk media – efter inspelade hånet",
-      "link": "https://www.svt.se/sport/fotboll/sydkorea-bojkottar-inhemsk-media-efter-inspelade-hanet",
-      "image": ""
-    },
-    {
-      "title": "Man skjuten i Jordbro",
-      "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-skjuten-i-jordbro",
-      "image": ""
-    },
-    {
-      "title": "Se när utländska stridsflyg övar för skarpt krig i Luleå",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/se-nar-utlandska-stridsflyg-ovar-for-skarpt-krig-i-lulea",
-      "image": ""
-    },
-    {
-      "title": "En person avliden efter villabrand i Sexdrega",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/villabrand-i-svenljunga",
       "image": ""
     }
   ]
