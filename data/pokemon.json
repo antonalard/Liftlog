@@ -1,9 +1,14 @@
 {
-  "updated": "2026-06-18 03:58 CEST",
+  "updated": "2026-06-18 08:48 CEST",
   "community_day_title": "Sobble Community Day (July 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/06/sobble.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/sobble-community-day-july-2026/",
   "items": [
+    {
+      "title": "Pokémon GO Fest 2026: Global Community Celebrations and Meetups",
+      "date": "Thu, 18 Jun 2026",
+      "link": "https://pokemongohub.net/post/event/pokemon-go-fest-2026-global-community-celebrations-and-meetups/"
+    },
     {
       "title": "Sobble Community Day (July 2026)",
       "date": "Tue, 16 Jun 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO Flying Taxi: Taken Over – Shadow Reshiram & New Rocket Lineups",
       "date": "Tue, 09 Jun 2026",
       "link": "https://pokemongohub.net/post/event/flying-taxi-taken-over/"
-    },
-    {
-      "title": "Pokémon GO Flying Taxi Event (2026)",
-      "date": "Tue, 09 Jun 2026",
-      "link": "https://pokemongohub.net/post/event/flying-taxi-event-2026/"
     }
   ]
 }
