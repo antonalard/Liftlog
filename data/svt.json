@@ -1,6 +1,11 @@
 {
-  "updated": "2026-06-19 18:25 CEST",
+  "updated": "2026-06-19 20:12 CEST",
   "items": [
+    {
+      "title": "Två tåg i krock nära Bedford – passagerare skadade",
+      "link": "https://www.svt.se/nyheter/utrikes/tva-tag-i-krock-nara-bedford-passagerare-allvarligt-skadade",
+      "image": ""
+    },
     {
       "title": "Volvo återkallar 4 500 bilar i Sverige – finns brandrisk",
       "link": "https://www.svt.se/nyheter/inrikes/volvo-aterkallar-4-500-bilar-i-sverige-finns-brandrisk",
@@ -17,7 +22,7 @@
       "image": ""
     },
     {
-      "title": "Här faller midsommarstången – under firandet på Stenegård",
+      "title": "Här faller midsommarstången rakt mot besökarna – under firandet på Stenegård",
       "link": "https://www.svt.se/nyheter/lokalt/gavleborg/har-faller-midsommarstangen-under-firandet-pa-stenegard",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Gabriel Gudmundsson slår ner pappans uttalande: ”En överdrift”",
       "link": "https://www.svt.se/sport/fotboll/gabriel-gudmundsson-slar-ner-pappans-uttalande-en-overdrift",
-      "image": ""
-    },
-    {
-      "title": "Elanga om speltiden: ”Då kommer jag göra skillnad”",
-      "link": "https://www.svt.se/sport/fotboll/elanga-om-speltiden-da-kommer-jag-gora-skillnad",
       "image": ""
     }
   ]
