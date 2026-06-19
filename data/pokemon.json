@@ -1,9 +1,14 @@
 {
-  "updated": "2026-06-19 12:07 CEST",
-  "community_day_title": "Sobble Community Day (July 2026)",
-  "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/06/sobble.jpg",
-  "community_day_link": "https://pokemongohub.net/post/event/sobble-community-day-july-2026/",
+  "updated": "2026-06-19 15:51 CEST",
+  "community_day_title": "June 2026 Community Day: Frigibax",
+  "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/05/frigibax.jpg",
+  "community_day_link": "https://pokemongohub.net/post/event/frigibax-community-day-june-2026/",
   "items": [
+    {
+      "title": "June 2026 Community Day: Frigibax",
+      "date": "Fri, 19 Jun 2026",
+      "link": "https://pokemongohub.net/post/event/frigibax-community-day-june-2026/"
+    },
     {
       "title": "GO Fest 2026: Road of Legends",
       "date": "Thu, 18 Jun 2026",
@@ -48,11 +53,6 @@
       "title": "June 2026 Pokémon GO Events",
       "date": "Thu, 11 Jun 2026",
       "link": "https://pokemongohub.net/post/event/june-2026-pokemon-go-events/"
-    },
-    {
-      "title": "Best Pokémon to Catch at Pokémon GO Fest Copenhagen 2026",
-      "date": "Wed, 10 Jun 2026",
-      "link": "https://pokemongohub.net/post/guide/best-pokemon-to-catch-at-pokemon-go-fest-copenhagen-2026/"
     }
   ]
 }
