@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-19 23:39 CEST",
+  "updated": "2026-06-20 00:40 CEST",
   "today": {
-    "weekday": "friday",
-    "temp": 21,
+    "weekday": "saturday",
+    "temp": 20,
     "meta": "partlycloudy night • Vind 3 m/s",
     "symbol_code": "partlycloudy_night"
   },
@@ -10,13 +10,13 @@
     {
       "weekday": "fri",
       "night": 20,
-      "day": 21,
+      "day": 20,
       "symbol_code": "partlycloudy_night"
     },
     {
       "weekday": "sat",
-      "night": 17,
-      "day": 24,
+      "night": 16,
+      "day": 25,
       "symbol_code": "fair_day"
     },
     {
