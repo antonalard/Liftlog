@@ -1,6 +1,21 @@
 {
-  "updated": "2026-06-19 15:51 CEST",
+  "updated": "2026-06-19 18:25 CEST",
   "items": [
+    {
+      "title": "Volvo återkallar 4 500 bilar i Sverige – finns brandrisk",
+      "link": "https://www.svt.se/nyheter/inrikes/volvo-aterkallar-4-500-bilar-i-sverige-finns-brandrisk",
+      "image": ""
+    },
+    {
+      "title": "Här firas midsommar i Saltsjö-Boo – med fransk tv på plats",
+      "link": "https://www.svt.se/nyheter/lokalt/stockholm/har-firas-midsommar-i-saltsjo-boo-med-fransk-tv-pa-plats",
+      "image": ""
+    },
+    {
+      "title": "Fullt utvecklad lägenhetsbrand i Märsta",
+      "link": "https://www.svt.se/nyheter/lokalt/stockholm/brand-i-lagenhet-i-sigtuna",
+      "image": ""
+    },
     {
       "title": "Här faller midsommarstången – under firandet på Stenegård",
       "link": "https://www.svt.se/nyheter/lokalt/gavleborg/har-faller-midsommarstangen-under-firandet-pa-stenegard",
@@ -24,21 +39,6 @@
     {
       "title": "Elanga om speltiden: ”Då kommer jag göra skillnad”",
       "link": "https://www.svt.se/sport/fotboll/elanga-om-speltiden-da-kommer-jag-gora-skillnad",
-      "image": ""
-    },
-    {
-      "title": "Toy Story-sviten: en av de  största filmsuccéerna genom tiderna",
-      "link": "https://www.svt.se/kultur/toy-story-sviten-en-av-de-storsta-filmsucceerna-genom-tiderna",
-      "image": ""
-    },
-    {
-      "title": "Nu öppnas Nynäs slott igen – efter sparkravet",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/nu-oppnas-nynas-slott-igen-efter-sparkravet",
-      "image": ""
-    },
-    {
-      "title": "Bråket om Yasin Ayaris målgest: ”Speglar det svenska samhället”",
-      "link": "https://www.svt.se/nyheter/lokalt/stockholm/braket-om-yasin-ayaris-malgest-speglar-det-svenska-samhallet",
       "image": ""
     }
   ]
