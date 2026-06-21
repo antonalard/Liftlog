@@ -1,9 +1,14 @@
 {
-  "updated": "2026-06-21 12:50 CEST",
+  "updated": "2026-06-21 14:59 CEST",
   "community_day_title": "June 2026 Community Day: Frigibax",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/05/frigibax.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/frigibax-community-day-june-2026/",
   "items": [
+    {
+      "title": "Pokémon GO Events This Week: June 22-28, 2026",
+      "date": "Sun, 21 Jun 2026",
+      "link": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-june-22-28-2026/"
+    },
     {
       "title": "June 2026 Community Day: Frigibax",
       "date": "Sat, 20 Jun 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO 10th Anniversary Party Event",
       "date": "Thu, 11 Jun 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-10th-anniversary-party-event/"
-    },
-    {
-      "title": "June 2026 Pokémon GO Events",
-      "date": "Thu, 11 Jun 2026",
-      "link": "https://pokemongohub.net/post/event/june-2026-pokemon-go-events/"
     }
   ]
 }
