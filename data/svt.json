@@ -1,6 +1,11 @@
 {
-  "updated": "2026-06-21 23:48 CEST",
+  "updated": "2026-06-22 00:56 CEST",
   "items": [
+    {
+      "title": "Fredsförhandlingarna i Schweiz – detta vet vi",
+      "link": "https://www.svt.se/nyheter/utrikes/fredsforhandlingarna-i-schweiz-detta-vet-vi",
+      "image": ""
+    },
     {
       "title": "Oljeutsläpp i Göteborg – fåglar fastnade",
       "link": "https://www.svt.se/nyheter/lokalt/vast/oljeutslapp-i-goteborg-faglar-fastnade",
@@ -34,11 +39,6 @@
     {
       "title": "Allvarlig trafikolycka i Kalix kommun – två döda",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/allvarlig-trafikolycka-i-kalix-kommun",
-      "image": ""
-    },
-    {
-      "title": "Milslång kö – flera olyckor i midsommartrafiken",
-      "link": "https://www.svt.se/nyheter/inrikes/milslang-ko-flera-olyckor-i-midsommartrafiken",
       "image": ""
     }
   ]
