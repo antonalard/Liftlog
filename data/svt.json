@@ -1,6 +1,11 @@
 {
-  "updated": "2026-06-21 17:10 CEST",
+  "updated": "2026-06-21 18:58 CEST",
   "items": [
+    {
+      "title": "Allvarlig trafikolycka i Kalix kommun",
+      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/allvarlig-trafikolycka-i-kalix-kommun",
+      "image": ""
+    },
     {
       "title": "Milslång kö – flera olyckor i midsommartrafiken",
       "link": "https://www.svt.se/nyheter/inrikes/milslang-ko-flera-olyckor-i-midsommartrafiken",
@@ -12,7 +17,7 @@
       "image": ""
     },
     {
-      "title": "Trafikolycka på E14 i Stöde utanför Sundsvall – person påkörd av lastbil",
+      "title": "Person påkörd av lastbil på E14 i Stöde – allvarligt skadad",
       "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/trafikolycka-pa-e14-i-stode-utanfor-sundsvall-person-pakord",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Se upp Sverige! Japan storspelade mot Tunisien: ”Oroväckande”",
       "link": "https://www.svt.se/sport/fotboll/se-upp-sverige-japan-storspelade-mot-tunisien-orovackande",
-      "image": ""
-    },
-    {
-      "title": "Så går Sverige vidare i fotbolls-VM – kan möta Norge",
-      "link": "https://www.svt.se/sport/fotboll/trots-overkorningen-sa-gar-sverige-vidare-i-vm",
       "image": ""
     }
   ]
