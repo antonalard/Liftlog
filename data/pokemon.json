@@ -1,9 +1,14 @@
 {
-  "updated": "2026-06-23 07:34 CEST",
+  "updated": "2026-06-23 10:52 CEST",
   "community_day_title": "June 2026 Community Day: Frigibax",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/05/frigibax.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/frigibax-community-day-june-2026/",
   "items": [
+    {
+      "title": "Pokémon GO Flying Taxi Event (2026)",
+      "date": "Tue, 23 Jun 2026",
+      "link": "https://pokemongohub.net/post/event/flying-taxi-event-2026/"
+    },
     {
       "title": "July 2026 Pokémon GO Events",
       "date": "Mon, 22 Jun 2026",
@@ -48,11 +53,6 @@
       "title": "LEGO Stores x Pokémon GO Stamp Rally, Raids and More!",
       "date": "Mon, 15 Jun 2026",
       "link": "https://pokemongohub.net/post/event/lego-stores-x-pokemon-go-stamp-rally-raids-and-more/"
-    },
-    {
-      "title": "Pokémon GO Events This Week: June 15-21, 2026",
-      "date": "Sat, 13 Jun 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-june-15-21-2026/"
     }
   ]
 }
