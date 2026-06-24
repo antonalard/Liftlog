@@ -1,6 +1,16 @@
 {
-  "updated": "2026-06-24 18:13 CEST",
+  "updated": "2026-06-24 20:14 CEST",
   "items": [
+    {
+      "title": "Svensk dokumentär tar plats i världsberömd museisamling",
+      "link": "https://www.svt.se/kultur/svensk-dokumentar-tar-plats-i-varldsberomd-museisamling",
+      "image": ""
+    },
+    {
+      "title": "Graham Potter tokhyllas av svenska stjärnorna: ”Älskar honom”",
+      "link": "https://www.svt.se/sport/fotboll/graham-potter-tokhyllas-av-svenska-stjarnorna-alskar-honom",
+      "image": ""
+    },
     {
       "title": "Anton från Huskvarna följer VM i USA – hoppfull inför mötet med Japan",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/anton-fran-huskvarna-foljer-vm-i-usa-hoppfull-infor-motet-med-japan",
@@ -29,16 +39,6 @@
     {
       "title": "Thunberg åtalad i Danmark – vill bli friad",
       "link": "https://www.svt.se/nyheter/utrikes/thunberg-atalad-i-danmark-vill-bli-friad",
-      "image": ""
-    },
-    {
-      "title": "Hans stämningsmusik drog in miljoner – fick 0 kronor",
-      "link": "https://www.svt.se/kultur/hans-stamningsmusik-drog-in-miljoner-fick-0-kronor",
-      "image": ""
-    },
-    {
-      "title": "ÖB om ryska skuggflottan: ”Förlänger kriget i Ukraina”",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/ob-om-skuggflottan-forlanger-kriget-i-ukraina",
       "image": ""
     }
   ]
