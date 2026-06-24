@@ -1,6 +1,11 @@
 {
-  "updated": "2026-06-24 23:51 CEST",
+  "updated": "2026-06-25 00:57 CEST",
   "items": [
+    {
+      "title": "Jordbävning i Venezuela",
+      "link": "https://www.svt.se/nyheter/utrikes/jordbavning-i-venezuela",
+      "image": ""
+    },
     {
       "title": "Polen och Sverige skriver avtal om tre A26-ubåtar den 29 juni",
       "link": "https://www.svt.se/nyheter/utrikes/polen-och-sverige-skriver-avtal-om-tre-a26-ubatar-den-29-juni",
@@ -34,11 +39,6 @@
     {
       "title": "Ryssland militariserar skuggflottan – därför är det bra för Sverige",
       "link": "https://www.svt.se/nyheter/inrikes/ryssland-militariserar-skuggflottan-darfor-ar-det-bra-for-sverige",
-      "image": ""
-    },
-    {
-      "title": "Katja Nyberg ifrågasätter åklagarens tidslinje i JO-anmälan",
-      "link": "https://www.svt.se/nyheter/inrikes/katja-nyberg-ifragasatter-aklagarens-tidslinje-i-jo-anmalan",
       "image": ""
     }
   ]
