@@ -1,9 +1,14 @@
 {
-  "updated": "2026-06-24 20:14 CEST",
+  "updated": "2026-06-24 22:15 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Wingull Spotlight Hour (June 2026): Last Minute Guide",
+      "date": "Wed, 24 Jun 2026",
+      "link": "https://pokemongohub.net/post/article/wingull-spotlight-hour-june-2026-last-minute-guide/"
+    },
     {
       "title": "Pokémon GO City Safari 2026: Rio de Janeiro, Brazil",
       "date": "Wed, 24 Jun 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO Flying Taxi Event (2026)",
       "date": "Tue, 23 Jun 2026",
       "link": "https://pokemongohub.net/post/event/flying-taxi-event-2026/"
-    },
-    {
-      "title": "July 2026 Pokémon GO Events",
-      "date": "Mon, 22 Jun 2026",
-      "link": "https://pokemongohub.net/post/event/july-2026-pokemon-go-events/"
     }
   ]
 }
