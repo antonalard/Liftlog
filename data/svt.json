@@ -1,6 +1,11 @@
 {
-  "updated": "2026-06-25 20:29 CEST",
+  "updated": "2026-06-25 22:29 CEST",
   "items": [
+    {
+      "title": "Mordförsök i Göteborg – två gripna efter lägenhetsbråk",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/mordforsok-i-goteborg-tva-gripna",
+      "image": ""
+    },
     {
       "title": "Rico bor bredvid tågurspårningen vid Bollebygd: ”Tur att det hände här”",
       "link": "https://www.svt.se/nyheter/lokalt/vast/rico-bor-bredvid-tagursparningen-vid-bollebygd-tur-att-det-hande-har",
@@ -34,11 +39,6 @@
     {
       "title": "Polisanmälda chefen i Gnesta misstänks för bedrägeri",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/polisanmalda-chefen-i-gnesta-misstanks-for-bedrageri",
-      "image": ""
-    },
-    {
-      "title": "Eldningsförbud införs på Gotland: ”Mycket torrt”",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/eldningsforbud-infors-pa-gotland-mycket-torrt",
       "image": ""
     }
   ]
