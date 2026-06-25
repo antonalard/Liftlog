@@ -1,6 +1,11 @@
 {
-  "updated": "2026-06-25 18:12 CEST",
+  "updated": "2026-06-25 20:29 CEST",
   "items": [
+    {
+      "title": "Rico bor bredvid tågurspårningen vid Bollebygd: ”Tur att det hände här”",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/rico-bor-bredvid-tagursparningen-vid-bollebygd-tur-att-det-hande-har",
+      "image": ""
+    },
     {
       "title": "Bild för bild: Experten om jordbävningarna i Venezuela",
       "link": "https://www.svt.se/nyheter/utrikes/bild-for-bild-experten-om-jordbavningarna-i-venezuela",
@@ -34,11 +39,6 @@
     {
       "title": "Eldningsförbud införs på Gotland: ”Mycket torrt”",
       "link": "https://www.svt.se/nyheter/lokalt/ost/eldningsforbud-infors-pa-gotland-mycket-torrt",
-      "image": ""
-    },
-    {
-      "title": "Härjedaling förföljde exfrun med hjälp av GPS – döms till fängelse",
-      "link": "https://www.svt.se/nyheter/lokalt/jamtland/harjedaling-forfoljde-exfrun-med-hjalp-av-gps-doms-till-fangelse",
       "image": ""
     }
   ]
