@@ -1,9 +1,19 @@
 {
-  "updated": "2026-06-26 08:06 CEST",
+  "updated": "2026-06-26 11:55 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Professor Willow’s Birthday Research",
+      "date": "Fri, 26 Jun 2026",
+      "link": "https://pokemongohub.net/post/event/professor-willows-birthday-research/"
+    },
+    {
+      "title": "Ozone Ascent: Mega Rayquaza Timed Research",
+      "date": "Fri, 26 Jun 2026",
+      "link": "https://pokemongohub.net/post/event/ozone-ascent-mega-rayquaza-timed-research/"
+    },
     {
       "title": "Special Anniversary Pikachu Celebration Event",
       "date": "Thu, 25 Jun 2026",
@@ -43,16 +53,6 @@
       "title": "Pokémon GO City Safari 2026: Brisbane, Australia",
       "date": "Wed, 24 Jun 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-city-safari-2026-brisbane-australia/"
-    },
-    {
-      "title": "Pokémon GO City Safari 2026: Boston, USA",
-      "date": "Wed, 24 Jun 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-city-safari-2026-boston-usa/"
-    },
-    {
-      "title": "City Safari Events Coming to New Locations in September 2026!",
-      "date": "Tue, 23 Jun 2026",
-      "link": "https://pokemongohub.net/post/event/city-safari-events-coming-to-new-locations-in-september-2026/"
     }
   ]
 }

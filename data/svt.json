@@ -1,8 +1,33 @@
 {
-  "updated": "2026-06-26 08:06 CEST",
+  "updated": "2026-06-26 11:55 CEST",
   "items": [
     {
-      "title": "Jubel på torget i Vetlanda när Sverige tog sig vidare i VM",
+      "title": "JLT stoppar tåg på grund av värmen",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/jlt-stoppar-tag-pa-grund-av-varmen",
+      "image": ""
+    },
+    {
+      "title": "Kraschade in i sommarstuga med moped – åtalas för grovt rattfylleri",
+      "link": "https://www.svt.se/nyheter/lokalt/jamtland/kraschade-in-i-sommarstuga-med-moped-atalas-for-grovt-rattfylleri",
+      "image": ""
+    },
+    {
+      "title": "Hockeyikonen Mattias Tedenby lämnar HV71",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/hv-ikonen-mattias-tedenby-lamnar-laget",
+      "image": ""
+    },
+    {
+      "title": "Svenskorna långt efter Ina Yoon som varit avstängd för fusk",
+      "link": "https://www.svt.se/sport/golf/svenskorna-langt-efter-ina-yoon-som-varit-avstangd-for-fusk",
+      "image": ""
+    },
+    {
+      "title": "”Rekordhettan hade varit omöjlig för bara 50 år sen”",
+      "link": "https://www.svt.se/nyheter/vetenskap/rekordhettan-hade-varit-omojlig-for-bara-50-ar-sen",
+      "image": ""
+    },
+    {
+      "title": "700 jublade på torget i Vetlanda när Sverige tog sig vidare i VM inatt",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/jubel-pa-torget-i-vetlanda-nar-sverige-tog-sig-vidare-i-vm",
       "image": ""
     },
@@ -14,31 +39,6 @@
     {
       "title": "Så varmt får du ha hemma – då måste hyresvärden agera",
       "link": "https://www.svt.se/nyheter/lokalt/smaland/sa-varmt-far-du-ha-hemma-da-maste-hyresvarden-agera",
-      "image": ""
-    },
-    {
-      "title": "Tre coola tips – så håller du lägenheten sval i värmeböljan",
-      "link": "https://www.svt.se/nyheter/lokalt/smaland/tre-coola-tips-sa-haller-du-lagenheten-sval-i-varmeboljan",
-      "image": ""
-    },
-    {
-      "title": "Värmeböljan gör det tufft för hundarna på Agility-SM i Jönköping",
-      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/varmeboljan-gor-det-tufft-for-hundarna-pa-agility-sm-i-jonkoping",
-      "image": ""
-    },
-    {
-      "title": "SCA mot strömmen – inviger jättepark när vindkraften bromsar in",
-      "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/sca-mot-strommen-inviger-jattepark-nar-vindkraften-bromsar-in",
-      "image": ""
-    },
-    {
-      "title": "Vallahusen på Frösön godkända – efter lång process",
-      "link": "https://www.svt.se/nyheter/lokalt/jamtland/vallahusen-pa-froson-godkanda-efter-lang-process",
-      "image": ""
-    },
-    {
-      "title": "De har Sverige störst chans att ställas mot i sextondelsfinalen",
-      "link": "https://www.svt.se/sport/fotboll/de-har-sverige-storst-chans-att-stallas-mot-i-sextondelsfinalen",
       "image": ""
     }
   ]
