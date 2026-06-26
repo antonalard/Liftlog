@@ -1,6 +1,11 @@
 {
-  "updated": "2026-06-26 19:12 CEST",
+  "updated": "2026-06-26 21:12 CEST",
   "items": [
+    {
+      "title": "SSAB:s stålverksbygge i Luleå pausades igen efter fynd av vätecyanid",
+      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/ssabs-stalverksbygge-i-lulea-pausades-efter-fynd-av-vatecyanid",
+      "image": ""
+    },
     {
       "title": "Skatteverket backar – betalar tillbaka pengar till kvinnan i kopplerihärvan",
       "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/skatteverket-backar-betalar-tillbaka-pengar-till-kvinnan-i-koppleriharvan",
@@ -34,11 +39,6 @@
     {
       "title": "St Olavsloppet på språng från Trondheim till Östersund",
       "link": "https://www.svt.se/nyheter/lokalt/jamtland/st-olavsloppet-pa-sprang-fran-trondheim-till-ostersund",
-      "image": ""
-    },
-    {
-      "title": "Misstänkt mord på Gotland – man häktad",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/misstankt-mord-pa-gotland-man-haktad",
       "image": ""
     }
   ]
