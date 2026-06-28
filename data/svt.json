@@ -1,6 +1,11 @@
 {
-  "updated": "2026-06-28 18:53 CEST",
+  "updated": "2026-06-28 19:56 CEST",
   "items": [
+    {
+      "title": "Pojke påkörd i Helsingborg – mc-förare lämnade platsen",
+      "link": "https://www.svt.se/nyheter/lokalt/helsingborg/pojke-pakord-forare-lamnade-platsen",
+      "image": ""
+    },
     {
       "title": "Stor sökinsats efter försvunnen man på Skaftö – ber Försvarsmakten om hjälp",
       "link": "https://www.svt.se/nyheter/lokalt/vast/stor-sokinsats-efter-forsvunnen-man-pa-skafto-ber-forsvarsmakten-om-hjalp",
@@ -34,11 +39,6 @@
     {
       "title": "Värmebölja och åskoväder – så slår extremvädret mot Europa",
       "link": "https://www.svt.se/nyheter/utrikes/varmebolja-och-askovader-sa-slar-extremvadret-mot-europa",
-      "image": ""
-    },
-    {
-      "title": "Wildfire firar tio år – lockar fortfarande entusiaster från hela världen",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/wildfire-firar-tio-ar-lockar-fortfarande-entusiaster-fran-hela-varlden",
       "image": ""
     }
   ]
