@@ -1,6 +1,11 @@
 {
-  "updated": "2026-06-28 17:49 CEST",
+  "updated": "2026-06-28 18:53 CEST",
   "items": [
+    {
+      "title": "Stor sökinsats efter försvunnen man på Skaftö – ber Försvarsmakten om hjälp",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/stor-sokinsats-efter-forsvunnen-man-pa-skafto-ber-forsvarsmakten-om-hjalp",
+      "image": ""
+    },
     {
       "title": "Mc-förare skadad efter krock i Västervik",
       "link": "https://www.svt.se/nyheter/lokalt/smaland/mc-forare-skadad-efter-krock-i-vastervik",
@@ -34,11 +39,6 @@
     {
       "title": "Wildfire firar tio år – lockar fortfarande entusiaster från hela världen",
       "link": "https://www.svt.se/nyheter/lokalt/ost/wildfire-firar-tio-ar-lockar-fortfarande-entusiaster-fran-hela-varlden",
-      "image": ""
-    },
-    {
-      "title": "Brand i ladugård efter åsknedslag",
-      "link": "https://www.svt.se/nyheter/lokalt/smaland/brand-i-ladugard-stor-rokpelare",
       "image": ""
     }
   ]
