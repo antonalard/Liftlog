@@ -1,9 +1,14 @@
 {
-  "updated": "2026-06-28 11:49 CEST",
+  "updated": "2026-06-28 13:28 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Pokémon GO Events This Week: June 29 – July 5, 2026",
+      "date": "Sun, 28 Jun 2026",
+      "link": "https://pokemongohub.net/post/news/pokemon-go-events-this-week-june-29-july-5-2026/"
+    },
     {
       "title": "Professor Willow’s Birthday Research",
       "date": "Fri, 26 Jun 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO City Safari 2026: Lisbon, Portugal",
       "date": "Wed, 24 Jun 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-city-safari-2026-lisbon-portugal/"
-    },
-    {
-      "title": "Pokémon GO City Safari 2026: Brisbane, Australia",
-      "date": "Wed, 24 Jun 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-city-safari-2026-brisbane-australia/"
     }
   ]
 }
