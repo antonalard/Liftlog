@@ -1,13 +1,18 @@
 {
-  "updated": "2026-06-28 13:28 CEST",
+  "updated": "2026-06-28 14:53 CEST",
   "items": [
+    {
+      "title": "Uppsala är Sveriges bästa idrottsstad 2026",
+      "link": "https://www.svt.se/sport/artikel/uppsala-ar-sveriges-basta-idrottsstad-2026",
+      "image": ""
+    },
     {
       "title": "Larm om spetsiga pålar – hopptorn avspärrat i Gislaved",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/hopptorn-avsparrat-i-gislaved-en-person-skadades",
       "image": ""
     },
     {
-      "title": "Starten på Gotland runt skjuts upp på grund av oväder",
+      "title": "Starten för Gotland runt skjuts upp på grund av oväder",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/starten-pa-gotland-runt-skjuts-upp-pa-grund-av-vadret",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "SMHI varnar för åska och vind i Skåne: ”Tusen blixtar per halvtimme”",
       "link": "https://www.svt.se/nyheter/lokalt/skane/smhi-varnar-for-aska-och-vind-i-skane",
-      "image": ""
-    },
-    {
-      "title": "Agentens samtal med Felicia Schröder: ”Om du blir dyrast i världen kommer det komma dumma kommentarer”",
-      "link": "https://www.svt.se/sport/fotboll/agentens-samtal-med-felicia-schroder-om-du-blir-dyrast-i-varlden-kommer-det-komma-dumma-kommentarer",
       "image": ""
     }
   ]
