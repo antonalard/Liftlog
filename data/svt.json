@@ -1,6 +1,11 @@
 {
-  "updated": "2026-06-29 23:48 CEST",
+  "updated": "2026-06-30 00:43 CEST",
   "items": [
+    {
+      "title": "Tre skadade efter explosion i Monaco",
+      "link": "https://www.svt.se/nyheter/utrikes/tre-skadade-efter-explosion-i-monaco",
+      "image": ""
+    },
     {
       "title": "Experten: Ryssland kan inte lösa krisen så länge det är krig",
       "link": "https://www.svt.se/nyheter/utrikes/experten-ryssland-kan-inte-losa-krisen-sa-lange-det-ar-krig",
@@ -34,11 +39,6 @@
     {
       "title": "Klätterförbundet: Många oroliga efter olyckan i Sotenäs",
       "link": "https://www.svt.se/nyheter/lokalt/vast/klatterforbundet-manga-oroliga-efter-olyckan-i-sotenas",
-      "image": ""
-    },
-    {
-      "title": "Sundsvall i topp – så många A-traktorer finns i Västernorrland",
-      "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/sundsvall-i-topp-sa-manga-a-traktorer-finns-i-vasternorrland",
       "image": ""
     }
   ]
