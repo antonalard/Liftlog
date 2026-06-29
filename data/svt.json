@@ -1,8 +1,13 @@
 {
-  "updated": "2026-06-29 20:27 CEST",
+  "updated": "2026-06-29 22:20 CEST",
   "items": [
     {
-      "title": "Brand i verkstad utanför Kristianstad –  acetylenflaskor riskerar explodera",
+      "title": "Experten: Ryssland kan inte lösa krisen så länge det är krig",
+      "link": "https://www.svt.se/nyheter/utrikes/experten-ryssland-kan-inte-losa-krisen-sa-lange-det-ar-krig",
+      "image": ""
+    },
+    {
+      "title": "Verkstad utanför Kristianstad förstördes i brand",
       "link": "https://www.svt.se/nyheter/lokalt/skane/brand-i-verkstad-utanfor-kristianstad-acetylenflaskor-riskerar-explodera",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Sundsvall i topp – så många A-traktorer finns i Västernorrland",
       "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/sundsvall-i-topp-sa-manga-a-traktorer-finns-i-vasternorrland",
-      "image": ""
-    },
-    {
-      "title": "Här drar ovädret fram i Storuman: ”Kom stora mängder”",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/har-drar-ovadret-fram-i-storuman-kom-stora-mangder",
       "image": ""
     }
   ]
