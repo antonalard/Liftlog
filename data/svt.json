@@ -1,6 +1,11 @@
 {
-  "updated": "2026-06-29 18:14 CEST",
+  "updated": "2026-06-29 20:27 CEST",
   "items": [
+    {
+      "title": "Brand i verkstad utanför Kristianstad –  acetylenflaskor riskerar explodera",
+      "link": "https://www.svt.se/nyheter/lokalt/skane/brand-i-verkstad-utanfor-kristianstad-acetylenflaskor-riskerar-explodera",
+      "image": ""
+    },
     {
       "title": "Stuntkörning mitt i trafiken på E22 – polisen: ”Inte olagligt att köra på bakhjulet”",
       "link": "https://www.svt.se/nyheter/lokalt/smaland/stuntkorning-mitt-i-trafiken-pa-e22-polisen-all-korning-ska-vara-trafiksaker",
@@ -17,7 +22,7 @@
       "image": ""
     },
     {
-      "title": "Brand i bilverkstad utanför Bollnäs – får brinna ner",
+      "title": "Bilverkstad i Bollnäs brann ner",
       "link": "https://www.svt.se/nyheter/lokalt/gavleborg/brand-i-bilverkstad-utanfor-bollnas-far-brinna-ner",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Här drar ovädret fram i Storuman: ”Kom stora mängder”",
       "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/har-drar-ovadret-fram-i-storuman-kom-stora-mangder",
-      "image": ""
-    },
-    {
-      "title": "18-åring häktas misstänkt för inblandning i explosionerna mot matbutik i Geneta",
-      "link": "https://www.svt.se/nyheter/lokalt/sodertalje/18-aring-haktas-misstankt-for-inblandning-i-explosionerna-mot-matbutik-i-geneta",
       "image": ""
     }
   ]
