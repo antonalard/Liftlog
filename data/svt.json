@@ -1,6 +1,11 @@
 {
-  "updated": "2026-06-30 21:12 CEST",
+  "updated": "2026-06-30 23:10 CEST",
   "items": [
+    {
+      "title": "Man skjuten av polis i Svalöv",
+      "link": "https://www.svt.se/nyheter/lokalt/helsingborg/pagaende-polisinsats-i-svalov",
+      "image": ""
+    },
     {
       "title": "Två personer döda utanför Eslöv – polisen misstänker mord",
       "link": "https://www.svt.se/nyheter/lokalt/skane/tva-personer-doda-utanfor-eslov-polisen-misstanker-mord",
@@ -12,7 +17,7 @@
       "image": ""
     },
     {
-      "title": "Skogsbrand med meterhöga lågor utanför Avesta",
+      "title": "Skogsbrand utanför Avesta under kontroll",
       "link": "https://www.svt.se/nyheter/lokalt/dalarna/skogsbrand-med-meterhoga-lagor-utanfor-avesta",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "16-årig flicka häktad för våldtäkt och uppmaning till självmord",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/16-ariga-flicka-haktad-for-valdtakt-och-uppmaning-till-sjalvmord",
-      "image": ""
-    },
-    {
-      "title": "Borlängekrögare tokrekryterade inför matchen – hårt tryck på VM-öppna krogar",
-      "link": "https://www.svt.se/nyheter/lokalt/dalarna/borlangekrogare-tokrekryterade-infor-matchen-hart-tryck-pa-vm-oppna-krogar",
       "image": ""
     }
   ]
