@@ -1,8 +1,13 @@
 {
-  "updated": "2026-06-30 12:04 CEST",
+  "updated": "2026-06-30 14:30 CEST",
   "items": [
     {
-      "title": "Johan drog upp svenska jättefisken – nu delar han med sig av sina knep",
+      "title": "Person hittad död i Landskrona – polisen utreder mord",
+      "link": "https://www.svt.se/nyheter/lokalt/helsingborg/person-hittad-dod-i-landskrona-polisen-utreder-mord",
+      "image": ""
+    },
+    {
+      "title": "Johan drog upp rekordfisken – nu delar han med sig av sina knep",
       "link": "https://www.svt.se/nyheter/lokalt/smaland/johan-drog-upp-svenska-rekordfisken-nu-delar-han-med-sig-av-sina-knep",
       "image": ""
     },
@@ -12,7 +17,7 @@
       "image": ""
     },
     {
-      "title": "Nockebybron fastnade vid broöppning",
+      "title": "Trafiken rullar igen på Nockebybron",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/nockebybron-fast-i-oppet-lage",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Då öppnar E4 – stora vägarbetet klart tidigare än planerat",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/da-oppnar-e4-klart-tidigare-an-planerat",
-      "image": ""
-    },
-    {
-      "title": "Femårig pojkes tillstånd mer stabilt efter drunkningsolyckan i Nykvarn",
-      "link": "https://www.svt.se/nyheter/lokalt/sodertalje/pojkes-tillstand-mer-stabilt-efter-drunkningsolyckan-i-nykvarn",
       "image": ""
     }
   ]
