@@ -1,6 +1,21 @@
 {
-  "updated": "2026-06-30 17:10 CEST",
+  "updated": "2026-06-30 19:19 CEST",
   "items": [
+    {
+      "title": "Isak Hien opererad efter mardrömmen i VM",
+      "link": "https://www.svt.se/sport/fotboll/isak-hien-opererad-efter-mardrommen-i-vm",
+      "image": ""
+    },
+    {
+      "title": "Skogsbrand med meterhöga lågor utanför Avesta",
+      "link": "https://www.svt.se/nyheter/lokalt/dalarna/skogsbrand-med-meterhoga-lagor-utanfor-avesta",
+      "image": ""
+    },
+    {
+      "title": "Bortsprungna nanduer i Junsele efter regnoväder",
+      "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/bortsprungna-nanduer-i-junsele-efter-regnovader",
+      "image": ""
+    },
     {
       "title": "Planerat elavbrott får Husumsborna att missa viktiga VM-matchen",
       "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/planerat-elavbrott-far-husumsborna-att-missa-viktiga-vm-matchen",
@@ -12,6 +27,11 @@
       "image": ""
     },
     {
+      "title": "16-årig flicka häktad för våldtäkt och uppmaning till självmord",
+      "link": "https://www.svt.se/nyheter/lokalt/stockholm/16-ariga-flicka-haktad-for-valdtakt-och-uppmaning-till-sjalvmord",
+      "image": ""
+    },
+    {
       "title": "Borlängekrögare tokrekryterade inför matchen – hårt tryck på VM-öppna krogar",
       "link": "https://www.svt.se/nyheter/lokalt/dalarna/borlangekrogare-tokrekryterade-infor-matchen-hart-tryck-pa-vm-oppna-krogar",
       "image": ""
@@ -19,26 +39,6 @@
     {
       "title": "Årets spannmålsskörd lägre än normalt: ”Tuff vinter”",
       "link": "https://www.svt.se/nyheter/lokalt/ost/arets-spannmalsskord-lagre-an-normalt-tuff-vinter",
-      "image": ""
-    },
-    {
-      "title": "Mamma förde sina barn utomlands – döms till fängelse",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/mamma-forde-sina-barn-utomlands-doms-till-fangelse",
-      "image": ""
-    },
-    {
-      "title": "”Politiska spelet om Venezuela har redan börjat”",
-      "link": "https://www.svt.se/nyheter/utrikes/politiska-spelet-om-venezuela-har-redan-borjat",
-      "image": ""
-    },
-    {
-      "title": "Man akutopererad efter olycka på E22 – krockade med annan deltagare på mc-träff",
-      "link": "https://www.svt.se/nyheter/lokalt/smaland/man-akutopererad-efter-olycka-pa-e22-krockade-med-annan-deltagare-pa-mc-traff",
-      "image": ""
-    },
-    {
-      "title": "Kvinna inte längre häktad misstänkt för mord i Askersund",
-      "link": "https://www.svt.se/nyheter/lokalt/orebro/kvinna-inte-langre-haktad-misstankt-for-mord-i-askersund",
       "image": ""
     }
   ]
