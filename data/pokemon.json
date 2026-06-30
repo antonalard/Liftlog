@@ -1,9 +1,14 @@
 {
-  "updated": "2026-06-30 08:03 CEST",
+  "updated": "2026-06-30 12:04 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "July 2026 Pokémon GO Events",
+      "date": "Tue, 30 Jun 2026",
+      "link": "https://pokemongohub.net/post/event/july-2026-pokemon-go-events/"
+    },
     {
       "title": "Pokémon GO Events This Week: June 29 – July 5, 2026",
       "date": "Sun, 28 Jun 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO City Safari 2026: Marseille, France",
       "date": "Wed, 24 Jun 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-city-safari-2026-marseille-france/"
-    },
-    {
-      "title": "Pokémon GO City Safari 2026: Lisbon, Portugal",
-      "date": "Wed, 24 Jun 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-city-safari-2026-lisbon-portugal/"
     }
   ]
 }
