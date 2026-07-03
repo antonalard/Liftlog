@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-03 13:21 CEST",
+  "updated": "2026-07-03 15:17 CEST",
   "items": [
+    {
+      "title": "Varg skottskadades i Tierp – flydde från hästhage",
+      "link": "https://www.svt.se/nyheter/lokalt/uppsala/varg-skottskadades-i-tierp-flydde-fran-hasthage",
+      "image": ""
+    },
     {
       "title": "Skärpt straff för rektor i Sörmland som våldtog elev",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/hovratten-skarper-straffet-for-rektor-valdtog-elev",
@@ -17,7 +22,7 @@
       "image": ""
     },
     {
-      "title": "Man gripen i Köpenhamn efter våldsdåd mot svensk man från Eksjö",
+      "title": "Svensk man död efter misshandel i Köpenhamn",
       "link": "https://www.svt.se/nyheter/utrikes/man-gripen-i-kopenhamn-efter-valdsdad-mot-svensk",
       "image": ""
     },
@@ -27,18 +32,13 @@
       "image": ""
     },
     {
-      "title": "Två begärs häktade för grov olovlig underrättelseverksamhet",
+      "title": "Två häktade för grov olovlig underrättelseverksamhet",
       "link": "https://www.svt.se/nyheter/inrikes/tva-begars-haktade-for-grov-olovlig-underrattelseverksamhet",
       "image": ""
     },
     {
       "title": "Man drunknade i simhallen i Strängnäs – nu skärps rutinerna",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/man-drunknade-i-simhallen-i-strangnas-nu-skarps-rutinerna",
-      "image": ""
-    },
-    {
-      "title": "En era av breakups är över – nu gifter sig Taylor Swift",
-      "link": "https://www.svt.se/nyheter/utrikes/en-era-av-breakups-ar-over-nu-gifter-sig-taylor-swift",
       "image": ""
     }
   ]
