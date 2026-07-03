@@ -1,9 +1,14 @@
 {
-  "updated": "2026-07-03 10:30 CEST",
-  "community_day_title": "",
-  "community_day_image": "",
-  "community_day_link": "",
+  "updated": "2026-07-03 13:21 CEST",
+  "community_day_title": "Sobble Community Day (July 2026)",
+  "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/06/sobble.jpg",
+  "community_day_link": "https://pokemongohub.net/post/event/sobble-community-day-july-2026/",
   "items": [
+    {
+      "title": "Sobble Community Day (July 2026)",
+      "date": "Fri, 03 Jul 2026",
+      "link": "https://pokemongohub.net/post/event/sobble-community-day-july-2026/"
+    },
     {
       "title": "July 2026 Pokémon GO Events",
       "date": "Wed, 01 Jul 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO City Safari 2026: Munich, Germany",
       "date": "Wed, 24 Jun 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-city-safari-2026-munich-germany/"
-    },
-    {
-      "title": "Pokémon GO City Safari 2026: Marseille, France",
-      "date": "Wed, 24 Jun 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-city-safari-2026-marseille-france/"
     }
   ]
 }
