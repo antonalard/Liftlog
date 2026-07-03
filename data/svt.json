@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-04 00:50 CEST",
+  "updated": "2026-07-04 01:52 CEST",
   "items": [
+    {
+      "title": "Taylor Swift och Travis Kelce har gift sig",
+      "link": "https://www.svt.se/kultur/taylor-swift-och-travis-kelce-har-gift-sig",
+      "image": ""
+    },
     {
       "title": "Man död i trafikolycka söder om Linköping",
       "link": "https://www.svt.se/nyheter/lokalt/ost/tva-personbilar-kolliderade-en-person-allvarligt-skadad",
@@ -34,11 +39,6 @@
     {
       "title": "Innertak rasade på förskola i Krokoms kommun",
       "link": "https://www.svt.se/nyheter/lokalt/jamtland/innertak-rasade-pa-forskola-i-krokoms-kommun",
-      "image": ""
-    },
-    {
-      "title": "Forskare om larmet från försvaret i Umeå: ”Inte förvånande”",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/forskare-om-larmet-fran-forsvaret-i-umea-inte-forvanande",
       "image": ""
     }
   ]
