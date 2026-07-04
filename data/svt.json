@@ -1,8 +1,13 @@
 {
-  "updated": "2026-07-04 14:38 CEST",
+  "updated": "2026-07-04 16:21 CEST",
   "items": [
     {
-      "title": "Barn till sjukhus efter påkörning",
+      "title": "Stickskadad man förd till sjukhus",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/stickskadad-man-ford-till-sjukhus",
+      "image": ""
+    },
+    {
+      "title": "Barn påkört av bil i Arboga – fört till sjukhus",
       "link": "https://www.svt.se/nyheter/lokalt/vastmanland/barn-till-sjukhus-efter-pakorning-9cdcug",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Alienliknande plattmask i Sverige – kan följa med krukväxter",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/alienliknande-plattmask-i-sverige-kan-folja-med-krukvaxter",
-      "image": ""
-    },
-    {
-      "title": "Bratten har översvämmats av lupiner: ”Slukat hela byn”",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/bratten-har-oversvammats-av-lupiner-slukat-hela-byn",
       "image": ""
     }
   ]
