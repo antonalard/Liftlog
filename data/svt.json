@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-04 07:00 CEST",
+  "updated": "2026-07-04 09:45 CEST",
   "items": [
+    {
+      "title": "Våldtäkt mot kvinna i centrala Uppsala",
+      "link": "https://www.svt.se/nyheter/lokalt/uppsala/valdtakt-i-centrala-uppsala",
+      "image": ""
+    },
+    {
+      "title": "Två gripna efter brand i Göteborg – lägenhet förstörd",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/tva-gripna-efter-brand-i-goteborg-lagenhet-forstord",
+      "image": ""
+    },
     {
       "title": "Alienliknande plattmask i Sverige – kan följa med krukväxter",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/alienliknande-plattmask-i-sverige-kan-folja-med-krukvaxter",
@@ -22,23 +32,13 @@
       "image": ""
     },
     {
-      "title": "Bästisar – se när hunden Luna cruisar i Annikas permobil",
+      "title": "Bästisar – se när hunden Luna cruisar i Annikas elskoter",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/bastisar-se-nar-hunden-luna-cruisar-i-annikas-permobil",
       "image": ""
     },
     {
       "title": "Ministern redigerade bränsleinlägg två gånger – stämmer det nu då?",
       "link": "https://www.svt.se/nyheter/inrikes/ministern-redigerade-bransleinlagg-tva-ganger-stammer-det-nu-da",
-      "image": ""
-    },
-    {
-      "title": "Taylor Swift och Travis Kelce har gift sig",
-      "link": "https://www.svt.se/kultur/taylor-swift-och-travis-kelce-har-gift-sig",
-      "image": ""
-    },
-    {
-      "title": "Man död i trafikolycka söder om Linköping",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/tva-personbilar-kolliderade-en-person-allvarligt-skadad",
       "image": ""
     }
   ]
