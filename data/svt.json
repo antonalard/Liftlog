@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-04 19:52 CEST",
+  "updated": "2026-07-04 20:49 CEST",
   "items": [
+    {
+      "title": "SMHI varnar för skyfall i östra Svealand och Gävleborg",
+      "link": "https://www.svt.se/nyheter/lokalt/uppsala/smhi-varnar-for-skyfall-i-ostra-svealand-och-gavleborg",
+      "image": ""
+    },
     {
       "title": "Regeringen vill stärka beredskap i kommunerna",
       "link": "https://www.svt.se/nyheter/inrikes/regeringen-vill-starka-beredskap-i-kommunerna",
@@ -34,11 +39,6 @@
     {
       "title": "Våldtäkt mot kvinna i centrala Uppsala",
       "link": "https://www.svt.se/nyheter/lokalt/uppsala/valdtakt-i-centrala-uppsala",
-      "image": ""
-    },
-    {
-      "title": "Två gripna efter brand i Göteborg – lägenhet förstörd",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/tva-gripna-efter-brand-i-goteborg-lagenhet-forstord",
       "image": ""
     }
   ]
