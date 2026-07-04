@@ -1,13 +1,18 @@
 {
-  "updated": "2026-07-04 09:45 CEST",
+  "updated": "2026-07-04 11:56 CEST",
   "community_day_title": "Sobble Community Day (July 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/06/sobble.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/sobble-community-day-july-2026/",
   "items": [
     {
       "title": "Sobble Community Day (July 2026)",
-      "date": "Fri, 03 Jul 2026",
+      "date": "Sat, 04 Jul 2026",
       "link": "https://pokemongohub.net/post/event/sobble-community-day-july-2026/"
+    },
+    {
+      "title": "Pokémon GO 10th Anniversary Party Event",
+      "date": "Sat, 04 Jul 2026",
+      "link": "https://pokemongohub.net/post/event/pokemon-go-10th-anniversary-party-event/"
     },
     {
       "title": "July 2026 Pokémon GO Events",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO City Safari 2026: Rio de Janeiro, Brazil",
       "date": "Wed, 24 Jun 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-city-safari-2026-rio-de-janeiro-brazil/"
-    },
-    {
-      "title": "Pokémon GO City Safari 2026: Munich, Germany",
-      "date": "Wed, 24 Jun 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-city-safari-2026-munich-germany/"
     }
   ]
 }
