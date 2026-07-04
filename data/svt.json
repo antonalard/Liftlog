@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-04 18:47 CEST",
+  "updated": "2026-07-04 19:52 CEST",
   "items": [
+    {
+      "title": "Regeringen vill stärka beredskap i kommunerna",
+      "link": "https://www.svt.se/nyheter/inrikes/regeringen-vill-starka-beredskap-i-kommunerna",
+      "image": ""
+    },
     {
       "title": "Stickskadad man förd till sjukhus – kvinna gripen",
       "link": "https://www.svt.se/nyheter/lokalt/ost/stickskadad-man-ford-till-sjukhus",
@@ -34,11 +39,6 @@
     {
       "title": "Två gripna efter brand i Göteborg – lägenhet förstörd",
       "link": "https://www.svt.se/nyheter/lokalt/vast/tva-gripna-efter-brand-i-goteborg-lagenhet-forstord",
-      "image": ""
-    },
-    {
-      "title": "Alienliknande plattmask i Sverige – kan följa med krukväxter",
-      "link": "https://www.svt.se/nyheter/lokalt/stockholm/alienliknande-plattmask-i-sverige-kan-folja-med-krukvaxter",
       "image": ""
     }
   ]
