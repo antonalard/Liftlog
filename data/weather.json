@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-04 23:23 CEST",
+  "updated": "2026-07-05 00:23 CEST",
   "today": {
-    "weekday": "saturday",
+    "weekday": "sunday",
     "temp": 16,
-    "meta": "partlycloudy night • Vind 2 m/s",
+    "meta": "partlycloudy night • Vind 4 m/s",
     "symbol_code": "partlycloudy_night"
   },
   "week": [
@@ -21,13 +21,13 @@
     },
     {
       "weekday": "mon",
-      "night": 15,
+      "night": 14,
       "day": 18,
       "symbol_code": "fair_day"
     },
     {
       "weekday": "tue",
-      "night": 15,
+      "night": 14,
       "day": 16,
       "symbol_code": "rain"
     },
