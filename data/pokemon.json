@@ -1,9 +1,14 @@
 {
-  "updated": "2026-07-05 19:53 CEST",
+  "updated": "2026-07-05 20:54 CEST",
   "community_day_title": "Sobble Community Day (July 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/06/sobble.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/sobble-community-day-july-2026/",
   "items": [
+    {
+      "title": "Road of Legends: Monday 6th July 2026 Pokémon GO Raids",
+      "date": "Sun, 05 Jul 2026",
+      "link": "https://pokemongohub.net/post/event/road-of-legends-monday-6th-july-2026-pokemon-go-raids/"
+    },
     {
       "title": "Pokémon GO Events This Week: July 6-12, 2026",
       "date": "Sun, 05 Jul 2026",
@@ -48,11 +53,6 @@
       "title": "Special Anniversary Pikachu Celebration Event",
       "date": "Thu, 25 Jun 2026",
       "link": "https://pokemongohub.net/post/event/special-anniversary-pikachu-celebration-event/"
-    },
-    {
-      "title": "Pokémon GO Flying Taxi: Taken Over – Shadow Reshiram & New Rocket Lineups",
-      "date": "Thu, 25 Jun 2026",
-      "link": "https://pokemongohub.net/post/event/flying-taxi-taken-over/"
     }
   ]
 }
