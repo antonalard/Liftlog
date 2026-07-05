@@ -1,13 +1,28 @@
 {
-  "updated": "2026-07-05 16:13 CEST",
+  "updated": "2026-07-05 17:41 CEST",
   "items": [
+    {
+      "title": "E4 avstängd vid Örkelljunga efter olycka",
+      "link": "https://www.svt.se/nyheter/lokalt/helsingborg/e4-avstangd-vid-orkelljunga-efter-olycka",
+      "image": ""
+    },
+    {
+      "title": "UL-buss brann på parkering i Alunda – troligen orsakad av blixt",
+      "link": "https://www.svt.se/nyheter/lokalt/uppsala/ul-buss-brann-pa-parkering-i-alunda",
+      "image": ""
+    },
+    {
+      "title": "Två husvagnar brann på Hälleviks camping",
+      "link": "https://www.svt.se/nyheter/lokalt/blekinge/tva-husvagnar-brann-pa-halleviks-camping",
+      "image": ""
+    },
     {
       "title": "Brand i lada i Haninge: ”Blixten har slagit ner”",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/brand-i-lada-i-sodra-stockholm-blixten-har-slagit-ner",
       "image": ""
     },
     {
-      "title": "Stopp på E4 norr om Hudiksvall efter krock mellan två personbilar",
+      "title": "Krock mellan två personbilar orsakade stopp på E4 norr om Hudiksvall",
       "link": "https://www.svt.se/nyheter/lokalt/gavleborg/stopp-pa-e4-norr-om-hudiksvall-efter-krock-mellan-tva-personbilar",
       "image": ""
     },
@@ -24,21 +39,6 @@
     {
       "title": "Fyrverkerier för miljonbelopp under 250-årsfirandet i USA",
       "link": "https://www.svt.se/nyheter/utrikes/fyrverkerier-for-miljonbelopp-under-250-arsfirandet-i-usa",
-      "image": ""
-    },
-    {
-      "title": "Över 2500 hushåll berörda efter vattenläcka i Linköping",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/over-2500-hushall-berorda-efter-vattenlacka-i-linkoping",
-      "image": ""
-    },
-    {
-      "title": "Två bilar i krock på E4 norr om Hudiksvall – vägen stängdes av",
-      "link": "https://www.svt.se/nyheter/lokalt/gavleborg/tva-bilar-i-krock-pa-e4-norr-om-hudiksvall-vagen-avstangd",
-      "image": ""
-    },
-    {
-      "title": "Vännäs går mot trenden – biblioteket lyckas locka barnen att läsa",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/vannas-gar-mot-trenden-biblioteket-lyckas-locka-barnen-att-lasa",
       "image": ""
     }
   ]
