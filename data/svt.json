@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-05 10:22 CEST",
+  "updated": "2026-07-05 12:32 CEST",
   "items": [
+    {
+      "title": "Kvinna gripen – misstänks ha misshandlat man utomhus",
+      "link": "https://www.svt.se/nyheter/lokalt/stockholm/kvinna-jagas-av-polis-ska-ha-attackerat-en-man-utomhus",
+      "image": ""
+    },
     {
       "title": "”Anna” lever med skyddad identitet – nekas därför bidrag till elbil",
       "link": "https://www.svt.se/nyheter/inrikes/anna-lever-med-skyddad-identitet-nekas-darfor-bidrag-till-elbil",
@@ -33,12 +38,7 @@
     },
     {
       "title": "SMHI varnar för skyfall i östra Svealand och Gävleborg",
-      "link": "https://www.svt.se/nyheter/lokalt/uppsala/smhi-varnar-for-skyfall-i-ostra-svealand-och-gavleborg",
-      "image": ""
-    },
-    {
-      "title": "Regeringen vill stärka beredskap i kommunerna",
-      "link": "https://www.svt.se/nyheter/inrikes/regeringen-vill-starka-beredskap-i-kommunerna",
+      "link": "https://www.svt.se/nyheter/inrikes/smhi-varnar-for-skyfall-i-ostra-svealand-och-gavleborg",
       "image": ""
     }
   ]
