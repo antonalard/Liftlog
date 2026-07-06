@@ -1,9 +1,14 @@
 {
-  "updated": "2026-07-06 19:35 CEST",
+  "updated": "2026-07-06 21:26 CEST",
   "community_day_title": "Sobble Community Day (July 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/06/sobble.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/sobble-community-day-july-2026/",
   "items": [
+    {
+      "title": "Road of Legends Day 2: All Five-Star Raids, Mega Tyranitar, Bonuses and Guides",
+      "date": "Mon, 06 Jul 2026",
+      "link": "https://pokemongohub.net/post/event/road-of-legends-day-2-all-five-star-raids-mega-tyranitar-bonuses-and-guides/"
+    },
     {
       "title": "Road of Legends Day 1: All Five-Star Raids, Rayquaza, Mega Salamence, Bonuses and Guides",
       "date": "Mon, 06 Jul 2026",
@@ -48,11 +53,6 @@
       "title": "Professor Willow’s Birthday Research",
       "date": "Fri, 26 Jun 2026",
       "link": "https://pokemongohub.net/post/event/professor-willows-birthday-research/"
-    },
-    {
-      "title": "Ozone Ascent: Mega Rayquaza Timed Research",
-      "date": "Fri, 26 Jun 2026",
-      "link": "https://pokemongohub.net/post/event/ozone-ascent-mega-rayquaza-timed-research/"
     }
   ]
 }
