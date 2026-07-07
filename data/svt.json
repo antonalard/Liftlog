@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-07 11:00 CEST",
+  "updated": "2026-07-07 13:50 CEST",
   "items": [
+    {
+      "title": "Älghult har fått en osynlig konsthall: ”Nyckel till en parallell dimension”",
+      "link": "https://www.svt.se/nyheter/lokalt/smaland/alghult-har-fatt-en-osynlig-konsthall-nyckel-till-en-parallell-dimension",
+      "image": ""
+    },
     {
       "title": "Kvinna döms till 18 års fängelse för mord på sin mamma",
       "link": "https://www.svt.se/nyheter/lokalt/vastmanland/kvinna-doms-till-18-ars-fangelse-for-mord-av-sin-mamma",
@@ -34,11 +39,6 @@
     {
       "title": "Nu är Stockholm (äntligen) en miljonstad",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/nu-ar-stockholm-antligen-en-miljonstad",
-      "image": ""
-    },
-    {
-      "title": "”Kulturdoula” blir en del av den ordinarie vården",
-      "link": "https://www.svt.se/nyheter/lokalt/stockholm/kulturdoula-blir-en-del-av-den-ordinarie-varden",
       "image": ""
     }
   ]
