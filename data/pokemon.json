@@ -1,9 +1,14 @@
 {
-  "updated": "2026-07-07 18:29 CEST",
-  "community_day_title": "Sobble Community Day (July 2026)",
-  "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/06/sobble.jpg",
-  "community_day_link": "https://pokemongohub.net/post/event/sobble-community-day-july-2026/",
+  "updated": "2026-07-07 20:28 CEST",
+  "community_day_title": "Nickit Community Day (August 2026)",
+  "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/07/nickit-community-day-pokemon-go.jpg",
+  "community_day_link": "https://pokemongohub.net/post/event/nickit-community-day-august-2026/",
   "items": [
+    {
+      "title": "Nickit Community Day (August 2026)",
+      "date": "Tue, 07 Jul 2026",
+      "link": "https://pokemongohub.net/post/event/nickit-community-day-august-2026/"
+    },
     {
       "title": "Road of Legends Day 2: All Five-Star Raids, Mega Tyranitar, Bonuses and Guides",
       "date": "Tue, 07 Jul 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO 10th Anniversary Party Event",
       "date": "Sat, 04 Jul 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-10th-anniversary-party-event/"
-    },
-    {
-      "title": "July 2026 Pokémon GO Events",
-      "date": "Wed, 01 Jul 2026",
-      "link": "https://pokemongohub.net/post/event/july-2026-pokemon-go-events/"
     }
   ]
 }
