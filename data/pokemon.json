@@ -1,9 +1,14 @@
 {
-  "updated": "2026-07-07 07:55 CEST",
+  "updated": "2026-07-07 11:00 CEST",
   "community_day_title": "Sobble Community Day (July 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/06/sobble.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/sobble-community-day-july-2026/",
   "items": [
+    {
+      "title": "Pokémon GO Fest Global: Final Details, Global Challenges and More Revealed",
+      "date": "Tue, 07 Jul 2026",
+      "link": "https://pokemongohub.net/post/event/pokemon-go-fest-global-final-details-global-challenges-and-more-revealed/"
+    },
     {
       "title": "Road of Legends Day 2: All Five-Star Raids, Mega Tyranitar, Bonuses and Guides",
       "date": "Tue, 07 Jul 2026",
@@ -18,6 +23,11 @@
       "title": "GO Fest 2026: Road of Legends",
       "date": "Mon, 06 Jul 2026",
       "link": "https://pokemongohub.net/post/event/go-fest-2026-road-of-legends/"
+    },
+    {
+      "title": "ANA and Pokémon GO Partnership: Red Pokémon Jet",
+      "date": "Mon, 06 Jul 2026",
+      "link": "https://pokemongohub.net/post/event/ana-and-pokemon-go-partnership-red-pokemon-jet/"
     },
     {
       "title": "Pokémon GO Events This Week: July 6-12, 2026",
@@ -43,16 +53,6 @@
       "title": "July 2026 Pokémon GO Events",
       "date": "Wed, 01 Jul 2026",
       "link": "https://pokemongohub.net/post/event/july-2026-pokemon-go-events/"
-    },
-    {
-      "title": "Pokémon GO Events This Week: June 29 – July 5, 2026",
-      "date": "Sun, 28 Jun 2026",
-      "link": "https://pokemongohub.net/post/news/pokemon-go-events-this-week-june-29-july-5-2026/"
-    },
-    {
-      "title": "Professor Willow’s Birthday Research",
-      "date": "Fri, 26 Jun 2026",
-      "link": "https://pokemongohub.net/post/event/professor-willows-birthday-research/"
     }
   ]
 }
