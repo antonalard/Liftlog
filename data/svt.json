@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-08 09:19 CEST",
+  "updated": "2026-07-08 11:42 CEST",
   "items": [
+    {
+      "title": "Hovrätten fastställer dom för två av tre män efter kokainbeslag i Malmö",
+      "link": "https://www.svt.se/nyheter/lokalt/skane/hovratten-faststaller-dom-for-tva-domda-i-kokainbeslag-i-malmo",
+      "image": ""
+    },
     {
       "title": "Böter för rattsurfande ökar – men många kör med mobilen i handen",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/boter-for-rattsurfande-okar-men-manga-kor-med-mobilen-i-handen",
@@ -34,11 +39,6 @@
     {
       "title": "Marine Le Pen om domen: Jag kommer överklaga",
       "link": "https://www.svt.se/nyheter/utrikes/marine-le-pen-om-domen-jag-kommer-overklaga",
-      "image": ""
-    },
-    {
-      "title": "Argentina till kvartsfinal efter jättevändning mot Egypten",
-      "link": "https://www.svt.se/sport/fotboll/argentina-till-kvartsfinal-efter-jattevandning-mot-egypten",
       "image": ""
     }
   ]
