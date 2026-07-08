@@ -1,6 +1,21 @@
 {
-  "updated": "2026-07-08 13:39 CEST",
+  "updated": "2026-07-08 15:21 CEST",
   "items": [
+    {
+      "title": "”Problematiskt att släcka nyhetssändningar”",
+      "link": "https://www.svt.se/kultur/problematiskt-att-slacka-nyhetssandningar",
+      "image": ""
+    },
+    {
+      "title": "Polisen bygger ut på Skavsta – växer med 4 000 kvadratmeter",
+      "link": "https://www.svt.se/nyheter/lokalt/sormland/polisen-bygger-ut-pa-skavsta-vaxer-med-4000-kvadratmeter",
+      "image": ""
+    },
+    {
+      "title": "Tre misstänkta inbrottstjuvar gripna efter polisinsats i Eskilstuna",
+      "link": "https://www.svt.se/nyheter/lokalt/sormland/polisjakt-efter-tjuvar-i-eskilstuna-vi-har-flyktbilen",
+      "image": ""
+    },
     {
       "title": "Invånare avråds dricka kranvatten efter skadegörelse i Härnösand",
       "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/invanare-avrads-dricka-kranvatten-efter-skadegorelse-i-harnosand",
@@ -24,21 +39,6 @@
     {
       "title": "Hovrätten fastställer dom för två av tre män efter kokainbeslag i Malmö",
       "link": "https://www.svt.se/nyheter/lokalt/skane/hovratten-faststaller-dom-for-tva-domda-i-kokainbeslag-i-malmo",
-      "image": ""
-    },
-    {
-      "title": "Böter för rattsurfande ökar – men många kör med mobilen i handen",
-      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/boter-for-rattsurfande-okar-men-manga-kor-med-mobilen-i-handen",
-      "image": ""
-    },
-    {
-      "title": "Östergötlands enda specialskyddsrum ska renoveras – rymmer 900",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/ostergotlands-enda-specialskyddsrum-ska-renoveras-rymmer-900",
-      "image": ""
-    },
-    {
-      "title": "Apotekarparet riskerar utvisning – trots skriande brist i Kiruna",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/apotekarparet-riskerar-utvisning-trots-skriande-brist-i-kiruna",
       "image": ""
     }
   ]
