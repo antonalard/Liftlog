@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-09 21:16 CEST",
+  "updated": "2026-07-09 22:58 CEST",
   "items": [
+    {
+      "title": "Uppgift: 120 000 jobb i fara hos Volkswagen",
+      "link": "https://www.svt.se/nyheter/utrikes/uppgift-120-000-jobb-i-fara-hos-volkswagen",
+      "image": ""
+    },
     {
       "title": "Två åtalas för hot mot Ebba Busch – hängde upp dockor",
       "link": "https://www.svt.se/nyheter/inrikes/tva-atalas-for-hot-mot-ebba-busch-hangde-upp-dockor",
@@ -34,11 +39,6 @@
     {
       "title": "Goled stämde Lexbase: ”Känns underbart”",
       "link": "https://www.svt.se/kultur/goled-stamde-lexbase-kanns-underbart",
-      "image": ""
-    },
-    {
-      "title": "Trump delade gamla Iranbilder – en är AI-manipulerad",
-      "link": "https://www.svt.se/nyheter/utrikes/trump-delade-gamla-iranbilder-en-ar-ai-manipulerad",
       "image": ""
     }
   ]
