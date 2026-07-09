@@ -1,9 +1,14 @@
 {
-  "updated": "2026-07-09 19:44 CEST",
+  "updated": "2026-07-09 21:16 CEST",
   "community_day_title": "Nickit Community Day (August 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/07/nickit-community-day-pokemon-go.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/nickit-community-day-august-2026/",
   "items": [
+    {
+      "title": "Road of Legends Day 5: All Five-Star Raids, Primal Raids , Bonuses and Guides",
+      "date": "Thu, 09 Jul 2026",
+      "link": "https://pokemongohub.net/post/event/road-of-legends-day-5-all-five-star-raids-primal-raids-bonuses-and-guides/"
+    },
     {
       "title": "Road of Legends Day 4: All Five-Star Raids, Mega Gengar, Bonuses and Guides",
       "date": "Thu, 09 Jul 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO Events This Week: July 6-12, 2026",
       "date": "Sun, 05 Jul 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-july-6-12-2026/"
-    },
-    {
-      "title": "Dynamax Chansey Max Monday: Event Guide",
-      "date": "Sun, 05 Jul 2026",
-      "link": "https://pokemongohub.net/post/event/dynamax-chansey-max-monday-event-guide/"
     }
   ]
 }
