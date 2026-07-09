@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-09 08:01 CEST",
+  "updated": "2026-07-09 11:26 CEST",
   "items": [
+    {
+      "title": "Chatt: Hur minns du Bonnie Tyler?",
+      "link": "https://www.svt.se/kultur/chatt-hur-minns-du-bonnie-tyler",
+      "image": ""
+    },
+    {
+      "title": "Ny fjällräddning på Kebnekaise – kvinna undsatt",
+      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/annu-en-fjallraddning-pa-kebnekaise",
+      "image": ""
+    },
     {
       "title": "Det här kanske du har missat i Bad Bunnys låtar",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/vad-du-kanske-missat-i-bad-bunnys-latar",
@@ -27,18 +37,8 @@
       "image": ""
     },
     {
-      "title": "Nu kommer EU-dom om Lexbase",
+      "title": "EU-domstolen: Att sälja domar strider mot GDPR",
       "link": "https://www.svt.se/kultur/nu-kommer-eu-dom-om-lexbase",
-      "image": ""
-    },
-    {
-      "title": "Efter 24 år – vindkraftverket i Almåsa monteras ned och återbrukas",
-      "link": "https://www.svt.se/nyheter/lokalt/jamtland/efter-24-ar-vindkraftverket-i-almasa-monteras-ned-och-aterbrukas",
-      "image": ""
-    },
-    {
-      "title": "Här är landets enda aktiva myggmuseum – öppnar efter mygginvasionen i Surahammar",
-      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/har-ar-landets-enda-aktiva-myggmuseum-oppnar-efter-mygginvasionen-i-surahammar",
       "image": ""
     }
   ]
