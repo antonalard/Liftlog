@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-10 18:10 CEST",
+  "updated": "2026-07-10 20:05 CEST",
   "items": [
+    {
+      "title": "Brand stoppade tåg mellan Karlskrona och Hässleholm",
+      "link": "https://www.svt.se/nyheter/lokalt/blekinge/brand-stoppar-tag-mellan-karlskrona-och-hassleholm",
+      "image": ""
+    },
+    {
+      "title": "Svensk död i bilkrasch på Irland – på väg mot beställningsmord",
+      "link": "https://www.svt.se/nyheter/utrikes/svensk-dod-i-bilkrasch-pa-irland-pa-vag-mot-bestallningsmord",
+      "image": ""
+    },
     {
       "title": "Brittisk ex-minister Ann Widdecombe misstänkt mördad i sitt hem",
       "link": "https://www.svt.se/nyheter/utrikes/brittisk-ex-minister-ann-widdecombe-misstankt-mordad-i-sitt-hem",
@@ -29,16 +39,6 @@
     {
       "title": "Kö till drop in-vigsel i Luleå – prästerna fick jobba i skift",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/ko-till-drop-in-vigsel-i-lulea-prasten-en-rolig-arbetsdag",
-      "image": ""
-    },
-    {
-      "title": "Par från Mattmar vann årets Näcken i bäcken – se hur det såg ut vid årets tävling",
-      "link": "https://www.svt.se/nyheter/lokalt/jamtland/par-fran-mattmar-vann-arets-nacken-i-backen-se-hur-det-sag-ut-vid-arets-tavling",
-      "image": ""
-    },
-    {
-      "title": "Tonåring åtalas efter explosion vid bostadshus i Norrköping",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/tonaring-atalas-efter-explosion-vid-bostadshus-i-norrkoping",
       "image": ""
     }
   ]
