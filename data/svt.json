@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-10 21:55 CEST",
+  "updated": "2026-07-10 22:57 CEST",
   "items": [
+    {
+      "title": "Polisinsats i Gävle – minst en person förd till sjukhus",
+      "link": "https://www.svt.se/nyheter/lokalt/gavleborg/polisinsats-i-gavle-minst-en-person-ford-till-sjukhus",
+      "image": ""
+    },
     {
       "title": "Karolinska måste lämna ut uppgifter om papperslös",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/karolinska-maste-lamna-ut-uppgifter-om-papperslos",
@@ -34,11 +39,6 @@
     {
       "title": "Katja Nyberg hoppar av – ställer inte upp i valet för Ambition Sverige",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/katja-nyberg-hoppar-av-staller-inte-upp-i-valet-for-ambition-sverige",
-      "image": ""
-    },
-    {
-      "title": "Här får Sean sitt antagningsbesked: ”Måste ringa pappa”",
-      "link": "https://www.svt.se/nyheter/inrikes/har-far-sean-sitt-antagningsbesked-maste-ringa-pappa",
       "image": ""
     }
   ]
