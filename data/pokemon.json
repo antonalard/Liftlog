@@ -1,12 +1,22 @@
 {
-  "updated": "2026-07-10 10:45 CEST",
+  "updated": "2026-07-10 13:38 CEST",
   "community_day_title": "Nickit Community Day (August 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/07/nickit-community-day-pokemon-go.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/nickit-community-day-august-2026/",
   "items": [
     {
+      "title": "Pokémon GO Fest Global 2026: Saturday Raids",
+      "date": "Fri, 10 Jul 2026",
+      "link": "https://pokemongohub.net/post/event/pokemon-go-fest-global-2026-saturday-raids/"
+    },
+    {
+      "title": "Pokémon GO Fest 2026: Global",
+      "date": "Fri, 10 Jul 2026",
+      "link": "https://pokemongohub.net/post/event/pokemon-go-fest-2026-global/"
+    },
+    {
       "title": "Road of Legends Day 5: All Five-Star Raids, Primal Raids , Bonuses and Guides",
-      "date": "Thu, 09 Jul 2026",
+      "date": "Fri, 10 Jul 2026",
       "link": "https://pokemongohub.net/post/event/road-of-legends-day-5-all-five-star-raids-primal-raids-bonuses-and-guides/"
     },
     {
@@ -43,16 +53,6 @@
       "title": "GO Fest 2026: Road of Legends",
       "date": "Mon, 06 Jul 2026",
       "link": "https://pokemongohub.net/post/event/go-fest-2026-road-of-legends/"
-    },
-    {
-      "title": "ANA and Pokémon GO Partnership: Red Pokémon Jet",
-      "date": "Mon, 06 Jul 2026",
-      "link": "https://pokemongohub.net/post/event/ana-and-pokemon-go-partnership-red-pokemon-jet/"
-    },
-    {
-      "title": "Pokémon GO Events This Week: July 6-12, 2026",
-      "date": "Sun, 05 Jul 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-july-6-12-2026/"
     }
   ]
 }
