@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-11 14:44 CEST",
+  "updated": "2026-07-11 16:15 CEST",
   "items": [
+    {
+      "title": "Sydafrikanske VM-spelaren Jayden Adams död",
+      "link": "https://www.svt.se/sport/fotboll/sydafrikanske-vm-spelaren-jayden-adams-dod",
+      "image": ""
+    },
     {
       "title": "Tågtrafiken igång mellan Hässleholm och Önnestad",
       "link": "https://www.svt.se/nyheter/lokalt/skane/tagstopp-mellan-hassleholm-och-onnestad",
@@ -34,11 +39,6 @@
     {
       "title": "Kuba drabbat av strömavbrott – igen",
       "link": "https://www.svt.se/nyheter/utrikes/kuba-drabbat-av-stromavbrott-igen",
-      "image": ""
-    },
-    {
-      "title": "Skottlossning i Gävle – en skadad och en anhållen",
-      "link": "https://www.svt.se/nyheter/lokalt/gavleborg/polisinsats-i-gavle-minst-en-person-ford-till-sjukhus",
       "image": ""
     }
   ]
