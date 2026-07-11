@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-11 21:37 CEST",
+  "updated": "2026-07-11 22:35 CEST",
   "items": [
+    {
+      "title": "Kvinna drunknade vid badplats på Orust",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/kvinna-drunknade-vid-badplats-pa-orust",
+      "image": ""
+    },
     {
       "title": "Experten om larven på Gotland: ”Håll avstånd”",
       "link": "https://www.svt.se/nyheter/inrikes/experten-om-larven-pa-gotland-hall-avstand",
@@ -34,11 +39,6 @@
     {
       "title": "SMHI varnar för skyfallsliknande regn",
       "link": "https://www.svt.se/nyheter/lokalt/dalarna/smhi-varnar-for-skyfallsliknande-regn-mdlwey",
-      "image": ""
-    },
-    {
-      "title": "Misstänkt mordförsök i Ängelholm – man svårt skadad",
-      "link": "https://www.svt.se/nyheter/lokalt/helsingborg/misstankt-mordforsok-i-angelholm",
       "image": ""
     }
   ]
