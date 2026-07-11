@@ -1,8 +1,13 @@
 {
-  "updated": "2026-07-11 09:02 CEST",
+  "updated": "2026-07-11 11:02 CEST",
   "items": [
     {
-      "title": "En död i motorcykelolycka",
+      "title": "Misstänkt mordförsök i Ängelholm – man svårt skadad",
+      "link": "https://www.svt.se/nyheter/lokalt/helsingborg/misstankt-mordforsok-i-angelholm",
+      "image": ""
+    },
+    {
+      "title": "En död i motorcykelolycka – två misstänks för brott",
       "link": "https://www.svt.se/nyheter/lokalt/skane/en-dod-i-motorcykelolycka",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Man påkörd vid däckbyte – förd till sjukhus",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-pakord-vid-dackbyte-ford-till-sjukhus",
-      "image": ""
-    },
-    {
-      "title": "Brand stoppade tåg mellan Karlskrona och Hässleholm",
-      "link": "https://www.svt.se/nyheter/lokalt/blekinge/brand-stoppar-tag-mellan-karlskrona-och-hassleholm",
       "image": ""
     }
   ]
