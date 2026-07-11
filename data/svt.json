@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-11 12:37 CEST",
+  "updated": "2026-07-11 13:40 CEST",
   "items": [
+    {
+      "title": "Tågstopp mellan Hässleholm och Önnestad",
+      "link": "https://www.svt.se/nyheter/lokalt/skane/tagstopp-mellan-hassleholm-och-onnestad",
+      "image": ""
+    },
+    {
+      "title": "SMHI varnar för skyfallsliknande regn",
+      "link": "https://www.svt.se/nyheter/lokalt/dalarna/smhi-varnar-for-skyfallsliknande-regn-mdlwey",
+      "image": ""
+    },
     {
       "title": "Misstänkt mordförsök i Ängelholm – man svårt skadad",
       "link": "https://www.svt.se/nyheter/lokalt/helsingborg/misstankt-mordforsok-i-angelholm",
@@ -29,16 +39,6 @@
     {
       "title": "Skottlossning i Gävle – en skadad och en anhållen",
       "link": "https://www.svt.se/nyheter/lokalt/gavleborg/polisinsats-i-gavle-minst-en-person-ford-till-sjukhus",
-      "image": ""
-    },
-    {
-      "title": "Karolinska måste lämna ut uppgifter om papperslös",
-      "link": "https://www.svt.se/nyheter/lokalt/stockholm/karolinska-maste-lamna-ut-uppgifter-om-papperslos",
-      "image": ""
-    },
-    {
-      "title": "Man påkörd vid däckbyte – förd till sjukhus",
-      "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-pakord-vid-dackbyte-ford-till-sjukhus",
       "image": ""
     }
   ]
