@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-12 00:33 CEST",
+  "updated": "2026-07-12 01:39 CEST",
   "items": [
+    {
+      "title": "Albaner marscherar mot Trumpresort",
+      "link": "https://www.svt.se/nyheter/utrikes/albaner-marscherar-mot-trumpresort",
+      "image": ""
+    },
     {
       "title": "Kvinna drunknade vid badplats på Orust",
       "link": "https://www.svt.se/nyheter/lokalt/vast/kvinna-drunknade-vid-badplats-pa-orust",
@@ -34,11 +39,6 @@
     {
       "title": "Tågtrafiken igång mellan Hässleholm och Önnestad",
       "link": "https://www.svt.se/nyheter/lokalt/skane/tagstopp-mellan-hassleholm-och-onnestad",
-      "image": ""
-    },
-    {
-      "title": "SMHI varnar för skyfallsliknande regn",
-      "link": "https://www.svt.se/nyheter/lokalt/dalarna/smhi-varnar-for-skyfallsliknande-regn-mdlwey",
       "image": ""
     }
   ]
