@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-12 12:49 CEST",
+  "updated": "2026-07-12 13:48 CEST",
   "items": [
+    {
+      "title": "Sju personer inblandade i olycka på E4",
+      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/sju-personer-inblandade-i-olycka-pa-e4",
+      "image": ""
+    },
     {
       "title": "Man död efter misshandel i Mölnlycke",
       "link": "https://www.svt.se/nyheter/lokalt/vast/man-dod-efter-misshandel-i-molnlycke",
@@ -34,11 +39,6 @@
     {
       "title": "Två dödade i skjutning vid festival i Kanada",
       "link": "https://www.svt.se/nyheter/utrikes/tva-dodade-i-skjutning-vid-festival-i-kanada",
-      "image": ""
-    },
-    {
-      "title": "Albaner marscherar mot Trumpresort",
-      "link": "https://www.svt.se/nyheter/utrikes/albaner-marscherar-mot-trumpresort",
       "image": ""
     }
   ]
