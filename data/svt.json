@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-12 19:30 CEST",
+  "updated": "2026-07-12 20:43 CEST",
   "items": [
+    {
+      "title": "Nyckelspelaren om IFK Göteborgs kris: ”Förfärligt”",
+      "link": "https://www.svt.se/sport/fotboll/nyckelspelaren-om-ifk-goteborgs-kris-forfarligt",
+      "image": ""
+    },
     {
       "title": "Efter storbranden i Ille-sur-Têt: Invånarna får återvända hem",
       "link": "https://www.svt.se/nyheter/utrikes/efter-storbranden-i-ille-sur-tet-invanarna-far-atervanda-hem",
@@ -12,7 +17,7 @@
       "image": ""
     },
     {
-      "title": "Stor terrängbrand i Boxholm – brandflyg på plats",
+      "title": "Stor terrängbrand i Boxholm – brandflyg vattenbombade",
       "link": "https://www.svt.se/nyheter/lokalt/ost/terrangbrand-i-boxholm-atta-enheter-pa-plats",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Småbåtar, kontrolltorn och tågbro: Detta är USA:s attacker i Iran",
       "link": "https://www.svt.se/nyheter/utrikes/smabatar-kontrolltorn-och-tagbro-detta-ar-usas-attacker-i-iran",
-      "image": ""
-    },
-    {
-      "title": "Många fritidshus ägs av boende i samma län – familjen överger stan för sommarstället i Södertälje",
-      "link": "https://www.svt.se/nyheter/lokalt/sodertalje/manga-fritidshus-ags-av-boende-i-samma-lan-familjen-overger-stan-for-fritidshus-i-sodertalje",
       "image": ""
     }
   ]
