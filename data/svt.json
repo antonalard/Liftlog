@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-13 00:34 CEST",
+  "updated": "2026-07-13 01:39 CEST",
   "items": [
+    {
+      "title": "Storbrand rasar i Frankrike – stora trafikstörningar",
+      "link": "https://www.svt.se/nyheter/utrikes/storbrand-rasar-i-frankrike-stora-trafikstorningar",
+      "image": ""
+    },
     {
       "title": "Osynliga bomben som kan slå ut samhället – utan att döda",
       "link": "https://www.svt.se/nyheter/inrikes/osynliga-bomben-som-kan-sla-ut-samhallet-utan-att-doda",
@@ -34,11 +39,6 @@
     {
       "title": "Sju personer inblandade i olycka på E4",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/sju-personer-inblandade-i-olycka-pa-e4",
-      "image": ""
-    },
-    {
-      "title": "Man död efter misshandel i Mölnlycke",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/man-dod-efter-misshandel-i-molnlycke",
       "image": ""
     }
   ]
