@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-12 09:22 CEST",
+  "updated": "2026-07-12 11:22 CEST",
   "items": [
+    {
+      "title": "Småbåtar, kontrolltorn och tågbro: Detta är USA:s attacker i Iran",
+      "link": "https://www.svt.se/nyheter/utrikes/smabatar-kontrolltorn-och-tagbro-detta-ar-usas-attacker-i-iran",
+      "image": ""
+    },
     {
       "title": "Många fritidshus ägs av boende i samma län – familjen överger stan för sommarstället i Södertälje",
       "link": "https://www.svt.se/nyheter/lokalt/sodertalje/manga-fritidshus-ags-av-boende-i-samma-lan-familjen-overger-stan-for-fritidshus-i-sodertalje",
@@ -33,12 +38,7 @@
     },
     {
       "title": "Experten om larven på Gotland: ”Håll avstånd”",
-      "link": "https://www.svt.se/nyheter/inrikes/experten-om-larven-pa-gotland-hall-avstand",
-      "image": ""
-    },
-    {
-      "title": "Drabbade av ”Havannasyndromet” får ersättning",
-      "link": "https://www.svt.se/nyheter/utrikes/drabbade-av-havannasyndromet-far-ersattning",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/experten-om-larven-pa-gotland-hall-avstand",
       "image": ""
     }
   ]
