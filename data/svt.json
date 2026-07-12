@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-12 11:22 CEST",
+  "updated": "2026-07-12 12:49 CEST",
   "items": [
+    {
+      "title": "Man död efter misshandel i Mölnlycke",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/man-dod-efter-misshandel-i-molnlycke",
+      "image": ""
+    },
+    {
+      "title": "Sommaren ger fler larm för sjöräddningen i norra Vättern",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/sommaren-ger-fler-larm-for-sjoraddningen-i-norra-vattern",
+      "image": ""
+    },
     {
       "title": "Småbåtar, kontrolltorn och tågbro: Detta är USA:s attacker i Iran",
       "link": "https://www.svt.se/nyheter/utrikes/smabatar-kontrolltorn-och-tagbro-detta-ar-usas-attacker-i-iran",
@@ -29,16 +39,6 @@
     {
       "title": "Albaner marscherar mot Trumpresort",
       "link": "https://www.svt.se/nyheter/utrikes/albaner-marscherar-mot-trumpresort",
-      "image": ""
-    },
-    {
-      "title": "Kvinna drunknade vid badplats på Orust",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/kvinna-drunknade-vid-badplats-pa-orust",
-      "image": ""
-    },
-    {
-      "title": "Experten om larven på Gotland: ”Håll avstånd”",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/experten-om-larven-pa-gotland-hall-avstand",
       "image": ""
     }
   ]
