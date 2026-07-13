@@ -1,8 +1,13 @@
 {
-  "updated": "2026-07-13 20:14 CEST",
+  "updated": "2026-07-13 21:54 CEST",
   "items": [
     {
-      "title": "Brand i villa i Öregrund",
+      "title": "Buss och lastbil i olycka på E6 vid Stenungsundsmotet",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/buss-och-lastbil-i-olycka-pa-e6-vid-stenungsundsmotet",
+      "image": ""
+    },
+    {
+      "title": "Kraftig villabrand i centrala Öregrund",
       "link": "https://www.svt.se/nyheter/lokalt/uppsala/brand-i-villa-i-oregrund",
       "image": ""
     },
@@ -32,13 +37,8 @@
       "image": ""
     },
     {
-      "title": "Ny skogsbrand i Boxholm",
+      "title": "Ny skogsbrand i Boxholm: ”Kommer bevaka under natten”",
       "link": "https://www.svt.se/nyheter/lokalt/ost/ny-skogsbrand-i-boxholm",
-      "image": ""
-    },
-    {
-      "title": "Efter cyanidlarm – SSAB återupptar stålverksbygge",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/efter-cyanidlarm-ssab-aterupptar-stalverksbygge",
       "image": ""
     }
   ]
