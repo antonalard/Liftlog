@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-13 18:01 CEST",
+  "updated": "2026-07-13 20:14 CEST",
   "items": [
+    {
+      "title": "Brand i villa i Öregrund",
+      "link": "https://www.svt.se/nyheter/lokalt/uppsala/brand-i-villa-i-oregrund",
+      "image": ""
+    },
     {
       "title": "Man döms till fängelse efter sex med 13-åring",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/man-doms-till-fangelse-efter-sex-med-13-aring",
@@ -34,11 +39,6 @@
     {
       "title": "Efter cyanidlarm – SSAB återupptar stålverksbygge",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/efter-cyanidlarm-ssab-aterupptar-stalverksbygge",
-      "image": ""
-    },
-    {
-      "title": "Osäker på buggen? Här lär proffset ut stegen",
-      "link": "https://www.svt.se/nyheter/lokalt/dalarna/osaker-pa-buggen-har-lar-proffset-ut-stegen",
       "image": ""
     }
   ]
