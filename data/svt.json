@@ -1,6 +1,31 @@
 {
-  "updated": "2026-07-13 06:51 CEST",
+  "updated": "2026-07-13 09:59 CEST",
   "items": [
+    {
+      "title": "E45 avstängd efter frontalkrock",
+      "link": "https://www.svt.se/nyheter/lokalt/jamtland/e45-avstangd-efter-frontalkrock",
+      "image": ""
+    },
+    {
+      "title": "”Ingen kunde spela tråkmåns som Sam Neill”",
+      "link": "https://www.svt.se/kultur/ingen-kunde-spela-trakmans-som-sam-neill",
+      "image": ""
+    },
+    {
+      "title": "Åklagaren efter skjutningen i Sätra i Gävle: ”Gjort flera beslag”",
+      "link": "https://www.svt.se/nyheter/lokalt/gavleborg/aklagaren-efter-skjutningen-i-satra-i-gavle-gjort-flera-beslag",
+      "image": ""
+    },
+    {
+      "title": "Trafikolycka i Mörsil – ambulanshelikopter larmad",
+      "link": "https://www.svt.se/nyheter/lokalt/jamtland/trafikolycka-i-morsil-ambulanshelikopter-larmad",
+      "image": ""
+    },
+    {
+      "title": "SMHI varnar för höga temperaturer i veckan",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/smhi-varnar-for-hoga-temperaturer-cl74wy",
+      "image": ""
+    },
     {
       "title": "Skadan och landslaget har fått Gustav Lundgren att tänka om: ”Tiden är knapp”",
       "link": "https://www.svt.se/sport/fotboll/skadan-och-landslaget-har-fatt-gustav-lundgren-att-tanka-om-tiden-ar-knapp",
@@ -14,31 +39,6 @@
     {
       "title": "Efter prissänkningen på månadskort: Oro för  ersättningen till kollektivtrafiken",
       "link": "https://www.svt.se/nyheter/lokalt/vastmanland/efter-prissankningen-pa-manadskort-oro-for-ersattningen-till-kollektivtrafiken",
-      "image": ""
-    },
-    {
-      "title": "ALS-sjuka småbarnsmamman Anna i Luleå beviljas dyr behandling",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/klart-anna-far-als-medicin-hemma-i-norrbotten",
-      "image": ""
-    },
-    {
-      "title": "Hej Främling arrangerar cykelskola för vuxna: ”En symbol för frihet”",
-      "link": "https://www.svt.se/nyheter/lokalt/jamtland/hej-framling-arrangerar-cykelskola-for-vuxna-en-symbol-for-frihet",
-      "image": ""
-    },
-    {
-      "title": "Brand rasar i Frankrike – stora trafikstörningar",
-      "link": "https://www.svt.se/nyheter/utrikes/storbrand-rasar-i-frankrike-stora-trafikstorningar",
-      "image": ""
-    },
-    {
-      "title": "Osynliga bomben som kan slå ut samhället – utan att döda",
-      "link": "https://www.svt.se/nyheter/inrikes/osynliga-bomben-som-kan-sla-ut-samhallet-utan-att-doda",
-      "image": ""
-    },
-    {
-      "title": "Många döda efter brand på pub i Bangkok",
-      "link": "https://www.svt.se/nyheter/utrikes/manga-doda-efter-brand-pa-pub-i-bangkok",
       "image": ""
     }
   ]
