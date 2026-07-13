@@ -1,9 +1,14 @@
 {
-  "updated": "2026-07-13 03:19 CEST",
+  "updated": "2026-07-13 06:51 CEST",
   "community_day_title": "Nickit Community Day (August 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/07/nickit-community-day-pokemon-go.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/nickit-community-day-august-2026/",
   "items": [
+    {
+      "title": "Special Anniversary Pikachu Celebration Event",
+      "date": "Mon, 13 Jul 2026",
+      "link": "https://pokemongohub.net/post/event/special-anniversary-pikachu-celebration-event/"
+    },
     {
       "title": "Pokémon GO Fest 2026: Global",
       "date": "Sun, 12 Jul 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO Fest Global: Final Details, Global Challenges and More Revealed",
       "date": "Tue, 07 Jul 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-fest-global-final-details-global-challenges-and-more-revealed/"
-    },
-    {
-      "title": "Road of Legends Day 1: All Five-Star Raids, Rayquaza, Mega Salamence, Bonuses and Guides",
-      "date": "Mon, 06 Jul 2026",
-      "link": "https://pokemongohub.net/post/event/road-of-legends-monday-6th-july-2026-pokemon-go-raids/"
     }
   ]
 }
