@@ -1,8 +1,13 @@
 {
-  "updated": "2026-07-14 16:45 CEST",
+  "updated": "2026-07-14 18:05 CEST",
   "items": [
     {
-      "title": "Abdele hjälpte knivhuggna flickan i Helsingborg: ”Höll henne lugn”",
+      "title": "Drunkningslarm i Herrljunga – person saknas",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/drunkningslarm-i-herrljunga",
+      "image": ""
+    },
+    {
+      "title": "Abdele hjälpte knivhuggna flickan i Helsingborg: ”Försökte lugna”",
       "link": "https://www.svt.se/nyheter/lokalt/helsingborg/abdele-hjalpte-knivhuggna-flickan-i-helsingborg-holl-henne-lugn",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Våldtog barn i hemmet – man i Tornedalen döms till fängelse",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/valdtog-barn-i-hemmet-man-i-tornedalen-doms-till-fangelse",
-      "image": ""
-    },
-    {
-      "title": "Efter sänkningen: Då kan det vara dyrare att köra på el än bensin",
-      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/efter-sankningen-da-kan-det-vara-dyrare-att-kora-pa-el-an-bensin",
       "image": ""
     }
   ]
