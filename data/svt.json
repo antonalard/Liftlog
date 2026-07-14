@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-14 22:03 CEST",
+  "updated": "2026-07-14 23:27 CEST",
   "items": [
+    {
+      "title": "Ukraina slår mot ryska skuggflottan på Azovska sjön",
+      "link": "https://www.svt.se/nyheter/utrikes/ukraina-slar-mot-ryska-skuggflottan-pa-azovska-sjon",
+      "image": ""
+    },
     {
       "title": "Fullt utvecklad brand i villa utanför Ornäs",
       "link": "https://www.svt.se/nyheter/lokalt/dalarna/brand-i-villa-utanfor-borlange",
@@ -34,11 +39,6 @@
     {
       "title": "Här lämnar skidstjärnan Frida Karlsson sina fotavtryck i Borgholm",
       "link": "https://www.svt.se/nyheter/lokalt/smaland/har-lamnar-skidstjarnan-frida-karlsson-sina-fotavtryck-i-borgholm",
-      "image": ""
-    },
-    {
-      "title": "Stigande oro för oljeindustrin efter Trumps utspel om Hormuztullar",
-      "link": "https://www.svt.se/nyheter/utrikes/stigande-oro-for-oljeindustrin-efter-trumps-utspel-om-hormuztullar",
       "image": ""
     }
   ]
