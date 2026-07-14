@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-14 23:27 CEST",
+  "updated": "2026-07-15 00:27 CEST",
   "items": [
+    {
+      "title": "Brand i studentboende – minst två till sjukhus",
+      "link": "https://www.svt.se/nyheter/lokalt/varmland/brand-i-studentboende-minst-tva-till-sjukhus",
+      "image": ""
+    },
     {
       "title": "Ukraina slår mot ryska skuggflottan på Azovska sjön",
       "link": "https://www.svt.se/nyheter/utrikes/ukraina-slar-mot-ryska-skuggflottan-pa-azovska-sjon",
@@ -34,11 +39,6 @@
     {
       "title": "Räddningstjänsten om skogsbränderna i Boxholm",
       "link": "https://www.svt.se/nyheter/lokalt/ost/raddningstjansten-om-skogsbranderna-i-boxholm",
-      "image": ""
-    },
-    {
-      "title": "Här lämnar skidstjärnan Frida Karlsson sina fotavtryck i Borgholm",
-      "link": "https://www.svt.se/nyheter/lokalt/smaland/har-lamnar-skidstjarnan-frida-karlsson-sina-fotavtryck-i-borgholm",
       "image": ""
     }
   ]
