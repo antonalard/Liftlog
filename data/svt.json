@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-14 20:55 CEST",
+  "updated": "2026-07-14 22:03 CEST",
   "items": [
+    {
+      "title": "Fullt utvecklad brand i villa utanför Ornäs",
+      "link": "https://www.svt.se/nyheter/lokalt/dalarna/brand-i-villa-utanfor-borlange",
+      "image": ""
+    },
     {
       "title": "Kuba strömlöst – tredje gången i juli",
       "link": "https://www.svt.se/nyheter/utrikes/kuba-stromlost-tredje-gangen-i-juli",
@@ -34,11 +39,6 @@
     {
       "title": "Stigande oro för oljeindustrin efter Trumps utspel om Hormuztullar",
       "link": "https://www.svt.se/nyheter/utrikes/stigande-oro-for-oljeindustrin-efter-trumps-utspel-om-hormuztullar",
-      "image": ""
-    },
-    {
-      "title": "Våldtog barn i hemmet – man i Tornedalen döms till fängelse",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/valdtog-barn-i-hemmet-man-i-tornedalen-doms-till-fangelse",
       "image": ""
     }
   ]
