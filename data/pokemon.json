@@ -1,9 +1,14 @@
 {
-  "updated": "2026-07-15 17:56 CEST",
+  "updated": "2026-07-15 19:04 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Summer Marathon: Arctic Embers Event",
+      "date": "Wed, 15 Jul 2026",
+      "link": "https://pokemongohub.net/post/event/summer-marathon-arctic-embers-event/"
+    },
     {
       "title": "Pokémon GO Fest 2026: Raid Make-Up Event",
       "date": "Wed, 15 Jul 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO Fest 2026: Global",
       "date": "Sun, 12 Jul 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-fest-2026-global/"
-    },
-    {
-      "title": "Pokémon GO Fest Global 2026: Sunday Raids",
-      "date": "Sun, 12 Jul 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-fest-global-2026-sunday-raids/"
     }
   ]
 }
