@@ -1,9 +1,14 @@
 {
-  "updated": "2026-07-15 10:38 CEST",
+  "updated": "2026-07-15 12:39 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Pokémon GO Fest 2026: Raid Make-Up Event",
+      "date": "Wed, 15 Jul 2026",
+      "link": "https://pokemongohub.net/post/news/pokemon-go-fest-2026-raid-make-up-event/"
+    },
     {
       "title": "Gigantamax Rillaboom Max Battle Day (August 2026)",
       "date": "Tue, 14 Jul 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO Fest Global 2026: Sunday Raids",
       "date": "Sun, 12 Jul 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-fest-global-2026-sunday-raids/"
-    },
-    {
-      "title": "Pokémon GO Fest Global 2026: Saturday Raids",
-      "date": "Fri, 10 Jul 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-fest-global-2026-saturday-raids/"
     }
   ]
 }
