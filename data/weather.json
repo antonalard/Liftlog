@@ -1,21 +1,15 @@
 {
-  "updated": "2026-07-15 01:23 CEST",
+  "updated": "2026-07-15 02:10 CEST",
   "today": {
     "weekday": "wednesday",
-    "temp": 17,
-    "meta": "clearsky night • Vind 0 m/s",
+    "temp": 16,
+    "meta": "clearsky night • Vind 1 m/s",
     "symbol_code": "clearsky_night"
   },
   "week": [
     {
-      "weekday": "tue",
-      "night": 17,
-      "day": 17,
-      "symbol_code": "clearsky_night"
-    },
-    {
       "weekday": "wed",
-      "night": 13,
+      "night": 14,
       "day": 31,
       "symbol_code": "clearsky_day"
     },
@@ -48,6 +42,12 @@
       "night": 13,
       "day": 23,
       "symbol_code": "partlycloudy_day"
+    },
+    {
+      "weekday": "tue",
+      "night": 13,
+      "day": 24,
+      "symbol_code": "fair_day"
     }
   ]
 }
