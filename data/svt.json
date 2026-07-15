@@ -1,8 +1,18 @@
 {
-  "updated": "2026-07-15 16:16 CEST",
+  "updated": "2026-07-15 17:56 CEST",
   "items": [
     {
-      "title": "Lastbil brinner på E6 utanför Glumslöv – vägen avstängd",
+      "title": "Person påkörd på E22 i Kalmar – vägen avstängd",
+      "link": "https://www.svt.se/nyheter/lokalt/smaland/person-pakord-pa-e22-i-kalmar-vagen-avstangd",
+      "image": ""
+    },
+    {
+      "title": "Snabbast växande ebolautbrottet hittills",
+      "link": "https://www.svt.se/nyheter/utrikes/snabbaste-ebolautbrottet-hittills",
+      "image": ""
+    },
+    {
+      "title": "Lastbil brann på E6 utanför Glumslöv – ett körfält öppet",
       "link": "https://www.svt.se/nyheter/lokalt/helsingborg/brinnande-lastbil-pa-e6-utanfor-glumslov-vagen-avstangd",
       "image": ""
     },
@@ -27,18 +37,8 @@
       "image": ""
     },
     {
-      "title": "Billigare bensin ger sämre affär för elbilsägare – så säger folk i Östersund",
-      "link": "https://www.svt.se/nyheter/lokalt/jamtland/billigare-bensin-ger-samre-affar-for-elbilsagare-sa-sager-folk-i-ostersund",
-      "image": ""
-    },
-    {
-      "title": "Slog sönder sin lägenhet – man i Mariannelund döms för skadegörelse",
-      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/slog-sonder-sin-lagenhet-man-i-mariannelund-doms-for-skadegorelse",
-      "image": ""
-    },
-    {
-      "title": "Bojan Djordjic: Han är Spaniens viktigaste spelare",
-      "link": "https://www.svt.se/sport/fotboll/bojan-djordjic-han-ar-spaniens-viktigaste-spelare",
+      "title": "Drivmedelspriserna stiger kraftigt",
+      "link": "https://www.svt.se/nyheter/inrikes/drivmedelspriserna-stiger-kraftigt",
       "image": ""
     }
   ]
