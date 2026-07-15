@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-15 05:41 CEST",
+  "updated": "2026-07-15 08:03 CEST",
   "items": [
+    {
+      "title": "Bojan Djordjic: Han är Spaniens viktigaste spelare",
+      "link": "https://www.svt.se/sport/fotboll/bojan-djordjic-han-ar-spaniens-viktigaste-spelare",
+      "image": ""
+    },
     {
       "title": "Fäbodkultur i fokus – klarar SVT:s reporter att kula?",
       "link": "https://www.svt.se/nyheter/lokalt/dalarna/har-lar-sig-reportern-kulning",
@@ -22,23 +27,18 @@
       "image": ""
     },
     {
-      "title": "Fullt utvecklad brand i villa utanför Ornäs",
+      "title": "Villa nedbrunnen till grunden i Ornäs under tisdagskvällen",
       "link": "https://www.svt.se/nyheter/lokalt/dalarna/brand-i-villa-utanfor-borlange",
+      "image": ""
+    },
+    {
+      "title": "Misstänkt mordförsök i Norrköping – kvinna stickskadad",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/en-person-skadad-med-vasst-foremal-i-norrkoping",
       "image": ""
     },
     {
       "title": "Kuba strömlöst – tredje gången i juli",
       "link": "https://www.svt.se/nyheter/utrikes/kuba-stromlost-tredje-gangen-i-juli",
-      "image": ""
-    },
-    {
-      "title": "Man död efter drunkning i Herrljunga",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/drunkningslarm-i-herrljunga",
-      "image": ""
-    },
-    {
-      "title": "Abdele hjälpte knivhuggna flickan i Helsingborg: ”Försökte lugna”",
-      "link": "https://www.svt.se/nyheter/lokalt/helsingborg/abdele-hjalpte-knivhuggna-flickan-i-helsingborg-holl-henne-lugn",
       "image": ""
     }
   ]
