@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-15 22:56 CEST",
+  "updated": "2026-07-15 23:47 CEST",
   "items": [
+    {
+      "title": "Skottlossning mot fönster i Norrköping",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/skottlossning-mot-fonster-i-norrkoping",
+      "image": ""
+    },
     {
       "title": "Pendeltågsstationen Stockholm City utrymd",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/pendeltagsstationen-stockholm-city-utrymd",
@@ -34,11 +39,6 @@
     {
       "title": "Snabbast växande ebolautbrottet hittills",
       "link": "https://www.svt.se/nyheter/utrikes/snabbaste-ebolautbrottet-hittills",
-      "image": ""
-    },
-    {
-      "title": "Lastbil brann på E6 utanför Glumslöv",
-      "link": "https://www.svt.se/nyheter/lokalt/helsingborg/brinnande-lastbil-pa-e6-utanfor-glumslov-vagen-avstangd",
       "image": ""
     }
   ]
