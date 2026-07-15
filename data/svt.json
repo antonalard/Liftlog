@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-15 21:58 CEST",
+  "updated": "2026-07-15 22:56 CEST",
   "items": [
+    {
+      "title": "Pendeltågsstationen Stockholm City utrymd",
+      "link": "https://www.svt.se/nyheter/lokalt/stockholm/pendeltagsstationen-stockholm-city-utrymd",
+      "image": ""
+    },
     {
       "title": "Man till sjukhus med ambulanshelikopter efter mopedolycka i Degerfors",
       "link": "https://www.svt.se/nyheter/lokalt/varmland/man-till-sjukhus-med-ambulanshelikopter-efter-mopedolycka-i-degerfors",
@@ -34,11 +39,6 @@
     {
       "title": "Lastbil brann på E6 utanför Glumslöv",
       "link": "https://www.svt.se/nyheter/lokalt/helsingborg/brinnande-lastbil-pa-e6-utanfor-glumslov-vagen-avstangd",
-      "image": ""
-    },
-    {
-      "title": "Kristiina tvingas avbryta rekordförsöket: ”För starka vindar”",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kristiina-tvingas-avbryta-rekordforsoket-for-starka-vindar",
       "image": ""
     }
   ]
