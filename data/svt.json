@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-16 16:52 CEST",
+  "updated": "2026-07-16 18:07 CEST",
   "items": [
+    {
+      "title": "SVT:s reporter testar: Tåg till Rom på 48 timmar",
+      "link": "https://www.svt.se/nyheter/utrikes/svts-reporter-testar-tag-till-rom-pa-48-timmar",
+      "image": ""
+    },
+    {
+      "title": "Massiv kritik mot Zelenskyj efter petningen av Fedorov",
+      "link": "https://www.svt.se/nyheter/utrikes/massiv-kritik-mot-zelenskyj-efter-petningen-av-fedorov",
+      "image": ""
+    },
     {
       "title": "Brandrisk i stora delar av landet",
       "link": "https://www.svt.se/nyheter/inrikes/brandrisk-i-stora-delar-av-landet-iityyw",
@@ -27,18 +37,8 @@
       "image": ""
     },
     {
-      "title": "Extas när Argentina avgör – se referatet här: ”Kom igen för fan”",
-      "link": "https://www.svt.se/sport/fotboll/extas-nar-argentina-avgor-se-referatet-kom-igen-for-fan",
-      "image": ""
-    },
-    {
-      "title": "Eldningsförbud införs i Västerås",
-      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/eldningsforbud-infors-i-vasteras",
-      "image": ""
-    },
-    {
-      "title": "Skogsbrand vid sjö i Sörmland – räddningstjänsten varnar för extrem brandrisk",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/pagaende-skogsbrand-i-strangnas",
+      "title": "Henrik Stenson med stark start i The Open",
+      "link": "https://www.svt.se/sport/golf/henrik-stenson-med-stark-start-i-the-open",
       "image": ""
     }
   ]
