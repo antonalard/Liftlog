@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-16 18:07 CEST",
+  "updated": "2026-07-16 19:43 CEST",
   "items": [
+    {
+      "title": "Minst en död i ny översvämning i Texas",
+      "link": "https://www.svt.se/nyheter/utrikes/minst-en-dod-i-ny-oversvamning-i-texas",
+      "image": ""
+    },
     {
       "title": "SVT:s reporter testar: Tåg till Rom på 48 timmar",
       "link": "https://www.svt.se/nyheter/utrikes/svts-reporter-testar-tag-till-rom-pa-48-timmar",
@@ -34,11 +39,6 @@
     {
       "title": "Mirakel när Melker i Piteå blev påkörd av tåg: ”Huvudet lossnade nästan”",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/mirakel-nar-melker-i-pitea-blev-pakord-av-tag-huvudet-lossnade-nastan",
-      "image": ""
-    },
-    {
-      "title": "Henrik Stenson med stark start i The Open",
-      "link": "https://www.svt.se/sport/golf/henrik-stenson-med-stark-start-i-the-open",
       "image": ""
     }
   ]
