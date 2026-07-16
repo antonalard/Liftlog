@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-16 21:52 CEST",
+  "updated": "2026-07-16 22:40 CEST",
   "items": [
+    {
+      "title": "Italiensk polis i tillslag mot lyxmärken",
+      "link": "https://www.svt.se/nyheter/utrikes/italiensk-polis-i-tillslag-mot-lyxmarken",
+      "image": ""
+    },
+    {
+      "title": "Lisebergskanin landade oväntat i Örgryte",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/lisebergskanin-landade-ovantat-i-orgryte",
+      "image": ""
+    },
     {
       "title": "Här identifieras Ukrainakrigets offer med DNA – kan ta flera år",
       "link": "https://www.svt.se/nyheter/utrikes/har-identifieras-ukrainakrigets-offer-med-dna-kan-ta-flera-ar",
@@ -29,16 +39,6 @@
     {
       "title": "SVT:s reporter testar: Tåg till Rom på 48 timmar",
       "link": "https://www.svt.se/nyheter/utrikes/svts-reporter-testar-tag-till-rom-pa-48-timmar",
-      "image": ""
-    },
-    {
-      "title": "Massiv kritik mot Zelenskyj efter petningen av Fedorov",
-      "link": "https://www.svt.se/nyheter/utrikes/massiv-kritik-mot-zelenskyj-efter-petningen-av-fedorov",
-      "image": ""
-    },
-    {
-      "title": "Brandrisk i stora delar av landet",
-      "link": "https://www.svt.se/nyheter/inrikes/brandrisk-i-stora-delar-av-landet-iityyw",
       "image": ""
     }
   ]
