@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-16 14:56 CEST",
+  "updated": "2026-07-16 16:52 CEST",
   "items": [
+    {
+      "title": "Brandrisk i stora delar av landet",
+      "link": "https://www.svt.se/nyheter/inrikes/brandrisk-i-stora-delar-av-landet-iityyw",
+      "image": ""
+    },
+    {
+      "title": "Högsäsong för sommarmagsjukan – så skyddar du dig",
+      "link": "https://www.svt.se/nyheter/lokalt/smaland/hogsasong-for-sommarmagsjukan-sa-skyddar-du-dig",
+      "image": ""
+    },
+    {
+      "title": "Beskedet: BB i Västervik stänger sex dagar i sommar",
+      "link": "https://www.svt.se/nyheter/lokalt/smaland/beskedet-bb-i-vastervik-stanger-sex-dagar-i-sommar",
+      "image": ""
+    },
+    {
+      "title": "Från arkivet: Falklandskriget – striden mellan Argentina och England om kontrollen över Falklandsöarna",
+      "link": "https://www.svt.se/nyheter/utrikes/fran-arkivet-falklandskriget",
+      "image": ""
+    },
     {
       "title": "Mirakel när Melker i Piteå blev påkörd av tåg: ”Huvudet lossnade nästan”",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/mirakel-nar-melker-i-pitea-blev-pakord-av-tag-huvudet-lossnade-nastan",
@@ -19,26 +39,6 @@
     {
       "title": "Skogsbrand vid sjö i Sörmland – räddningstjänsten varnar för extrem brandrisk",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/pagaende-skogsbrand-i-strangnas",
-      "image": ""
-    },
-    {
-      "title": "Professorn svarar: Gör användningen av AI oss dummare?",
-      "link": "https://www.svt.se/nyheter/uutiset/svenska/professorn-svarar-gor-anvandningen-av-ai-oss-dummare",
-      "image": ""
-    },
-    {
-      "title": "Företagare om AI-boomen: Vi måste värna människors kompetens",
-      "link": "https://www.svt.se/nyheter/uutiset/svenska/foretagare-om-ai-boomen-vi-maste-varna-manniskors-kompetens",
-      "image": ""
-    },
-    {
-      "title": "Person avliden efter sjukdomsfall i bil",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/person-avliden-vid-sjukdomsfall-i-bil",
-      "image": ""
-    },
-    {
-      "title": "Så skyddar du katten i hettan: Kylmattor och vatten",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/sa-skyddar-du-katten-i-hettan-kylmattor-och-vatten",
       "image": ""
     }
   ]
