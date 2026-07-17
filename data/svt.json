@@ -1,8 +1,13 @@
 {
-  "updated": "2026-07-17 18:55 CEST",
+  "updated": "2026-07-17 19:53 CEST",
   "items": [
     {
-      "title": "Man död efter drukningslarm vid Venasjön",
+      "title": "Störningar av navigationssystem på Östersjön ökar",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/storningar-av-navigationssystem-pa-ostersjon-okar",
+      "image": ""
+    },
+    {
+      "title": "Man död efter drunkningslarm vid Venasjön",
       "link": "https://www.svt.se/nyheter/lokalt/ost/person-hittad-i-vattnet-vid-venasjon",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Här faller del av vindkraftverket ner efter branden i Mjölby",
       "link": "https://www.svt.se/nyheter/lokalt/ost/vindkraftverk-brinner-utanfor-mjolby",
-      "image": ""
-    },
-    {
-      "title": "Hovrätten skärper domen mot tidigare Växjöpolitiker – längre fängelsestraff",
-      "link": "https://www.svt.se/nyheter/lokalt/smaland/hovratten-skarper-domen-mot-tidigare-vaxjopolitiker-langre-fangelsestraff",
       "image": ""
     }
   ]
