@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-17 13:00 CEST",
+  "updated": "2026-07-17 14:38 CEST",
   "items": [
+    {
+      "title": "Äldre man död efter trafikolycka i Angered",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/aldre-man-dod-efter-trafikolycka-i-angered",
+      "image": ""
+    },
     {
       "title": "KD-medlem i Kiruna avslöjades ha bakgrund i NMR – lämnar partiet",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/kd-medlem-i-kiruna-avslojades-ha-bakgrund-i-nmr-lamnar-partiet",
@@ -12,7 +17,7 @@
       "image": ""
     },
     {
-      "title": "Rotorblad har fallit från brinnande vindkraftverk i Mjölby",
+      "title": "Här faller del av vindkraftverket ner efter branden i Mjölby",
       "link": "https://www.svt.se/nyheter/lokalt/ost/vindkraftverk-brinner-utanfor-mjolby",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Ny badavrådan i Västerås – vattnet otjänligt vid Björnöbadet",
       "link": "https://www.svt.se/nyheter/lokalt/vastmanland/ny-badavradan-i-vasteras-vattnet-otjanligt-vid-bjornobadet",
-      "image": ""
-    },
-    {
-      "title": "Lodjur har dödat två lamm i Sävsjö kommun",
-      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/lodjur-har-dodat-tva-lamm-i-savsjo-kommun",
       "image": ""
     }
   ]
