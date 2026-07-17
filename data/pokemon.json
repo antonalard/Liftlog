@@ -1,9 +1,14 @@
 {
-  "updated": "2026-07-17 06:31 CEST",
+  "updated": "2026-07-17 09:06 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Super Mega Raichu Raid Day",
+      "date": "Fri, 17 Jul 2026",
+      "link": "https://pokemongohub.net/post/event/super-mega-raichu-raid-day/"
+    },
     {
       "title": "Fire and Ice Hatch Day",
       "date": "Thu, 16 Jul 2026",
@@ -48,11 +53,6 @@
       "title": "Special Anniversary Pikachu Celebration Event",
       "date": "Mon, 13 Jul 2026",
       "link": "https://pokemongohub.net/post/event/special-anniversary-pikachu-celebration-event/"
-    },
-    {
-      "title": "Pokémon GO Summer Quest",
-      "date": "Mon, 13 Jul 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-summer-quest/"
     }
   ]
 }
