@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-17 16:22 CEST",
+  "updated": "2026-07-17 17:50 CEST",
   "items": [
+    {
+      "title": "Person hittad i vattnet vid Venasjön",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/person-hittad-i-vattnet-vid-venasjon",
+      "image": ""
+    },
     {
       "title": "En opera om en förlorad barndomsskog – mitt i Lainios kalhygge",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/en-opera-om-en-forlorad-barndomsskog-mitt-i-lainios-kalhygge",
@@ -34,11 +39,6 @@
     {
       "title": "Hovrätten skärper domen mot tidigare Växjöpolitiker – längre fängelsestraff",
       "link": "https://www.svt.se/nyheter/lokalt/smaland/hovratten-skarper-domen-mot-tidigare-vaxjopolitiker-langre-fangelsestraff",
-      "image": ""
-    },
-    {
-      "title": "Man hamnade i vattnet i Eskilstuna – räddades av förbipasserande",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/man-hamnade-i-vattnet-i-eskilstuna-raddades-av-forbipasserande",
       "image": ""
     }
   ]
