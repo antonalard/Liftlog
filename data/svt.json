@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-17 21:54 CEST",
+  "updated": "2026-07-17 22:39 CEST",
   "items": [
+    {
+      "title": "Stort slagsmål i Mölndal – flera polispatruller på plats",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/stort-slagsmal-i-molndal-flera-polispatruller-pa-plats",
+      "image": ""
+    },
     {
       "title": "Bråk om fotbolls-VM kan ligga bakom misstänkta mordet i Stenungsund",
       "link": "https://www.svt.se/nyheter/lokalt/vast/brak-om-fotbolls-vm-kan-ligga-bakom-misstankta-mordet-i-stenungsund",
@@ -34,11 +39,6 @@
     {
       "title": "Zlatans Norgehån: ”Inget riktigt topplag”",
       "link": "https://www.svt.se/sport/fotboll/zlatans-norgehan-inget-riktigt-topplag",
-      "image": ""
-    },
-    {
-      "title": "Här faller del av vindkraftverket ner efter branden i Mjölby",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/vindkraftverk-brinner-utanfor-mjolby",
       "image": ""
     }
   ]
