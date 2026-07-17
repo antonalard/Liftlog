@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-17 01:44 CEST",
+  "updated": "2026-07-17 03:18 CEST",
   "items": [
+    {
+      "title": "Donald Trump talar till nationen",
+      "link": "https://www.svt.se/nyheter/utrikes/donald-trump-talar-till-nationen",
+      "image": ""
+    },
+    {
+      "title": "Forskaren: Så mycket vatten ska du dricka i värmen",
+      "link": "https://www.svt.se/nyheter/inrikes/forskaren-sa-mycket-vatten-ska-du-dricka-i-varmen",
+      "image": ""
+    },
     {
       "title": "Italiensk polis i tillslag mot lyxmärken",
       "link": "https://www.svt.se/nyheter/utrikes/italiensk-polis-i-tillslag-mot-lyxmarken",
@@ -29,16 +39,6 @@
     {
       "title": "Arbetslösheten fortsätter minska: ”Beror på politiken”",
       "link": "https://www.svt.se/nyheter/inrikes/arbetslosheten-fortsatter-minska-beror-pa-politiken",
-      "image": ""
-    },
-    {
-      "title": "Minst två döda i översvämning i Texas",
-      "link": "https://www.svt.se/nyheter/utrikes/minst-en-dod-i-ny-oversvamning-i-texas",
-      "image": ""
-    },
-    {
-      "title": "SVT:s reporter testar: Tåg till Rom på 48 timmar",
-      "link": "https://www.svt.se/nyheter/utrikes/svts-reporter-testar-tag-till-rom-pa-48-timmar",
       "image": ""
     }
   ]
