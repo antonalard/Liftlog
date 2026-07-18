@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-18 19:26 CEST",
+  "updated": "2026-07-18 20:13 CEST",
   "items": [
+    {
+      "title": "Martina såg dubbla tromber utanför Grästorp: ”Otroligt”",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/martina-sag-dubbla-tromber-utanfor-grastorp-otroligt",
+      "image": ""
+    },
     {
       "title": "Orange varning i Östergötland – räddningstjänsten redo inför ovädret",
       "link": "https://www.svt.se/nyheter/lokalt/ost/orange-varning-i-ostergotland-raddningstjansten-redo-infor-ovadret",
@@ -34,11 +39,6 @@
     {
       "title": "Bråk om fotbolls-VM kan ligga bakom misstänkta mordet i Stenungsund",
       "link": "https://www.svt.se/nyheter/lokalt/vast/brak-om-fotbolls-vm-kan-ligga-bakom-misstankta-mordet-i-stenungsund",
-      "image": ""
-    },
-    {
-      "title": "Störningar av navigationssystem på Östersjön ökar",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/storningar-av-navigationssystem-pa-ostersjon-okar",
       "image": ""
     }
   ]
