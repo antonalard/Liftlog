@@ -1,8 +1,13 @@
 {
-  "updated": "2026-07-18 13:40 CEST",
+  "updated": "2026-07-18 14:42 CEST",
   "items": [
     {
-      "title": "Man tände eld på kuddar inne i butik i Västerås – åtalas för mordbrand",
+      "title": "Orange varning i Östergötland – räddningstjänsten redo inför ovädret",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/orange-varning-i-ostergotland-raddningstjansten-redo-infor-ovadret",
+      "image": ""
+    },
+    {
+      "title": "Man tände eld på kuddar i butik i Västerås – åtalas för mordbrand",
       "link": "https://www.svt.se/nyheter/lokalt/vastmanland/man-tande-eld-pa-kuddar-inne-i-butik-i-vasteras-atalas-for-mordbrand",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Störningar av navigationssystem på Östersjön ökar",
       "link": "https://www.svt.se/nyheter/lokalt/ost/storningar-av-navigationssystem-pa-ostersjon-okar",
-      "image": ""
-    },
-    {
-      "title": "Man död efter drunkningslarm vid Venasjön",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/person-hittad-i-vattnet-vid-venasjon",
       "image": ""
     }
   ]
