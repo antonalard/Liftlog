@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-18 08:25 CEST",
+  "updated": "2026-07-18 10:13 CEST",
   "items": [
+    {
+      "title": "Tak har rasat in på  köpcentrum i Uddevalla",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/tak-har-rasat-in-pa-kopcentrum-i-uddevalla",
+      "image": ""
+    },
     {
       "title": "Varningen: Bisjukdomen europeisk yngelröta ökar",
       "link": "https://www.svt.se/nyheter/lokalt/smaland/varningen-bisjukdomen-europeisk-yngelrota-okar",
@@ -12,7 +17,7 @@
       "image": ""
     },
     {
-      "title": "Stort slagsmål i Mölndal – flera polispatruller på plats",
+      "title": "Två Gothia cup-kopplade bråk under fredagskvällen",
       "link": "https://www.svt.se/nyheter/lokalt/vast/stort-slagsmal-i-molndal-flera-polispatruller-pa-plats",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "En opera om en förlorad barndomsskog – mitt i Lainios kalhygge",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/en-opera-om-en-forlorad-barndomsskog-mitt-i-lainios-kalhygge",
-      "image": ""
-    },
-    {
-      "title": "Två män hittade döda i Härjedalen",
-      "link": "https://www.svt.se/nyheter/lokalt/jamtland/tva-man-hittade-doda-i-harjedalen",
       "image": ""
     }
   ]
