@@ -1,13 +1,18 @@
 {
-  "updated": "2026-07-19 12:48 CEST",
+  "updated": "2026-07-19 13:46 CEST",
   "items": [
+    {
+      "title": "Avstängda vägar och vattenläckor i regnets spår i Nyköping",
+      "link": "https://www.svt.se/nyheter/lokalt/sormland/avstangda-vagar-och-vattenlackor-i-regnets-spar-i-nykoping",
+      "image": ""
+    },
     {
       "title": "Elfel stoppar tågen mellan Surahammar och Virsbo",
       "link": "https://www.svt.se/nyheter/lokalt/vastmanland/elfel-stoppar-tagen-mellan-surahammar-och-virsbo",
       "image": ""
     },
     {
-      "title": "Husbil brann efter kollission på E45 i Sorsele",
+      "title": "Husbil brann efter kollision på E45 i Sorsele",
       "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/husbil-brinner-efter-kollission-pa-e45-i-sorsele",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Bil körde genom trädgårdar och in i hus i Mellbystrand – förare omkom",
       "link": "https://www.svt.se/nyheter/lokalt/halland/bil-korde-genom-tradgardar-och-in-i-hus-i-mellbystrand-forare-omkom",
-      "image": ""
-    },
-    {
-      "title": "SMHI: Gul varning för skyfall i delar av Halland",
-      "link": "https://www.svt.se/nyheter/lokalt/halland/smhi-gul-varning-for-skyfall-i-delar-av-halland",
       "image": ""
     }
   ]
