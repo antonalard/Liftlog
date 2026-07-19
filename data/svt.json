@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-19 23:38 CEST",
+  "updated": "2026-07-20 00:37 CEST",
   "items": [
+    {
+      "title": "Spanien vinner VM-guld – Ferran Torres sänkte Argentina i förlängning",
+      "link": "https://www.svt.se/sport/fotboll/spanien-vinner-vm-guld-ferran-torres-sankte-argentina-i-forlangning",
+      "image": ""
+    },
     {
       "title": "Sverige förlorar finalen i U20-EM efter jätterysare",
       "link": "https://www.svt.se/sport/handboll/sverige-forlorar-finalen-i-u20-em-efter-jatterysare",
@@ -34,11 +39,6 @@
     {
       "title": "Här avgör Blekingeborna VM-finalen i het straffläggning",
       "link": "https://www.svt.se/nyheter/lokalt/blekinge/har-avgor-blekingeborna-vm-finalen-i-het-strafflaggning",
-      "image": ""
-    },
-    {
-      "title": "Nya fynd i gruvhålet i Norberg",
-      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/nya-fynd-i-gruvhalet-i-norberg",
       "image": ""
     }
   ]
