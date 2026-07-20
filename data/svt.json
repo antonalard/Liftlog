@@ -1,8 +1,13 @@
 {
-  "updated": "2026-07-20 23:37 CEST",
+  "updated": "2026-07-21 00:42 CEST",
   "items": [
     {
-      "title": "Brand i Bräcke",
+      "title": "Bil har kört in i gym i Sundsvall",
+      "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/bil-har-kort-in-i-gym-i-sundsvall",
+      "image": ""
+    },
+    {
+      "title": "Brand i Pilgrimstad",
       "link": "https://www.svt.se/nyheter/lokalt/jamtland/brand-i-bracke-gqysls",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Man förd till sjukhus i helikopter efter olycka med fyrhjuling",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/man-skadad-i-fyrhjulingsolycka-ford-till-sjukhus-med-helikopter",
-      "image": ""
-    },
-    {
-      "title": "Dyr olja efter fortsatta attacker: ”Då kommer världen tvingas agera”",
-      "link": "https://www.svt.se/nyheter/ekonomi/dyr-olja-efter-fortsatta-attacker-da-kommer-varlden-tvingas-agera",
       "image": ""
     }
   ]
