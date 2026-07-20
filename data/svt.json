@@ -1,9 +1,14 @@
 {
-  "updated": "2026-07-21 00:42 CEST",
+  "updated": "2026-07-21 01:43 CEST",
   "items": [
     {
       "title": "Bil har kört in i gym i Sundsvall",
       "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/bil-har-kort-in-i-gym-i-sundsvall",
+      "image": ""
+    },
+    {
+      "title": "USA inför strafftullar – Kanada har 30 dagar på sig",
+      "link": "https://www.svt.se/nyheter/utrikes/trumps-hot-kan-infora-50-procentiga-tullar-mot-kanada",
       "image": ""
     },
     {
@@ -34,11 +39,6 @@
     {
       "title": "Två bilar kolliderade i Markaryd – en person till sjukhus",
       "link": "https://www.svt.se/nyheter/lokalt/smaland/tva-bilar-kolliderade-i-markaryd-en-person-till-sjukhus",
-      "image": ""
-    },
-    {
-      "title": "Man förd till sjukhus i helikopter efter olycka med fyrhjuling",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/man-skadad-i-fyrhjulingsolycka-ford-till-sjukhus-med-helikopter",
       "image": ""
     }
   ]
