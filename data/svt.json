@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-20 22:14 CEST",
+  "updated": "2026-07-20 23:37 CEST",
   "items": [
+    {
+      "title": "Brand i Bräcke",
+      "link": "https://www.svt.se/nyheter/lokalt/jamtland/brand-i-bracke-gqysls",
+      "image": ""
+    },
     {
       "title": "3000 kunder strömlösa i Mönsterås",
       "link": "https://www.svt.se/nyheter/lokalt/smaland/3000-kunder-stromlosa-i-monsteras",
@@ -34,11 +39,6 @@
     {
       "title": "Dyr olja efter fortsatta attacker: ”Då kommer världen tvingas agera”",
       "link": "https://www.svt.se/nyheter/ekonomi/dyr-olja-efter-fortsatta-attacker-da-kommer-varlden-tvingas-agera",
-      "image": ""
-    },
-    {
-      "title": "Många magsjuka i Nordmakedonien – epidemi utlyst",
-      "link": "https://www.svt.se/nyheter/utrikes/manga-magsjuka-i-nordmakedonien-epidemi-utlyst",
       "image": ""
     }
   ]
