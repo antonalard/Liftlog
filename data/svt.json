@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-20 18:49 CEST",
+  "updated": "2026-07-20 20:46 CEST",
   "items": [
+    {
+      "title": "Hade fjärrstyrd rörbomb i bokhylla – misstänks för flera olika brott",
+      "link": "https://www.svt.se/nyheter/lokalt/sormland/hade-fjarrstyrd-rorbomb-i-bokhylla-misstanks-for-flera-olika-brott",
+      "image": ""
+    },
     {
       "title": "Svart himmel över Moskva efter Ukrainas attacker",
       "link": "https://www.svt.se/nyheter/utrikes/svart-himmel-over-moskva-efter-ukrainas-attacker",
@@ -17,7 +22,7 @@
       "image": ""
     },
     {
-      "title": "Man skadad i fyrhjulingsolycka – förd till sjukhus med helikopter",
+      "title": "Man förd till sjukhus i helikopter efter olycka med fyrhjuling",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/man-skadad-i-fyrhjulingsolycka-ford-till-sjukhus-med-helikopter",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Rektorns ord om lyxmöblerna i förhör: ”Kunde få bra betalt”",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/rektorns-ord-om-lyxmoblerna-i-forhor-kunde-fa-bra-betalt",
-      "image": ""
-    },
-    {
-      "title": "Flera larm om skogsbränder i Västerbotten – brandflyg sätts in",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/tva-larm-om-skogsbrander-i-lanet",
       "image": ""
     }
   ]
