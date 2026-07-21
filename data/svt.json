@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-21 21:56 CEST",
+  "updated": "2026-07-21 22:58 CEST",
   "items": [
+    {
+      "title": "Misstänkt mordförsök i Botkyrka",
+      "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mordforsok-i-botkyrka-w3wtmv",
+      "image": ""
+    },
     {
       "title": "Fiasko för IFK Göteborg mot okänt estniskt lag: ”Vi går ner oss”",
       "link": "https://www.svt.se/sport/fotboll/ifk-goteborg-gjorde-fiasko-mot-okant-estniskt-lag",
@@ -34,11 +39,6 @@
     {
       "title": "Orenat avloppsvatten efter strömavbrott – avråder från bad",
       "link": "https://www.svt.se/nyheter/lokalt/smaland/orenat-avloppsvatten-efter-stromavbrott-avrader-fran-bad",
-      "image": ""
-    },
-    {
-      "title": "Fullbelagt på länets stora campingar – av norrmän: ”Alla får inte plats”",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/fullbelagt-pa-lanets-stora-campingar-av-norrman-alla-far-inte-plats",
       "image": ""
     }
   ]
