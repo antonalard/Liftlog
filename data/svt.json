@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-22 13:22 CEST",
+  "updated": "2026-07-22 14:52 CEST",
   "items": [
+    {
+      "title": "Cyklist till sjukhus efter olycka på Öland",
+      "link": "https://www.svt.se/nyheter/lokalt/smaland/cyklist-till-sjukhus-efter-olycka-pa-oland",
+      "image": ""
+    },
+    {
+      "title": "18-åring döms till fängelse för bomb vid gymnasieskolan i Rättvik",
+      "link": "https://www.svt.se/nyheter/lokalt/dalarna/18-aring-doms-till-fangelse-for-bomb-vid-gymnasieskolan-i-rattvik",
+      "image": ""
+    },
     {
       "title": "15 år sedan terrordåden – Stoltenberg öppnar sina anteckningar",
       "link": "https://www.svt.se/nyheter/utrikes/15-ar-sedan-terrordaden-stoltenberg-oppnar-sina-anteckningar",
@@ -17,6 +27,11 @@
       "image": ""
     },
     {
+      "title": "Kaylee Hottle har omkommit i bilolycka",
+      "link": "https://www.svt.se/nyheter/nyhetstecken/kaylee-hottle-har-omkommit-i-bilolycka",
+      "image": ""
+    },
+    {
       "title": "Kopierad nazi-skylt inget brott – utredning nedlagd",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/kopierad-nazi-skylt-inget-brott-utredning-nedlagd",
       "image": ""
@@ -24,21 +39,6 @@
     {
       "title": "Personbil i diket vid rondell i Umeå – körde in i träd",
       "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/personbil-i-diket-vid-rondell-i-umea-korde-in-i-trad",
-      "image": ""
-    },
-    {
-      "title": "Vanessa Kamgas hyllning till lillasyster Patricia: ”Bättre än jag var”",
-      "link": "https://www.svt.se/sport/friidrott/vanessa-kamgas-hyllning-till-lillasyster-patricia-battre-an-jag-var",
-      "image": ""
-    },
-    {
-      "title": "Epsteins svenske modellscout hittad död i sitt hem",
-      "link": "https://www.svt.se/nyheter/utrikes/epsteins-svenske-modellscout-hittad-dod-i-sitt-hem",
-      "image": ""
-    },
-    {
-      "title": "12-åring misstänks för mordförsök – kopplas till våldsamt Tiktok-konto",
-      "link": "https://www.svt.se/nyheter/lokalt/helsingborg/12-aring-misstanks-for-mordforsok-kopplas-till-valdsamt-tiktok-konto",
       "image": ""
     }
   ]
