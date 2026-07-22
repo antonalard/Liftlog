@@ -1,9 +1,14 @@
 {
-  "updated": "2026-07-22 18:10 CEST",
+  "updated": "2026-07-22 19:45 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Pokémon GO August 2026 Events",
+      "date": "Wed, 22 Jul 2026",
+      "link": "https://pokemongohub.net/post/event/pokemon-go-august-2026-events/"
+    },
     {
       "title": "Ultra Unlock: 10th Anniversary Edition",
       "date": "Tue, 21 Jul 2026",
@@ -48,11 +53,6 @@
       "title": "Gigantamax Rillaboom Max Battle Day (August 2026)",
       "date": "Tue, 14 Jul 2026",
       "link": "https://pokemongohub.net/post/event/gigantamax-rillaboom-max-battle-day-august-2026/"
-    },
-    {
-      "title": "Super Mega Starmie Raid Day (2026): Shiny Odds, Counters & Bonuses",
-      "date": "Tue, 14 Jul 2026",
-      "link": "https://pokemongohub.net/post/event/super-mega-starmie-raid-day/"
     }
   ]
 }
