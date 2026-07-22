@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-22 19:45 CEST",
+  "updated": "2026-07-22 20:51 CEST",
   "today": {
     "weekday": "wednesday",
-    "temp": 21,
+    "temp": 20,
     "meta": "fair day • Vind 4 m/s",
     "symbol_code": "fair_day"
   },
@@ -10,7 +10,7 @@
     {
       "weekday": "wed",
       "night": 14,
-      "day": 21,
+      "day": 20,
       "symbol_code": "fair_day"
     },
     {
