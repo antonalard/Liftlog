@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-22 05:52 CEST",
+  "updated": "2026-07-22 08:18 CEST",
   "items": [
+    {
+      "title": "Lastbil blockerade körfält på väg 97 i Luleå",
+      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/lastbil-blockerar-korfalt-pa-vag-97-i-lulea",
+      "image": ""
+    },
+    {
+      "title": "Fästingplåga – TBE-fallen skjuter i höjden",
+      "link": "https://www.svt.se/nyheter/inrikes/fastingplaga-tbe-fallen-skjuter-i-hojden",
+      "image": ""
+    },
     {
       "title": "190 miljoner till vätgasmackar – men bara fyra lastbilar kör på vätgas",
       "link": "https://www.svt.se/nyheter/inrikes/190-miljoner-till-vatgasmackar-men-bara-fyra-lastbilar-kor-pa-vatgas",
@@ -29,16 +39,6 @@
     {
       "title": "Två knivskadade i Botkyrka",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mordforsok-i-botkyrka-w3wtmv",
-      "image": ""
-    },
-    {
-      "title": "Fiasko för IFK Göteborg mot okänt estniskt lag: ”Vi går ner oss”",
-      "link": "https://www.svt.se/sport/fotboll/ifk-goteborg-gjorde-fiasko-mot-okant-estniskt-lag",
-      "image": ""
-    },
-    {
-      "title": "Mjällbys drömstart i CL-kvalet – tog storseger efter klassmål",
-      "link": "https://www.svt.se/sport/fotboll/mjallbys-dromstart-i-cl-kvalet-tog-storseger-efter-klassmal",
       "image": ""
     }
   ]
