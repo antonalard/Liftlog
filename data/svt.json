@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-23 20:06 CEST",
+  "updated": "2026-07-23 21:51 CEST",
   "items": [
+    {
+      "title": "Sent mål ger Hammarby hopp inför returen i Europa League",
+      "link": "https://www.svt.se/sport/fotboll/sent-mal-ger-hammarby-hopp-infor-returen-i-europa-league",
+      "image": ""
+    },
     {
       "title": "Tillverkade vattenpipstobak i lägenhet i Eskilstuna – döms till fängelse",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/tillverkade-vattenpipstobak-i-lagenhet-i-eskilstuna-doms-till-fangelse",
@@ -34,11 +39,6 @@
     {
       "title": "Vem var Eeva Kilpi?",
       "link": "https://www.svt.se/nyheter/uutiset/svenska/vem-var-eeva-kilpi",
-      "image": ""
-    },
-    {
-      "title": "Din Pokémon Go-data kan användas till militära drönare",
-      "link": "https://www.svt.se/kultur/din-pokemon-go-data-kan-anvandas-till-militara-dronare",
       "image": ""
     }
   ]
