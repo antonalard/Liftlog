@@ -1,6 +1,21 @@
 {
-  "updated": "2026-07-23 11:43 CEST",
+  "updated": "2026-07-23 13:43 CEST",
   "items": [
+    {
+      "title": "Lada fullt övertänd utanför Sala – elden sprider sig till skog och mark",
+      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/lada-fullt-overtand-i-brand-utanfor-sala-elden-sprider-sig-till-skog-och-mark",
+      "image": ""
+    },
+    {
+      "title": "Rysslandsexperten Martin Kragh är död",
+      "link": "https://www.svt.se/nyheter/inrikes/rysslandsexperten-martin-kragh-ar-dod",
+      "image": ""
+    },
+    {
+      "title": "EU ger Google miljardböter",
+      "link": "https://www.svt.se/nyheter/utrikes/eu-ger-google-miljardboter",
+      "image": ""
+    },
     {
       "title": "Elfel orsakar stopp i tågtrafiken mellan Hallsberg och Katrineholm",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/elfel-orsakar-stopp-i-tagtrafiken-mellan-hallsberg-och-katrineholm",
@@ -24,21 +39,6 @@
     {
       "title": "Arbetare skickades hem efter nytt gaslarm på SSAB i Luleå",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/arbetare-skickades-hem-efter-nytt-gaslarm-pa-ssab",
-      "image": ""
-    },
-    {
-      "title": "Tränaren pekar ut detaljen bakom Daniel Ståhls framgångar: ”Är briljant”",
-      "link": "https://www.svt.se/sport/friidrott/forklaringen-bakom-daniel-stahls-framgangar-briljant",
-      "image": ""
-    },
-    {
-      "title": "Kvinna i Mora kommun misstänks för mord",
-      "link": "https://www.svt.se/nyheter/lokalt/dalarna/kvinna-i-mora-kommun-misstanks-for-mord",
-      "image": ""
-    },
-    {
-      "title": "Stora protester i Albanien",
-      "link": "https://www.svt.se/nyheter/utrikes/stora-protester-i-albanien",
       "image": ""
     }
   ]
