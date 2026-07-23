@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-23 01:50 CEST",
+  "updated": "2026-07-23 03:22 CEST",
   "items": [
+    {
+      "title": "Mexikansk borgmästare skjuten till döds i rådhus",
+      "link": "https://www.svt.se/nyheter/utrikes/mexikansk-borgmastare-skjuten-till-dods-i-radhus",
+      "image": ""
+    },
     {
       "title": "Misstänkt mord i Stockholm – man föll från balkong",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstankt-mord-i-stockholm-man-foll-fran-balkong",
@@ -34,11 +39,6 @@
     {
       "title": "Vem är Mychajlo Drapatyj – Ukrainas nya försvarschef?",
       "link": "https://www.svt.se/nyheter/utrikes/vem-ar-mychajlo-drapatyj-ukrainas-nya-forsvarschef",
-      "image": ""
-    },
-    {
-      "title": "Man åtalas – misstänks ha attackerat granne med machete",
-      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/man-atalas-misstanks-ha-attackerat-granne-med-machete",
       "image": ""
     }
   ]
