@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-24 11:40 CEST",
+  "updated": "2026-07-24 13:27 CEST",
   "items": [
+    {
+      "title": "En till sjukhus efter drunkningslarm i Varberg",
+      "link": "https://www.svt.se/nyheter/lokalt/halland/en-till-sjukhus-efter-drunkningslarm-i-varberg",
+      "image": ""
+    },
+    {
+      "title": "Nu ska igelkotten fridlysas – Ingrida har en hel familj i trädgården",
+      "link": "https://www.svt.se/nyheter/lokalt/sormland/nu-ska-igelkotten-fridlysas-ingrida-har-en-hel-familj-i-tradgarden-otrolig-stor-gladje",
+      "image": ""
+    },
     {
       "title": "Gömde flera kilo narkotika i Luleårestaurang – nu väntar år i fängelse",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/gomde-flera-kilo-narkotika-i-lulearestaurang-nu-vantar-ar-i-fangelse",
@@ -29,16 +39,6 @@
     {
       "title": "Dåligt väder i Norge – nytt rekord för Pite havsbad: ”Hoppas på sol”",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/daligt-vader-i-norge-nytt-rekord-for-pite-havsbad-hoppas-pa-sol",
-      "image": ""
-    },
-    {
-      "title": "Nyköping inför nya regler för ljudmätning vid konserter",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/nykoping-infor-nya-regler-for-ljudmatning-vid-konserter",
-      "image": ""
-    },
-    {
-      "title": "Tiotusentals flyr bränderna i södra Europa – nödläge i Spanien",
-      "link": "https://www.svt.se/nyheter/utrikes/tiotusentals-flyr-branderna-i-sodra-europa",
       "image": ""
     }
   ]
