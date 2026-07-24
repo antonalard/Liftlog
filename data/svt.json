@@ -1,9 +1,19 @@
 {
-  "updated": "2026-07-24 13:27 CEST",
+  "updated": "2026-07-24 14:53 CEST",
   "items": [
+    {
+      "title": "Källaren full med stinkande avloppsvatten – sanering dröjer",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/kallaren-full-med-stinkande-avloppsvatten-sanering-drojer",
+      "image": ""
+    },
     {
       "title": "En till sjukhus efter drunkningslarm i Varberg",
       "link": "https://www.svt.se/nyheter/lokalt/halland/en-till-sjukhus-efter-drunkningslarm-i-varberg",
+      "image": ""
+    },
+    {
+      "title": "Håkan Hellström fansen samlade i Kalmar – köat i timmar",
+      "link": "https://www.svt.se/nyheter/lokalt/smaland/hakan-hellstrom-fansen-samlade-i-kalmar-koat-i-timmar",
       "image": ""
     },
     {
@@ -29,16 +39,6 @@
     {
       "title": "Triathlon trendar – fler unga kvinnor vill tävla",
       "link": "https://www.svt.se/nyheter/lokalt/smaland/triathlon-trendar-fler-unga-kvinnor-vill-tavla",
-      "image": ""
-    },
-    {
-      "title": "Fotbolls-VM är över – krögaren Önder i Västerås summerar: ”Ledsamt”",
-      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/fotbolls-vm-ar-over-krogaren-onder-i-vasteras-summerar-ledsamt",
-      "image": ""
-    },
-    {
-      "title": "Dåligt väder i Norge – nytt rekord för Pite havsbad: ”Hoppas på sol”",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/daligt-vader-i-norge-nytt-rekord-for-pite-havsbad-hoppas-pa-sol",
       "image": ""
     }
   ]
