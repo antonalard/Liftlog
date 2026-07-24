@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-24 20:52 CEST",
+  "updated": "2026-07-24 22:07 CEST",
   "items": [
+    {
+      "title": "Kraftig brand i Ronneby",
+      "link": "https://www.svt.se/nyheter/lokalt/blekinge/kraftig-brand-i-ronneby",
+      "image": ""
+    },
     {
       "title": "Efter skjutningen: Nu arrangeras galamiddagen på nytt",
       "link": "https://www.svt.se/nyheter/utrikes/efter-skjutningen-nu-arrangeras-galamiddagen-pa-nytt",
@@ -34,11 +39,6 @@
     {
       "title": "En man död efter drunkningsolycka i Varberg",
       "link": "https://www.svt.se/nyheter/lokalt/halland/en-till-sjukhus-efter-drunkningslarm-i-varberg",
-      "image": ""
-    },
-    {
-      "title": "Håkan Hellström fansen samlade i Kalmar – köat i timmar",
-      "link": "https://www.svt.se/nyheter/lokalt/smaland/hakan-hellstrom-fansen-samlade-i-kalmar-koat-i-timmar",
       "image": ""
     }
   ]
