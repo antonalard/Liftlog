@@ -1,8 +1,13 @@
 {
-  "updated": "2026-07-25 09:06 CEST",
+  "updated": "2026-07-25 11:15 CEST",
   "items": [
     {
-      "title": "Man död efter elsparksolycka i Östersund",
+      "title": "USA-fans snuvade på Roxettes jubileumsshow",
+      "link": "https://www.svt.se/kultur/usa-fans-snuvade-pa-roxettes-jubileumsshow",
+      "image": ""
+    },
+    {
+      "title": "Man död efter olycka med elsparkcykel i Östersund",
       "link": "https://www.svt.se/nyheter/lokalt/jamtland/man-dod-efter-elsparksolycka-i-ostersund-hqiol9",
       "image": ""
     },
@@ -22,7 +27,7 @@
       "image": ""
     },
     {
-      "title": "Här sörjs husdjuren – på Norrlands enda djurkyrkogård: ”Fint ställe”",
+      "title": "Här sörjs husdjuren – på en av Norrlands få djurkyrkogårdar: ”Fint ställe”",
       "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/har-sorjs-husdjuren-pa-norrlands-enda-djurkyrkogard-fint-stalle",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Här låser IT-forensikern upp kriminellas digitala liv",
       "link": "https://www.svt.se/nyheter/lokalt/ost/har-laser-it-forensikern-upp-kriminellas-digitala-liv",
-      "image": ""
-    },
-    {
-      "title": "Kraftig brand i Ronneby",
-      "link": "https://www.svt.se/nyheter/lokalt/blekinge/kraftig-brand-i-ronneby",
       "image": ""
     }
   ]
