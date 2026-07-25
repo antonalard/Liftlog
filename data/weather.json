@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25 03:19 CEST",
+  "updated": "2026-07-25 06:34 CEST",
   "today": {
     "weekday": "saturday",
     "temp": 16,
@@ -10,19 +10,19 @@
     {
       "weekday": "sat",
       "night": 15,
-      "day": 18,
+      "day": 19,
       "symbol_code": "cloudy"
     },
     {
       "weekday": "sun",
       "night": 14,
       "day": 18,
-      "symbol_code": "partlycloudy_day"
+      "symbol_code": "cloudy"
     },
     {
       "weekday": "mon",
       "night": 14,
-      "day": 18,
+      "day": 19,
       "symbol_code": "fair_day"
     },
     {
