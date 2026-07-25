@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-25 20:44 CEST",
+  "updated": "2026-07-25 22:02 CEST",
   "items": [
+    {
+      "title": "”Fynden” du ska undvika på sommarens loppis",
+      "link": "https://www.svt.se/nyheter/inrikes/fynden-du-ska-undvika-pa-sommarens-loppis",
+      "image": ""
+    },
     {
       "title": "Slagsmål efter trafikolycka utanför Höör",
       "link": "https://www.svt.se/nyheter/lokalt/skane/slagsmal-efter-trafikolycka-utanfor-hoor",
@@ -34,11 +39,6 @@
     {
       "title": "USA-fans snuvade på Roxettes jubileumsshow",
       "link": "https://www.svt.se/kultur/usa-fans-snuvade-pa-roxettes-jubileumsshow",
-      "image": ""
-    },
-    {
-      "title": "Man död efter olycka med elsparkcykel i Östersund",
-      "link": "https://www.svt.se/nyheter/lokalt/jamtland/man-dod-efter-elsparksolycka-i-ostersund-hqiol9",
       "image": ""
     }
   ]
