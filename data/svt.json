@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-25 14:52 CEST",
+  "updated": "2026-07-25 16:23 CEST",
   "items": [
+    {
+      "title": "Misstänkt våldtäkt på nattklubb i Malmö",
+      "link": "https://www.svt.se/nyheter/lokalt/skane/misstankt-valdtakt-pa-nattklubb-i-malmo",
+      "image": ""
+    },
     {
       "title": "Husbil och två personbilar kolliderade – en till sjukhus",
       "link": "https://www.svt.se/nyheter/lokalt/smaland/husbil-och-tva-personbilar-kolliderade-vag-34-avstangd",
@@ -34,11 +39,6 @@
     {
       "title": "Hans mark ska bli lyxresort: ”Det här är stöld och förföljelse”",
       "link": "https://www.svt.se/nyheter/utrikes/hans-mark-ska-bli-lyxresort-det-har-ar-stold-och-forfoljelse",
-      "image": ""
-    },
-    {
-      "title": "Polisens tips: Så skyddar du hemmet under semestern",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/polisens-tips-sa-skyddar-du-hemmet-under-semestern",
       "image": ""
     }
   ]
