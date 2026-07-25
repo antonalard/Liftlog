@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-25 18:40 CEST",
+  "updated": "2026-07-25 19:45 CEST",
   "items": [
+    {
+      "title": "Slagsmål efter trafikolycka utanför Höör",
+      "link": "https://www.svt.se/nyheter/lokalt/skane/slagsmal-efter-trafikolycka-utanfor-hoor",
+      "image": ""
+    },
     {
       "title": "Europas snabbaste bilar intar Mantorp Park – ”För mycket hästkrafter”",
       "link": "https://www.svt.se/nyheter/lokalt/ost/europas-snabbaste-bilar-intar-mantorp-park-for-mycket-hastkrafter",
@@ -34,11 +39,6 @@
     {
       "title": "Man död efter olycka med elsparkcykel i Östersund",
       "link": "https://www.svt.se/nyheter/lokalt/jamtland/man-dod-efter-elsparksolycka-i-ostersund-hqiol9",
-      "image": ""
-    },
-    {
-      "title": "”Fortsatt spänd relation mellan Trump och pressen”",
-      "link": "https://www.svt.se/nyheter/utrikes/fortsatt-spand-relation-mellan-trump-och-pressen",
       "image": ""
     }
   ]
