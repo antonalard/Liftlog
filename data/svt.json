@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-26 06:48 CEST",
+  "updated": "2026-07-26 09:28 CEST",
   "items": [
+    {
+      "title": "Två inbrott via fönster i Norrköping – polisen utesluter inte samband",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/tva-inbrott-via-fonster-i-norrkoping-polisen-utesluter-inte-samband",
+      "image": ""
+    },
     {
       "title": "Emmy, 21, gör Tiktok-serie om Umeå – når tusentals",
       "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/emmy-21-gor-tiktok-serie-om-umea-nar-tusentals",
@@ -34,11 +39,6 @@
     {
       "title": "Misstänkt våldtäkt på nattklubb i Malmö",
       "link": "https://www.svt.se/nyheter/lokalt/skane/misstankt-valdtakt-pa-nattklubb-i-malmo",
-      "image": ""
-    },
-    {
-      "title": "Husbil och två personbilar kolliderade – en till sjukhus",
-      "link": "https://www.svt.se/nyheter/lokalt/smaland/husbil-och-tva-personbilar-kolliderade-vag-34-avstangd",
       "image": ""
     }
   ]
