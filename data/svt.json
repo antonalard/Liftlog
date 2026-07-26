@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-27 00:25 CEST",
+  "updated": "2026-07-27 01:25 CEST",
   "items": [
+    {
+      "title": "Zelenskyj träffar Burnham",
+      "link": "https://www.svt.se/nyheter/utrikes/zelenskyj-traffar-burnham",
+      "image": ""
+    },
     {
       "title": "EU-politiker protesterar mot fartyg som fraktar rysk gas",
       "link": "https://www.svt.se/nyheter/utrikes/eu-politiker-protesterar-mot-fartyg-som-fraktar-rysk-gas",
@@ -34,11 +39,6 @@
     {
       "title": "Boende har fått nog av måsarna i Munktellstaden i Eskilstuna: ”De har en koloni”",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/boende-har-fatt-nog-av-masarna-i-munktellstaden-i-eskilstuna-de-har-en-koloni",
-      "image": ""
-    },
-    {
-      "title": "Ishaveri i arenan – VSK tvingas flytta bandyskola till Katrineholm: ”Förödande”",
-      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/ishaveri-i-arenan-vsk-tvingas-flytta-bandyskola-till-katrineholm-forodande",
       "image": ""
     }
   ]
