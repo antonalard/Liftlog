@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-26 09:28 CEST",
+  "updated": "2026-07-26 11:31 CEST",
   "items": [
+    {
+      "title": "SD: Migrationsverket kan bli bättre på att guida återvändare",
+      "link": "https://www.svt.se/nyheter/inrikes/sd-migrationsverket-kan-bli-battre-pa-att-guida-atervandare",
+      "image": ""
+    },
     {
       "title": "Två inbrott via fönster i Norrköping – polisen utesluter inte samband",
       "link": "https://www.svt.se/nyheter/lokalt/ost/tva-inbrott-via-fonster-i-norrkoping-polisen-utesluter-inte-samband",
@@ -34,11 +39,6 @@
     {
       "title": "Europas snabbaste bilar intar Mantorp Park – ”För mycket hästkrafter”",
       "link": "https://www.svt.se/nyheter/lokalt/ost/europas-snabbaste-bilar-intar-mantorp-park-for-mycket-hastkrafter",
-      "image": ""
-    },
-    {
-      "title": "Misstänkt våldtäkt på nattklubb i Malmö",
-      "link": "https://www.svt.se/nyheter/lokalt/skane/misstankt-valdtakt-pa-nattklubb-i-malmo",
       "image": ""
     }
   ]
