@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-26 11:31 CEST",
+  "updated": "2026-07-26 13:11 CEST",
   "items": [
+    {
+      "title": "Man gripen misstänkt för våldtäkt i Kristianstad",
+      "link": "https://www.svt.se/nyheter/lokalt/skane/man-gripen-misstankt-for-valdtakt-i-kristianstad",
+      "image": ""
+    },
     {
       "title": "SD: Migrationsverket kan bli bättre på att guida återvändare",
       "link": "https://www.svt.se/nyheter/inrikes/sd-migrationsverket-kan-bli-battre-pa-att-guida-atervandare",
@@ -34,11 +39,6 @@
     {
       "title": "Slagsmål efter trafikolycka utanför Höör",
       "link": "https://www.svt.se/nyheter/lokalt/skane/slagsmal-efter-trafikolycka-utanfor-hoor",
-      "image": ""
-    },
-    {
-      "title": "Europas snabbaste bilar intar Mantorp Park – ”För mycket hästkrafter”",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/europas-snabbaste-bilar-intar-mantorp-park-for-mycket-hastkrafter",
       "image": ""
     }
   ]
