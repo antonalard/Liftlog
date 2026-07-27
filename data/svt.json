@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-27 22:00 CEST",
+  "updated": "2026-07-27 23:09 CEST",
   "items": [
+    {
+      "title": "Ung flicka misstänkt för grov misshandel mot jämnårig",
+      "link": "https://www.svt.se/nyheter/lokalt/skane/flicka-i-15-arsaldern-grips-misstankt-for-grov-misshandel-mot-jamnarig",
+      "image": ""
+    },
     {
       "title": "Kvinna nekades assistanshund på sjukhus – anmäler till DO",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/kvinna-nekades-assistanshund-pa-sjukhus-anmaler-till-do",
@@ -34,11 +39,6 @@
     {
       "title": "Mångmiljardorder för Saab – köpare okänd",
       "link": "https://www.svt.se/nyheter/lokalt/ost/mangmiljardorder-for-saab-kopare-okand",
-      "image": ""
-    },
-    {
-      "title": "Ludvikas kommunalråd åtalas  – misstänks ha hotat och ofredat politiker",
-      "link": "https://www.svt.se/nyheter/lokalt/dalarna/ludvikas-kommunalrad-atalas-misstanks-ha-hotat-och-ofredat-av-politiker",
       "image": ""
     }
   ]
