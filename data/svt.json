@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27 20:16 CEST",
+  "updated": "2026-07-27 22:00 CEST",
   "items": [
     {
       "title": "Kvinna nekades assistanshund på sjukhus – anmäler till DO",
@@ -14,6 +14,11 @@
     {
       "title": "Bilderna visar: Så levde närmare 30 katter i misär",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/bilderna-visar-sa-levde-narmare-30-katter-i-misar",
+      "image": ""
+    },
+    {
+      "title": "Man död – blev fastklämd av hjullastare",
+      "link": "https://www.svt.se/nyheter/lokalt/skane/en-man-blev-fastklamd-mellan-skopan-pa-ett-fordon-ford-till-sjukhus",
       "image": ""
     },
     {
@@ -34,11 +39,6 @@
     {
       "title": "Ludvikas kommunalråd åtalas  – misstänks ha hotat och ofredat politiker",
       "link": "https://www.svt.se/nyheter/lokalt/dalarna/ludvikas-kommunalrad-atalas-misstanks-ha-hotat-och-ofredat-av-politiker",
-      "image": ""
-    },
-    {
-      "title": "18-åringen i 764-nätverket inte allvarligt psykiskt sjuk – kan få fängelse",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/18-aringen-i-764-natverket-inte-allvarligt-psyksjuk-kan-fa-fangelse",
       "image": ""
     }
   ]
