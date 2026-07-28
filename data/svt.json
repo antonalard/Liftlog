@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-28 18:26 CEST",
+  "updated": "2026-07-28 19:49 CEST",
   "items": [
+    {
+      "title": "Man misstänks för rattfylleri efter vårdslös körning på E4",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/man-misstanks-for-rattfylleri-efter-vardslos-korning-pa-e4",
+      "image": ""
+    },
     {
       "title": "Fjällstationen hårt prövad av vattenproblemen i Grövelsjön: ”Inne på vecka fyra”",
       "link": "https://www.svt.se/nyheter/lokalt/dalarna/fjallstationen-hart-provad-av-vattenproblemen-i-grovelsjon-inne-pa-vecka-fyra",
@@ -34,11 +39,6 @@
     {
       "title": "Satellitbilderna visar brändernas framfart",
       "link": "https://www.svt.se/nyheter/utrikes/satellitbilderna-visar-brandernas-framfart",
-      "image": ""
-    },
-    {
-      "title": "Tät skog och blöt myr – så hittade Hemvärnet försvunne mannen",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/tat-skog-och-blot-myr-sa-hittade-hemvarnet-forsvunna-mannen",
       "image": ""
     }
   ]
