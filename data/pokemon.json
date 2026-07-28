@@ -1,9 +1,14 @@
 {
-  "updated": "2026-07-28 14:17 CEST",
+  "updated": "2026-07-28 16:54 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Pokémon GO Fest: Mega Finale Announced",
+      "date": "Tue, 28 Jul 2026",
+      "link": "https://pokemongohub.net/post/event/pokemon-go-fest-mega-finale-announced/"
+    },
     {
       "title": "Choose Your Path: Fairy Trail Timed Research (All Paths)",
       "date": "Tue, 28 Jul 2026",
@@ -48,11 +53,6 @@
       "title": "Dynamax Trubbish Max Monday: Event Guide",
       "date": "Sun, 19 Jul 2026",
       "link": "https://pokemongohub.net/post/event/dynamax-trubbish-max-monday-event-guide/"
-    },
-    {
-      "title": "Super Mega Raichu Raid Day",
-      "date": "Fri, 17 Jul 2026",
-      "link": "https://pokemongohub.net/post/event/super-mega-raichu-raid-day/"
     }
   ]
 }
