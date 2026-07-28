@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-28 12:03 CEST",
+  "updated": "2026-07-28 14:17 CEST",
   "items": [
+    {
+      "title": "Tågförseningar mellan Norrköping och Linköping efter elfel",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/tagforseningar-mellan-norrkoping-och-linkoping-efter-elfel",
+      "image": ""
+    },
+    {
+      "title": "30-åring åtalas för elva våldtäkter mot kvinna",
+      "link": "https://www.svt.se/nyheter/lokalt/sormland/30-aring-atalas-for-elva-valdtakter-mot-kvinna",
+      "image": ""
+    },
     {
       "title": "Efter nioåriga fängelsestraffet: äldrerånarna överklagar domen",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/efter-nioariga-fangelsestraffet-aldreranarna-overklagar-domen",
@@ -22,23 +32,13 @@
       "image": ""
     },
     {
-      "title": "Jordbävning i södra Japan – tsunamivarning utfärdad",
+      "title": "Jordbävning i södra Japan – polisen bekräftar flera döda",
       "link": "https://www.svt.se/nyheter/utrikes/jordbavning-i-sodra-japan-tsunamivarning-utfardad",
       "image": ""
     },
     {
       "title": "Hoten mot AI-topparna ökar – bolagen satsar miljoner på personskydd",
       "link": "https://www.svt.se/nyheter/utrikes/hoten-mot-ai-topparna-okar-bolagen-satsar-miljoner-pa-personskydd",
-      "image": ""
-    },
-    {
-      "title": "Varg och lodjur angrep – flera får dödade",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/varg-och-lodjur-angrep-flera-far-dodade",
-      "image": ""
-    },
-    {
-      "title": "I dag faller domen mot Jonas Falk – åtalad för 2,5 ton kokain",
-      "link": "https://www.svt.se/nyheter/inrikes/i-dag-faller-domen-mot-jonas-falk-atalad-for-25-ton-kokain",
       "image": ""
     }
   ]
