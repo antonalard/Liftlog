@@ -1,6 +1,21 @@
 {
-  "updated": "2026-07-28 19:49 CEST",
+  "updated": "2026-07-28 21:00 CEST",
   "items": [
+    {
+      "title": "Lägenhet förstörd efter brand i Helsingborg",
+      "link": "https://www.svt.se/nyheter/lokalt/helsingborg/brand-i-lagenhet-i-helsingborg-riskerar-att-spridas-till-taket",
+      "image": ""
+    },
+    {
+      "title": "Bil körde in i träd – en till sjukhus",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/bil-har-kort-in-i-trad-oklart-skadelage",
+      "image": ""
+    },
+    {
+      "title": "Mjällby vidare i Champions League-kvalet",
+      "link": "https://www.svt.se/sport/fotboll/mjallby-vidare-i-champions-league-kvalet",
+      "image": ""
+    },
     {
       "title": "Man misstänks för rattfylleri efter vårdslös körning på E4",
       "link": "https://www.svt.se/nyheter/lokalt/ost/man-misstanks-for-rattfylleri-efter-vardslos-korning-pa-e4",
@@ -24,21 +39,6 @@
     {
       "title": "Misstänkt narkotika hittad i bibel på häkte",
       "link": "https://www.svt.se/nyheter/lokalt/ost/misstankt-narkotika-hittad-i-bibel-pa-hakte",
-      "image": ""
-    },
-    {
-      "title": "Östersund kommun vill se fler åtgärder för elsparkcyklar: ”Är dåligt pålästa”",
-      "link": "https://www.svt.se/nyheter/lokalt/jamtland/ostersund-kommun-vill-se-fler-atgarder-for-elsparkcyklar-ar-daligt-palasta",
-      "image": ""
-    },
-    {
-      "title": "Rån mot kiosk i Bodafors – ”önskade två paket cigaretter”",
-      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/hotade-till-sig-cigaretter-en-gripen-for-ran",
-      "image": ""
-    },
-    {
-      "title": "Satellitbilderna visar brändernas framfart",
-      "link": "https://www.svt.se/nyheter/utrikes/satellitbilderna-visar-brandernas-framfart",
       "image": ""
     }
   ]
