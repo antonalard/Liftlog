@@ -1,8 +1,23 @@
 {
-  "updated": "2026-07-29 12:23 CEST",
+  "updated": "2026-07-29 14:25 CEST",
   "items": [
     {
-      "title": "Krock på väg 40 – stopp i norrgående riktning",
+      "title": "Clas bor på Lövön nära platsen för båtolyckan",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/clas-bor-pa-lovon-nara-platsen-for-batolyckan",
+      "image": ""
+    },
+    {
+      "title": "Efter dödsmisshandeln i Köpenhamn – man fortsatt häktad",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/efter-dodsmisshandeln-i-kopenhamn-man-fortsatt-haktad",
+      "image": ""
+    },
+    {
+      "title": "Lurades att tro att hon var brottsoffer – blev av med pengar",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/lurades-att-tro-att-hon-var-brottsoffer-blev-av-med-pengar",
+      "image": ""
+    },
+    {
+      "title": "Krock på väg 40 – tre personer drabbade",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/trafikolycka-pa-vag-40-totalstopp-i-norrgaende-riktning",
       "image": ""
     },
@@ -24,21 +39,6 @@
     {
       "title": "Efter sprängdåden i Norrköping – nu väcks åtal mot fem personer",
       "link": "https://www.svt.se/nyheter/lokalt/ost/efter-sprangdaden-i-norrkoping-nu-vacks-atal-mot-fem-personer",
-      "image": ""
-    },
-    {
-      "title": "Förseningar i tågtrafiken efter urspårning i Gnesta",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/forseningar-i-tagtrafiken-efter-ursparning-i-gnesta",
-      "image": ""
-    },
-    {
-      "title": "Undersköterska slagen på äldreboende – bröt revben",
-      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/valdsamt-pa-aldreboende-personal-skadades",
-      "image": ""
-    },
-    {
-      "title": "Här fångas tusentals av den invasiva arten i Östersjön: ”Käkar upp våra fiskar”",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/har-fangas-tusentals-av-den-invasiva-arten-i-ostersjon-kakar-upp-vara-fiskar",
       "image": ""
     }
   ]
