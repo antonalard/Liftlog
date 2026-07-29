@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-29 16:36 CEST",
+  "updated": "2026-07-29 18:13 CEST",
   "items": [
+    {
+      "title": "Sjöräddningssällskapet har avslutat extrasök – misstänkt vrakplats ska undersökas",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/sjoraddningssallskapet-har-avslutat-extrasok-misstankt-vrakplats-ska-undersokas",
+      "image": ""
+    },
     {
       "title": "Trafikverket förbereder för högtryck – sänker hastigheten på flera järnvägssträckor",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/trafikverket-forbereder-for-hogtryck-sanker-hastigheten-pa-flera-jarnvagsstrackor",
@@ -34,11 +39,6 @@
     {
       "title": "Lurades att tro att hon var brottsoffer – blev av med pengar",
       "link": "https://www.svt.se/nyheter/lokalt/ost/lurades-att-tro-att-hon-var-brottsoffer-blev-av-med-pengar",
-      "image": ""
-    },
-    {
-      "title": "Krock på väg 40 – tre personer drabbade",
-      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/trafikolycka-pa-vag-40-totalstopp-i-norrgaende-riktning",
       "image": ""
     }
   ]
