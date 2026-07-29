@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-29 23:23 CEST",
+  "updated": "2026-07-30 00:25 CEST",
   "items": [
+    {
+      "title": "Rushdies attentatsman fälls för terrorbrott",
+      "link": "https://www.svt.se/kultur/rushdies-attentatsman-falls-for-terrorbrott",
+      "image": ""
+    },
     {
       "title": "Fed lämnar styrräntan oförändrad igen",
       "link": "https://www.svt.se/nyheter/utrikes/usas-centralbank-fed-lamnar-besked-om-styrrantan",
@@ -34,11 +39,6 @@
     {
       "title": "Trafikverket förbereder för högtryck – sänker hastigheten på flera järnvägssträckor",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/trafikverket-forbereder-for-hogtryck-sanker-hastigheten-pa-flera-jarnvagsstrackor",
-      "image": ""
-    },
-    {
-      "title": "Man hittad död i Vidsel",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/man-forsvunnen-i-vidsel-helikopter-och-dykare-soker",
       "image": ""
     }
   ]
