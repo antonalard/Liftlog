@@ -1,6 +1,21 @@
 {
-  "updated": "2026-07-30 14:59 CEST",
+  "updated": "2026-07-30 17:08 CEST",
   "items": [
+    {
+      "title": "Tusentals korsar Spaniens gräns – begär nödläge",
+      "link": "https://www.svt.se/nyheter/utrikes/tusentals-korsar-spaniens-grans-begar-nodlage",
+      "image": ""
+    },
+    {
+      "title": "Joel, 6, upptäckte branden i Skinnskatteberg – larmade pappa",
+      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/joel-6-upptackte-branden-i-skinnskatteberg-larmade-pappa",
+      "image": ""
+    },
+    {
+      "title": "Vitmålade spår i Alvik ska förhindra olyckor orsakade av värmen",
+      "link": "https://www.svt.se/nyheter/lokalt/stockholm/vitmalade-spar-i-alvik-ska-forhindra-olyckor-orsakade-av-varmen",
+      "image": ""
+    },
     {
       "title": "Båtbrand på Vättern – en person simmade in till land",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/brand-pa-bat-i-vattern",
@@ -24,21 +39,6 @@
     {
       "title": "Dubbla skogsbränder i Västmanland – två helikoptrar på plats",
       "link": "https://www.svt.se/nyheter/lokalt/vastmanland/storre-skogsbrand-i-surahammar",
-      "image": ""
-    },
-    {
-      "title": "Stor vattenläcka i Eskilstuna – genomfartsväg översvämmad",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/akut-vattenlacka-i-eskilstuna-delar-av-vagen-stangs-av",
-      "image": ""
-    },
-    {
-      "title": "Eldningsförbud införs i Norberg och Fagersta",
-      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/eldningsforbud-infors-i-norberg-och-fagersta",
-      "image": ""
-    },
-    {
-      "title": "Nyare teknik räddar robotgräsklippare från åskan",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/nyare-teknik-raddar-robotgrasklippare-fran-askan",
       "image": ""
     }
   ]
