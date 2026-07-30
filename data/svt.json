@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-30 11:08 CEST",
+  "updated": "2026-07-30 13:25 CEST",
   "items": [
+    {
+      "title": "Akut vattenläcka i Eskilstuna – genomfartsväg översvämmad",
+      "link": "https://www.svt.se/nyheter/lokalt/sormland/akut-vattenlacka-i-eskilstuna-delar-av-vagen-stangs-av",
+      "image": ""
+    },
+    {
+      "title": "Eldningsförbud införs i Norberg och Fagersta",
+      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/eldningsforbud-infors-i-norberg-och-fagersta",
+      "image": ""
+    },
+    {
+      "title": "Äventyraren Lina gick sorgevandring – då klev gatuhunden Sam in i hennes liv",
+      "link": "https://www.svt.se/nyheter/lokalt/jamtland/aventyraren-lina-gick-sorgevandring-da-klev-gatuhunden-sam-in-i-hennes-liv",
+      "image": ""
+    },
+    {
+      "title": "Polis utreder misstänkt människohandel utanför Burträsk",
+      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/polis-utreder-misstankt-manniskohandel-utanfor-burtrask",
+      "image": ""
+    },
     {
       "title": "Campingens prideflagga nedsågad – igen",
       "link": "https://www.svt.se/nyheter/lokalt/smaland/campingens-prideflagga-nedsagad-igen",
@@ -19,26 +39,6 @@
     {
       "title": "Trots konkursen – här sitter skyltarna kvar efter Northvolt i Skellefteå",
       "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/trots-konkursen-har-sitter-skyltarna-kvar-efter-northvolt-i-skelleftea",
-      "image": ""
-    },
-    {
-      "title": "Skördetid väntar på Värmlandsnäs: ”Normalskörd”",
-      "link": "https://www.svt.se/nyheter/lokalt/varmland/skordetid-vantar-pa-varmlandsnas-normalskord",
-      "image": ""
-    },
-    {
-      "title": "MCF: God brandberedskap trots utlånade vattenbombare",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/mcf-god-brandberedskap-trots-utlanade-vattenbombare",
-      "image": ""
-    },
-    {
-      "title": "Rushdies attentatsman fälls för terrorbrott",
-      "link": "https://www.svt.se/kultur/rushdies-attentatsman-falls-for-terrorbrott",
-      "image": ""
-    },
-    {
-      "title": "Fed lämnar styrräntan oförändrad igen",
-      "link": "https://www.svt.se/nyheter/utrikes/usas-centralbank-fed-lamnar-besked-om-styrrantan",
       "image": ""
     }
   ]
