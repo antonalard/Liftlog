@@ -1,8 +1,33 @@
 {
-  "updated": "2026-07-30 13:25 CEST",
+  "updated": "2026-07-30 14:59 CEST",
   "items": [
     {
-      "title": "Akut vattenläcka i Eskilstuna – genomfartsväg översvämmad",
+      "title": "Båtbrand på Vättern – en person simmade in till land",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/brand-pa-bat-i-vattern",
+      "image": ""
+    },
+    {
+      "title": "Skogsbrand vid Södra Örsjön",
+      "link": "https://www.svt.se/nyheter/lokalt/varmland/larm-om-skogsbrand-om4eaz",
+      "image": ""
+    },
+    {
+      "title": "Mohamssons drag i krisen: Kundvagnsrace och ”galen” glass",
+      "link": "https://www.svt.se/nyheter/inrikes/mohamssons-drag-i-krisen-kundvagnsrace-och-galen-glass",
+      "image": ""
+    },
+    {
+      "title": "Blottade sig för 14 kvinnor – döms till fängelse",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/blottade-sig-for-14-kvinnor-doms-till-fangelse",
+      "image": ""
+    },
+    {
+      "title": "Dubbla skogsbränder i Västmanland – två helikoptrar på plats",
+      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/storre-skogsbrand-i-surahammar",
+      "image": ""
+    },
+    {
+      "title": "Stor vattenläcka i Eskilstuna – genomfartsväg översvämmad",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/akut-vattenlacka-i-eskilstuna-delar-av-vagen-stangs-av",
       "image": ""
     },
@@ -12,33 +37,8 @@
       "image": ""
     },
     {
-      "title": "Äventyraren Lina gick sorgevandring – då klev gatuhunden Sam in i hennes liv",
-      "link": "https://www.svt.se/nyheter/lokalt/jamtland/aventyraren-lina-gick-sorgevandring-da-klev-gatuhunden-sam-in-i-hennes-liv",
-      "image": ""
-    },
-    {
-      "title": "Polis utreder misstänkt människohandel utanför Burträsk",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/polis-utreder-misstankt-manniskohandel-utanfor-burtrask",
-      "image": ""
-    },
-    {
-      "title": "Campingens prideflagga nedsågad – igen",
-      "link": "https://www.svt.se/nyheter/lokalt/smaland/campingens-prideflagga-nedsagad-igen",
-      "image": ""
-    },
-    {
-      "title": "Kvinna hittad död efter båtolyckan utanför Tjörn",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/kvinna-hittad-dod-efter-batolyckan-utanfor-marstrand",
-      "image": ""
-    },
-    {
-      "title": "Skogsbranden i Västmanland 2014 blev en väckarklocka för Sveriges beredskap",
-      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/skogbranden-i-vastmanland-2014-blev-en-vackarklocka-for-sveriges-beredskap",
-      "image": ""
-    },
-    {
-      "title": "Trots konkursen – här sitter skyltarna kvar efter Northvolt i Skellefteå",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/trots-konkursen-har-sitter-skyltarna-kvar-efter-northvolt-i-skelleftea",
+      "title": "Nyare teknik räddar robotgräsklippare från åskan",
+      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/nyare-teknik-raddar-robotgrasklippare-fran-askan",
       "image": ""
     }
   ]
