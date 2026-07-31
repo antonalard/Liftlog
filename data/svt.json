@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-31 20:01 CEST",
+  "updated": "2026-07-31 21:59 CEST",
   "items": [
+    {
+      "title": "Två personbilar krockade på E6",
+      "link": "https://www.svt.se/nyheter/lokalt/halland/totalstopp-pa-e6-tva-personbilar-i-krock",
+      "image": ""
+    },
     {
       "title": "Därför ger grafen en missvisande bild av Europas bränder",
       "link": "https://www.svt.se/nyheter/utrikes/darfor-ger-grafen-en-missvisande-bild-av-europas-brander",
@@ -34,11 +39,6 @@
     {
       "title": "Dold rapport: Flera allvarliga brister i Elsa-fallet",
       "link": "https://www.svt.se/nyheter/lokalt/orebro/dold-rapport-avslojar-flera-allvarliga-brister-i-elsa-fallet",
-      "image": ""
-    },
-    {
-      "title": "Efter fem veckors spårarbete – nu öppnar pendeltågstrafiken till Södertälje igen",
-      "link": "https://www.svt.se/nyheter/lokalt/sodertalje/efter-fem-veckors-spararbete-nu-oppnar-pendeltagstrafiken-till-sodertalje-igen",
       "image": ""
     }
   ]
