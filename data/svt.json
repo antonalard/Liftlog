@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-31 14:23 CEST",
+  "updated": "2026-07-31 16:42 CEST",
   "items": [
+    {
+      "title": "Fritidshus i brand i Edebäck",
+      "link": "https://www.svt.se/nyheter/lokalt/varmland/fritidshus-i-brand-i-edeback",
+      "image": ""
+    },
+    {
+      "title": "18-åring sparkade sönder bilar för 130 000 kronor efter studentfest",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/18-aring-sparkade-sonder-bilar-for-130-000-kronor-efter-studentfest",
+      "image": ""
+    },
     {
       "title": "Europa litar nu på sin egen försvarsindustri i stället för USA",
       "link": "https://www.svt.se/nyheter/uutiset/svenska/europa-litar-nu-pa-sin-egen-forsvarsindustri-i-stallet-for-usa",
@@ -29,16 +39,6 @@
     {
       "title": "Swedish candy-tillverkare satsar på nya marknader",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/swedish-candy-tillverkare-satsar-pa-nya-marknader",
-      "image": ""
-    },
-    {
-      "title": "Grannen: Tjuvar borrade upp låsen",
-      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/grannen-tjuvar-borrade-upp-lasen",
-      "image": ""
-    },
-    {
-      "title": "Viktoria fick ström genom kroppen efter blixtnedslag i Bjurholm",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/viktoria-fick-strom-genom-kroppen-efter-blixtnedslag-i-bjurholm",
       "image": ""
     }
   ]
