@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-31 23:00 CEST",
+  "updated": "2026-08-01 00:04 CEST",
   "items": [
+    {
+      "title": "Space X-raket på väg att krocka med månen",
+      "link": "https://www.svt.se/nyheter/utrikes/space-x-raket-pa-vag-att-krocka-med-manen",
+      "image": ""
+    },
     {
       "title": "Två personbilar krockade på E6",
       "link": "https://www.svt.se/nyheter/lokalt/halland/totalstopp-pa-e6-tva-personbilar-i-krock",
@@ -34,11 +39,6 @@
     {
       "title": "Exporten av finländsk försvarsmateriel på rekordnivåer",
       "link": "https://www.svt.se/nyheter/uutiset/svenska/exporten-av-finlandsk-forsvarsmateriel-pa-rekordnivaer",
-      "image": ""
-    },
-    {
-      "title": "Dold rapport: Flera allvarliga brister i Elsa-fallet",
-      "link": "https://www.svt.se/nyheter/lokalt/orebro/dold-rapport-avslojar-flera-allvarliga-brister-i-elsa-fallet",
       "image": ""
     }
   ]
