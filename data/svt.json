@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-31 16:42 CEST",
+  "updated": "2026-07-31 18:28 CEST",
   "items": [
+    {
+      "title": "Därför ger grafen en missvisande bild av Europas bränder",
+      "link": "https://www.svt.se/nyheter/utrikes/darfor-ger-grafen-en-missvisande-bild-av-europas-brander",
+      "image": ""
+    },
+    {
+      "title": "Person förd till sjukhus efter garagebrand i Askersund",
+      "link": "https://www.svt.se/nyheter/lokalt/orebro/person-ford-till-sjukhus-efter-garagebrand-i-askersund",
+      "image": ""
+    },
     {
       "title": "Fritidshus i brand i Edebäck",
       "link": "https://www.svt.se/nyheter/lokalt/varmland/fritidshus-i-brand-i-edeback",
@@ -22,23 +32,13 @@
       "image": ""
     },
     {
-      "title": "Dold rapport avslöjar: Flera allvarliga brister i Elsa-fallet",
+      "title": "Dold rapport: Flera allvarliga brister i Elsa-fallet",
       "link": "https://www.svt.se/nyheter/lokalt/orebro/dold-rapport-avslojar-flera-allvarliga-brister-i-elsa-fallet",
       "image": ""
     },
     {
       "title": "Efter fem veckors spårarbete – nu öppnar pendeltågstrafiken till Södertälje igen",
       "link": "https://www.svt.se/nyheter/lokalt/sodertalje/efter-fem-veckors-spararbete-nu-oppnar-pendeltagstrafiken-till-sodertalje-igen",
-      "image": ""
-    },
-    {
-      "title": "Ökad turistström i Oxelösund efter seg sommarstart",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/okad-turiststrom-i-oxelosund-efter-seg-sommarstart",
-      "image": ""
-    },
-    {
-      "title": "Swedish candy-tillverkare satsar på nya marknader",
-      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/swedish-candy-tillverkare-satsar-pa-nya-marknader",
       "image": ""
     }
   ]
