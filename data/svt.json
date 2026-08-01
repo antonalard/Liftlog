@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-01 03:00 CEST",
+  "updated": "2026-08-01 06:20 CEST",
   "items": [
     {
-      "title": "Traktorsläp välte – flera till sjukhus",
+      "title": "Björnstam i norr inventeras",
+      "link": "https://www.svt.se/nyheter/sapmi/bjornstam-i-norr-inventeras",
+      "image": ""
+    },
+    {
+      "title": "Anna, 34, från Ödeshög kan bli Sveriges bästa bussförare",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/anna-34-fran-odeshog-kan-bli-sveriges-basta-bussforare",
+      "image": ""
+    },
+    {
+      "title": "Rädslan sitter kvar – tre år efter Stalker-dokumentären: ”Obehaglig känsla”",
+      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/radslan-sitter-kvar-tre-ar-efter-stalker-dokumentaren-obehaglig-kansla",
+      "image": ""
+    },
+    {
+      "title": "Traktorsläp i Borlänge välte – flera till sjukhus",
       "link": "https://www.svt.se/nyheter/lokalt/dalarna/traktorslap-valte-flera-till-sjukhus",
       "image": ""
     },
@@ -24,21 +39,6 @@
     {
       "title": "Därför ger grafen en missvisande bild av Europas bränder",
       "link": "https://www.svt.se/nyheter/utrikes/darfor-ger-grafen-en-missvisande-bild-av-europas-brander",
-      "image": ""
-    },
-    {
-      "title": "Person förd till sjukhus efter garagebrand i Askersund",
-      "link": "https://www.svt.se/nyheter/lokalt/orebro/person-ford-till-sjukhus-efter-garagebrand-i-askersund",
-      "image": ""
-    },
-    {
-      "title": "Fritidshus i brand i Edebäck",
-      "link": "https://www.svt.se/nyheter/lokalt/varmland/fritidshus-i-brand-i-edeback",
-      "image": ""
-    },
-    {
-      "title": "18-åring sparkade sönder bilar för 130 000 kronor efter studentfest",
-      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/18-aring-sparkade-sonder-bilar-for-130-000-kronor-efter-studentfest",
       "image": ""
     }
   ]
