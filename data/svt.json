@@ -1,9 +1,14 @@
 {
-  "updated": "2026-08-01 10:58 CEST",
+  "updated": "2026-08-01 12:37 CEST",
   "items": [
     {
       "title": "De hoppar dödshopp – extremsporten som pressar gränserna",
       "link": "https://www.svt.se/nyheter/inrikes/de-hoppar-dodshopp-extremsporten-som-pressar-granserna",
+      "image": ""
+    },
+    {
+      "title": "Misstänkt grovt vapenbrott – tre anhållna efter polisinsats i Åby utanför Norrköping",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/misstankt-grovt-vapenbrott-tre-anhallna-efter-polisinsats-i-aby-utanfor-norrkoping",
       "image": ""
     },
     {
@@ -34,11 +39,6 @@
     {
       "title": "Fifa backar – ska inte längre sälja VM-andelar",
       "link": "https://www.svt.se/sport/fotboll/fifa-backar-ska-inte-langre-salja-vm-andelar",
-      "image": ""
-    },
-    {
-      "title": "Space X-raket på väg att krocka med månen",
-      "link": "https://www.svt.se/nyheter/utrikes/space-x-raket-pa-vag-att-krocka-med-manen",
       "image": ""
     }
   ]
