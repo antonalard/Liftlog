@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-01 01:27 CEST",
+  "updated": "2026-08-01 03:00 CEST",
   "items": [
+    {
+      "title": "Traktorsläp välte – flera till sjukhus",
+      "link": "https://www.svt.se/nyheter/lokalt/dalarna/traktorslap-valte-flera-till-sjukhus",
+      "image": ""
+    },
+    {
+      "title": "Fifa backar – ska inte längre sälja VM-andelar",
+      "link": "https://www.svt.se/sport/fotboll/fifa-backar-ska-inte-langre-salja-vm-andelar",
+      "image": ""
+    },
     {
       "title": "Space X-raket på väg att krocka med månen",
       "link": "https://www.svt.se/nyheter/utrikes/space-x-raket-pa-vag-att-krocka-med-manen",
@@ -29,16 +39,6 @@
     {
       "title": "18-åring sparkade sönder bilar för 130 000 kronor efter studentfest",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/18-aring-sparkade-sonder-bilar-for-130-000-kronor-efter-studentfest",
-      "image": ""
-    },
-    {
-      "title": "Europa litar nu på sin egen försvarsindustri i stället för USA",
-      "link": "https://www.svt.se/nyheter/uutiset/svenska/europa-litar-nu-pa-sin-egen-forsvarsindustri-i-stallet-for-usa",
-      "image": ""
-    },
-    {
-      "title": "Exporten av finländsk försvarsmateriel på rekordnivåer",
-      "link": "https://www.svt.se/nyheter/uutiset/svenska/exporten-av-finlandsk-forsvarsmateriel-pa-rekordnivaer",
       "image": ""
     }
   ]
