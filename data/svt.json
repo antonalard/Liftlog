@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-01 17:32 CEST",
+  "updated": "2026-08-01 18:42 CEST",
   "items": [
+    {
+      "title": "Uppgifter: Gängtoppen gripen i Jonas Falks hus",
+      "link": "https://www.svt.se/nyheter/utrikes/uppgifter-gangtoppen-gripen-i-jonas-falks-hus",
+      "image": ""
+    },
     {
       "title": "De hoppar dödshopp – extremsporten som pressar gränserna",
       "link": "https://www.svt.se/nyheter/inrikes/de-hoppar-dodshopp-extremsporten-som-pressar-granserna",
@@ -34,11 +39,6 @@
     {
       "title": "Traktorsläp i Borlänge välte – flera till sjukhus",
       "link": "https://www.svt.se/nyheter/lokalt/dalarna/traktorslap-valte-flera-till-sjukhus",
-      "image": ""
-    },
-    {
-      "title": "Fifa backar – ska inte längre sälja VM-andelar",
-      "link": "https://www.svt.se/sport/fotboll/fifa-backar-ska-inte-langre-salja-vm-andelar",
       "image": ""
     }
   ]
