@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-02 06:45 CEST",
+  "updated": "2026-08-02 09:24 CEST",
   "items": [
+    {
+      "title": "En gripen misstänkt för mordbrand i Linköping",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/en-gripen-misstankt-for-mordbrand-i-linkoping",
+      "image": ""
+    },
     {
       "title": "Milad kom från Syrien 2015 – nu är han polis i Sverige",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/milad-kom-fran-syrien-2015-nu-ar-han-polis-i-sverige",
@@ -34,11 +39,6 @@
     {
       "title": "Anna, 34, från Ödeshög kan bli Sveriges bästa bussförare",
       "link": "https://www.svt.se/nyheter/lokalt/ost/anna-34-fran-odeshog-kan-bli-sveriges-basta-bussforare",
-      "image": ""
-    },
-    {
-      "title": "Rädslan sitter kvar – tre år efter Stalker-dokumentären: ”Obehaglig känsla”",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/radslan-sitter-kvar-tre-ar-efter-stalker-dokumentaren-obehaglig-kansla",
       "image": ""
     }
   ]
