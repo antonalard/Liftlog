@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-02 14:48 CEST",
+  "updated": "2026-08-02 16:19 CEST",
   "items": [
+    {
+      "title": "Befälhavaren häktas efter båtolyckan utanför Tjörn",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/befalhavaren-haktas-efter-batolyckan-utanfor-tjorn",
+      "image": ""
+    },
     {
       "title": "En gripen misstänkt för mordbrand i Linköping",
       "link": "https://www.svt.se/nyheter/lokalt/ost/en-gripen-misstankt-for-mordbrand-i-linkoping",
@@ -34,11 +39,6 @@
     {
       "title": "Björnstam i norr inventeras",
       "link": "https://www.svt.se/nyheter/sapmi/bjornstam-i-norr-inventeras",
-      "image": ""
-    },
-    {
-      "title": "Anna, 34, från Ödeshög kan bli Sveriges bästa bussförare",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/anna-34-fran-odeshog-kan-bli-sveriges-basta-bussforare",
       "image": ""
     }
   ]
