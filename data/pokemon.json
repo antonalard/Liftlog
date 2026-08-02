@@ -1,9 +1,14 @@
 {
-  "updated": "2026-08-02 11:27 CEST",
+  "updated": "2026-08-02 12:56 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "This Week in Pokémon GO: August 3-9, 2026",
+      "date": "Sun, 02 Aug 2026",
+      "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-august-3-9-2026/"
+    },
     {
       "title": "Gigantamax Rillaboom Max Battle Day (August 2026)",
       "date": "Sat, 01 Aug 2026",
@@ -48,11 +53,6 @@
       "title": "Professor Willow’s Birthday Research",
       "date": "Tue, 21 Jul 2026",
       "link": "https://pokemongohub.net/post/event/professor-willows-birthday-research/"
-    },
-    {
-      "title": "This Week in Pokémon GO: July 20 – July 26, 2026",
-      "date": "Sun, 19 Jul 2026",
-      "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-july-20-july-26-2026/"
     }
   ]
 }
