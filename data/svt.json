@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-03 10:17 CEST",
+  "updated": "2026-08-03 13:51 CEST",
   "items": [
+    {
+      "title": "Flygstrejk hos SAS",
+      "link": "https://www.svt.se/nyheter/inrikes/flygstrejk-hos-sas",
+      "image": ""
+    },
+    {
+      "title": "Åklagaren bekräftar: Mordoffret i Kungsör en man i 60-årsåldern",
+      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/aklagaren-bekraftar-mordoffret-i-kungsor-en-man-i-60-arsaldern",
+      "image": ""
+    },
+    {
+      "title": "Oro bland bärplockare efter björnattacken i Lycksele",
+      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/oro-bland-barplockare-efter-bjornattacken-i-lycksele",
+      "image": ""
+    },
+    {
+      "title": "Bekräftat: Svensk gängtopp gripen i Spanien",
+      "link": "https://www.svt.se/nyheter/inrikes/bekraftat-svensk-gangtopp-gripen-i-spanien",
+      "image": ""
+    },
     {
       "title": "Hon blir ny Diskrimineringsombudsman",
       "link": "https://www.svt.se/nyheter/inrikes/hon-blir-ny-diskrimineringsombudsman",
@@ -19,26 +39,6 @@
     {
       "title": "Man död efter arbetsplatsolycka i Piteå",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/man-avliden-efter-arbetsplatsolycka-i-pitea",
-      "image": ""
-    },
-    {
-      "title": "Hela Kuba utan ström igen",
-      "link": "https://www.svt.se/nyheter/utrikes/nytt-avbrott-pa-kuba",
-      "image": ""
-    },
-    {
-      "title": "EU förbjöd ryskt stål – miljardhandel fortsätter genom undantag",
-      "link": "https://www.svt.se/nyheter/utrikes/eu-forbjod-ryskt-stal-miljardhandel-fortsatter-genom-undantag",
-      "image": ""
-    },
-    {
-      "title": "Här är kommunen där V och SD är överens i var tredje fråga",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/har-ar-kommunen-dar-sd-och-v-ar-overens-i-var-tredje-fraga",
-      "image": ""
-    },
-    {
-      "title": "Unga tornedalingar reser tillbaka till sina rötter",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/unga-tornedalingar-reser-tillbaka-till-sina-rotter",
       "image": ""
     }
   ]
