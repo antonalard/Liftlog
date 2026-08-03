@@ -1,9 +1,19 @@
 {
-  "updated": "2026-08-03 13:51 CEST",
+  "updated": "2026-08-03 16:07 CEST",
   "items": [
     {
-      "title": "Flygstrejk hos SAS",
-      "link": "https://www.svt.se/nyheter/inrikes/flygstrejk-hos-sas",
+      "title": "Malmö stad avråder från bad i Västra hamnen",
+      "link": "https://www.svt.se/nyheter/lokalt/skane/malmo-stad-avrader-fran-bad-i-vastra-hamnen",
+      "image": ""
+    },
+    {
+      "title": "Olycka med flera fordon på E45 – vägen avstängd",
+      "link": "https://www.svt.se/nyheter/lokalt/jamtland/olycka-med-flera-fordon-pa-e45-vagen-avstangd",
+      "image": ""
+    },
+    {
+      "title": "Flygstrejk hos SAS i Norge",
+      "link": "https://www.svt.se/nyheter/utrikes/flygstrejk-hos-sas",
       "image": ""
     },
     {
@@ -29,16 +39,6 @@
     {
       "title": "Så undviker du förhastade beslut efter semestern – tre tips",
       "link": "https://www.svt.se/nyheter/inrikes/sa-undviker-du-forhastade-beslut-efter-semestern-tre-tips",
-      "image": ""
-    },
-    {
-      "title": "Fynden på Adam Ståhls sociala medier: ”Börjar skaka nu”",
-      "link": "https://www.svt.se/sport/fotboll/fynden-pa-adam-stahls-sociala-medier-borjar-skaka-nu",
-      "image": ""
-    },
-    {
-      "title": "Man död efter arbetsplatsolycka i Piteå",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/man-avliden-efter-arbetsplatsolycka-i-pitea",
       "image": ""
     }
   ]

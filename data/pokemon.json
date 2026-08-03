@@ -1,9 +1,14 @@
 {
-  "updated": "2026-08-03 13:51 CEST",
+  "updated": "2026-08-03 16:07 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "LEGO Stores x Pokémon GO Stamp Rally, Raids and More!",
+      "date": "Mon, 03 Aug 2026",
+      "link": "https://pokemongohub.net/post/event/lego-stores-x-pokemon-go-stamp-rally-raids-and-more/"
+    },
     {
       "title": "This Week in Pokémon GO: August 3-9, 2026",
       "date": "Sun, 02 Aug 2026",
@@ -48,11 +53,6 @@
       "title": "Ultra Unlock: 10th Anniversary Edition",
       "date": "Tue, 21 Jul 2026",
       "link": "https://pokemongohub.net/post/event/ultra-unlock-10th-anniversary-edition/"
-    },
-    {
-      "title": "Professor Willow’s Birthday Research",
-      "date": "Tue, 21 Jul 2026",
-      "link": "https://pokemongohub.net/post/event/professor-willows-birthday-research/"
     }
   ]
 }
