@@ -1,19 +1,24 @@
 {
-  "updated": "2026-08-04 06:35 CEST",
+  "updated": "2026-08-04 09:27 CEST",
   "items": [
+    {
+      "title": "Olycka utanför Habo – en allvarligt skadad",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/allvarlig-olycka-utanfor-habo-195an-avstangd",
+      "image": ""
+    },
     {
       "title": "Så många tror att skogsbränderna hänger ihop med klimatförändringar",
       "link": "https://www.svt.se/nyheter/inrikes/sa-manga-tror-att-skogsbranderna-hanger-ihop-med-klimatforandringar",
       "image": ""
     },
     {
-      "title": "Parkeringen sprängfylld i Skuleskogen – rekordmånga besök i sommar",
-      "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/parkeringen-sprangfylld-i-skuleskogen-rekordmanga-besok-i-sommar",
+      "title": "Två allvarliga klätterolyckor på en månad i Bohuslän: ”Sällsynt”",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/tva-allvarliga-klatterolyckor-pa-en-manad-i-bohuslan-sallsynt",
       "image": ""
     },
     {
-      "title": "Två allvarliga klätterolyckor på en månad i Bohuslän: ”Sällsynt”",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/tva-allvarliga-klatterolyckor-pa-en-manad-i-bohuslan-sallsynt",
+      "title": "Zombielaxar i Torneälven – döda och sjuka fiskar oroar experter",
+      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/zombielaxar-i-tornealven-doda-och-sjuka-fiskar-oroar-experter",
       "image": ""
     },
     {
@@ -34,11 +39,6 @@
     {
       "title": "”Startskottet har gått – nu börjar valrörelsen på allvar”",
       "link": "https://www.svt.se/nyheter/inrikes/startskottet-har-gatt-nu-borjar-valrorelsen-pa-allvar",
-      "image": ""
-    },
-    {
-      "title": "Två skogsbränder på kort tid",
-      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/skogsbrand-utanfor-bor",
       "image": ""
     }
   ]

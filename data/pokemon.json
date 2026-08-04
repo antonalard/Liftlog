@@ -1,9 +1,14 @@
 {
-  "updated": "2026-08-04 06:35 CEST",
+  "updated": "2026-08-04 09:27 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Summer Marathon: Arctic Embers Event",
+      "date": "Tue, 04 Aug 2026",
+      "link": "https://pokemongohub.net/post/event/summer-marathon-arctic-embers-event/"
+    },
     {
       "title": "LEGO Stores x Pokémon GO Stamp Rally, Raids and More!",
       "date": "Mon, 03 Aug 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO August 2026 Events",
       "date": "Wed, 22 Jul 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-august-2026-events/"
-    },
-    {
-      "title": "Ultra Unlock: 10th Anniversary Edition",
-      "date": "Tue, 21 Jul 2026",
-      "link": "https://pokemongohub.net/post/event/ultra-unlock-10th-anniversary-edition/"
     }
   ]
 }
