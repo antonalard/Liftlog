@@ -1,13 +1,23 @@
 {
-  "updated": "2026-08-05 18:24 CEST",
+  "updated": "2026-08-05 19:58 CEST",
   "items": [
+    {
+      "title": "Nästan 30 år efter Trustorhärvan – nu träder Joachim Posener fram",
+      "link": "https://www.svt.se/kultur/nastan-30-ar-efter-trustorharvan-nu-trader-joachim-posener-fram",
+      "image": ""
+    },
+    {
+      "title": "Trustor-avslöjaren sågar Netflix storsatsning: ”Gullar med brottslingar”",
+      "link": "https://www.svt.se/kultur/trustor-avslojaren-sagar-netflix-storsatsning-gullar-med-brottslingar",
+      "image": ""
+    },
     {
       "title": "18-åring begärd häktad för söndagsmorgonens mordbrand i Linköping",
       "link": "https://www.svt.se/nyheter/lokalt/ost/18-aring-begard-haktad-for-sondagsmorgonens-mordbrand-i-linkoping",
       "image": ""
     },
     {
-      "title": "Explosion på Lugnet i Malmö",
+      "title": "Explosion i Malmö – vittnet: ”Enorm smäll”",
       "link": "https://www.svt.se/nyheter/lokalt/skane/larm-om-explosion-pa-lugnet-i-malmo",
       "image": ""
     },
@@ -29,16 +39,6 @@
     {
       "title": "Person brännskadad efter arbetsplatsolycka i Obbola",
       "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/person-allvarligt-skadad-i-arbetsplatsolycka-i-obbola",
-      "image": ""
-    },
-    {
-      "title": "Nu drar Skänninge marken igång",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/skanninge-marknad-ar-igang",
-      "image": ""
-    },
-    {
-      "title": "Tonåringar kastade in molotovcocktail i frisörsalong i Norrköping",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/tonaringar-kastade-in-molotovcocktail-i-frisorsalong-i-norrkoping",
       "image": ""
     }
   ]

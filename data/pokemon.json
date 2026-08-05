@@ -1,9 +1,14 @@
 {
-  "updated": "2026-08-05 18:24 CEST",
+  "updated": "2026-08-05 19:58 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Pokémon GO 2026 World Championships Event Guide",
+      "date": "Wed, 05 Aug 2026",
+      "link": "https://pokemongohub.net/post/event/pokemon-go-2026-world-championships-event-guide/"
+    },
     {
       "title": "Summer Marathon: Arctic Embers Event",
       "date": "Tue, 04 Aug 2026",
@@ -48,11 +53,6 @@
       "title": "Ozone Ascent: Mega Rayquaza Timed Research",
       "date": "Fri, 24 Jul 2026",
       "link": "https://pokemongohub.net/post/event/ozone-ascent-mega-rayquaza-timed-research/"
-    },
-    {
-      "title": "Pokémon GO August 2026 Events",
-      "date": "Wed, 22 Jul 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-august-2026-events/"
     }
   ]
 }
