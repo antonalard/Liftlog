@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-05 12:05 CEST",
+  "updated": "2026-08-05 14:20 CEST",
   "today": {
     "weekday": "wednesday",
-    "temp": 19,
+    "temp": 21,
     "meta": "cloudy • Vind 4 m/s",
     "symbol_code": "cloudy"
   },
@@ -10,19 +10,19 @@
     {
       "weekday": "wed",
       "night": 18,
-      "day": 24,
+      "day": 23,
       "symbol_code": "cloudy"
     },
     {
       "weekday": "thu",
-      "night": 16,
+      "night": 15,
       "day": 19,
       "symbol_code": "cloudy"
     },
     {
       "weekday": "fri",
       "night": 15,
-      "day": 20,
+      "day": 19,
       "symbol_code": "fair_day"
     },
     {
