@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-07 08:38 CEST",
+  "updated": "2026-08-07 10:02 CEST",
   "items": [
+    {
+      "title": "Misstänks för mordet i skärgården – begärs häktad",
+      "link": "https://www.svt.se/nyheter/lokalt/stockholm/misstanks-for-mordet-i-skargarden-begars-haktad",
+      "image": ""
+    },
     {
       "title": "Experten reagerar på omtalade detaljen i Jackson Koivuns sving",
       "link": "https://www.svt.se/sport/golf/experten-reagerar-pa-omtalade-detaljen-i-jackson-koivuns-sving",
@@ -17,7 +22,7 @@
       "image": ""
     },
     {
-      "title": "Man åtalas för dubbelmordet i Brattås",
+      "title": "Man åtalad för dubbelmordet i Brattås – nekar till brott trots dna-träff",
       "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/i-dag-vantas-atalet-om-dubbelmordet-i-brattas-2005",
       "image": ""
     },
@@ -32,13 +37,8 @@
       "image": ""
     },
     {
-      "title": "Artist fattade eld i Visby – allvarligt skadad",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/artist-fattade-eld-i-visby-allvarligt-skadad",
-      "image": ""
-    },
-    {
-      "title": "Motorcyklist påkörd av lastbil på E4",
-      "link": "https://www.svt.se/nyheter/lokalt/helsingborg/motorcyklist-pakord-av-lastbil-pa-e4",
+      "title": "Glädjebeskedet: Laxrekord nära för fisktrappan i Norrfors",
+      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/gladjebeskedet-laxrekord-nara-for-fisktrappan-i-norrfors",
       "image": ""
     }
   ]
