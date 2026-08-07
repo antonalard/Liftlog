@@ -1,9 +1,14 @@
 {
-  "updated": "2026-08-06 17:36 CEST",
+  "updated": "2026-08-07 02:34 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Pokémon GO August 2026 Events",
+      "date": "Thu, 06 Aug 2026",
+      "link": "https://pokemongohub.net/post/event/pokemon-go-august-2026-events/"
+    },
     {
       "title": "Pokémon GO 2026 World Championships Event Guide",
       "date": "Wed, 05 Aug 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO Fest 2026: Raid Make-Up Event",
       "date": "Fri, 24 Jul 2026",
       "link": "https://pokemongohub.net/post/news/pokemon-go-fest-2026-raid-make-up-event/"
-    },
-    {
-      "title": "Ozone Ascent: Mega Rayquaza Timed Research",
-      "date": "Fri, 24 Jul 2026",
-      "link": "https://pokemongohub.net/post/event/ozone-ascent-mega-rayquaza-timed-research/"
     }
   ]
 }
