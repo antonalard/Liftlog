@@ -1,13 +1,23 @@
 {
-  "updated": "2026-08-07 07:25 CEST",
+  "updated": "2026-08-07 08:38 CEST",
   "items": [
+    {
+      "title": "Experten reagerar på omtalade detaljen i Jackson Koivuns sving",
+      "link": "https://www.svt.se/sport/golf/experten-reagerar-pa-omtalade-detaljen-i-jackson-koivuns-sving",
+      "image": ""
+    },
+    {
+      "title": "Stopp i trafiken på E4 söder om Gränna",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/stopp-i-trafiken-pa-e4-soder-om-granna",
+      "image": ""
+    },
     {
       "title": "Villabrand utanför Åtvidaberg",
       "link": "https://www.svt.se/nyheter/lokalt/ost/villabrand-utanfor-atvidaberg",
       "image": ""
     },
     {
-      "title": "Åtal väntas mot misstänkt för dubbelmordet i Brattås 2005",
+      "title": "Man åtalas för dubbelmordet i Brattås",
       "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/i-dag-vantas-atalet-om-dubbelmordet-i-brattas-2005",
       "image": ""
     },
@@ -29,16 +39,6 @@
     {
       "title": "Motorcyklist påkörd av lastbil på E4",
       "link": "https://www.svt.se/nyheter/lokalt/helsingborg/motorcyklist-pakord-av-lastbil-pa-e4",
-      "image": ""
-    },
-    {
-      "title": "Mc-förare till sjukhus efter krock med personbil",
-      "link": "https://www.svt.se/nyheter/lokalt/smaland/en-person-skadad-efter-krock-med-personbil-i-st-sigfrid",
-      "image": ""
-    },
-    {
-      "title": "V-ledamöters kampanj för palestinska fångar väcker kritik",
-      "link": "https://www.svt.se/nyheter/inrikes/v-ledamoters-kampanj-for-palestinska-fangar-vacker-kritik",
       "image": ""
     }
   ]
