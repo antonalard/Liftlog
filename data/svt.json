@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-07 05:41 CEST",
+  "updated": "2026-08-07 07:25 CEST",
   "items": [
+    {
+      "title": "Villabrand utanför Åtvidaberg",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/villabrand-utanfor-atvidaberg",
+      "image": ""
+    },
     {
       "title": "Åtal väntas mot misstänkt för dubbelmordet i Brattås 2005",
       "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/i-dag-vantas-atalet-om-dubbelmordet-i-brattas-2005",
@@ -17,6 +22,11 @@
       "image": ""
     },
     {
+      "title": "Artist fattade eld i Visby – allvarligt skadad",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/artist-fattade-eld-i-visby-allvarligt-skadad",
+      "image": ""
+    },
+    {
       "title": "Motorcyklist påkörd av lastbil på E4",
       "link": "https://www.svt.se/nyheter/lokalt/helsingborg/motorcyklist-pakord-av-lastbil-pa-e4",
       "image": ""
@@ -29,16 +39,6 @@
     {
       "title": "V-ledamöters kampanj för palestinska fångar väcker kritik",
       "link": "https://www.svt.se/nyheter/inrikes/v-ledamoters-kampanj-for-palestinska-fangar-vacker-kritik",
-      "image": ""
-    },
-    {
-      "title": "Barn påkört av buss i Taberg",
-      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/person-pakord-av-buss-i-taberg",
-      "image": ""
-    },
-    {
-      "title": "Man gripen för våldtäkt inom äldreomsorgen i Skellefteå",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/man-gripen-for-valdtakt-inom-aldreomsorgen-i-skelleftea",
       "image": ""
     }
   ]
