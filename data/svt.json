@@ -1,6 +1,21 @@
 {
-  "updated": "2026-08-08 17:51 CEST",
+  "updated": "2026-08-08 18:15 CEST",
   "items": [
+    {
+      "title": "Fullt utvecklad brand i garage utanför Norrköping",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/fullt-utvecklad-brand-i-garage-utanfor-norrkoping",
+      "image": ""
+    },
+    {
+      "title": "Djurgården tog efterlängtad seger – upp på kvalplats efter kross",
+      "link": "https://www.svt.se/sport/fotboll/djurgarden-tog-efterlangtad-seger-upp-pa-kvalplats-efter-kross",
+      "image": ""
+    },
+    {
+      "title": "Här åker Öis-kaptenen på rött kort – då vann AIK",
+      "link": "https://www.svt.se/sport/fotboll/har-aker-ois-kaptenen-pa-rott-kort-sen-vande-aik",
+      "image": ""
+    },
     {
       "title": "Folkfest i Karlskrona –  Stortorget har blivit beachvolley plan",
       "link": "https://www.svt.se/nyheter/lokalt/blekinge/folkfest-i-karlskrona-stortorget-har-blivit-beachvolley-plan",
@@ -24,21 +39,6 @@
     {
       "title": "Andersson (S) vill se fler industrietableringar – lovar statligt stöd",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/andersson-s-vill-se-fler-industrietableringar-lovar-statligt-stod",
-      "image": ""
-    },
-    {
-      "title": "Experten: Irankriget har gett huthierna enorma möjligheter",
-      "link": "https://www.svt.se/nyheter/utrikes/experten-irankriget-har-gett-huthierna-enorma-mojligheter",
-      "image": ""
-    },
-    {
-      "title": "Väg 50 stängdes av efter trafikolycka söder om Kopparberg",
-      "link": "https://www.svt.se/nyheter/lokalt/orebro/vag-50-avstangd-efter-trafikolycka",
-      "image": ""
-    },
-    {
-      "title": "Drönare sprängdes nära gasledning i Bulgarien",
-      "link": "https://www.svt.se/nyheter/utrikes/dronare-sprangdes-nara-gasledning-i-bulgarien",
       "image": ""
     }
   ]
