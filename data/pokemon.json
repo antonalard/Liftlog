@@ -1,9 +1,14 @@
 {
-  "updated": "2026-08-08 21:48 CEST",
+  "updated": "2026-08-08 22:14 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "This Week in Pokémon GO: August 10-16, 2026",
+      "date": "Sat, 08 Aug 2026",
+      "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-august-10-16-2026/"
+    },
     {
       "title": "Fire and Ice Hatch Day",
       "date": "Fri, 07 Aug 2026",
@@ -48,11 +53,6 @@
       "title": "Choose Your Path: Fairy Trail Timed Research (All Paths)",
       "date": "Tue, 28 Jul 2026",
       "link": "https://pokemongohub.net/post/event/choose-your-path-fairy-trail-timed-research-all-paths/"
-    },
-    {
-      "title": "This Week in Pokémon GO: July 27 – August 2, 2026",
-      "date": "Sun, 26 Jul 2026",
-      "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-july-27-august-2-2026/"
     }
   ]
 }
