@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-08 11:06 CEST",
+  "updated": "2026-08-08 11:59 CEST",
   "items": [
+    {
+      "title": "Amanda Bohlin vinner Cykelvasan för andra året i rad",
+      "link": "https://www.svt.se/sport/cykel/amanda-bohlin-vinner-cykelvasan-for-andra-aret-i-rad",
+      "image": ""
+    },
     {
       "title": "Todd Blanche godkänd som justitieminister i USA",
       "link": "https://www.svt.se/nyheter/utrikes/todd-blanche-godkand-som-justitieminister-i-usa",
@@ -34,11 +39,6 @@
     {
       "title": "Lyckad GPS-märkning av myskoxar i Härjedalen",
       "link": "https://www.svt.se/nyheter/lokalt/jamtland/lyckad-gps-markning-av-myskoxar-i-harjedalen",
-      "image": ""
-    },
-    {
-      "title": "18-åriga Rebecca larmades till båtolyckan utanför Tjörn",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/18-ariga-rebecca-larmades-till-batolyckan-utanfor-tjorn",
       "image": ""
     }
   ]
