@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-08 16:02 CEST",
+  "updated": "2026-08-08 16:54 CEST",
   "items": [
+    {
+      "title": "Folkfest i Karlskrona –  Stortorget har blivit beachvolley plan",
+      "link": "https://www.svt.se/nyheter/lokalt/blekinge/folkfest-i-karlskrona-stortorget-har-blivit-beachvolley-plan",
+      "image": ""
+    },
     {
       "title": "Valter Nilsson inför sin största konsert: ”Min dröm har examensfest”",
       "link": "https://www.svt.se/nyheter/lokalt/vast/valter-nilsson-infor-sin-storsta-konsert-min-drom-har-examensfest",
@@ -34,11 +39,6 @@
     {
       "title": "Drönare sprängdes nära gasledning i Bulgarien",
       "link": "https://www.svt.se/nyheter/utrikes/dronare-sprangdes-nara-gasledning-i-bulgarien",
-      "image": ""
-    },
-    {
-      "title": "Man död under rally-SM i Vimmerby",
-      "link": "https://www.svt.se/nyheter/lokalt/smaland/man-dod-under-rally-sm-i-vimmerby",
       "image": ""
     }
   ]
