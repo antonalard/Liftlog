@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-08 11:59 CEST",
+  "updated": "2026-08-08 12:29 CEST",
   "items": [
+    {
+      "title": "Buss har vält i Norge – flera skadade",
+      "link": "https://www.svt.se/nyheter/utrikes/buss-har-valt-i-norge-flera-allvarligt-skadade",
+      "image": ""
+    },
     {
       "title": "Amanda Bohlin vinner Cykelvasan för andra året i rad",
       "link": "https://www.svt.se/sport/cykel/amanda-bohlin-vinner-cykelvasan-for-andra-aret-i-rad",
@@ -34,11 +39,6 @@
     {
       "title": "Försvarsforskaren: Risken för valpåverkan i Sverige är 100 procent”",
       "link": "https://www.svt.se/nyheter/lokalt/ost/forsvarsforskaren-risken-for-valpaverkan-i-sverige-ar-100-procent",
-      "image": ""
-    },
-    {
-      "title": "Lyckad GPS-märkning av myskoxar i Härjedalen",
-      "link": "https://www.svt.se/nyheter/lokalt/jamtland/lyckad-gps-markning-av-myskoxar-i-harjedalen",
       "image": ""
     }
   ]
