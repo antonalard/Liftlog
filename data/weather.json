@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10 16:08 CEST",
+  "updated": "2026-08-10 17:27 CEST",
   "today": {
     "weekday": "monday",
     "temp": 19,
@@ -22,7 +22,7 @@
     {
       "weekday": "wed",
       "night": 9,
-      "day": 23,
+      "day": 22,
       "symbol_code": "fair_day"
     },
     {
