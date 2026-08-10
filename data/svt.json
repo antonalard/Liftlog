@@ -1,14 +1,24 @@
 {
-  "updated": "2026-08-10 11:53 CEST",
+  "updated": "2026-08-10 12:53 CEST",
   "items": [
+    {
+      "title": "Timrås beslut om Google-etableringen skjuts upp",
+      "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/beslut-om-google-etableringen-skjuts-upp",
+      "image": ""
+    },
+    {
+      "title": "Våldsam singelolycka utanför Strängnäs – en person till sjukhus",
+      "link": "https://www.svt.se/nyheter/lokalt/sormland/valdsam-singelolycka-utanfor-strangnas-en-person-till-sjukhus",
+      "image": ""
+    },
     {
       "title": "Allt fler bötfälls på Mälartåg – har ökat med över 500 procent",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/allt-fler-botfalls-pa-malartag-okat-med-over-500-procent",
       "image": ""
     },
     {
-      "title": "Här anländer första persontåget från Finland till Sverige – på 34 år",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/har-anlander-forsta-persontaget-fran-finland-till-sverige-pa-34-ar",
+      "title": "Här anländer första persontåget från Finland till Sverige – på 38 år",
+      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/har-anlander-forsta-persontaget-fran-finland-till-sverige-pa-38-ar",
       "image": ""
     },
     {
@@ -29,16 +39,6 @@
     {
       "title": "Arbetsplatsolycka i Åshammar – skadades av fallande glas",
       "link": "https://www.svt.se/nyheter/lokalt/gavleborg/arbetsplatsolycka-i-ashammar-skadades-av-fallande-glas",
-      "image": ""
-    },
-    {
-      "title": "Fröken Snusk uppträder i Växjö – trots avbokning",
-      "link": "https://www.svt.se/kultur/froken-snusk-upptrader-i-vaxjo-trots-avbokning",
-      "image": ""
-    },
-    {
-      "title": "Polisen får flyga drönare utom synhåll i Norrköping – första gången i landet",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/polisen-far-flyga-dronare-utom-synhall-i-norrkoping-forsta-gangen-i-landet",
       "image": ""
     }
   ]
