@@ -1,9 +1,19 @@
 {
-  "updated": "2026-08-11 23:32 CEST",
+  "updated": "2026-08-12 00:27 CEST",
   "community_day_title": "Autumn 2026 Season’s Community Days and Events Dates",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2020/02/ERBsBI1XUAAyGPq.jpeg",
   "community_day_link": "https://pokemongohub.net/post/event/save-the-dates-for-next-seasons-community-days-and-events/",
   "items": [
+    {
+      "title": "Pokémon GO Fest 2026: Mega Finale",
+      "date": "Tue, 11 Aug 2026",
+      "link": "https://pokemongohub.net/post/event/pokemon-go-fest-2026-mega-finale/"
+    },
+    {
+      "title": "Mega Ascension",
+      "date": "Tue, 11 Aug 2026",
+      "link": "https://pokemongohub.net/post/event/mega-ascension/"
+    },
     {
       "title": "Choose Your Path: Venom and Vines",
       "date": "Tue, 11 Aug 2026",
@@ -43,16 +53,6 @@
       "title": "LEGO Stores x Pokémon GO Stamp Rally, Raids and More!",
       "date": "Mon, 03 Aug 2026",
       "link": "https://pokemongohub.net/post/event/lego-stores-x-pokemon-go-stamp-rally-raids-and-more/"
-    },
-    {
-      "title": "This Week in Pokémon GO: August 3-9, 2026",
-      "date": "Sun, 02 Aug 2026",
-      "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-august-3-9-2026/"
-    },
-    {
-      "title": "Gigantamax Rillaboom Max Battle Day (August 2026)",
-      "date": "Sat, 01 Aug 2026",
-      "link": "https://pokemongohub.net/post/event/gigantamax-rillaboom-max-battle-day-august-2026/"
     }
   ]
 }
