@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-11 13:34 CEST",
+  "updated": "2026-08-11 14:34 CEST",
   "items": [
+    {
+      "title": "Bensinpriset höjs igen",
+      "link": "https://www.svt.se/nyheter/inrikes/bensinpriset-hojs-igen-499x2t",
+      "image": ""
+    },
+    {
+      "title": "Daniel Ståhl klar för EM-final – trots övertrampsdrama",
+      "link": "https://www.svt.se/sport/friidrott/daniel-stahl-klar-for-em-final-trots-overtrampsdrama",
+      "image": ""
+    },
     {
       "title": "KD-toppen: Ebba Buschs satsning tar väljare från L",
       "link": "https://www.svt.se/nyheter/inrikes/kd-toppen-ebba-buschs-satsning-tar-valjare-fran-l",
@@ -27,18 +37,8 @@
       "image": ""
     },
     {
-      "title": "Svensk kvinna skjuten i Lissabon",
+      "title": "Svensk kvinna skjuten i Lissabon – man gripen",
       "link": "https://www.svt.se/nyheter/utrikes/svensk-kvinna-skjuten-i-lissabon",
-      "image": ""
-    },
-    {
-      "title": "Kvinna döms för mordbrand – tände eld på sin egen lägenhet",
-      "link": "https://www.svt.se/nyheter/lokalt/stockholm/kvinna-doms-for-mordbrand-tande-eld-pa-sin-egen-lagenhet",
-      "image": ""
-    },
-    {
-      "title": "”Jag hade fel, 'The Odyssey' är en toppenfilm”",
-      "link": "https://www.svt.se/kultur/jag-hade-fel-the-odyssey-ar-en-toppenfilm",
       "image": ""
     }
   ]
