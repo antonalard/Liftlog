@@ -1,9 +1,14 @@
 {
-  "updated": "2026-08-11 07:32 CEST",
+  "updated": "2026-08-11 08:41 CEST",
   "community_day_title": "Autumn 2026 Season’s Community Days and Events Dates",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2020/02/ERBsBI1XUAAyGPq.jpeg",
   "community_day_link": "https://pokemongohub.net/post/event/save-the-dates-for-next-seasons-community-days-and-events/",
   "items": [
+    {
+      "title": "Choose Your Path: Venom and Vines",
+      "date": "Tue, 11 Aug 2026",
+      "link": "https://pokemongohub.net/post/event/venom-and-vines-choose-your-path-timed-research-all-paths/"
+    },
     {
       "title": "Autumn 2026 Season’s Community Days and Events Dates",
       "date": "Mon, 10 Aug 2026",
@@ -48,11 +53,6 @@
       "title": "Gigantamax Rillaboom Max Battle Day (August 2026)",
       "date": "Sat, 01 Aug 2026",
       "link": "https://pokemongohub.net/post/event/gigantamax-rillaboom-max-battle-day-august-2026/"
-    },
-    {
-      "title": "Pokémon GO Fest: Mega Finale Announced",
-      "date": "Tue, 28 Jul 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-fest-mega-finale-announced/"
     }
   ]
 }

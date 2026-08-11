@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-11 07:32 CEST",
+  "updated": "2026-08-11 08:41 CEST",
   "items": [
+    {
+      "title": "”Jag hade fel, 'The Odyssey' är en toppenfilm”",
+      "link": "https://www.svt.se/kultur/jag-hade-fel-the-odyssey-ar-en-toppenfilm",
+      "image": ""
+    },
     {
       "title": "Växjöföretag designar nya asiatiska Eurovision",
       "link": "https://www.svt.se/nyheter/lokalt/smaland/vaxjoforetag-designar-nya-asiatiska-eurovision",
@@ -17,7 +22,7 @@
       "image": ""
     },
     {
-      "title": "Ny forskning visar: När chefen tar föräldraledigt blomstrar företaget",
+      "title": "Forskning visar: När chefen tar föräldraledigt kan företaget blomstra",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/ny-forskning-visar-nar-chefen-tar-foraldraledigt-blomstrar-foretaget",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Från ödetomt till nationellt pris – vännerna i Virsbo prisas för sin trädgård",
       "link": "https://www.svt.se/nyheter/lokalt/vastmanland/embargo-11-augusti-vannerna-forvandlade-dod-plats-till-prisad-tradgard",
-      "image": ""
-    },
-    {
-      "title": "Föräldralöse Leif räddades – ska motverka inavel i svenska älgparker",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/foraldralose-leif-raddades-ska-motverka-inavel-i-svenska-algparker",
       "image": ""
     }
   ]
