@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-12 20:12 CEST",
+  "updated": "2026-08-12 21:32 CEST",
   "items": [
+    {
+      "title": "Se solförmörkelsen från segelbåten i Luleå",
+      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/se-solformorkelsen-fran-segelbaten-i-lulea",
+      "image": ""
+    },
     {
       "title": "Sarah Sjöström vinner sitt 18:e EM-guld – Sara Junevik tar brons",
       "link": "https://www.svt.se/sport/simning/sarah-sjostrom-tar-sitt-18e-em-guld",
@@ -34,11 +39,6 @@
     {
       "title": "Då införs vattkoppsvaccinet i Sörmland – blir gratis för barn",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/da-infors-vattkoppsvaccinet-i-sormland-blir-gratis-for-barn",
-      "image": ""
-    },
-    {
-      "title": "SVT rapporterar direkt från Way out west 2026",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/svt-rapporterar-direkt-fran-way-out-west-2026",
       "image": ""
     }
   ]
