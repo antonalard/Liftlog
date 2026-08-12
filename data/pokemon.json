@@ -1,13 +1,23 @@
 {
-  "updated": "2026-08-12 08:49 CEST",
+  "updated": "2026-08-12 10:06 CEST",
   "community_day_title": "Autumn 2026 Season’s Community Days and Events Dates",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2020/02/ERBsBI1XUAAyGPq.jpeg",
   "community_day_link": "https://pokemongohub.net/post/event/save-the-dates-for-next-seasons-community-days-and-events/",
   "items": [
     {
       "title": "Pokémon GO Fest 2026: Mega Finale",
-      "date": "Tue, 11 Aug 2026",
+      "date": "Wed, 12 Aug 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-fest-2026-mega-finale/"
+    },
+    {
+      "title": "PokéXciting! Cross-Region GO Stamp Rally",
+      "date": "Wed, 12 Aug 2026",
+      "link": "https://pokemongohub.net/post/event/pokexciting-cross-region-go-stamp-rally/"
+    },
+    {
+      "title": "PokéXciting! Pokémon 30th Anniversary Tour",
+      "date": "Wed, 12 Aug 2026",
+      "link": "https://pokemongohub.net/post/event/pokexciting-pokemon-30th-anniversary-tour/"
     },
     {
       "title": "Mega Ascension",
@@ -43,16 +53,6 @@
       "title": "Pokémon GO 2026 World Championships Event Guide",
       "date": "Wed, 05 Aug 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-2026-world-championships-event-guide/"
-    },
-    {
-      "title": "Summer Marathon: Arctic Embers Event",
-      "date": "Tue, 04 Aug 2026",
-      "link": "https://pokemongohub.net/post/event/summer-marathon-arctic-embers-event/"
-    },
-    {
-      "title": "LEGO Stores x Pokémon GO Stamp Rally, Raids and More!",
-      "date": "Mon, 03 Aug 2026",
-      "link": "https://pokemongohub.net/post/event/lego-stores-x-pokemon-go-stamp-rally-raids-and-more/"
     }
   ]
 }
