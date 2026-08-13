@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-13 14:37 CEST",
+  "updated": "2026-08-13 16:11 CEST",
   "items": [
+    {
+      "title": "Aggressiv man gick till attack i Bellevuemoskén",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/aggressiv-man-gick-till-attack-i-bellevuemosken",
+      "image": ""
+    },
     {
       "title": "Låga vattennivåer halverar produktionen – så påverkas elpriserna",
       "link": "https://www.svt.se/nyheter/lokalt/ost/laga-vattennivaer-halverar-produktionen-sa-paverkas-elpriserna",
@@ -34,11 +39,6 @@
     {
       "title": "Inga telefoner i skolan – Ronnaelever välkomnar ny lag",
       "link": "https://www.svt.se/nyheter/lokalt/sodertalje/inga-telefoner-i-skolan-ronnaelever-valkomnar-ny-lag",
-      "image": ""
-    },
-    {
-      "title": "Röklukt ombord flyg – vänder tillbaka mot Arlanda",
-      "link": "https://www.svt.se/nyheter/lokalt/stockholm/roklukt-ombord-flyg-vander-tillbaka-mot-arlanda",
       "image": ""
     }
   ]
