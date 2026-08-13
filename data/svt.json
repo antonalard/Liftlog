@@ -1,11 +1,6 @@
 {
-  "updated": "2026-08-13 05:04 CEST",
+  "updated": "2026-08-13 07:13 CEST",
   "items": [
-    {
-      "title": "Se solförmörkelsen från segelbåten i Luleå",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/se-solformorkelsen-fran-segelbaten-i-lulea",
-      "image": ""
-    },
     {
       "title": "Sarah Sjöström vinner sitt 18:e EM-guld – Sara Junevik tar brons",
       "link": "https://www.svt.se/sport/simning/sarah-sjostrom-tar-sitt-18e-em-guld",
@@ -22,23 +17,28 @@
       "image": ""
     },
     {
-      "title": "Kanadagässens bajskaos sabbar badglädjen i Kungsör",
-      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/kanadagassens-bajskaos-sabbar-badgladjen-i-kungsor",
-      "image": ""
-    },
-    {
-      "title": "Ny skarvkoloni hittad i Nyköping – kommunen ansöker om skyddsjakt",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/ny-skarvkoloni-hittad-i-nykoping-kommunen-ansoker-om-skyddsjakt",
-      "image": ""
-    },
-    {
-      "title": "EBU ändrar Eurovision 2027 – hårdare krav på värdskap",
+      "title": "EBU ändrar Eurovision song contest 2027 – hårdare krav på värdskap",
       "link": "https://www.svt.se/kultur/ebu-andrar-eurovision-2027-hardare-krav-pa-vardskap",
       "image": ""
     },
     {
-      "title": "Då införs vattkoppsvaccinet i Sörmland – blir gratis för barn",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/da-infors-vattkoppsvaccinet-i-sormland-blir-gratis-for-barn",
+      "title": "Junevik och Sjöström går för svensk dubbel: ”Det är stora möjligheter”",
+      "link": "https://www.svt.se/sport/simning/junevik-och-sjostrom-gar-for-svensk-dubbel-det-ar-stora-mojligheter",
+      "image": ""
+    },
+    {
+      "title": "Anställd misstänks för sexualbrott på Länssjukhuset Ryhov – frihetsberövades efter polisjakt",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/misstankt-sexualbrott-pa-sjukhus-anstalld-frihetsberovad",
+      "image": ""
+    },
+    {
+      "title": "Häktades för grov olovlig underrättelseverksamhet – målet avskrivet",
+      "link": "https://www.svt.se/nyheter/inrikes/haktades-for-grov-olovlig-underrattelseverksamhet-malet-avskrivet",
+      "image": ""
+    },
+    {
+      "title": "Oskar Edlunds succé: Till final på 400 häck efter svenskt rekord",
+      "link": "https://www.svt.se/sport/friidrott/oskar-edlunds-succe-till-final-pa-400-hack-efter-svenskt-rekord",
       "image": ""
     }
   ]
