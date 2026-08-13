@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-13 18:14 CEST",
+  "updated": "2026-08-13 19:24 CEST",
   "items": [
+    {
+      "title": "Sara Curtis nya succé – världsrekord för andra dagen i rad",
+      "link": "https://www.svt.se/sport/simning/sara-curtis-nya-succe-varldsrekord-for-andra-dagen-i-rad",
+      "image": ""
+    },
     {
       "title": "Brand i maskin på torvmosse i Surahammar",
       "link": "https://www.svt.se/nyheter/lokalt/vastmanland/brand-i-maskin-pa-torvmosse-i-surahammar",
@@ -22,7 +27,7 @@
       "image": ""
     },
     {
-      "title": "Åklagaren vill ha mer tid för att utreda båtolyckan vid Tjörn",
+      "title": "Åklagaren: Fastslaget när olyckan inträffade – misstankarna kvarstår",
       "link": "https://www.svt.se/nyheter/lokalt/vast/aklagaren-vill-ha-mer-tid-for-att-utreda-batolyckan-vid-tjorn",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Låga vattennivåer halverar produktionen – så påverkas elpriserna",
       "link": "https://www.svt.se/nyheter/lokalt/ost/laga-vattennivaer-halverar-produktionen-sa-paverkas-elpriserna",
-      "image": ""
-    },
-    {
-      "title": "Explosion i hamnen i Rotterdam – en död",
-      "link": "https://www.svt.se/nyheter/inrikes/explosion-i-rotterdam-en-dod",
       "image": ""
     }
   ]
