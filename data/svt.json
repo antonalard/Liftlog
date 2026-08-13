@@ -1,9 +1,14 @@
 {
-  "updated": "2026-08-13 11:36 CEST",
+  "updated": "2026-08-13 12:48 CEST",
   "items": [
     {
+      "title": "Inga telefoner i skolan – Ronnaelever välkomnar ny lag",
+      "link": "https://www.svt.se/nyheter/lokalt/sodertalje/inga-telefoner-i-skolan-ronnaelever-valkomnar-ny-lag",
+      "image": ""
+    },
+    {
       "title": "Röklukt ombord flyg – vänder tillbaka mot Arlanda",
-      "link": "https://www.svt.se/nyheter/inrikes/roklukt-ombord-flyg-vander-tillbaka-mot-arlanda",
+      "link": "https://www.svt.se/nyheter/lokalt/stockholm/roklukt-ombord-flyg-vander-tillbaka-mot-arlanda",
       "image": ""
     },
     {
@@ -34,11 +39,6 @@
     {
       "title": "Unik dna-analys på hundhår stärkte bevisen mot Gaboros mördare",
       "link": "https://www.svt.se/nyheter/lokalt/ost/unik-dna-analys-pa-hundhar-starkte-bevisen-mot-mordaren",
-      "image": ""
-    },
-    {
-      "title": "Sarah Sjöström vinner sitt 18:e EM-guld – Sara Junevik tar brons",
-      "link": "https://www.svt.se/sport/simning/sarah-sjostrom-tar-sitt-18e-em-guld",
       "image": ""
     }
   ]
