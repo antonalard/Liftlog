@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-13 20:13 CEST",
+  "updated": "2026-08-13 21:30 CEST",
   "items": [
+    {
+      "title": "Motorcykel och moped kolliderade i Habo",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/motorcykel-och-moped-kolliderade-i-habo",
+      "image": ""
+    },
+    {
+      "title": "Hammarby missar Europaspel – Amin Boudri utvisad i returen mot Raków",
+      "link": "https://www.svt.se/sport/fotboll/hammarby-missar-europaspel-amin-boudri-utvisad-i-returen-mot-rakow",
+      "image": ""
+    },
     {
       "title": "Svensk skräll i Europe Smash – Elias Ranefur vidare efter drama",
       "link": "https://www.svt.se/sport/bordtennis/svensk-skrall-i-europe-smash-elias-ranefur-vidare",
@@ -29,16 +39,6 @@
     {
       "title": "Efter varningarna – få rapporter om ögonskador av solförmörkelsen",
       "link": "https://www.svt.se/nyheter/inrikes/efter-varningarna-fa-rapporter-om-ogonskador-av-solformorkelsen",
-      "image": ""
-    },
-    {
-      "title": "Åklagaren: Fastslaget när olyckan inträffade – misstankarna kvarstår",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/aklagaren-vill-ha-mer-tid-for-att-utreda-batolyckan-vid-tjorn",
-      "image": ""
-    },
-    {
-      "title": "Aggressiv man gick till attack i Bellevuemoskén",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/aggressiv-man-gick-till-attack-i-bellevuemosken",
       "image": ""
     }
   ]
