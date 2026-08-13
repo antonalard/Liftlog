@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-13 10:08 CEST",
+  "updated": "2026-08-13 11:36 CEST",
   "items": [
+    {
+      "title": "Röklukt ombord flyg – vänder tillbaka mot Arlanda",
+      "link": "https://www.svt.se/nyheter/inrikes/roklukt-ombord-flyg-vander-tillbaka-mot-arlanda",
+      "image": ""
+    },
+    {
+      "title": "Här är de tyngsta frågorna i torsdagens omröstning",
+      "link": "https://www.svt.se/nyheter/inrikes/har-ar-de-tyngsta-fragorna-i-torsdagens-omrostning",
+      "image": ""
+    },
     {
       "title": "Nick Reiner åtalas för mordet på föräldrarna",
       "link": "https://www.svt.se/kultur/nick-reiner-atalas-for-mordet-pa-foraldrarna",
@@ -29,16 +39,6 @@
     {
       "title": "Sarah Sjöström vinner sitt 18:e EM-guld – Sara Junevik tar brons",
       "link": "https://www.svt.se/sport/simning/sarah-sjostrom-tar-sitt-18e-em-guld",
-      "image": ""
-    },
-    {
-      "title": "Nya regler införs för musik genererad av ”AI-artister”",
-      "link": "https://www.svt.se/kultur/nya-regler-infors-for-musik-genererad-av-ai-artister",
-      "image": ""
-    },
-    {
-      "title": "Kritiken mot S bankförslag: ”Kostnaderna hamnar på kunderna”",
-      "link": "https://www.svt.se/nyheter/inrikes/kritiken-mot-s-bankforslag-kostnaderna-hamnar-pa-kunderna",
       "image": ""
     }
   ]
