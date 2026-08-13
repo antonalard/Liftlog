@@ -1,13 +1,23 @@
 {
-  "updated": "2026-08-13 13:35 CEST",
+  "updated": "2026-08-13 14:37 CEST",
   "items": [
+    {
+      "title": "Låga vattennivåer halverar produktionen – så påverkas elpriserna",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/laga-vattennivaer-halverar-produktionen-sa-paverkas-elpriserna",
+      "image": ""
+    },
+    {
+      "title": "Explosion i hamnen i Rotterdam – en död",
+      "link": "https://www.svt.se/nyheter/inrikes/explosion-i-rotterdam-en-dod",
+      "image": ""
+    },
     {
       "title": "Misstänkt våldtäkt på hotellrum i Sundsvall",
       "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/misstankt-valdtakt-pa-hotellrum-i-sundsvall",
       "image": ""
     },
     {
-      "title": "Så nära är räddningstjänsten att införa ett eldningsförbud: ”Pratar om det varje dag”",
+      "title": "Eldningsförbud införs i Eskilstuna: ”Extremt torrt i skog och mark”",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/sa-nara-ar-raddningstjansten-att-infora-ett-eldningsforbud-pratar-om-det-varje-dag",
       "image": ""
     },
@@ -29,16 +39,6 @@
     {
       "title": "Röklukt ombord flyg – vänder tillbaka mot Arlanda",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/roklukt-ombord-flyg-vander-tillbaka-mot-arlanda",
-      "image": ""
-    },
-    {
-      "title": "Här är de tyngsta frågorna i torsdagens omröstning",
-      "link": "https://www.svt.se/nyheter/inrikes/har-ar-de-tyngsta-fragorna-i-torsdagens-omrostning",
-      "image": ""
-    },
-    {
-      "title": "Nick Reiner åtalas för mordet på föräldrarna",
-      "link": "https://www.svt.se/kultur/nick-reiner-atalas-for-mordet-pa-foraldrarna",
       "image": ""
     }
   ]
