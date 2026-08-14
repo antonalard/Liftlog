@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-14 19:21 CEST",
+  "updated": "2026-08-14 20:10 CEST",
   "items": [
+    {
+      "title": "Lägenhetsbrand i Norrköping",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/lagenhetsbrand-i-norrkoping-wm5suz",
+      "image": ""
+    },
     {
       "title": "Gustav följde eldinfernot i Kroatien från hotellet: ”Otäckt”",
       "link": "https://www.svt.se/nyheter/utrikes/gustav-foljde-eldinfernot-i-kroatien-fran-hotellet-otackt",
@@ -34,11 +39,6 @@
     {
       "title": "Åklagaren: Fritidsbåten syntes på radarn i god tid före olyckan",
       "link": "https://www.svt.se/nyheter/lokalt/vast/fortsatt-haktning-for-befalhavare-pa-misje-verde",
-      "image": ""
-    },
-    {
-      "title": "Hon bor granne med olycksplatsen: ”Jätteläskigt”",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/hon-bor-granne-med-olycksplatsen-jattelaskigt",
       "image": ""
     }
   ]
