@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-14 10:05 CEST",
+  "updated": "2026-08-14 11:31 CEST",
   "items": [
+    {
+      "title": "Dricksvatten ska kokas i Åre",
+      "link": "https://www.svt.se/nyheter/lokalt/jamtland/dricksvatten-ska-kokas-i-are",
+      "image": ""
+    },
+    {
+      "title": "Så blir vädret under Ironman i Kalmar: ”Kan bli lite svettigt”",
+      "link": "https://www.svt.se/nyheter/lokalt/smaland/sa-blir-vadret-under-ironman-i-kalmar-kan-bli-lite-svettigt",
+      "image": ""
+    },
     {
       "title": "Sarah Sjöström till semifinal på 50 fritt",
       "link": "https://www.svt.se/sport/simning/sarah-sjostrom-till-semifinal-pa-50-fritt",
@@ -29,16 +39,6 @@
     {
       "title": "Sundsvallsfilmare skildrar kvinnliga journalister i Afghanistan",
       "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/sundsvallsfilmare-skildrar-kvinnliga-journalister-i-afghanistan",
-      "image": ""
-    },
-    {
-      "title": "Här rivs ett helt kvarter för Norrbotniabanan – och återvinns: ”Stort intresse”",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/gigantiskt-aterbruk-nar-helt-kvarter-rivs-i-skelleftea",
-      "image": ""
-    },
-    {
-      "title": "Rekordmånga epa-ungdomar i hemtjänsten i Munkfors – flera satsar på vårdkarriär",
-      "link": "https://www.svt.se/nyheter/lokalt/varmland/rekordmanga-epa-ungdomar-i-hemtjansten-i-munkfors-flera-satsar-pa-vardkarriar",
       "image": ""
     }
   ]
