@@ -1,9 +1,14 @@
 {
-  "updated": "2026-08-14 07:10 CEST",
+  "updated": "2026-08-14 08:49 CEST",
   "community_day_title": "Autumn 2026 Season’s Community Days and Events Dates",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2020/02/ERBsBI1XUAAyGPq.jpeg",
   "community_day_link": "https://pokemongohub.net/post/event/save-the-dates-for-next-seasons-community-days-and-events/",
   "items": [
+    {
+      "title": "Dancing in The Moonlight (2026)",
+      "date": "Fri, 14 Aug 2026",
+      "link": "https://pokemongohub.net/post/event/dancing-in-the-moonlight-2026/"
+    },
     {
       "title": "10th Anniversary Celebration: Guaranteed Hundo Mewtwo Timed Research",
       "date": "Thu, 13 Aug 2026",
@@ -48,11 +53,6 @@
       "title": "Fire and Ice Hatch Day",
       "date": "Fri, 07 Aug 2026",
       "link": "https://pokemongohub.net/post/event/fire-and-ice-hatch-day/"
-    },
-    {
-      "title": "Pokémon GO August 2026 Events",
-      "date": "Thu, 06 Aug 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-august-2026-events/"
     }
   ]
 }

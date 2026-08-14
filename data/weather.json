@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-14 07:10 CEST",
+  "updated": "2026-08-14 08:49 CEST",
   "today": {
     "weekday": "friday",
-    "temp": 14,
-    "meta": "partlycloudy day • Vind 2 m/s",
-    "symbol_code": "partlycloudy_day"
+    "temp": 16,
+    "meta": "fair day • Vind 3 m/s",
+    "symbol_code": "fair_day"
   },
   "week": [
     {
       "weekday": "fri",
-      "night": 14,
+      "night": 16,
       "day": 27,
       "symbol_code": "partlycloudy_day"
     },
     {
       "weekday": "sat",
       "night": 16,
-      "day": 23,
+      "day": 22,
       "symbol_code": "partlycloudy_day"
     },
     {
       "weekday": "sun",
-      "night": 15,
+      "night": 14,
       "day": 21,
       "symbol_code": "fair_day"
     },
