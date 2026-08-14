@@ -1,9 +1,14 @@
 {
-  "updated": "2026-08-14 08:49 CEST",
+  "updated": "2026-08-14 10:05 CEST",
   "community_day_title": "Autumn 2026 Season’s Community Days and Events Dates",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2020/02/ERBsBI1XUAAyGPq.jpeg",
   "community_day_link": "https://pokemongohub.net/post/event/save-the-dates-for-next-seasons-community-days-and-events/",
   "items": [
+    {
+      "title": "PokéXciting! Kuala Lumpur 2026",
+      "date": "Fri, 14 Aug 2026",
+      "link": "https://pokemongohub.net/post/event/pokexciting-kuala-lumpur-2026/"
+    },
     {
       "title": "Dancing in The Moonlight (2026)",
       "date": "Fri, 14 Aug 2026",
@@ -48,11 +53,6 @@
       "title": "This Week in Pokémon GO: August 10-16, 2026",
       "date": "Sat, 08 Aug 2026",
       "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-august-10-16-2026/"
-    },
-    {
-      "title": "Fire and Ice Hatch Day",
-      "date": "Fri, 07 Aug 2026",
-      "link": "https://pokemongohub.net/post/event/fire-and-ice-hatch-day/"
     }
   ]
 }
