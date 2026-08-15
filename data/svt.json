@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-15 11:13 CEST",
+  "updated": "2026-08-15 11:45 CEST",
   "items": [
+    {
+      "title": "Perseus Karlström fyra i kaotiskt EM-maraton i gång",
+      "link": "https://www.svt.se/sport/friidrott/perseus-karlstrom-fyra-i-kaotiskt-em-maraton-i-gang",
+      "image": ""
+    },
     {
       "title": "Man död efter motorcykelolycka i Nynäshamn",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-dod-efter-motorcykelolycka-i-nynashamn",
@@ -34,11 +39,6 @@
     {
       "title": "Misstänkt mord i Kiruna – man död efter bråk",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/misstankt-mord-i-kiruna-man-dod-efter-brak",
-      "image": ""
-    },
-    {
-      "title": "Ingen blöj-trend på Way out west: ”Där går min gräns”",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/ingen-bloj-trend-pa-way-out-west-dar-gar-min-grans",
       "image": ""
     }
   ]
