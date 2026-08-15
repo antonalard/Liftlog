@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-15 09:48 CEST",
+  "updated": "2026-08-15 10:11 CEST",
   "items": [
+    {
+      "title": "Man död efter motorcykelolycka i Nynäshamn",
+      "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-dod-efter-motorcykelolycka-i-nynashamn",
+      "image": ""
+    },
     {
       "title": "Lånestopp nästa mandatperiod – löfte från M och S",
       "link": "https://www.svt.se/nyheter/inrikes/lanestopp-nasta-mandatperiod-lofte-fran-m-och-s",
@@ -34,11 +39,6 @@
     {
       "title": "Lägenhetsbrand i Norrköping",
       "link": "https://www.svt.se/nyheter/lokalt/ost/lagenhetsbrand-i-norrkoping-wm5suz",
-      "image": ""
-    },
-    {
-      "title": "Gustav följde eldinfernot i Kroatien från hotellet: ”Otäckt”",
-      "link": "https://www.svt.se/nyheter/utrikes/gustav-foljde-eldinfernot-i-kroatien-fran-hotellet-otackt",
       "image": ""
     }
   ]
