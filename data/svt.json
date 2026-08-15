@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-15 13:07 CEST",
+  "updated": "2026-08-15 13:40 CEST",
   "items": [
+    {
+      "title": "Försvunnen pojke hittad i vattnet utanför Uppsala",
+      "link": "https://www.svt.se/nyheter/lokalt/uppsala/forsvunnen-person-hittad-i-vattnet-utanfor-uppsala",
+      "image": ""
+    },
     {
       "title": "Perseus Karlström fyra i kaotiskt EM-maraton i gång",
       "link": "https://www.svt.se/sport/friidrott/perseus-karlstrom-fyra-i-kaotiskt-em-maraton-i-gang",
@@ -34,11 +39,6 @@
     {
       "title": "Jordbävning i Indonesien – tsunamivarning utfärdades",
       "link": "https://www.svt.se/nyheter/utrikes/jordbavning-i-indonesien-tsunamivarning-utfardad",
-      "image": ""
-    },
-    {
-      "title": "Misstänkt mord i Kiruna – man död efter bråk",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/misstankt-mord-i-kiruna-man-dod-efter-brak",
       "image": ""
     }
   ]
