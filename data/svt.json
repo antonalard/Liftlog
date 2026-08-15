@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-15 18:08 CEST",
+  "updated": "2026-08-15 18:46 CEST",
   "items": [
+    {
+      "title": "Sarah Sjöström tar EM-silver på 50 meter frisim",
+      "link": "https://www.svt.se/sport/simning/sarah-sjostrom-tar-em-silver-pa-50-meter-frisim",
+      "image": ""
+    },
     {
       "title": "Fredriks sorg efter radhusbranden i Arboga: ”Går inte att ta in”",
       "link": "https://www.svt.se/nyheter/lokalt/vastmanland/fredriks-sorg-efter-radhusbranden-i-arboga-gar-inte-att-ta-in",
@@ -34,11 +39,6 @@
     {
       "title": "Perseus Karlström fyra i kaotiskt EM-maraton i gång",
       "link": "https://www.svt.se/sport/friidrott/perseus-karlstrom-fyra-i-kaotiskt-em-maraton-i-gang",
-      "image": ""
-    },
-    {
-      "title": "Man död efter motorcykelolycka i Nynäshamn",
-      "link": "https://www.svt.se/nyheter/lokalt/stockholm/man-dod-efter-motorcykelolycka-i-nynashamn",
       "image": ""
     }
   ]
