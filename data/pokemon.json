@@ -1,9 +1,14 @@
 {
-  "updated": "2026-08-15 09:03 CEST",
-  "community_day_title": "Autumn 2026 Season’s Community Days and Events Dates",
-  "community_day_image": "https://pokemongohub.net/wp-content/uploads/2020/02/ERBsBI1XUAAyGPq.jpeg",
-  "community_day_link": "https://pokemongohub.net/post/event/save-the-dates-for-next-seasons-community-days-and-events/",
+  "updated": "2026-08-15 09:48 CEST",
+  "community_day_title": "Nickit Community Day (August 2026)",
+  "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/07/nickit-community-day-pokemon-go.jpg",
+  "community_day_link": "https://pokemongohub.net/post/event/nickit-community-day-august-2026/",
   "items": [
+    {
+      "title": "Nickit Community Day (August 2026)",
+      "date": "Sat, 15 Aug 2026",
+      "link": "https://pokemongohub.net/post/event/nickit-community-day-august-2026/"
+    },
     {
       "title": "PokéXciting! Kuala Lumpur 2026",
       "date": "Fri, 14 Aug 2026",
@@ -48,11 +53,6 @@
       "title": "Autumn 2026 Season’s Community Days and Events Dates",
       "date": "Mon, 10 Aug 2026",
       "link": "https://pokemongohub.net/post/event/save-the-dates-for-next-seasons-community-days-and-events/"
-    },
-    {
-      "title": "This Week in Pokémon GO: August 10-16, 2026",
-      "date": "Sat, 08 Aug 2026",
-      "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-august-10-16-2026/"
     }
   ]
 }
