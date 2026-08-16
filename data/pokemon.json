@@ -1,9 +1,14 @@
 {
-  "updated": "2026-08-16 09:05 CEST",
+  "updated": "2026-08-16 09:50 CEST",
   "community_day_title": "Nickit Community Day (August 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/07/nickit-community-day-pokemon-go.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/nickit-community-day-august-2026/",
   "items": [
+    {
+      "title": "This Week in Pokémon GO: 17-23 August 2026",
+      "date": "Sun, 16 Aug 2026",
+      "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-17-23-august-2026/"
+    },
     {
       "title": "Nickit Community Day (August 2026)",
       "date": "Sat, 15 Aug 2026",
@@ -48,11 +53,6 @@
       "title": "Choose Your Path: Venom and Vines",
       "date": "Tue, 11 Aug 2026",
       "link": "https://pokemongohub.net/post/event/venom-and-vines-choose-your-path-timed-research-all-paths/"
-    },
-    {
-      "title": "Autumn 2026 Season’s Community Days and Events Dates",
-      "date": "Mon, 10 Aug 2026",
-      "link": "https://pokemongohub.net/post/event/save-the-dates-for-next-seasons-community-days-and-events/"
     }
   ]
 }

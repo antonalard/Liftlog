@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-16 09:05 CEST",
+  "updated": "2026-08-16 09:50 CEST",
   "items": [
+    {
+      "title": "Filmen visar: Så gick dödsmisshandeln av Christian Zedig till",
+      "link": "https://www.svt.se/nyheter/utrikes/filmen-visar-sa-gick-dodsmisshandeln-av-christian-zedig-till",
+      "image": ""
+    },
     {
       "title": "Mc-förare vårdas med allvarliga skador efter olycka",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/mc-forare-vardas-med-allvarliga-skador-efter-olycka",
@@ -34,11 +39,6 @@
     {
       "title": "Andreas Almgren krossade fältet från spets – tog hem EM-guldet efter uppvisning",
       "link": "https://www.svt.se/sport/friidrott/andreas-almgren-krossade-faltet-fran-spets-tog-hem-em-guldet-efter-uppvisning",
-      "image": ""
-    },
-    {
-      "title": "Sarah Sjöström tar EM-silver på 50 meter frisim",
-      "link": "https://www.svt.se/sport/simning/sarah-sjostrom-tar-em-silver-pa-50-meter-frisim",
       "image": ""
     }
   ]
