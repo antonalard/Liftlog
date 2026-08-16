@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16 01:40 CEST",
+  "updated": "2026-08-16 02:28 CEST",
   "today": {
     "weekday": "sunday",
     "temp": 16,
@@ -7,12 +7,6 @@
     "symbol_code": "partlycloudy_night"
   },
   "week": [
-    {
-      "weekday": "sat",
-      "night": 16,
-      "day": 16,
-      "symbol_code": "partlycloudy_night"
-    },
     {
       "weekday": "sun",
       "night": 15,
@@ -47,6 +41,12 @@
       "weekday": "fri",
       "night": 13,
       "day": 20,
+      "symbol_code": "rain"
+    },
+    {
+      "weekday": "sat",
+      "night": 13,
+      "day": 19,
       "symbol_code": "rain"
     }
   ]
