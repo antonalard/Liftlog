@@ -1,13 +1,18 @@
 {
-  "updated": "2026-08-16 17:08 CEST",
+  "updated": "2026-08-16 17:41 CEST",
   "items": [
     {
-      "title": "Färjeolycka i centrala Stockholm",
+      "title": "Misstänkt mord i Uppsala – person frihetsberövad",
+      "link": "https://www.svt.se/nyheter/lokalt/uppsala/misstankt-mord-i-uppsala-person-frihetsberovad",
+      "image": ""
+    },
+    {
+      "title": "Färjeolycka i centrala Stockholm – två till sjukhus",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/farjeolycka-i-centrala-stockholm",
       "image": ""
     },
     {
-      "title": "Pågående polisinsats på Ljusterö",
+      "title": "En person gripen efter polisinsats på Ljusterö",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/uppgifter-pagaende-insats-pa-ljustero",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Filmen visar: Så gick dödsmisshandeln av Christian Zedig till",
       "link": "https://www.svt.se/nyheter/utrikes/filmen-visar-sa-gick-dodsmisshandeln-av-christian-zedig-till",
-      "image": ""
-    },
-    {
-      "title": "Mc-förare vårdas med allvarliga skador efter olycka",
-      "link": "https://www.svt.se/nyheter/lokalt/stockholm/mc-forare-vardas-med-allvarliga-skador-efter-olycka",
       "image": ""
     }
   ]
