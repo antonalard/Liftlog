@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-16 07:49 CEST",
+  "updated": "2026-08-16 08:17 CEST",
   "items": [
+    {
+      "title": "Mc-förare vårdas med allvarliga skador efter olycka",
+      "link": "https://www.svt.se/nyheter/lokalt/stockholm/mc-forare-vardas-med-allvarliga-skador-efter-olycka",
+      "image": ""
+    },
+    {
+      "title": "12 döda i bussolycka i Ungern",
+      "link": "https://www.svt.se/nyheter/utrikes/12-doda-i-bussolycka-i-ungern",
+      "image": ""
+    },
     {
       "title": "Så blir inskolningen på förskolan lättare för ditt barn – förskollärarens råd",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/sa-blir-inskolningen-pa-forskolan-lattare-for-ditt-barn-forskollararens-rad",
@@ -29,16 +39,6 @@
     {
       "title": "Sarah Sjöström tar EM-silver på 50 meter frisim",
       "link": "https://www.svt.se/sport/simning/sarah-sjostrom-tar-em-silver-pa-50-meter-frisim",
-      "image": ""
-    },
-    {
-      "title": "Fredriks sorg efter radhusbranden i Arboga: ”Går inte att ta in”",
-      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/fredriks-sorg-efter-radhusbranden-i-arboga-gar-inte-att-ta-in",
-      "image": ""
-    },
-    {
-      "title": "Hölting Nilsson/Andersson till semifinal – helsvenskt möte väntar",
-      "link": "https://www.svt.se/sport/beachvolleyboll/holting-nilssonandersson-till-semifinal-kan-bli-helsvenskt-mote",
       "image": ""
     }
   ]
