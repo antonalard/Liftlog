@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-16 16:43 CEST",
+  "updated": "2026-08-16 17:08 CEST",
   "items": [
+    {
+      "title": "Färjeolycka i centrala Stockholm",
+      "link": "https://www.svt.se/nyheter/lokalt/stockholm/farjeolycka-i-centrala-stockholm",
+      "image": ""
+    },
     {
       "title": "Pågående polisinsats på Ljusterö",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/uppgifter-pagaende-insats-pa-ljustero",
@@ -34,11 +39,6 @@
     {
       "title": "Mc-förare vårdas med allvarliga skador efter olycka",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/mc-forare-vardas-med-allvarliga-skador-efter-olycka",
-      "image": ""
-    },
-    {
-      "title": "12 döda i bussolycka i Ungern",
-      "link": "https://www.svt.se/nyheter/utrikes/12-doda-i-bussolycka-i-ungern",
       "image": ""
     }
   ]
