@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-16 19:08 CEST",
+  "updated": "2026-08-16 19:39 CEST",
   "items": [
+    {
+      "title": "Så kan El Niño påverka din kycklingmiddag",
+      "link": "https://www.svt.se/nyheter/utrikes/sa-kan-el-nino-paverka-din-kycklingmiddag",
+      "image": ""
+    },
     {
       "title": "Misstänkt mord i Uppsala – person frihetsberövad",
       "link": "https://www.svt.se/nyheter/lokalt/uppsala/misstankt-mord-i-uppsala-person-frihetsberovad",
@@ -34,11 +39,6 @@
     {
       "title": "Se radhusområdet i Arboga före och efter branden",
       "link": "https://www.svt.se/nyheter/lokalt/vastmanland/se-radhusomradet-i-arboga-fore-och-efter-branden",
-      "image": ""
-    },
-    {
-      "title": "Filmen visar: Så gick dödsmisshandeln av Christian Zedig till",
-      "link": "https://www.svt.se/nyheter/utrikes/filmen-visar-sa-gick-dodsmisshandeln-av-christian-zedig-till",
       "image": ""
     }
   ]
