@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-17 18:11 CEST",
+  "updated": "2026-08-17 18:50 CEST",
   "items": [
+    {
+      "title": "Här lägger åklagaren fram nya dna-bevisningen från Brattås i rätten",
+      "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/har-lagger-aklagaren-fram-nya-dna-bevisningen-fran-brattas-i-ratten",
+      "image": ""
+    },
     {
       "title": "Donald Trump sträcker ut handen till Kim Jong Un – kritiserar övning",
       "link": "https://www.svt.se/nyheter/utrikes/donald-trump-stracker-ut-handen-till-kim-jong-un-kritiserar-ovning",
@@ -34,11 +39,6 @@
     {
       "title": "Befarad båtolycka norr om Gnesta – helikopter och dykare kallades in",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/befarad-batolycka-norr-om-gnesta",
-      "image": ""
-    },
-    {
-      "title": "Höstpremiär för Sverige Live – i ny kostym",
-      "link": "https://www.svt.se/nyheter/inrikes/hostpremiar-for-sverige-live-i-ny-kostym",
       "image": ""
     }
   ]
