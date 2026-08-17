@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17 19:14 CEST",
+  "updated": "2026-08-17 19:50 CEST",
   "items": [
     {
       "title": "Kung Harald av Norge är inlagd på sjukhus",
@@ -22,6 +22,11 @@
       "image": ""
     },
     {
+      "title": "Råvarubrist – LKAB börjar köra malm längs ”Dödens väg”",
+      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/ravarubrist-lkab-borjar-kora-malm-langs-dodens-vag",
+      "image": ""
+    },
+    {
       "title": "Valaffischer i Stockholm vandaliserade direkt – polisen rasar",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/valaffischer-i-stockholm-vandaliserade-direkt-polisen-rasar",
       "image": ""
@@ -34,11 +39,6 @@
     {
       "title": "Stopp för tågtrafiken via Kramfors – spårskador efter regnväder",
       "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/stopp-for-tagtrafiken-via-kramfors-sparskador-efter-regnvader",
-      "image": ""
-    },
-    {
-      "title": "Kvinna på sparkcykel påkörd i Eskilstuna",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/kvinna-pa-sparkcykel-pakord-i-eskilstuna",
       "image": ""
     }
   ]
