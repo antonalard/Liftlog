@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-17 08:26 CEST",
+  "updated": "2026-08-17 09:29 CEST",
   "items": [
+    {
+      "title": "Trafiken rullar igen efter bussolycka vid Centralbron",
+      "link": "https://www.svt.se/nyheter/lokalt/stockholm/trasig-buss-blockerar-uppfarten-till-cenrtralbron",
+      "image": ""
+    },
     {
       "title": "Ukrainas Patriotsystem sinar: ”Ryssarna utnyttjar övertaget”",
       "link": "https://www.svt.se/nyheter/utrikes/ukrainas-patriotsystem-sinar-ryssarna-utnyttjar-overtaget",
@@ -34,11 +39,6 @@
     {
       "title": "AI-bolagen anställer filosofer: ”Plockas upp ganska snabbt”",
       "link": "https://www.svt.se/nyheter/utrikes/ai-bolagen-anstaller-filosofer-plockas-upp-ganska-snabbt",
-      "image": ""
-    },
-    {
-      "title": "Så kan El Niño påverka din kycklingmiddag",
-      "link": "https://www.svt.se/nyheter/utrikes/sa-kan-el-nino-paverka-din-kycklingmiddag",
       "image": ""
     }
   ]
