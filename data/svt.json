@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-17 16:19 CEST",
+  "updated": "2026-08-17 16:49 CEST",
   "items": [
+    {
+      "title": "Mc-förare förd till sjukhus efter olycka",
+      "link": "https://www.svt.se/nyheter/lokalt/blekinge/mc-forare-ford-till-sjukhus-efter-olycka-vk1is8",
+      "image": ""
+    },
     {
       "title": "Stopp för tågtrafiken via Kramfors – spårskador efter regnväder",
       "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/stopp-for-tagtrafiken-via-kramfors-sparskador-efter-regnvader",
@@ -34,11 +39,6 @@
     {
       "title": "Chefen för cancervården anställde maken gång på gång",
       "link": "https://www.svt.se/nyheter/lokalt/skane/chefen-for-cancervarden-anstallde-maken-gang-pa-gang",
-      "image": ""
-    },
-    {
-      "title": "Därför kan radhusbränder bli farliga: ”Sprider sig på vinden”",
-      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/darfor-kan-radhusbrander-bli-farliga-sprider-sig-pa-vinden",
       "image": ""
     }
   ]
