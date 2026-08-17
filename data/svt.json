@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-17 17:13 CEST",
+  "updated": "2026-08-17 17:45 CEST",
   "items": [
+    {
+      "title": "Donald Trump sträcker ut handen till Kim Jong Un – kritiserar övning",
+      "link": "https://www.svt.se/nyheter/utrikes/donald-trump-stracker-ut-handen-till-kim-jong-un-kritiserar-ovning",
+      "image": ""
+    },
     {
       "title": "Valaffischer i Stockholm vandaliserade direkt – polisen rasar",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/valaffischer-i-stockholm-vandaliserade-direkt-polisen-rasar",
@@ -34,11 +39,6 @@
     {
       "title": "Höstpremiär för Sverige Live – i ny kostym",
       "link": "https://www.svt.se/nyheter/inrikes/hostpremiar-for-sverige-live-i-ny-kostym",
-      "image": ""
-    },
-    {
-      "title": "Sundsvall och Timrå säger ja till att sälja Torsboda",
-      "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/sundsvall-och-timra-sager-ja-till-att-salja-torsboda",
       "image": ""
     }
   ]
