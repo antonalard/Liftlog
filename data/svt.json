@@ -1,9 +1,14 @@
 {
-  "updated": "2026-08-17 07:55 CEST",
+  "updated": "2026-08-17 08:26 CEST",
   "items": [
     {
       "title": "Ukrainas Patriotsystem sinar: ”Ryssarna utnyttjar övertaget”",
       "link": "https://www.svt.se/nyheter/utrikes/ukrainas-patriotsystem-sinar-ryssarna-utnyttjar-overtaget",
+      "image": ""
+    },
+    {
+      "title": "Kraftig brand i Eksjö i natt – sommarstuga har brunnit ned",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/kraftig-brand-i-eksjo-i-natt-villa-har-brunnit-ned",
       "image": ""
     },
     {
@@ -34,11 +39,6 @@
     {
       "title": "Så kan El Niño påverka din kycklingmiddag",
       "link": "https://www.svt.se/nyheter/utrikes/sa-kan-el-nino-paverka-din-kycklingmiddag",
-      "image": ""
-    },
-    {
-      "title": "Misstänkt mord i Uppsala – person frihetsberövad",
-      "link": "https://www.svt.se/nyheter/lokalt/uppsala/misstankt-mord-i-uppsala-person-frihetsberovad",
       "image": ""
     }
   ]
