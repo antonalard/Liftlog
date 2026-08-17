@@ -1,6 +1,21 @@
 {
-  "updated": "2026-08-17 15:11 CEST",
+  "updated": "2026-08-17 15:57 CEST",
   "items": [
+    {
+      "title": "Misstänkt mord i Kiruna – skadad man förhörd",
+      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/misstankt-mord-i-kiruna-skadad-man-forhord",
+      "image": ""
+    },
+    {
+      "title": "Befarad båtolycka norr om Gnesta – helikopter har satts in",
+      "link": "https://www.svt.se/nyheter/lokalt/sormland/befarad-batolycka-norr-om-gnesta",
+      "image": ""
+    },
+    {
+      "title": "Höstpremiär för Sverige Live – i ny kostym",
+      "link": "https://www.svt.se/nyheter/inrikes/hostpremiar-for-sverige-live-i-ny-kostym",
+      "image": ""
+    },
     {
       "title": "Sundsvall och Timrå säger ja till att sälja Torsboda",
       "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/sundsvall-och-timra-sager-ja-till-att-salja-torsboda",
@@ -24,21 +39,6 @@
     {
       "title": "Storbritannien går mot rekordsommar i värme",
       "link": "https://www.svt.se/nyheter/utrikes/storbritannien-gar-mot-rekordsommar-i-varme",
-      "image": ""
-    },
-    {
-      "title": "Svensk medborgare skjuten till döds i Syrien",
-      "link": "https://www.svt.se/nyheter/utrikes/svensk-medborgare-skjuten-i-syrien",
-      "image": ""
-    },
-    {
-      "title": "Det här var det mest lyssnade ”Sommar”-programmet",
-      "link": "https://www.svt.se/kultur/det-har-var-det-mest-lyssnade-sommar-programmet",
-      "image": ""
-    },
-    {
-      "title": "Lärare och småbarnsförälder åtalas för barnpornografibrott: ”Lättare att identifiera vanliga personer”",
-      "link": "https://www.svt.se/nyheter/lokalt/smaland/larare-och-smabarnsforalder-atalas-for-barnpornografibrott-lattare-att-identifiera-vanliga-personer",
       "image": ""
     }
   ]
