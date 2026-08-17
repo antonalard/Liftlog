@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-17 12:52 CEST",
+  "updated": "2026-08-17 13:13 CEST",
   "items": [
+    {
+      "title": "Det här var det mest lyssnade ”Sommar”-programmet",
+      "link": "https://www.svt.se/kultur/det-har-var-det-mest-lyssnade-sommar-programmet",
+      "image": ""
+    },
     {
       "title": "Lärare och småbarnsförälder åtalas för barnpornografibrott: ”Lättare att identifiera vanliga personer”",
       "link": "https://www.svt.se/nyheter/lokalt/smaland/larare-och-smabarnsforalder-atalas-for-barnpornografibrott-lattare-att-identifiera-vanliga-personer",
@@ -34,11 +39,6 @@
     {
       "title": "Trafiken rullar igen efter bussolycka vid Centralbron",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/trasig-buss-blockerar-uppfarten-till-cenrtralbron",
-      "image": ""
-    },
-    {
-      "title": "Ukrainas Patriotsystem sinar: ”Ryssarna utnyttjar övertaget”",
-      "link": "https://www.svt.se/nyheter/utrikes/ukrainas-patriotsystem-sinar-ryssarna-utnyttjar-overtaget",
       "image": ""
     }
   ]
