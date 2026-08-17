@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-17 10:06 CEST",
+  "updated": "2026-08-17 11:04 CEST",
   "items": [
+    {
+      "title": "Se dramat på bussen – passagerarna tar över när chauffören svimmar",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/se-dramat-pa-bussen-passagerarna-tar-over-nar-chaufforen-svimmar",
+      "image": ""
+    },
     {
       "title": "Derbyhjälten Linus Carlstrand avslöjar dealen: ”Har tjatat på honom”",
       "link": "https://www.svt.se/sport/fotboll/derbyhjalten-linus-carlstrand-avslojar-dealen-har-tjatat-pa-honom",
@@ -34,11 +39,6 @@
     {
       "title": "Kraftig brand i Eksjö i natt – sommarstuga har brunnit ned",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/kraftig-brand-i-eksjo-i-natt-villa-har-brunnit-ned",
-      "image": ""
-    },
-    {
-      "title": "”Vem var det som kasta?” blir kortfilm – 23 år efter det virala bråket",
-      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/skogsturken-blir-kortfilm-23-ar-efter-klassiska-klippet",
       "image": ""
     }
   ]
