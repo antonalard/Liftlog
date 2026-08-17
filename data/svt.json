@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-17 07:06 CEST",
+  "updated": "2026-08-17 07:55 CEST",
   "items": [
+    {
+      "title": "Ukrainas Patriotsystem sinar: ”Ryssarna utnyttjar övertaget”",
+      "link": "https://www.svt.se/nyheter/utrikes/ukrainas-patriotsystem-sinar-ryssarna-utnyttjar-overtaget",
+      "image": ""
+    },
     {
       "title": "”Vem var det som kasta?” blir kortfilm – 23 år efter det virala klippet",
       "link": "https://www.svt.se/nyheter/lokalt/vastmanland/skogsturken-blir-kortfilm-23-ar-efter-klassiska-klippet",
@@ -34,11 +39,6 @@
     {
       "title": "Misstänkt mord i Uppsala – person frihetsberövad",
       "link": "https://www.svt.se/nyheter/lokalt/uppsala/misstankt-mord-i-uppsala-person-frihetsberovad",
-      "image": ""
-    },
-    {
-      "title": "Färjeolycka i centrala Stockholm – två till sjukhus",
-      "link": "https://www.svt.se/nyheter/lokalt/stockholm/farjeolycka-i-centrala-stockholm",
       "image": ""
     }
   ]
