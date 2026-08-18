@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-18 10:30 CEST",
+  "updated": "2026-08-18 11:19 CEST",
   "items": [
+    {
+      "title": "14-årig flicka kördes ihjäl i Malmö – man döms till rättspsykiatrisk vård",
+      "link": "https://www.svt.se/nyheter/lokalt/skane/14-arig-flicka-kordes-ihjal-man-doms-till-rattspsykiatrisk-vard",
+      "image": ""
+    },
     {
       "title": "Efter succécomebacken – Sarah Sjöström aktuell för träning med världsrekordstjärnorna",
       "link": "https://www.svt.se/sport/simning/efter-succecomebacken-sarah-sjostrom-aktuell-for-traning-med-varldsrekordstjarnorna",
@@ -34,11 +39,6 @@
     {
       "title": "Istället för odlingsmark – industrier och lagerlokaler: ”Förlorad för all framtid”",
       "link": "https://www.svt.se/nyheter/lokalt/ost/istallet-for-odlingsmark-industrier-och-lagerlokaler-forlorad-for-all-framtid",
-      "image": ""
-    },
-    {
-      "title": "Oskar är sen till jobbet varje dag: ”En halvtimme skulle hjälpa mycket”",
-      "link": "https://www.svt.se/nyheter/lokalt/dalarna/oskar-ar-sen-till-jobbet-varje-dag-en-halvtimme-skulle-hjalpa-mycket",
       "image": ""
     }
   ]
