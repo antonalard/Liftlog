@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-18 07:21 CEST",
+  "updated": "2026-08-18 07:50 CEST",
   "today": {
     "weekday": "tuesday",
     "temp": 9,
-    "meta": "fog • Vind 1 m/s",
+    "meta": "fog • Vind 0 m/s",
     "symbol_code": "fog"
   },
   "week": [
@@ -21,7 +21,7 @@
     },
     {
       "weekday": "thu",
-      "night": 13,
+      "night": 12,
       "day": 18,
       "symbol_code": "partlycloudy_day"
     },
