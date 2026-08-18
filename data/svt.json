@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-18 05:33 CEST",
+  "updated": "2026-08-18 06:21 CEST",
   "items": [
+    {
+      "title": "Endast ett under ser ut att kunna rädda Kristersson",
+      "link": "https://www.svt.se/nyheter/inrikes/endast-ett-under-ser-ut-att-kunna-radda-kristersson",
+      "image": ""
+    },
     {
       "title": "Markägaren Marie säger nej till urangruva i Kalix: ”Giftiga hål”",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/uranmotstandet-vaxer-i-kalix-blir-ingen-gron-omstallning-av-giftiga-hal",
@@ -34,11 +39,6 @@
     {
       "title": "Över 2 300 döda i ebola – vaccin utvecklas",
       "link": "https://www.svt.se/nyheter/utrikes/over-2-300-doda-i-ebola-vaccin-utvecklas",
-      "image": ""
-    },
-    {
-      "title": "Kristersson pressas: Ny mätning visar stort gap",
-      "link": "https://www.svt.se/nyheter/inrikes/kristersson-pressas-ny-matning-visar-stort-gap",
       "image": ""
     }
   ]
