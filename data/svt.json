@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-18 02:26 CEST",
+  "updated": "2026-08-18 03:55 CEST",
   "items": [
+    {
+      "title": "Här är höjdpunkterna från partiledardebatten",
+      "link": "https://www.svt.se/nyheter/inrikes/har-ar-hojdpunkterna-fran-partiledardebatten",
+      "image": ""
+    },
     {
       "title": "Över 2 300 döda i ebola – vaccin utvecklas",
       "link": "https://www.svt.se/nyheter/utrikes/over-2-300-doda-i-ebola-vaccin-utvecklas",
@@ -17,8 +22,8 @@
       "image": ""
     },
     {
-      "title": "En person skjuten i Ronna – en gripen",
-      "link": "https://www.svt.se/nyheter/lokalt/stockholm/polisinsats-vid-skola-i-sodertalje",
+      "title": "En person skjuten i Ronna – tre gripna",
+      "link": "https://www.svt.se/nyheter/lokalt/sodertalje/polisinsats-vid-skola-i-sodertalje",
       "image": ""
     },
     {
@@ -34,11 +39,6 @@
     {
       "title": "Här lägger åklagaren fram nya dna-bevisningen från Brattås i rätten",
       "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/har-lagger-aklagaren-fram-nya-dna-bevisningen-fran-brattas-i-ratten",
-      "image": ""
-    },
-    {
-      "title": "Donald Trump sträcker ut handen till Kim Jong Un – kritiserar övning",
-      "link": "https://www.svt.se/nyheter/utrikes/donald-trump-stracker-ut-handen-till-kim-jong-un-kritiserar-ovning",
       "image": ""
     }
   ]
