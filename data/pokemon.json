@@ -1,9 +1,14 @@
 {
-  "updated": "2026-08-18 06:21 CEST",
+  "updated": "2026-08-18 06:57 CEST",
   "community_day_title": "Nickit Community Day (August 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/07/nickit-community-day-pokemon-go.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/nickit-community-day-august-2026/",
   "items": [
+    {
+      "title": "Pokémon GO Water Festival 2026 Guide – Arrokuda, Cramorant, Bonuses and GO Pass",
+      "date": "Tue, 18 Aug 2026",
+      "link": "https://pokemongohub.net/post/event/water-festival-2026/"
+    },
     {
       "title": "This Week in Pokémon GO: 17-23 August 2026",
       "date": "Sun, 16 Aug 2026",
@@ -48,11 +53,6 @@
       "title": "Mega Ascension",
       "date": "Tue, 11 Aug 2026",
       "link": "https://pokemongohub.net/post/event/mega-ascension/"
-    },
-    {
-      "title": "Choose Your Path: Venom and Vines",
-      "date": "Tue, 11 Aug 2026",
-      "link": "https://pokemongohub.net/post/event/venom-and-vines-choose-your-path-timed-research-all-paths/"
     }
   ]
 }
