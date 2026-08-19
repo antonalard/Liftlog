@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-19 13:12 CEST",
+  "updated": "2026-08-19 13:45 CEST",
   "items": [
+    {
+      "title": "Danmark vill skärpa straffen för dödsvåld efter svenske polismannen Christian Zedigs död",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/danmark-vill-andra-lagen-efter-dodsvald-mot-svensk-polisman",
+      "image": ""
+    },
     {
       "title": "C-ledaren: Strängnäs ska inte förknippas med en högerregering",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/c-ledaren-strangnas-ska-inte-forknippas-med-en-hogerregering",
@@ -34,11 +39,6 @@
     {
       "title": "Socialdemokraterna vill starta förskola och nattis på Akademiska sjukhuset",
       "link": "https://www.svt.se/nyheter/lokalt/uppsala/socialdemokraterna-vill-starta-forskola-och-nattis-pa-akademiska-sjukhuset",
-      "image": ""
-    },
-    {
-      "title": "Så blir serieutbudet i höst – Carina Bergfeldt gör serie om Brattåsfallet",
-      "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/jakten-pa-dubbelmordaren-carina-bergfeldt-gor-serie-om-brattasfallet",
       "image": ""
     }
   ]
