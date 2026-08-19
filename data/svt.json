@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-19 12:14 CEST",
+  "updated": "2026-08-19 12:50 CEST",
   "items": [
+    {
+      "title": "C-ledaren: Strängnäs ska inte förknippas med en högerregering",
+      "link": "https://www.svt.se/nyheter/lokalt/sormland/c-ledaren-strangnas-ska-inte-forknippas-med-en-hogerregering",
+      "image": ""
+    },
     {
       "title": "Heidelberg Materials rapporterade för låga utsläpp – i 10 år",
       "link": "https://www.svt.se/nyheter/lokalt/ost/heidelberg-materials-rapporterade-for-laga-utslapp-i-10-ar",
@@ -34,11 +39,6 @@
     {
       "title": "Två män greps efter flyktförsök – släpet fullt av stöldgods",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/tva-man-greps-efter-flyktforsok-slapet-fullt-av-stoldgods",
-      "image": ""
-    },
-    {
-      "title": "VA Syd efter vattenläckan: läget är stabilt",
-      "link": "https://www.svt.se/nyheter/lokalt/skane/stor-vattenlacka-i-malmo",
       "image": ""
     }
   ]
