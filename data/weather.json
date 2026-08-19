@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19 11:02 CEST",
+  "updated": "2026-08-19 11:54 CEST",
   "today": {
     "weekday": "wednesday",
     "temp": 15,
@@ -10,13 +10,13 @@
     {
       "weekday": "wed",
       "night": 13,
-      "day": 16,
-      "symbol_code": "heavyrainandthunder"
+      "day": 15,
+      "symbol_code": "lightrain"
     },
     {
       "weekday": "thu",
-      "night": 11,
-      "day": 19,
+      "night": 10,
+      "day": 18,
       "symbol_code": "partlycloudy_day"
     },
     {
