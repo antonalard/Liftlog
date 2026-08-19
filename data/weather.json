@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-19 06:23 CEST",
+  "updated": "2026-08-19 06:57 CEST",
   "today": {
     "weekday": "wednesday",
-    "temp": 9,
+    "temp": 10,
     "meta": "fair day • Vind 0 m/s",
     "symbol_code": "fair_day"
   },
   "week": [
     {
       "weekday": "wed",
-      "night": 9,
+      "night": 10,
       "day": 15,
       "symbol_code": "heavyrainandthunder"
     },

@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-19 06:23 CEST",
+  "updated": "2026-08-19 06:57 CEST",
   "items": [
+    {
+      "title": "Stor vattenläcka i Skåne – många kommuner drabbade",
+      "link": "https://www.svt.se/nyheter/lokalt/skane/stor-vattenlacka-i-malmo",
+      "image": ""
+    },
     {
       "title": "Därför visar Uppdrag granskning hur man fuskar med ROT",
       "link": "https://www.svt.se/nyheter/granskning/ug/darfor-visar-uppdrag-granskning-hur-man-fuskar-med-rot",
@@ -32,13 +37,8 @@
       "image": ""
     },
     {
-      "title": "Ukrainas avsatte försvarsminister kräver val – trots kriget",
-      "link": "https://www.svt.se/nyheter/utrikes/ukrainas-avsatte-forsvarsminister-kraver-val-trots-kriget",
-      "image": ""
-    },
-    {
-      "title": "Professorn: Hela landet lever inte i dag – än mindre i framtiden",
-      "link": "https://www.svt.se/nyheter/inrikes/professorn-hela-landet-lever-inte-i-dag-an-mindre-i-framtiden",
+      "title": "Lägenhetsbrand i Sävja – två till sjukhus",
+      "link": "https://www.svt.se/nyheter/lokalt/uppsala/lagnehetsbrand-i-savja-tva-till-sjukhus",
       "image": ""
     }
   ]
