@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-19 19:14 CEST",
+  "updated": "2026-08-19 19:46 CEST",
   "today": {
     "weekday": "wednesday",
     "temp": 16,
-    "meta": "rainandthunder • Vind 2 m/s",
+    "meta": "rainandthunder • Vind 1 m/s",
     "symbol_code": "rainandthunder"
   },
   "week": [
     {
       "weekday": "wed",
       "night": 13,
-      "day": 17,
+      "day": 16,
       "symbol_code": "rainandthunder"
     },
     {

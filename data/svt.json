@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-19 19:14 CEST",
+  "updated": "2026-08-19 19:46 CEST",
   "items": [
+    {
+      "title": "Proryskt trollnätverk riktar in sig på svenska valet",
+      "link": "https://www.svt.se/nyheter/inrikes/proryskt-trollnatverk-riktar-in-sig-pa-svenska-valet",
+      "image": ""
+    },
     {
       "title": "Facket om SD:s affischer på bussarna: ”Busschaufförerna mådde väldigt dåligt”",
       "link": "https://www.svt.se/nyheter/lokalt/vast/facket-om-sds-affischer-pa-bussarna-chaufforerna-madde-valdigt-daligt",
@@ -34,11 +39,6 @@
     {
       "title": "Värmeböljan i Europa: Över 1 200 fler dödsfall i Frankrike",
       "link": "https://www.svt.se/nyheter/utrikes/varmeboljan-i-europa-over-1-200-fler-dodsfall-i-frankrike",
-      "image": ""
-    },
-    {
-      "title": "Åkessons svar till C-ledaren i Strängnäs: ”Får nog förhandla med V, MP och S”",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/akessons-svar-till-c-ledaren-i-strangnas-far-nog-forhandla-med-v-mp-och-s",
       "image": ""
     }
   ]
