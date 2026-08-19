@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-19 20:14 CEST",
+  "updated": "2026-08-19 20:58 CEST",
   "items": [
+    {
+      "title": "Gratis mässlingsvaccin till vuxna i Sörmland",
+      "link": "https://www.svt.se/nyheter/lokalt/sormland/gratis-masslingsvaccin-till-vuxna-i-sormland",
+      "image": ""
+    },
     {
       "title": "Proryskt trollnätverk riktar in sig på svenska valet",
       "link": "https://www.svt.se/nyheter/inrikes/proryskt-trollnatverk-riktar-in-sig-pa-svenska-valet",
@@ -34,11 +39,6 @@
     {
       "title": "Ukrainare gripen – misstänks för Nord Stream-sabotage",
       "link": "https://www.svt.se/nyheter/utrikes/ukrainare-gripen-misstanks-for-nord-stream-sabotage",
-      "image": ""
-    },
-    {
-      "title": "Värmeböljan i Europa: Över 1 200 fler dödsfall i Frankrike",
-      "link": "https://www.svt.se/nyheter/utrikes/varmeboljan-i-europa-over-1-200-fler-dodsfall-i-frankrike",
       "image": ""
     }
   ]
