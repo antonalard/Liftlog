@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-20 07:54 CEST",
+  "updated": "2026-08-20 08:21 CEST",
   "items": [
+    {
+      "title": "Medarbetare i Vännäs kommun misstänks för brott på boende – stängs av",
+      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/medarbetare-i-vannas-kommun-misstanks-for-brott-pa-boende-stangs-av",
+      "image": ""
+    },
     {
       "title": "Sjukvården viktigast för väljarna – här är frågorna som svalnat",
       "link": "https://www.svt.se/nyheter/inrikes/sjukvarden-viktigast-for-valjarna-har-ar-fragorna-som-svalnat",
@@ -34,11 +39,6 @@
     {
       "title": "Gratis mässlingsvaccin till vuxna i Sörmland",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/gratis-masslingsvaccin-till-vuxna-i-sormland",
-      "image": ""
-    },
-    {
-      "title": "Proryskt trollnätverk riktar in sig på svenska valet",
-      "link": "https://www.svt.se/nyheter/inrikes/proryskt-trollnatverk-riktar-in-sig-pa-svenska-valet",
       "image": ""
     }
   ]
