@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-20 07:27 CEST",
+  "updated": "2026-08-20 07:54 CEST",
   "today": {
     "weekday": "thursday",
     "temp": 13,
-    "meta": "fog • Vind 1 m/s",
-    "symbol_code": "fog"
+    "meta": "cloudy • Vind 1 m/s",
+    "symbol_code": "cloudy"
   },
   "week": [
     {

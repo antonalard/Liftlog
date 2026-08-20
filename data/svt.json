@@ -1,9 +1,14 @@
 {
-  "updated": "2026-08-20 07:27 CEST",
+  "updated": "2026-08-20 07:54 CEST",
   "items": [
     {
       "title": "Sjukvården viktigast för väljarna – här är frågorna som svalnat",
       "link": "https://www.svt.se/nyheter/inrikes/sjukvarden-viktigast-for-valjarna-har-ar-fragorna-som-svalnat",
+      "image": ""
+    },
+    {
+      "title": "Villabrand i Huskvarna – boende tog sig ut",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/villabrand-i-huskvarna-boende-tog-sig-ut",
       "image": ""
     },
     {
@@ -34,11 +39,6 @@
     {
       "title": "Proryskt trollnätverk riktar in sig på svenska valet",
       "link": "https://www.svt.se/nyheter/inrikes/proryskt-trollnatverk-riktar-in-sig-pa-svenska-valet",
-      "image": ""
-    },
-    {
-      "title": "Facket om SD:s affischer på bussarna: ”Busschaufförerna mådde väldigt dåligt”",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/facket-om-sds-affischer-pa-bussarna-chaufforerna-madde-valdigt-daligt",
       "image": ""
     }
   ]
