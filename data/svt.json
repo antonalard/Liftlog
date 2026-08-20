@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-20 05:34 CEST",
+  "updated": "2026-08-20 06:23 CEST",
   "items": [
+    {
+      "title": "Sjukvården viktigast för väljarna – här är frågorna som svalnat",
+      "link": "https://www.svt.se/nyheter/inrikes/sjukvarden-viktigast-for-valjarna-har-ar-fragorna-som-svalnat",
+      "image": ""
+    },
     {
       "title": "Ordningsvakter räckte inte – nu sätts kameror upp vid Västerviken i Strängnäs",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/ordningsvakter-rackte-inte-nu-satts-kameror-upp-vid-vasterviken-i-strangnas",
@@ -34,11 +39,6 @@
     {
       "title": "Facket om SD:s affischer på bussarna: ”Busschaufförerna mådde väldigt dåligt”",
       "link": "https://www.svt.se/nyheter/lokalt/vast/facket-om-sds-affischer-pa-bussarna-chaufforerna-madde-valdigt-daligt",
-      "image": ""
-    },
-    {
-      "title": "SD-toppen om affischbråket på bussar i Skaraborg: ”Konstigt”",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/sd-toppen-om-affischbraket-pa-bussar-i-skaraborg-konstigt",
       "image": ""
     }
   ]
