@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-20 09:12 CEST",
+  "updated": "2026-08-20 10:01 CEST",
   "items": [
+    {
+      "title": "Max Verstappen stannar kvar i Red Bulls F1-lag",
+      "link": "https://www.svt.se/sport/formel-1/max-verstappen-stannar-kvar-i-red-bulls-f1-lag",
+      "image": ""
+    },
     {
       "title": "Medarbetare i Vännäs kommun misstänks för våldtäkt på boende – stängs av",
       "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/medarbetare-i-vannas-kommun-misstanks-for-brott-pa-boende-stangs-av",
@@ -34,11 +39,6 @@
     {
       "title": "Tvillingar blir ensamma när Jokkmokk öppnar LSS-fritids",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/tvillingar-blir-ensamma-nar-jokkmokk-oppnar-lss-fritids",
-      "image": ""
-    },
-    {
-      "title": "Gratis mässlingsvaccin till vuxna i Sörmland",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/gratis-masslingsvaccin-till-vuxna-i-sormland",
       "image": ""
     }
   ]
