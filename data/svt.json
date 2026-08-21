@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-21 16:58 CEST",
+  "updated": "2026-08-21 17:28 CEST",
   "items": [
+    {
+      "title": "Efter dödsfallen – polisen varnar för eldning i tält och rastskydd",
+      "link": "https://www.svt.se/nyheter/lokalt/jamtland/efter-dodsfallen-polisen-varnar-for-eldning-i-talt-och-rastskydd",
+      "image": ""
+    },
     {
       "title": "Björnjakt i Jämtlands län – 19 björnar skjutna",
       "link": "https://www.svt.se/nyheter/lokalt/jamtland/bjornjakt-i-jamtlands-lan-19-bjornar-skjutna",
@@ -34,11 +39,6 @@
     {
       "title": "SD:s toppnamn i Falun polisanmäld – misstänks ha stulit el",
       "link": "https://www.svt.se/nyheter/lokalt/dalarna/sds-toppnamn-i-falun-polisanmald-misstanks-ha-stulit-el",
-      "image": ""
-    },
-    {
-      "title": "Efter mässlingsutbrottet på Urkult – fler i Jämtland vill ha vaccin",
-      "link": "https://www.svt.se/nyheter/lokalt/jamtland/efter-masslingsutbrottet-pa-urkult-fler-i-jamtland-vill-ha-vaccin",
       "image": ""
     }
   ]
