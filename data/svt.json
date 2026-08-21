@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21 20:17 CEST",
+  "updated": "2026-08-21 21:04 CEST",
   "items": [
     {
       "title": "Skolanställd sköts till döds i Grusåsen – 18-åring häktad",
@@ -14,6 +14,11 @@
     {
       "title": "Det här vet vi om misstänkta gärningsmannen i Fagersta",
       "link": "https://www.svt.se/nyheter/inrikes/det-har-vet-vi-om-misstankta-garningsmannen-i-fagersta",
+      "image": ""
+    },
+    {
+      "title": "Svärdattack på skola i Fagersta – följ SVT:s direktrapport",
+      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/svardattack-pa-skola-i-fagersta-folj-svts-direktrapport",
       "image": ""
     },
     {
@@ -34,11 +39,6 @@
     {
       "title": "Svårt att veta om man är vaccinerad – vården saknar register",
       "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/svart-att-veta-om-man-ar-vaccinerad-varden-saknar-register",
-      "image": ""
-    },
-    {
-      "title": "Uppvisningspiloten: ”Passa på och njut”",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/uppvisningspiloten-passa-pa-och-njut",
       "image": ""
     }
   ]
