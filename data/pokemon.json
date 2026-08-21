@@ -1,9 +1,14 @@
 {
-  "updated": "2026-08-21 09:32 CEST",
+  "updated": "2026-08-21 10:22 CEST",
   "community_day_title": "Nickit Community Day (August 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/07/nickit-community-day-pokemon-go.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/nickit-community-day-august-2026/",
   "items": [
+    {
+      "title": "Super Mega Starmie Raid Day (2026): Shiny Odds, Counters & Bonuses",
+      "date": "Fri, 21 Aug 2026",
+      "link": "https://pokemongohub.net/post/event/super-mega-starmie-raid-day/"
+    },
     {
       "title": "Pokémon GO Water Festival 2026",
       "date": "Tue, 18 Aug 2026",
@@ -48,11 +53,6 @@
       "title": "PokéXciting! Pokémon 30th Anniversary Tour",
       "date": "Wed, 12 Aug 2026",
       "link": "https://pokemongohub.net/post/event/pokexciting-pokemon-30th-anniversary-tour/"
-    },
-    {
-      "title": "Mega Ascension",
-      "date": "Tue, 11 Aug 2026",
-      "link": "https://pokemongohub.net/post/event/mega-ascension/"
     }
   ]
 }
