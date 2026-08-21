@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-21 10:22 CEST",
+  "updated": "2026-08-21 11:03 CEST",
   "items": [
+    {
+      "title": "Årets björnjakt är i gång",
+      "link": "https://www.svt.se/nyheter/inrikes/arets-bjornjakt-ar-i-gang",
+      "image": ""
+    },
     {
       "title": "Alltid vid Trumps sida – så blev Natalie Harp en snackis",
       "link": "https://www.svt.se/nyheter/utrikes/alltid-vid-trumps-sida-sa-blev-natalie-harp-en-snackis",
@@ -34,11 +39,6 @@
     {
       "title": "Mångmiljonsatsning: Glaskogen blir testmiljö för framtidens naturturism",
       "link": "https://www.svt.se/nyheter/lokalt/varmland/mangmiljonsatsning-glaskogen-blir-testmiljo-for-framtidens-naturturism",
-      "image": ""
-    },
-    {
-      "title": "SD poppis hos epa-förare: ”De vill ju sänka bränslepriserna”",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/sd-poppis-hos-epa-forare-de-vill-ju-sanka-branslepriserna",
       "image": ""
     }
   ]
