@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-21 13:48 CEST",
+  "updated": "2026-08-21 14:18 CEST",
   "items": [
+    {
+      "title": "Så blev domen mot undersköterskan som örfilade dement man",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/sa-blev-domen-mot-underskoterskan-som-orfilade-dement-man",
+      "image": ""
+    },
     {
       "title": "MP vill pausa  datacenterprojekt i Torsboda – men inte i Skellefteå",
       "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/mp-vill-pausa-datacenterprojekt-i-torsboda-men-inte-i-skelleftea",
@@ -34,11 +39,6 @@
     {
       "title": "Så tycker elever i Östersund om mobilförbudet",
       "link": "https://www.svt.se/nyheter/lokalt/jamtland/sa-tycker-elever-i-ostersund-om-mobilforbudet",
-      "image": ""
-    },
-    {
-      "title": "Årets björnjakt är i gång",
-      "link": "https://www.svt.se/nyheter/inrikes/arets-bjornjakt-ar-i-gang",
       "image": ""
     }
   ]
