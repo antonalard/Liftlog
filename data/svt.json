@@ -1,8 +1,13 @@
 {
-  "updated": "2026-08-22 04:43 CEST",
+  "updated": "2026-08-22 05:30 CEST",
   "items": [
     {
-      "title": "Man svårt skadad i elsparksolycka i Nybro",
+      "title": "Storbrand i Landskrona",
+      "link": "https://www.svt.se/nyheter/lokalt/helsingborg/storbrand-i-landskrona",
+      "image": ""
+    },
+    {
+      "title": "Man svårt skadad efter elsparksolycka i Nybro",
       "link": "https://www.svt.se/nyheter/lokalt/smaland/man-svart-skadad-i-elsparksolycka-i-nybro",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Järnaarrangören inte orolig över mässlingsspridningen",
       "link": "https://www.svt.se/nyheter/lokalt/sodertalje/jarnaarrangoren-inte-orolig-over-masslingsspridningen",
-      "image": ""
-    },
-    {
-      "title": "Efter dödsfallen – polisen varnar för eldning i tält och rastskydd",
-      "link": "https://www.svt.se/nyheter/lokalt/jamtland/efter-dodsfallen-polisen-varnar-for-eldning-i-talt-och-rastskydd",
       "image": ""
     }
   ]
