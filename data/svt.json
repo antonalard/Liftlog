@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-22 01:43 CEST",
+  "updated": "2026-08-22 02:26 CEST",
   "items": [
+    {
+      "title": "Man svårt skadad i elsparksolycka i Nybro",
+      "link": "https://www.svt.se/nyheter/lokalt/smaland/man-svart-skadad-i-elsparksolycka-i-nybro",
+      "image": ""
+    },
     {
       "title": "Elsa, 16, efter svärdattacken i Fagersta: ”Alla är ledsna”",
       "link": "https://www.svt.se/nyheter/lokalt/vastmanland/elsa-16-efter-svardattacken-i-fagersta-alla-ar-ledsna",
@@ -34,11 +39,6 @@
     {
       "title": "Efter dödsfallen – polisen varnar för eldning i tält och rastskydd",
       "link": "https://www.svt.se/nyheter/lokalt/jamtland/efter-dodsfallen-polisen-varnar-for-eldning-i-talt-och-rastskydd",
-      "image": ""
-    },
-    {
-      "title": "Björnjakt i Jämtlands län – 19 björnar skjutna",
-      "link": "https://www.svt.se/nyheter/lokalt/jamtland/bjornjakt-i-jamtlands-lan-19-bjornar-skjutna",
       "image": ""
     }
   ]
