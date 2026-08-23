@@ -1,28 +1,28 @@
 {
-  "updated": "2026-08-23 14:12 CEST",
+  "updated": "2026-08-23 15:06 CEST",
   "today": {
     "weekday": "sunday",
-    "temp": 20,
-    "meta": "partlycloudy day • Vind 2 m/s",
-    "symbol_code": "partlycloudy_day"
+    "temp": 22,
+    "meta": "cloudy • Vind 2 m/s",
+    "symbol_code": "cloudy"
   },
   "week": [
     {
       "weekday": "sun",
-      "night": 13,
+      "night": 14,
       "day": 22,
       "symbol_code": "cloudy"
     },
     {
       "weekday": "mon",
-      "night": 9,
+      "night": 10,
       "day": 23,
       "symbol_code": "clearsky_day"
     },
     {
       "weekday": "tue",
       "night": 9,
-      "day": 25,
+      "day": 26,
       "symbol_code": "clearsky_day"
     },
     {
