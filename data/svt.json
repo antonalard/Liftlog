@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-23 21:12 CEST",
+  "updated": "2026-08-23 21:41 CEST",
   "items": [
+    {
+      "title": "”Åkesson kastar Mohamsson under bussen”",
+      "link": "https://www.svt.se/nyheter/inrikes/akesson-kastar-mohamsson-under-bussen",
+      "image": ""
+    },
     {
       "title": "Liam Nebel, 18, häktad för skolattacken i Fagersta",
       "link": "https://www.svt.se/nyheter/inrikes/liam-nebel-18-haktad-for-skolattacken-i-fagersta",
@@ -34,11 +39,6 @@
     {
       "title": "Nytt hopp i kampen mot antibiotikaresistent gonorré",
       "link": "https://www.svt.se/nyheter/inrikes/nytt-hopp-i-kampen-mot-antibiotikaresistent-gonorre",
-      "image": ""
-    },
-    {
-      "title": "Fouad Youcefi: Här är Sverigedemokraternas största problem",
-      "link": "https://www.svt.se/nyheter/inrikes/fouad-youcefi-har-ar-sverigedemokraternas-storsta-problem",
       "image": ""
     }
   ]
