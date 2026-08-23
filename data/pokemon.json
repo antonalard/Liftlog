@@ -1,9 +1,14 @@
 {
-  "updated": "2026-08-23 09:07 CEST",
+  "updated": "2026-08-23 09:52 CEST",
   "community_day_title": "Nickit Community Day (August 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/07/nickit-community-day-pokemon-go.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/nickit-community-day-august-2026/",
   "items": [
+    {
+      "title": "This Week in Pokémon GO: August 24–30, 2026",
+      "date": "Sun, 23 Aug 2026",
+      "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-august-24-30-2026/"
+    },
     {
       "title": "Super Mega Starmie Raid Day",
       "date": "Fri, 21 Aug 2026",
@@ -48,11 +53,6 @@
       "title": "PokéXciting! Cross-Region GO Stamp Rally",
       "date": "Wed, 12 Aug 2026",
       "link": "https://pokemongohub.net/post/event/pokexciting-cross-region-go-stamp-rally/"
-    },
-    {
-      "title": "PokéXciting! Pokémon 30th Anniversary Tour",
-      "date": "Wed, 12 Aug 2026",
-      "link": "https://pokemongohub.net/post/event/pokexciting-pokemon-30th-anniversary-tour/"
     }
   ]
 }
