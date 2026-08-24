@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-24 17:06 CEST",
+  "updated": "2026-08-24 18:00 CEST",
   "items": [
+    {
+      "title": "Västra Götalandsregionen hotar med att stämma Region Sörmland",
+      "link": "https://www.svt.se/nyheter/lokalt/sormland/vastra-gotalandsregionen-hotar-med-att-stamma-region-sormland",
+      "image": ""
+    },
     {
       "title": "Rita Flores i Pussy Riot: Tvingades jobba för FSB",
       "link": "https://www.svt.se/nyheter/utrikes/rita-flores-i-pussy-riot-tvingades-jobba-for-fsb",
@@ -34,11 +39,6 @@
     {
       "title": "Elever i Sundsvall efter skoldådet: ”Känner mig ganska trygg”",
       "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/gymnasieelever-i-sundsvall-kanner-mig-ganska-trygg",
-      "image": ""
-    },
-    {
-      "title": "Man med svärd stoppad vid universitetet i Luleå",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/man-med-svard-stoppad-av-polisen-i-lulea",
       "image": ""
     }
   ]
