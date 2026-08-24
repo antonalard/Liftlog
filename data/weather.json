@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-24 04:05 CEST",
+  "updated": "2026-08-24 05:27 CEST",
   "today": {
     "weekday": "monday",
-    "temp": 11,
-    "meta": "fair night • Vind 1 m/s",
-    "symbol_code": "fair_night"
+    "temp": 9,
+    "meta": "clearsky night • Vind 1 m/s",
+    "symbol_code": "clearsky_night"
   },
   "week": [
     {
