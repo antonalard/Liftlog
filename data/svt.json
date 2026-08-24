@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-24 07:07 CEST",
+  "updated": "2026-08-24 07:58 CEST",
   "items": [
+    {
+      "title": "Man död i Mariannelund – kvinna gripen",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/man-dod-i-mariannelund-kvinna-gripen",
+      "image": ""
+    },
     {
       "title": "”Guds hand”-bollen såld – för 32 miljoner kronor",
       "link": "https://www.svt.se/sport/fotboll/guds-hand-bollen-sald-for-32-miljoner-kronor",
@@ -34,11 +39,6 @@
     {
       "title": "Värmländska partier satsar mer på dörrknackning: ”Det personliga mötet ger mer”",
       "link": "https://www.svt.se/nyheter/lokalt/varmland/varmlandska-partier-satsar-mer-pa-dorrknackning-det-personliga-motet-ger-mer",
-      "image": ""
-    },
-    {
-      "title": "”Åkesson kastar Mohamsson under bussen”",
-      "link": "https://www.svt.se/nyheter/inrikes/akesson-kastar-mohamsson-under-bussen",
       "image": ""
     }
   ]
