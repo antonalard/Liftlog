@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-24 18:00 CEST",
+  "updated": "2026-08-24 19:01 CEST",
   "items": [
+    {
+      "title": "Mc och bil i krock på riksväg 40 – en förd till sjukhus",
+      "link": "https://www.svt.se/nyheter/lokalt/smaland/mc-och-bil-i-krock-pa-riksvag-40-vagen-avstangd",
+      "image": ""
+    },
     {
       "title": "Västra Götalandsregionen hotar med att stämma Region Sörmland",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/vastra-gotalandsregionen-hotar-med-att-stamma-region-sormland",
@@ -34,11 +39,6 @@
     {
       "title": "Skolelev i Södertälje uppmanade jämnårig att ta sitt liv – åtalas",
       "link": "https://www.svt.se/nyheter/lokalt/sodertalje/skolelev-i-sodertalje-uppmanade-jamnarig-att-ta-sitt-liv-atalas",
-      "image": ""
-    },
-    {
-      "title": "Elever i Sundsvall efter skoldådet: ”Känner mig ganska trygg”",
-      "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/gymnasieelever-i-sundsvall-kanner-mig-ganska-trygg",
       "image": ""
     }
   ]
