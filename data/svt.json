@@ -1,8 +1,13 @@
 {
-  "updated": "2026-08-25 09:14 CEST",
+  "updated": "2026-08-25 10:03 CEST",
   "items": [
     {
-      "title": "SVT erfar: Moderaterna vill avskaffa avgiften för förskola och fritids",
+      "title": "Recension: Decamerone av Rostvit",
+      "link": "https://www.svt.se/kultur/recension-decamerone-av-rostvit",
+      "image": ""
+    },
+    {
+      "title": "Moderaterna vill avskaffa avgiften för förskola och fritids",
       "link": "https://www.svt.se/nyheter/inrikes/svt-erfar-moderaterna-vill-avskaffa-avgiften-for-forskola-och-fritids",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Så löste Svante skjuts till invånarna i Gunnarsbyn",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/sa-loste-svante-skjuts-till-invanarna-i-gunnarsbyn",
-      "image": ""
-    },
-    {
-      "title": "Experten slår fast: ”Malmö är ett mittenlag”",
-      "link": "https://www.svt.se/sport/fotboll/experten-slar-fast-malmo-ar-ett-mittenlag",
       "image": ""
     }
   ]
