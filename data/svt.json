@@ -1,13 +1,18 @@
 {
-  "updated": "2026-08-25 14:20 CEST",
+  "updated": "2026-08-25 15:24 CEST",
   "items": [
+    {
+      "title": "Fick rör i huvudet – arbetsplatsolycka i Skellefteå",
+      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/fick-ror-i-huvudet-arbetsplatsolycka-i-skelleftea",
+      "image": ""
+    },
     {
       "title": "Kvinna hittad död på boende i Linköping",
       "link": "https://www.svt.se/nyheter/lokalt/ost/kvinna-hittad-dod-pa-boende-i-linkoping",
       "image": ""
     },
     {
-      "title": "Domen står fast: ingen prövning i Högsta domstolen för dömda systrarna i Jönköping",
+      "title": "Domen står fast: Ingen prövning i Högsta domstolen för dömda systrarna i Jönköping",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/domen-star-fast-ingen-provning-i-hogsta-domstolen-for-domda-systrarna-i-jonkoping",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Försvaret vill ta över fastighet vid Musköbasen – ägaren ”ett säkerhetshot”",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/forsvaret-vill-ta-over-fastighet-vid-muskobasen-agaren-ett-sakerhetshot",
-      "image": ""
-    },
-    {
-      "title": "Recension: Decamerone av Rostvit",
-      "link": "https://www.svt.se/kultur/recension-decamerone-av-rostvit",
       "image": ""
     }
   ]
