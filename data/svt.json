@@ -1,6 +1,21 @@
 {
-  "updated": "2026-08-25 13:15 CEST",
+  "updated": "2026-08-25 13:49 CEST",
   "items": [
+    {
+      "title": "Kvinna hittad död på boende i Linköping",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/kvinna-hittad-dod-pa-boende-i-linkoping",
+      "image": ""
+    },
+    {
+      "title": "Domen står fast: ingen prövning i Högsta domstolen för dömda systrarna i Jönköping",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/domen-star-fast-ingen-provning-i-hogsta-domstolen-for-domda-systrarna-i-jonkoping",
+      "image": ""
+    },
+    {
+      "title": "Fjällräven hotar stämma Sverigedemokraterna",
+      "link": "https://www.svt.se/kultur/fjallraven-hotar-stamma-sverigedemokraterna",
+      "image": ""
+    },
     {
       "title": "Mässlingsutbrottet i Jämtland: ”Inga tecken på samhällsspridning”",
       "link": "https://www.svt.se/nyheter/lokalt/jamtland/masslingsutbrottet-i-jamtland-inga-tecken-pa-samhallsspridning",
@@ -24,21 +39,6 @@
     {
       "title": "Recension: Decamerone av Rostvit",
       "link": "https://www.svt.se/kultur/recension-decamerone-av-rostvit",
-      "image": ""
-    },
-    {
-      "title": "Moderaterna vill avskaffa avgiften för förskola och fritids",
-      "link": "https://www.svt.se/nyheter/inrikes/svt-erfar-moderaterna-vill-avskaffa-avgiften-for-forskola-och-fritids",
-      "image": ""
-    },
-    {
-      "title": "Två får angripna av varg i Vaggeryd",
-      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/tva-far-angripna-av-varg-i-vaggeryd",
-      "image": ""
-    },
-    {
-      "title": "Misstänkt farligt föremål hittades i Rådhusparken",
-      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/misstankt-farligt-foremal-hittades-i-radhusparken",
       "image": ""
     }
   ]
