@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-25 19:50 CEST",
+  "updated": "2026-08-25 20:19 CEST",
   "items": [
+    {
+      "title": "Tågstopp mellan Stockholm och Norrköping – tåg evakuerades",
+      "link": "https://www.svt.se/nyheter/lokalt/sormland/tagstopp-mellan-stockholm-och-norrkoping-tag-evakuerades",
+      "image": ""
+    },
     {
       "title": "”Gud har fört oss samman” – rättegång mot ungdomsledaren för våldtäkt mot barn",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/gud-har-fort-oss-samman-rattegang-mot-ungdomsledaren-for-valdtakt-mot-barn",
@@ -32,13 +37,8 @@
       "image": ""
     },
     {
-      "title": "S vallöfte till länsborna – ingen brytning i alunskiffer",
+      "title": "S vallöfte till Jämtlands län – ingen brytning i alunskiffer",
       "link": "https://www.svt.se/nyheter/lokalt/jamtland/s-vallofte-till-lansborna-ingen-brytning-i-alunskiffer",
-      "image": ""
-    },
-    {
-      "title": "Socialdemokraternas valaffischer vandaliserade i Ljungby – hakkors och könsord",
-      "link": "https://www.svt.se/nyheter/lokalt/smaland/socialdemokraternas-valaffischer-vandaliserade-i-ljungby-hakkors-och-konsord",
       "image": ""
     }
   ]
