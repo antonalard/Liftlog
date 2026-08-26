@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-26 09:14 CEST",
+  "updated": "2026-08-26 10:04 CEST",
   "items": [
+    {
+      "title": "Tog med kniv till skola i Mjölby – elev har stängts av",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/elev-tog-med-kniv-till-skola-i-mjolby-har-stangts-av",
+      "image": ""
+    },
     {
       "title": "Förtidsröstningen: MUF och SSU tävlade om att rösta först",
       "link": "https://www.svt.se/nyheter/lokalt/skane/fortidsrostningen-muf-och-ssu-tavlade-om-att-rosta-forst",
@@ -34,11 +39,6 @@
     {
       "title": "Jonny Emtins (SD) familjeföretag utförde jobb för 1,5 miljoner i Skinnskatteberg",
       "link": "https://www.svt.se/nyheter/lokalt/vastmanland/jonny-emtins-sd-familjeforetag-utforde-jobb-for-15-miljoner-i-skinnskatteberg",
-      "image": ""
-    },
-    {
-      "title": "Tåg evakuerades utanför Nyköping efter elfel",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/tagstopp-mellan-stockholm-och-norrkoping-tag-evakuerades",
       "image": ""
     }
   ]
