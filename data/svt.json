@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-26 18:41 CEST",
+  "updated": "2026-08-26 20:31 CEST",
   "items": [
+    {
+      "title": "”Därför minskar gapet – två faktorer påverkar”",
+      "link": "https://www.svt.se/nyheter/inrikes/darfor-minskar-gapet-tva-faktorer-paverkar",
+      "image": ""
+    },
     {
       "title": "Ovanligt lågt vattenstånd begränsar Visingsöfärjor",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/ovanligt-lagt-vattenstand-begransar-visingsofarjor",
@@ -12,8 +17,13 @@
       "image": ""
     },
     {
-      "title": "Trafikolycka på väg 26 utanför Gislaved",
+      "title": "Bil körde ner i diket på väg 26 utanför Gislaved",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/trafikolycka-pa-vag-26-utanfor-gislaved",
+      "image": ""
+    },
+    {
+      "title": "Norska kungafamiljen har besökt kung Harald på sjukhuset",
+      "link": "https://www.svt.se/nyheter/utrikes/norska-kungafamiljen-besoker-kung-harald-pa-sjukhuset",
       "image": ""
     },
     {
@@ -29,16 +39,6 @@
     {
       "title": "Vill se fängelse för föräldrarna i Skellefteå – efter dotterns död: ”Borde ha förstått”",
       "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/vill-se-fangelse-for-foraldrarna-i-skelleftea-efter-dotterns-dod-borde-ha-forstatt",
-      "image": ""
-    },
-    {
-      "title": "USA: Kinesisk hackerattack mot Nasa",
-      "link": "https://www.svt.se/nyheter/utrikes/usa-kinesisk-hackerattack-mot-nasa",
-      "image": ""
-    },
-    {
-      "title": "Birgitta Eds förklaring om Fållökna-volontärerna: De är ”vänner” som hjälper till",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/birgitta-eds-forklaring-om-fallokna-volontarerna-de-ar-vanner-som-hjalper-till",
       "image": ""
     }
   ]
