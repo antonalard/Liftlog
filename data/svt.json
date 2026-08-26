@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-26 07:55 CEST",
+  "updated": "2026-08-26 08:23 CEST",
   "items": [
+    {
+      "title": "Förtidsröstningen: MUF och SSU tävlade om att rösta först",
+      "link": "https://www.svt.se/nyheter/lokalt/skane/fortidsrostningen-muf-och-ssu-tavlade-om-att-rosta-forst",
+      "image": ""
+    },
     {
       "title": "Reportern: ”Avslöjar samma sak om och om igen – sen händer inget”",
       "link": "https://www.svt.se/nyheter/granskning/ug/reportern-avslojar-samma-sak-om-och-om-igen-sen-hander-inget",
@@ -34,11 +39,6 @@
     {
       "title": "Tåg evakuerades utanför Nyköping efter elfel",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/tagstopp-mellan-stockholm-och-norrkoping-tag-evakuerades",
-      "image": ""
-    },
-    {
-      "title": "”Gud har fört oss samman” – rättegång mot ungdomsledaren för våldtäkt mot barn",
-      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/gud-har-fort-oss-samman-rattegang-mot-ungdomsledaren-for-valdtakt-mot-barn",
       "image": ""
     }
   ]
