@@ -1,9 +1,14 @@
 {
-  "updated": "2026-08-27 12:41 CEST",
+  "updated": "2026-08-27 22:49 CEST",
   "community_day_title": "Nickit Community Day (August 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/07/nickit-community-day-pokemon-go.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/nickit-community-day-august-2026/",
   "items": [
+    {
+      "title": "Catch Mastery: Phantump",
+      "date": "Thu, 27 Aug 2026",
+      "link": "https://pokemongohub.net/post/event/catch-mastery-phantump/"
+    },
     {
       "title": "PokémonXP Event (2026)",
       "date": "Tue, 25 Aug 2026",
@@ -48,11 +53,6 @@
       "title": "10th Anniversary Celebration: Guaranteed Hundo Mewtwo Timed Research",
       "date": "Thu, 13 Aug 2026",
       "link": "https://pokemongohub.net/post/event/10th-anniversary-celebration-timed-research-guaranteed-hundo-mewtwo/"
-    },
-    {
-      "title": "Pokémon GO Fest 2026: Mega Finale",
-      "date": "Wed, 12 Aug 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-fest-2026-mega-finale/"
     }
   ]
 }
