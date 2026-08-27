@@ -1,6 +1,11 @@
 {
-  "updated": "2026-08-26 23:21 CEST",
+  "updated": "2026-08-27 02:53 CEST",
   "items": [
+    {
+      "title": "Bil har kört in i folkmassa i Frankrike",
+      "link": "https://www.svt.se/nyheter/utrikes/bil-kort-in-i-folkmassa-i-frankrike",
+      "image": ""
+    },
     {
       "title": "Experten om skredet i Nepal: Kanske flera tusen döda",
       "link": "https://www.svt.se/nyheter/inrikes/experten-om-skredet-i-nepal-kanske-flera-tusen-doda",
@@ -34,11 +39,6 @@
     {
       "title": "Bil körde ner i diket på väg 26 utanför Gislaved",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/trafikolycka-pa-vag-26-utanfor-gislaved",
-      "image": ""
-    },
-    {
-      "title": "Norska kungafamiljen har besökt kung Harald på sjukhuset",
-      "link": "https://www.svt.se/nyheter/utrikes/norska-kungafamiljen-besoker-kung-harald-pa-sjukhuset",
       "image": ""
     }
   ]
