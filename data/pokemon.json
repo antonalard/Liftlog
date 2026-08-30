@@ -1,9 +1,14 @@
 {
-  "updated": "2026-08-30 20:39 CEST",
+  "updated": "2026-08-30 23:40 CEST",
   "community_day_title": "Nickit Community Day (August 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/07/nickit-community-day-pokemon-go.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/nickit-community-day-august-2026/",
   "items": [
+    {
+      "title": "Mega Ascension Event: Mega Raid Schedule, Bonuses and More",
+      "date": "Sun, 30 Aug 2026",
+      "link": "https://pokemongohub.net/post/event/mega-ascension/"
+    },
     {
       "title": "2026 Pokémon World Championships in Pokémon GO",
       "date": "Sat, 29 Aug 2026",
@@ -48,11 +53,6 @@
       "title": "Nickit Community Day (August 2026)",
       "date": "Sat, 15 Aug 2026",
       "link": "https://pokemongohub.net/post/event/nickit-community-day-august-2026/"
-    },
-    {
-      "title": "PokéXciting! Kuala Lumpur 2026",
-      "date": "Fri, 14 Aug 2026",
-      "link": "https://pokemongohub.net/post/event/pokexciting-kuala-lumpur-2026/"
     }
   ]
 }
