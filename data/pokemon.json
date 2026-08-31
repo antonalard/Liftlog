@@ -1,9 +1,19 @@
 {
-  "updated": "2026-08-31 18:34 CEST",
-  "community_day_title": "Nickit Community Day (August 2026)",
-  "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/07/nickit-community-day-pokemon-go.jpg",
-  "community_day_link": "https://pokemongohub.net/post/event/nickit-community-day-august-2026/",
+  "updated": "2026-08-31 23:40 CEST",
+  "community_day_title": "Gible Community Day Classic (September 2026)",
+  "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/08/gible-community-day-classic.jpg",
+  "community_day_link": "https://pokemongohub.net/post/event/gible-community-day-classic-september-2026/",
   "items": [
+    {
+      "title": "Mega Squads Event Guide: Maschiff, Shiny Flamigo, and New Super Megas",
+      "date": "Mon, 31 Aug 2026",
+      "link": "https://pokemongohub.net/post/event/pokemon-go-mega-squads-event-guide/"
+    },
+    {
+      "title": "Gible Community Day Classic (September 2026)",
+      "date": "Mon, 31 Aug 2026",
+      "link": "https://pokemongohub.net/post/event/gible-community-day-classic-september-2026/"
+    },
     {
       "title": "Mega Ascension Event: Mega Raid Schedule, Bonuses and More",
       "date": "Sun, 30 Aug 2026",
@@ -43,16 +53,6 @@
       "title": "Pokémon GO Water Festival 2026",
       "date": "Tue, 18 Aug 2026",
       "link": "https://pokemongohub.net/post/event/water-festival-2026/"
-    },
-    {
-      "title": "This Week in Pokémon GO: 17-23 August 2026",
-      "date": "Sun, 16 Aug 2026",
-      "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-17-23-august-2026/"
-    },
-    {
-      "title": "Nickit Community Day (August 2026)",
-      "date": "Sat, 15 Aug 2026",
-      "link": "https://pokemongohub.net/post/event/nickit-community-day-august-2026/"
     }
   ]
 }
