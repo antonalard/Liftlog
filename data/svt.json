@@ -1,6 +1,26 @@
 {
-  "updated": "2026-09-01 17:15 CEST",
+  "updated": "2026-09-01 20:39 CEST",
   "items": [
+    {
+      "title": "Två barn vårdas på sjukhus med frätskador",
+      "link": "https://www.svt.se/nyheter/lokalt/helsingborg/tva-barn-till-sjukhus-fick-kontakt-med-fratande-amne",
+      "image": ""
+    },
+    {
+      "title": "Störtfloden i Nepal – tio timmar av skräck",
+      "link": "https://www.svt.se/nyheter/utrikes/stortfloden-i-nepal-tio-timmar-av-skrack",
+      "image": ""
+    },
+    {
+      "title": "Ungdomsdebatt i Örebro – applåder när MUF föreslog sänkt åldersgräns på Systembolaget",
+      "link": "https://www.svt.se/nyheter/lokalt/orebro/ungdomsdebatt-i-orebro-applader-nar-muf-foreslog-sankt-aldersgrans-pa-systembolaget",
+      "image": ""
+    },
+    {
+      "title": "Man allvarligt skadad – fastnade i skogsmaskin",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/man-allvarligt-skadad-fastade-i-skogsmaskin",
+      "image": ""
+    },
     {
       "title": "Malmödebattör utreds för olaga hot mot Simona Mohamsson – Säpo inkopplat",
       "link": "https://www.svt.se/nyheter/lokalt/skane/malmodebattor-utreds-for-olaga-hot-mot-simona-mohamsson-sapo-inkopplat",
@@ -12,33 +32,13 @@
       "image": ""
     },
     {
-      "title": "Tågstopp på Västkustbanan efter olycka",
+      "title": "Tåg rullar igen efter stopp på Västkustbanan",
       "link": "https://www.svt.se/nyheter/lokalt/halland/tagstopp-pa-vastkustbanan-efter-olycka",
       "image": ""
     },
     {
       "title": "Claes Nordmark i hovrätten – ny bevisning från försvaret",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/claes-nordmark-i-hovratten-ny-bevisning-fran-forsvaret",
-      "image": ""
-    },
-    {
-      "title": "Sänkta straff efter mordförsök på Manillagatan i Kalmar",
-      "link": "https://www.svt.se/nyheter/lokalt/smaland/sankta-straff-efter-mordforsok-pa-manillagatan-i-kalmar",
-      "image": ""
-    },
-    {
-      "title": "Kastade molotovcocktail in i frisörsalong – två tonåringar döms",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/kastade-molotovcocktail-in-i-frisorsalong-tva-tonaringar-doms",
-      "image": ""
-    },
-    {
-      "title": "Man till sjukhus efter olycka på badanläggning i Nyköping",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/person-till-sjukhus-efter-olycka-pa-bad-i-nykoping",
-      "image": ""
-    },
-    {
-      "title": "Överlämnandet av vägar i Härjedalen har mött hård kritik – så tänker politikerna framåt",
-      "link": "https://www.svt.se/nyheter/lokalt/jamtland/overlamnandet-av-vagar-i-harjedalen-har-mott-hard-kritik-sa-tanker-politikerna-framat",
       "image": ""
     }
   ]
