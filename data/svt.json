@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-02 20:09 CEST",
+  "updated": "2026-09-02 23:09 CEST",
   "items": [
+    {
+      "title": "Villa övertänd i Tallhöjden i Södertälje",
+      "link": "https://www.svt.se/nyheter/lokalt/sodertalje/villa-overtand-i-tallhojden-i-sodertalje",
+      "image": ""
+    },
+    {
+      "title": "En person till sjukhus efter dykolycka i Lerkils hamn",
+      "link": "https://www.svt.se/nyheter/lokalt/halland/en-person-till-sjukhus-efter-dykolycka-i-lerkils-hamn",
+      "image": ""
+    },
     {
       "title": "Berusad man viftade med kniv i Norrköping",
       "link": "https://www.svt.se/nyheter/lokalt/ost/berusad-man-viftade-med-kniv-i-norrkoping",
@@ -29,16 +39,6 @@
     {
       "title": "Stort intresse när dråpmisstänkta häktades i Karlstad",
       "link": "https://www.svt.se/nyheter/lokalt/varmland/stort-intresse-nar-drapmisstankta-haktades-i-karlstad",
-      "image": ""
-    },
-    {
-      "title": "Tyskland terrorutreder misstänkt elsabotage",
-      "link": "https://www.svt.se/nyheter/utrikes/tyskland-terrorutreder-misstankt-elsabotage",
-      "image": ""
-    },
-    {
-      "title": "Claes Nordmarks ord i hovrätten: ”Jag är oskyldig”",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/claes-nordmarks-ord-i-hovratten-jag-ar-oskyldig",
       "image": ""
     }
   ]
