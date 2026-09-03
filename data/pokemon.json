@@ -1,9 +1,14 @@
 {
-  "updated": "2026-09-03 16:38 CEST",
+  "updated": "2026-09-03 20:08 CEST",
   "community_day_title": "Gible Community Day Classic (September 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/08/gible-community-day-classic.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/gible-community-day-classic-september-2026/",
   "items": [
+    {
+      "title": "Pokémon GO Fest 2026: Mega Finale",
+      "date": "Thu, 03 Sep 2026",
+      "link": "https://pokemongohub.net/post/event/pokemon-go-fest-2026-mega-finale/"
+    },
     {
       "title": "Pokémon Horizons: The Series Celebration Event (September 2026)",
       "date": "Wed, 02 Sep 2026",
@@ -48,11 +53,6 @@
       "title": "PokémonXP Event (2026)",
       "date": "Tue, 25 Aug 2026",
       "link": "https://pokemongohub.net/post/event/pokemonxp-event-2026/"
-    },
-    {
-      "title": "This Week in Pokémon GO: August 24–30, 2026",
-      "date": "Sun, 23 Aug 2026",
-      "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-august-24-30-2026/"
     }
   ]
 }
