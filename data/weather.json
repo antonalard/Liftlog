@@ -1,39 +1,39 @@
 {
-  "updated": "2026-09-05 23:23 CEST",
+  "updated": "2026-09-06 01:02 CEST",
   "today": {
-    "weekday": "saturday",
-    "temp": 13,
-    "meta": "clearsky night • Vind 2 m/s",
+    "weekday": "sunday",
+    "temp": 11,
+    "meta": "clearsky night • Vind 1 m/s",
     "symbol_code": "clearsky_night"
   },
   "week": [
     {
       "weekday": "sat",
       "night": 11,
-      "day": 13,
+      "day": 11,
       "symbol_code": "clearsky_night"
     },
     {
       "weekday": "sun",
       "night": 9,
-      "day": 18,
+      "day": 19,
       "symbol_code": "clearsky_day"
     },
     {
       "weekday": "mon",
       "night": 13,
       "day": 20,
-      "symbol_code": "cloudy"
+      "symbol_code": "partlycloudy_day"
     },
     {
       "weekday": "tue",
-      "night": 14,
-      "day": 18,
-      "symbol_code": "rainshowers_day"
+      "night": 15,
+      "day": 17,
+      "symbol_code": "rain"
     },
     {
       "weekday": "wed",
-      "night": 10,
+      "night": 11,
       "day": 16,
       "symbol_code": "rainshowers_day"
     },
@@ -45,9 +45,9 @@
     },
     {
       "weekday": "fri",
-      "night": 10,
-      "day": 17,
-      "symbol_code": "rainshowers_day"
+      "night": 12,
+      "day": 16,
+      "symbol_code": "cloudy"
     }
   ]
 }
