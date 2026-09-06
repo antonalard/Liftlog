@@ -1,6 +1,21 @@
 {
-  "updated": "2026-09-06 13:07 CEST",
+  "updated": "2026-09-06 16:15 CEST",
   "items": [
+    {
+      "title": "Vem är Amanda Lind?",
+      "link": "https://www.svt.se/nyheter/inrikes/vem-ar-amanda-lind-0bcb1m",
+      "image": ""
+    },
+    {
+      "title": "Bosättarvåldet på Västbanken ökar – invånare tvingas vaka nattetid",
+      "link": "https://www.svt.se/nyheter/utrikes/bosattarvaldet-pa-vastbanken-okar-invanare-tvingas-vaka-nattetid",
+      "image": ""
+    },
+    {
+      "title": "Steve Witkoff och Jared Kushner på plats i Kiev",
+      "link": "https://www.svt.se/nyheter/utrikes/steve-witkoff-och-jared-kushner-pa-plats-i-kiev",
+      "image": ""
+    },
     {
       "title": "Man hittad avliden i Leksand – utreds som mord",
       "link": "https://www.svt.se/nyheter/lokalt/dalarna/man-hittad-avliden-i-leksand-utreds-som-mord",
@@ -24,21 +39,6 @@
     {
       "title": "Arbetslösheten viktig valfråga för Elin, 19: ”Sjukt svårt att få jobb”",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/arbetslosheten-viktig-valfraga-for-elin-19-sjukt-svart-att-fa-jobb",
-      "image": ""
-    },
-    {
-      "title": "Victor Leksell på scen i Göteborg – fansen övernattar i brassestolar",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/viktor-leksell-pa-scen-i-goteborg-fansen-overnattar-i-brassestolar",
-      "image": ""
-    },
-    {
-      "title": "Fis ordförande Alexander Ospelt: Räknar med fler ryssar i världscupen",
-      "link": "https://www.svt.se/sport/vintersport/fis-ordforande-alexander-ospelt-raknar-med-fler-ryssar-i-varldscupen",
-      "image": ""
-    },
-    {
-      "title": "Elenas bästa vän dödades på Brinellskolan",
-      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/elenas-basta-van-dodades-pa-brinellskolan",
       "image": ""
     }
   ]
