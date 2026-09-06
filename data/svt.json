@@ -1,6 +1,11 @@
 {
-  "updated": "2026-09-06 21:19 CEST",
+  "updated": "2026-09-06 23:28 CEST",
   "items": [
+    {
+      "title": "Flera döda i fyrverkeriolycka i Mexiko",
+      "link": "https://www.svt.se/nyheter/utrikes/flera-doda-i-fyrverkeriolycka-i-mexiko",
+      "image": ""
+    },
     {
       "title": "Beskedet från Amanda Lind (MP): Bensinen höjs med sex kronor",
       "link": "https://www.svt.se/nyheter/inrikes/beskedet-fran-amanda-lind-mp-bensinen-hojs-med-sex-kronor",
@@ -34,11 +39,6 @@
     {
       "title": "Man hittad avliden i Leksand – utreds som mord",
       "link": "https://www.svt.se/nyheter/lokalt/dalarna/man-hittad-avliden-i-leksand-utreds-som-mord",
-      "image": ""
-    },
-    {
-      "title": "Gustav Gellerbrant om Expos avslöjande: ”Lösryckta uppgifter”",
-      "link": "https://www.svt.se/nyheter/inrikes/gustav-gellerbrant-om-expos-avslojande-losryckta-uppgifter",
       "image": ""
     }
   ]
