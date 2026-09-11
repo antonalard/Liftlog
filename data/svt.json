@@ -1,6 +1,11 @@
 {
-  "updated": "2026-09-11 23:22 CEST",
+  "updated": "2026-09-12 01:22 CEST",
   "items": [
+    {
+      "title": "Jimmie Åkessons oro: Muslimer kan avgöra valet",
+      "link": "https://www.svt.se/nyheter/inrikes/jimmie-akessons-oro-muslimer-kan-avgora-valet",
+      "image": ""
+    },
     {
       "title": "Mats Knutson: ”Infekterad debatt kring skattefrågorna”",
       "link": "https://www.svt.se/nyheter/inrikes/mats-knutson-infekterad-debatt-kring-skattefragorna",
@@ -34,11 +39,6 @@
     {
       "title": "Lyten gör batterier i Västerås igen",
       "link": "https://www.svt.se/nyheter/lokalt/vastmanland/lyten-tillverkar-batterier-i-vasteras-igen",
-      "image": ""
-    },
-    {
-      "title": "Vallokaler i Helsingborg kan ha drabbats av fel i förtidsröstningen",
-      "link": "https://www.svt.se/nyheter/lokalt/helsingborg/vallokaler-i-helsingborg-kan-ha-drabbats-av-fel-i-fortidsrostningen",
       "image": ""
     }
   ]
