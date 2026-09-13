@@ -1,9 +1,14 @@
 {
-  "updated": "2026-09-13 08:20 CEST",
+  "updated": "2026-09-13 14:07 CEST",
   "community_day_title": "Gible Community Day Classic",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/08/gible-community-day-classic.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/gible-community-day-classic-september-2026/",
   "items": [
+    {
+      "title": "This Week in Pokémon GO: September 14-20, 2026",
+      "date": "Sun, 13 Sep 2026",
+      "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-september-14-20-2026/"
+    },
     {
       "title": "Houndour and Houndoom Spotlight Hour (September 2026): Last Minute Guide",
       "date": "Sat, 12 Sep 2026",
@@ -48,11 +53,6 @@
       "title": "Harvest Festival 2026: Applin Picking",
       "date": "Mon, 07 Sep 2026",
       "link": "https://pokemongohub.net/post/event/harvest-festival-2026-applin-picking/"
-    },
-    {
-      "title": "This Week in Pokémon GO: September 7-13, 2026",
-      "date": "Sun, 06 Sep 2026",
-      "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-september-7-13-2026/"
     }
   ]
 }
