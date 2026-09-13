@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-13 14:07 CEST",
+  "updated": "2026-09-13 18:29 CEST",
   "items": [
     {
-      "title": "Över två timmars kö i Umeå – Valmyndigheten: ”Ovanligt”",
+      "title": "Motorcykel i brand efter krock med traktor i Norrfors",
+      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/motorcykel-i-brand-efter-krock-med-traktor-i-norrfors",
+      "image": ""
+    },
+    {
+      "title": "Panikändring i Umeå – för att korta röstköerna: ”Snabbar på processen”",
+      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/panikandring-i-umea-for-att-korta-koerna-snabbar-pa-processen",
+      "image": ""
+    },
+    {
+      "title": "Rapporter om felsorterade och försenade röster",
+      "link": "https://www.svt.se/nyheter/lokalt/orebro/postnord-har-sorterat-roster-fel-leveranser-forsenade",
+      "image": ""
+    },
+    {
+      "title": "Över tre timmars kö i Umeå – flera har lämnat kön",
       "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/over-tva-timmars-ko-i-umea-valmyndigheten-ovanligt",
       "image": ""
     },
@@ -24,21 +39,6 @@
     {
       "title": "Postnord försenade med förtidsröster",
       "link": "https://www.svt.se/nyheter/inrikes/postnord-forsenade-med-fortidsrosterna",
-      "image": ""
-    },
-    {
-      "title": "Zecira Musovics besked inför avgörande VM-matcher: ”Bättre än innan”",
-      "link": "https://www.svt.se/sport/fotboll/zecira-musovics-besked-infor-avgorande-vm-matcher-battre-an-innan",
-      "image": ""
-    },
-    {
-      "title": "Kvinna skjuten i huvudet i Malmö – man anhållen",
-      "link": "https://www.svt.se/nyheter/lokalt/skane/man-greps-for-mordforsok-i-malmo-kvinna-ford-till-sjukhus",
-      "image": ""
-    },
-    {
-      "title": "Altman: Ingen börsnotering för Open AI i år",
-      "link": "https://www.svt.se/nyheter/utrikes/altman-ingen-borsnotering-for-open-ai-i-ar",
       "image": ""
     }
   ]
