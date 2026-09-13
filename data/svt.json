@@ -1,6 +1,11 @@
 {
-  "updated": "2026-09-13 23:10 CEST",
+  "updated": "2026-09-14 01:14 CEST",
   "items": [
+    {
+      "title": "Här röstar Uel Mulughta, 23, i Umeå – troligen sist i landet",
+      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/har-rostar-uel-mulughta-23-i-umea-troligen-sist-i-landet",
+      "image": ""
+    },
     {
       "title": "Dött lopp mellan blocken i SVT:s prognos",
       "link": "https://www.svt.se/nyheter/inrikes/dott-lopp-mellan-blocken-i-svts-prognos",
@@ -34,11 +39,6 @@
     {
       "title": "Rapporter om felsorterade och försenade röster",
       "link": "https://www.svt.se/nyheter/lokalt/orebro/postnord-har-sorterat-roster-fel-leveranser-forsenade",
-      "image": ""
-    },
-    {
-      "title": "Över tre timmars kö i Umeå – flera har lämnat kön",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/over-tva-timmars-ko-i-umea-valmyndigheten-ovanligt",
       "image": ""
     }
   ]
