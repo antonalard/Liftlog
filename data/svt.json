@@ -1,6 +1,21 @@
 {
-  "updated": "2026-09-13 20:52 CEST",
+  "updated": "2026-09-13 23:10 CEST",
   "items": [
+    {
+      "title": "Dött lopp mellan blocken i SVT:s prognos",
+      "link": "https://www.svt.se/nyheter/inrikes/dott-lopp-mellan-blocken-i-svts-prognos",
+      "image": ""
+    },
+    {
+      "title": "Liberalernas jubel – klart över spärren i SVT:s valu",
+      "link": "https://www.svt.se/nyheter/inrikes/liberalernas-jubel-klart-over-sparren-i-svts-valu",
+      "image": ""
+    },
+    {
+      "title": "Oppositionen tydligt större än Tidöpartierna – enligt SVT:s Valu",
+      "link": "https://www.svt.se/nyheter/inrikes/oppositionen-tydligt-storre-an-tidopartierna-enligt-svts-valu",
+      "image": ""
+    },
     {
       "title": "Wili, 23, var soffliggare – nu har han röstat för första gången",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/wili-23-var-soffliggare-nu-har-han-rostat-for-forsta-gangen",
@@ -24,21 +39,6 @@
     {
       "title": "Över tre timmars kö i Umeå – flera har lämnat kön",
       "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/over-tva-timmars-ko-i-umea-valmyndigheten-ovanligt",
-      "image": ""
-    },
-    {
-      "title": "Flera döda efter att fartyg i Indonesien välte",
-      "link": "https://www.svt.se/nyheter/utrikes/flera-doda-efter-att-fartyg-i-indonesien-valte",
-      "image": ""
-    },
-    {
-      "title": "Turkiet gör tillslag mot gaybarer och aktivister",
-      "link": "https://www.svt.se/nyheter/utrikes/turkiet-gor-tillslag-mot-gaybarer-och-aktivister",
-      "image": ""
-    },
-    {
-      "title": "Enormt tryck på förtidsröstningen i Luleå",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/enormt-tryck-pa-fortidsrostningen-i-lulea",
       "image": ""
     }
   ]
