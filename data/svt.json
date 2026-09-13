@@ -1,8 +1,13 @@
 {
-  "updated": "2026-09-13 18:29 CEST",
+  "updated": "2026-09-13 20:52 CEST",
   "items": [
     {
-      "title": "Motorcykel i brand efter krock med traktor i Norrfors",
+      "title": "Wili, 23, var soffliggare – nu har han röstat för första gången",
+      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/wili-23-var-soffliggare-nu-har-han-rostat-for-forsta-gangen",
+      "image": ""
+    },
+    {
+      "title": "En person död efter krock mellan mc och traktor i Norrfors",
       "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/motorcykel-i-brand-efter-krock-med-traktor-i-norrfors",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Enormt tryck på förtidsröstningen i Luleå",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/enormt-tryck-pa-fortidsrostningen-i-lulea",
-      "image": ""
-    },
-    {
-      "title": "Postnord försenade med förtidsröster",
-      "link": "https://www.svt.se/nyheter/inrikes/postnord-forsenade-med-fortidsrosterna",
       "image": ""
     }
   ]
