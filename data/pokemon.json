@@ -1,9 +1,14 @@
 {
-  "updated": "2026-09-15 07:30 CEST",
+  "updated": "2026-09-15 12:31 CEST",
   "community_day_title": "Gible Community Day Classic",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/08/gible-community-day-classic.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/gible-community-day-classic-september-2026/",
   "items": [
+    {
+      "title": "Celebrate with Hawlucha: Mexico Exclusive Event",
+      "date": "Tue, 15 Sep 2026",
+      "link": "https://pokemongohub.net/post/event/celebrate-with-hawlucha-mexico-exclusive-event/"
+    },
     {
       "title": "This Week in Pokémon GO: September 14-20, 2026",
       "date": "Sun, 13 Sep 2026",
@@ -48,11 +53,6 @@
       "title": "Harvest Festival: Taken Over – Shadow Zekrom Debut",
       "date": "Mon, 07 Sep 2026",
       "link": "https://pokemongohub.net/post/event/harvest-festival-taken-over-shadow-zekrom-debut/"
-    },
-    {
-      "title": "Harvest Festival 2026: Applin Picking",
-      "date": "Mon, 07 Sep 2026",
-      "link": "https://pokemongohub.net/post/event/harvest-festival-2026-applin-picking/"
     }
   ]
 }
