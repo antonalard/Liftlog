@@ -1,6 +1,21 @@
 {
-  "updated": "2026-09-15 17:18 CEST",
+  "updated": "2026-09-15 21:06 CEST",
   "items": [
+    {
+      "title": "Flygtrafiken kör igen på Malmö Airport",
+      "link": "https://www.svt.se/nyheter/lokalt/skane/malmo-airport-stangd-for-flygtrafik",
+      "image": ""
+    },
+    {
+      "title": "Fyra personbilar krockade vid Klämmestorp – två personer till sjukhus",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/fyra-personbilar-krockade-vid-klammestorp-tva-personer-till-sjukhus",
+      "image": ""
+    },
+    {
+      "title": "70-åring med rullator nedbrottad och elchockad av poliser i Kalix",
+      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/poliser-elchockade-nedbrottad-70-aring-med-rullator-i-kalix",
+      "image": ""
+    },
     {
       "title": "Här är Miljöpartiets starkaste fäste i landet – rekordval i Jokkmokk",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/har-ar-miljopartiets-starkaste-faste-i-landet-rekordval-i-jokkmokk",
@@ -24,21 +39,6 @@
     {
       "title": "Då kan din kommun ha ett nytt styre – statsvetaren förklarar",
       "link": "https://www.svt.se/nyheter/lokalt/jamtland/da-kan-din-kommun-ha-ett-nytt-styre-statsvetaren-forklarar",
-      "image": ""
-    },
-    {
-      "title": "Mystiska ljudet från motorhuven – var en bortsprungen kattunge",
-      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/mystiska-ljudet-fran-motorhuven-var-en-bortsprungen-kattunge",
-      "image": ""
-    },
-    {
-      "title": "Bild på vägglus sprider oro bland resenärer i Göteborg",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/bild-pa-vagglus-sprider-oro-bland-resenarer-i-goteborg",
-      "image": ""
-    },
-    {
-      "title": "Många röster kvar att räkna i Salem – kan påverka resultatet",
-      "link": "https://www.svt.se/nyheter/lokalt/sodertalje/manga-roster-kvar-att-rakna-i-salem-kan-paverka-resultatet",
       "image": ""
     }
   ]

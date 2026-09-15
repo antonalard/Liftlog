@@ -1,9 +1,14 @@
 {
-  "updated": "2026-09-15 17:18 CEST",
-  "community_day_title": "Gible Community Day Classic",
-  "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/08/gible-community-day-classic.jpg",
-  "community_day_link": "https://pokemongohub.net/post/event/gible-community-day-classic-september-2026/",
+  "updated": "2026-09-15 21:06 CEST",
+  "community_day_title": "Zorua Community Day (October 2026)",
+  "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/09/zorua-community-day-pokemon-go.jpg",
+  "community_day_link": "https://pokemongohub.net/post/event/zorua-community-day-october-2026/",
   "items": [
+    {
+      "title": "Zorua Community Day (October 2026)",
+      "date": "Tue, 15 Sep 2026",
+      "link": "https://pokemongohub.net/post/event/zorua-community-day-october-2026/"
+    },
     {
       "title": "Celebrate with Hawlucha: Mexico Exclusive Event",
       "date": "Tue, 15 Sep 2026",
@@ -48,11 +53,6 @@
       "title": "Gigantamax Cinderace Max Battle Day",
       "date": "Wed, 09 Sep 2026",
       "link": "https://pokemongohub.net/post/event/gigantamax-cinderace-max-battle-day/"
-    },
-    {
-      "title": "Harvest Festival: Taken Over – Shadow Zekrom Debut",
-      "date": "Mon, 07 Sep 2026",
-      "link": "https://pokemongohub.net/post/event/harvest-festival-taken-over-shadow-zekrom-debut/"
     }
   ]
 }
