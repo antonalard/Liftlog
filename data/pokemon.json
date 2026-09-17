@@ -1,9 +1,14 @@
 {
-  "updated": "2026-09-17 14:48 CEST",
+  "updated": "2026-09-17 19:19 CEST",
   "community_day_title": "Zorua Community Day (October 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/09/zorua-community-day-pokemon-go.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/zorua-community-day-october-2026/",
   "items": [
+    {
+      "title": "Pokémon GO October 2026 Events",
+      "date": "Thu, 17 Sep 2026",
+      "link": "https://pokemongohub.net/post/event/october-2026-events/"
+    },
     {
       "title": "Costumed Charmander Spotlight Hour (September 2026): Last Minute Guide to Major Stardust Gains",
       "date": "Thu, 17 Sep 2026",
@@ -48,11 +53,6 @@
       "title": "GO Wild Area 2026: Mexico City, Mexico",
       "date": "Wed, 09 Sep 2026",
       "link": "https://pokemongohub.net/post/event/wild-area-2026-mexico-city/"
-    },
-    {
-      "title": "GO Wild Area 2026: Sendai • Tohoku",
-      "date": "Wed, 09 Sep 2026",
-      "link": "https://pokemongohub.net/post/event/wild-area-2026-sendai/"
     }
   ]
 }
