@@ -1,6 +1,11 @@
 {
-  "updated": "2026-09-17 19:19 CEST",
+  "updated": "2026-09-17 22:24 CEST",
   "items": [
+    {
+      "title": "”Låt mig få se min dotter” – pappa misstänks ha fört flicka till Syrien",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/lat-mig-fa-se-min-dotter-pappa-misstanks-ha-fort-flicka-till-syrien",
+      "image": ""
+    },
     {
       "title": "Myndigheten varnar för TikTok-trend med klämleksaken squishy",
       "link": "https://www.svt.se/nyheter/lokalt/smaland/myndigheten-varnar-for-tiktok-trend-med-klamleksamken-squishies",
@@ -12,7 +17,7 @@
       "image": ""
     },
     {
-      "title": "Flera till sjukhus efter explosion på skjutfält utanför Karlsborg",
+      "title": "Flera till sjukhus efter incident på skjutfält utanför Karlsborg",
       "link": "https://www.svt.se/nyheter/lokalt/vast/larm-om-explosion-pa-skjutfalt-utanfor-karlsborg",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "Anställd på LVM-hem anmäls efter klagomål om gränslöst beteende",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/anstalld-pa-lvm-hem-anmals-efter-klagomal-om-granslost-beteende",
-      "image": ""
-    },
-    {
-      "title": "Annika försökte förtidsrösta fem gånger – utan att lyckas: ”Ett problem”",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/annika-batsman-i-umea-forsokte-rosta-sex-ganger-innan-hon-lyckades",
       "image": ""
     }
   ]
