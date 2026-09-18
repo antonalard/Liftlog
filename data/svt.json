@@ -1,6 +1,11 @@
 {
-  "updated": "2026-09-18 21:46 CEST",
+  "updated": "2026-09-18 23:58 CEST",
   "items": [
+    {
+      "title": "Mystiska spåren efter spionmisstänkta svenskarna",
+      "link": "https://www.svt.se/nyheter/utrikes/mystiska-sparen-efter-spionmisstankta-svenskarna",
+      "image": ""
+    },
     {
       "title": "”Det finns sprickor i maktens fasad”",
       "link": "https://www.svt.se/nyheter/utrikes/det-finns-sprickor-i-maktens-fasad",
@@ -34,11 +39,6 @@
     {
       "title": "Ung person anhölls misstänkt för förberedelse till mord",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/ung-person-anhallen-i-nykoping-misstankt-for-forberedelse-till-mord",
-      "image": ""
-    },
-    {
-      "title": "En person häktas misstänkt för grov våldtäkt mot barn i Järfälla",
-      "link": "https://www.svt.se/nyheter/lokalt/stockholm/ny-person-begard-haktad-for-grov-valdtakt-mot-barn-i-jarfalla",
       "image": ""
     }
   ]
