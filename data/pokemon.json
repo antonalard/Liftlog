@@ -1,9 +1,14 @@
 {
-  "updated": "2026-09-18 15:55 CEST",
+  "updated": "2026-09-18 19:19 CEST",
   "community_day_title": "Zorua Community Day (October 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/09/zorua-community-day-pokemon-go.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/zorua-community-day-october-2026/",
   "items": [
+    {
+      "title": "Super Mega Staraptor Raid Day",
+      "date": "Fri, 18 Sep 2026",
+      "link": "https://pokemongohub.net/post/event/super-mega-staraptor-raid-day/"
+    },
     {
       "title": "Pokémon GO October 2026 Events",
       "date": "Thu, 17 Sep 2026",
@@ -48,11 +53,6 @@
       "title": "GO Wild Area 2026: Global",
       "date": "Wed, 09 Sep 2026",
       "link": "https://pokemongohub.net/post/event/wild-area-2026-global/"
-    },
-    {
-      "title": "GO Wild Area 2026: Mexico City, Mexico",
-      "date": "Wed, 09 Sep 2026",
-      "link": "https://pokemongohub.net/post/event/wild-area-2026-mexico-city/"
     }
   ]
 }

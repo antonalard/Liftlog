@@ -1,13 +1,23 @@
 {
-  "updated": "2026-09-18 15:55 CEST",
+  "updated": "2026-09-18 19:19 CEST",
   "items": [
     {
-      "title": "Stopp på E4 – ”Stor inverkan på trafiken”",
+      "title": "”Det finns sprickor i maktens fasad”",
+      "link": "https://www.svt.se/nyheter/utrikes/det-finns-sprickor-i-maktens-fasad",
+      "image": ""
+    },
+    {
+      "title": "Chocken på kyrkogården: Charlies pappas grav vandaliserades",
+      "link": "https://www.svt.se/nyheter/lokalt/sormland/chocken-pa-kyrkogarden-charlies-pappas-grav-vandaliserades",
+      "image": ""
+    },
+    {
+      "title": "Stillastående lastbil stoppade trafiken på E4",
       "link": "https://www.svt.se/nyheter/lokalt/ost/stopp-pa-e4-lastbil-stillastaende",
       "image": ""
     },
     {
-      "title": "Stod felparkerad i ett år – nu har skrotbilen på öländska alvaret flyttats",
+      "title": "Stod felparkerad i ett år – nu har skrotbilen på öländska Alvaret flyttats",
       "link": "https://www.svt.se/nyheter/lokalt/smaland/stod-felparkerad-i-ett-ar-nu-har-skrotbilen-pa-olandska-alvaret-flyttats",
       "image": ""
     },
@@ -22,23 +32,13 @@
       "image": ""
     },
     {
-      "title": "Ung person anhållen i Nyköping: Misstänkt för förberedelse till mord",
+      "title": "Ung person anhölls misstänkt för förberedelse till mord",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/ung-person-anhallen-i-nykoping-misstankt-for-forberedelse-till-mord",
       "image": ""
     },
     {
-      "title": "En person begärd häktad för grov våldtäkt mot barn i Järfälla",
+      "title": "En person häktas misstänkt för grov våldtäkt mot barn i Järfälla",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/ny-person-begard-haktad-for-grov-valdtakt-mot-barn-i-jarfalla",
-      "image": ""
-    },
-    {
-      "title": "Här är Petter Northugs nya väg till OS 2030: ”Karibiska öar”",
-      "link": "https://www.svt.se/sport/langdskidor/har-ar-northugs-nya-vag-till-os-2030-karibiska-oar",
-      "image": ""
-    },
-    {
-      "title": "Sverigedemokraternas mass-sms ska granskas",
-      "link": "https://www.svt.se/nyheter/inrikes/sverigedemokraternas-mass-sms-ska-granskas",
       "image": ""
     }
   ]
