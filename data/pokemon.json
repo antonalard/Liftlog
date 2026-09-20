@@ -1,9 +1,14 @@
 {
-  "updated": "2026-09-20 09:09 CEST",
+  "updated": "2026-09-20 14:30 CEST",
   "community_day_title": "Zorua Community Day (October 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/09/zorua-community-day-pokemon-go.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/zorua-community-day-october-2026/",
   "items": [
+    {
+      "title": "This Week in Pokémon GO: September 21-27, 2026",
+      "date": "Sun, 20 Sep 2026",
+      "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-september-21-27-2026/"
+    },
     {
       "title": "European Space Agency Event: Astronaut Pikachu, Raids and Research",
       "date": "Sun, 20 Sep 2026",
@@ -48,11 +53,6 @@
       "title": "Gible Community Day Classic",
       "date": "Fri, 11 Sep 2026",
       "link": "https://pokemongohub.net/post/event/gible-community-day-classic-september-2026/"
-    },
-    {
-      "title": "Patterns of the Wild Event: Indonesia Exclusive Event",
-      "date": "Fri, 11 Sep 2026",
-      "link": "https://pokemongohub.net/post/event/patterns-of-the-wild-event-indonesia-exclusive-event/"
     }
   ]
 }
