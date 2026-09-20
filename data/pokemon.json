@@ -1,9 +1,14 @@
 {
-  "updated": "2026-09-20 03:49 CEST",
+  "updated": "2026-09-20 09:09 CEST",
   "community_day_title": "Zorua Community Day (October 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/09/zorua-community-day-pokemon-go.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/zorua-community-day-october-2026/",
   "items": [
+    {
+      "title": "European Space Agency Event: Astronaut Pikachu, Raids and Research",
+      "date": "Sun, 20 Sep 2026",
+      "link": "https://pokemongohub.net/post/event/european-space-agency-event/"
+    },
     {
       "title": "Super Mega Staraptor Raid Day",
       "date": "Fri, 18 Sep 2026",
@@ -48,11 +53,6 @@
       "title": "Patterns of the Wild Event: Indonesia Exclusive Event",
       "date": "Fri, 11 Sep 2026",
       "link": "https://pokemongohub.net/post/event/patterns-of-the-wild-event-indonesia-exclusive-event/"
-    },
-    {
-      "title": "GO Wild Area 2026: Global",
-      "date": "Wed, 09 Sep 2026",
-      "link": "https://pokemongohub.net/post/event/wild-area-2026-global/"
     }
   ]
 }
