@@ -1,9 +1,14 @@
 {
-  "updated": "2026-09-21 16:22 CEST",
+  "updated": "2026-09-21 21:36 CEST",
   "community_day_title": "Zorua Community Day (October 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/09/zorua-community-day-pokemon-go.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/zorua-community-day-october-2026/",
   "items": [
+    {
+      "title": "Pokémon GO World Space Week 2026",
+      "date": "Mon, 21 Sep 2026",
+      "link": "https://pokemongohub.net/post/event/world-space-week-2026/"
+    },
     {
       "title": "This Week in Pokémon GO: September 21-27, 2026",
       "date": "Sun, 20 Sep 2026",
@@ -48,11 +53,6 @@
       "title": "Houndour and Houndoom Spotlight Hour (September 2026): Last Minute Guide",
       "date": "Sat, 12 Sep 2026",
       "link": "https://pokemongohub.net/post/article/houndour-and-houndoom-spotlight-hour-september-2026-last-minute-guide/"
-    },
-    {
-      "title": "Gible Community Day Classic",
-      "date": "Fri, 11 Sep 2026",
-      "link": "https://pokemongohub.net/post/event/gible-community-day-classic-september-2026/"
     }
   ]
 }
