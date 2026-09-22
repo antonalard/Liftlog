@@ -1,9 +1,14 @@
 {
-  "updated": "2026-09-22 08:23 CEST",
+  "updated": "2026-09-22 13:52 CEST",
   "community_day_title": "Zorua Community Day (October 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/09/zorua-community-day-pokemon-go.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/zorua-community-day-october-2026/",
   "items": [
+    {
+      "title": "IIT-Delhi x Pokémon GO: Rendezvous 2026",
+      "date": "Tue, 22 Sep 2026",
+      "link": "https://pokemongohub.net/post/event/iit-delhi-x-pokemon-go-rendezvous-2026/"
+    },
     {
       "title": "Pokémon GO World Space Week 2026",
       "date": "Mon, 21 Sep 2026",
@@ -48,11 +53,6 @@
       "title": "This Week in Pokémon GO: September 14-20, 2026",
       "date": "Sun, 13 Sep 2026",
       "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-september-14-20-2026/"
-    },
-    {
-      "title": "Houndour and Houndoom Spotlight Hour (September 2026): Last Minute Guide",
-      "date": "Sat, 12 Sep 2026",
-      "link": "https://pokemongohub.net/post/article/houndour-and-houndoom-spotlight-hour-september-2026-last-minute-guide/"
     }
   ]
 }
