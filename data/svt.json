@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-23 21:07 CEST",
+  "updated": "2026-09-24 00:22 CEST",
   "items": [
+    {
+      "title": "Open AI hackade Medicare i Australien",
+      "link": "https://www.svt.se/nyheter/utrikes/open-ai-hackade-myndighetssidor-i-australien",
+      "image": ""
+    },
+    {
+      "title": "AI-toppar i FN: Krävs globalt säkerhetssamarbete",
+      "link": "https://www.svt.se/nyheter/utrikes/ai-toppar-i-fn-kravs-globalt-sakerhetssamarbete",
+      "image": ""
+    },
     {
       "title": "Deadline närmar sig – de pekas ut för den viktiga talmansposten",
       "link": "https://www.svt.se/nyheter/inrikes/deadline-narmar-sig-de-pekas-ut-for-den-viktiga-talmansposten",
@@ -29,16 +39,6 @@
     {
       "title": "Orkanen Polo växer – risk för skyfall och jordskred i Mexiko",
       "link": "https://www.svt.se/nyheter/utrikes/orkanen-polo-vaxer-risk-for-skyfall-och-jordskred-i-mexiko",
-      "image": ""
-    },
-    {
-      "title": "Här fångas misstänkta tjuvar på film i inlandet – polisen varnar: ”Ökad risk”",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/har-fangas-misstankta-tjuvar-pa-film-i-inlandet-polisen-varnar-okad-risk",
-      "image": ""
-    },
-    {
-      "title": "Hjalmar Ekdal om intresset från Djurgården: ”Det fanns”",
-      "link": "https://www.svt.se/sport/fotboll/hjalmar-ekdal-om-intresset-fran-djurgarden-det-fanns",
       "image": ""
     }
   ]

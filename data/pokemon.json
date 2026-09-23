@@ -1,9 +1,14 @@
 {
-  "updated": "2026-09-23 21:07 CEST",
+  "updated": "2026-09-24 00:22 CEST",
   "community_day_title": "Zorua Community Day (October 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/09/zorua-community-day-pokemon-go.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/zorua-community-day-october-2026/",
   "items": [
+    {
+      "title": "Fall Marathon: Buddy Trek",
+      "date": "Wed, 23 Sep 2026",
+      "link": "https://pokemongohub.net/post/event/fall-marathon-buddy-trek/"
+    },
     {
       "title": "IIT-Delhi x Pokémon GO: Rendezvous 2026",
       "date": "Tue, 22 Sep 2026",
@@ -48,11 +53,6 @@
       "title": "Celebrate with Hawlucha: Mexico Exclusive Event",
       "date": "Tue, 15 Sep 2026",
       "link": "https://pokemongohub.net/post/event/celebrate-with-hawlucha-mexico-exclusive-event/"
-    },
-    {
-      "title": "This Week in Pokémon GO: September 14-20, 2026",
-      "date": "Sun, 13 Sep 2026",
-      "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-september-14-20-2026/"
     }
   ]
 }
