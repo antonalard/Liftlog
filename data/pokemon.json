@@ -1,9 +1,14 @@
 {
-  "updated": "2026-09-24 00:22 CEST",
+  "updated": "2026-09-24 02:36 CEST",
   "community_day_title": "Zorua Community Day (October 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/09/zorua-community-day-pokemon-go.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/zorua-community-day-october-2026/",
   "items": [
+    {
+      "title": "Pokémon GO Tour: Alola 2027 Dates Revealed!",
+      "date": "Wed, 23 Sep 2026",
+      "link": "https://pokemongohub.net/post/news/go-tour-2027-alola-dates/"
+    },
     {
       "title": "Fall Marathon: Buddy Trek",
       "date": "Wed, 23 Sep 2026",
@@ -48,11 +53,6 @@
       "title": "Zorua Community Day (October 2026)",
       "date": "Tue, 15 Sep 2026",
       "link": "https://pokemongohub.net/post/event/zorua-community-day-october-2026/"
-    },
-    {
-      "title": "Celebrate with Hawlucha: Mexico Exclusive Event",
-      "date": "Tue, 15 Sep 2026",
-      "link": "https://pokemongohub.net/post/event/celebrate-with-hawlucha-mexico-exclusive-event/"
     }
   ]
 }
