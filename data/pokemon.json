@@ -1,9 +1,14 @@
 {
-  "updated": "2026-09-24 17:31 CEST",
-  "community_day_title": "Zorua Community Day (October 2026)",
-  "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/09/zorua-community-day-pokemon-go.jpg",
-  "community_day_link": "https://pokemongohub.net/post/event/zorua-community-day-october-2026/",
+  "updated": "2026-09-24 21:31 CEST",
+  "community_day_title": "",
+  "community_day_image": "",
+  "community_day_link": "",
   "items": [
+    {
+      "title": "Sandile Hatch Day (October 2026)",
+      "date": "Thu, 24 Sep 2026",
+      "link": "https://pokemongohub.net/post/event/sandile-hatch-day/"
+    },
     {
       "title": "Pokémon GO Tour: Alola 2027 Dates Revealed!",
       "date": "Wed, 23 Sep 2026",
@@ -48,11 +53,6 @@
       "title": "Costumed Charmander Spotlight Hour (September 2026): Last Minute Guide to Major Stardust Gains",
       "date": "Thu, 17 Sep 2026",
       "link": "https://pokemongohub.net/post/event/costumed-charmander-spotlight-hour-september-2026-last-minute-guide-to-major-stardust-gains/"
-    },
-    {
-      "title": "Zorua Community Day (October 2026)",
-      "date": "Tue, 15 Sep 2026",
-      "link": "https://pokemongohub.net/post/event/zorua-community-day-october-2026/"
     }
   ]
 }
