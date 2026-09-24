@@ -1,6 +1,11 @@
 {
-  "updated": "2026-09-24 21:31 CEST",
+  "updated": "2026-09-25 00:45 CEST",
   "items": [
+    {
+      "title": "Potatisskörden hotas i Belgien",
+      "link": "https://www.svt.se/nyheter/utrikes/potatisskorden-hotas-i-belgien",
+      "image": ""
+    },
     {
       "title": "Jättetapp för Tidö i utsatta områden: ”Har talat illa om oss”",
       "link": "https://www.svt.se/nyheter/lokalt/vast/jattetapp-for-tido-i-utsatta-omraden-har-talat-illa-om-oss",
@@ -34,11 +39,6 @@
     {
       "title": "Nu dubbleras antalet älgolyckor: ”Varningsskyltar bryr sig inte folk om”",
       "link": "https://www.svt.se/nyheter/lokalt/smaland/nu-dubbleras-antalet-algolyckor-varningsskyltar-bryr-sig-inte-folk-om",
-      "image": ""
-    },
-    {
-      "title": "Renoveringen av Vallabadet i Hörnefors drar ut på tiden – har hittat asbest",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/renoveringen-av-vallabadet-i-hornefors-drar-ut-pa-tiden-har-hittat-asbest",
       "image": ""
     }
   ]
