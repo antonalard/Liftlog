@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-25 17:35 CEST",
+  "updated": "2026-09-25 21:35 CEST",
   "items": [
+    {
+      "title": "Bilförare kraschade in i byggnad på hustomt i Piteå",
+      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/bilforare-har-kraschat-in-i-ett-hus-i-pitea",
+      "image": ""
+    },
+    {
+      "title": "Fortsatt dödläge – en vecka efter uppdraget: ”Hoppas de slutar”",
+      "link": "https://www.svt.se/nyheter/inrikes/fortsatt-dodlage-en-vecka-efter-uppdraget-hoppas-de-slutar",
+      "image": ""
+    },
     {
       "title": "SVT tittar in i folks mobiler: ”Det är sinnessjukt”",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/svt-tittar-in-i-folks-mobiler-det-ar-sinnessjukt",
@@ -29,16 +39,6 @@
     {
       "title": "Förundersökning inledd om misstänkt valfusk i Järva",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/forundersokning-inledd-om-misstankt-valfusk-i-jarva",
-      "image": ""
-    },
-    {
-      "title": "I dag är det Dolly Parton-dagen!",
-      "link": "https://www.svt.se/kultur/i-dag-ar-det-dolly-parton-dagen",
-      "image": ""
-    },
-    {
-      "title": "NRK-krönikören: ”Norge har glömt Zlatan för länge sedan”",
-      "link": "https://www.svt.se/sport/fotboll/nrk-kronikoren-norge-har-glomt-zlatan-for-lange-sedan",
       "image": ""
     }
   ]
