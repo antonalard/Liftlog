@@ -1,6 +1,11 @@
 {
-  "updated": "2026-09-25 00:45 CEST",
+  "updated": "2026-09-25 02:56 CEST",
   "items": [
+    {
+      "title": "Skottlossning i Jönköping – tre till sjukhus",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/skottlossning-i-jonkoping-tre-till-sjukhus",
+      "image": ""
+    },
     {
       "title": "Potatisskörden hotas i Belgien",
       "link": "https://www.svt.se/nyheter/utrikes/potatisskorden-hotas-i-belgien",
@@ -34,11 +39,6 @@
     {
       "title": "Säkert hösttecken – älgar dyker upp i bostadsområden på Frösön",
       "link": "https://www.svt.se/nyheter/lokalt/jamtland/sakert-hosttecken-algar-dyker-upp-i-bostadsomraden-pa-froson",
-      "image": ""
-    },
-    {
-      "title": "Nu dubbleras antalet älgolyckor: ”Varningsskyltar bryr sig inte folk om”",
-      "link": "https://www.svt.se/nyheter/lokalt/smaland/nu-dubbleras-antalet-algolyckor-varningsskyltar-bryr-sig-inte-folk-om",
       "image": ""
     }
   ]
