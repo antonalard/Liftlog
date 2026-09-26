@@ -1,6 +1,11 @@
 {
-  "updated": "2026-09-26 20:06 CEST",
+  "updated": "2026-09-26 23:18 CEST",
   "items": [
+    {
+      "title": "Drunkningstillbud utanför Falun – man svårt skadad",
+      "link": "https://www.svt.se/nyheter/lokalt/dalarna/drunkningslarm-fran-vikasjon-utanfor-falun",
+      "image": ""
+    },
     {
       "title": "John Mellberg om kallelsen till landslaget: ”Överraskande på något sätt”",
       "link": "https://www.svt.se/sport/fotboll/john-mellberg-om-kallelsen-till-landslaget-overraskande-pa-nagot-satt",
@@ -9,6 +14,11 @@
     {
       "title": "Benjamin Nygren om CL-missen: ”Extra tungt...”",
       "link": "https://www.svt.se/sport/fotboll/benjamin-nygren-om-cl-missen-extra-tungt",
+      "image": ""
+    },
+    {
+      "title": "Sågar det bortdömda målet: ”Vi är på en skör lina i SHL”",
+      "link": "https://www.svt.se/sport/ishockey/sagar-det-bortdomda-malet-vi-ar-pa-en-skor-lina-i-shl",
       "image": ""
     },
     {
@@ -29,16 +39,6 @@
     {
       "title": "Succén fortsätter – Felicia Schröder tvåmålsskytt för Real Madrid",
       "link": "https://www.svt.se/sport/fotboll/succen-fortsatter-schroder-tvamalsskytt",
-      "image": ""
-    },
-    {
-      "title": "Lång kö och trängsel när Östgötateatern sålde ut kostymer",
-      "link": "https://www.svt.se/nyheter/lokalt/ost/lang-ko-och-trangsel-nar-ostgotateatern-salde-ut-kostymer",
-      "image": ""
-    },
-    {
-      "title": "Elva döda efter explosion i Pakistan",
-      "link": "https://www.svt.se/nyheter/utrikes/elva-doda-efter-explosion-i-pakistan",
       "image": ""
     }
   ]
