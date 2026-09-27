@@ -1,9 +1,14 @@
 {
-  "updated": "2026-09-27 04:00 CEST",
+  "updated": "2026-09-27 10:22 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Dynamax Sobble Max Monday: Event Guide",
+      "date": "Sun, 27 Sep 2026",
+      "link": "https://pokemongohub.net/post/event/dynamax-sobble-max-monday-event-guide/"
+    },
     {
       "title": "Catch Mastery: Phantump",
       "date": "Fri, 25 Sep 2026",
@@ -48,11 +53,6 @@
       "title": "European Space Agency Event: Astronaut Pikachu, Raids and Research",
       "date": "Sun, 20 Sep 2026",
       "link": "https://pokemongohub.net/post/event/european-space-agency-event/"
-    },
-    {
-      "title": "Super Mega Staraptor Raid Day",
-      "date": "Fri, 18 Sep 2026",
-      "link": "https://pokemongohub.net/post/event/super-mega-staraptor-raid-day/"
     }
   ]
 }
