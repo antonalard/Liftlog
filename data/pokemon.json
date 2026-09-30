@@ -1,9 +1,14 @@
 {
-  "updated": "2026-09-30 08:04 CEST",
+  "updated": "2026-09-30 14:48 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Seedot Spotlight Hour (October 2026): Last Minute Guide",
+      "date": "Wed, 30 Sep 2026",
+      "link": "https://pokemongohub.net/post/event/seedot-spotlight-hour-october-2026-last-minute-guide/"
+    },
     {
       "title": "Pokémon GO Harvest Festival 2026: Applin Picking",
       "date": "Tue, 29 Sep 2026",
@@ -48,11 +53,6 @@
       "title": "IIT-Delhi x Pokémon GO: Rendezvous 2026",
       "date": "Tue, 22 Sep 2026",
       "link": "https://pokemongohub.net/post/event/iit-delhi-x-pokemon-go-rendezvous-2026/"
-    },
-    {
-      "title": "Pokémon GO World Space Week 2026",
-      "date": "Mon, 21 Sep 2026",
-      "link": "https://pokemongohub.net/post/event/world-space-week-2026/"
     }
   ]
 }
