@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-01 03:20 CEST",
+  "updated": "2026-10-01 09:16 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Pokémon GO October 2026 Events",
+      "date": "Thu, 01 Oct 2026",
+      "link": "https://pokemongohub.net/post/event/october-2026-events/"
+    },
     {
       "title": "Seedot Spotlight Hour (October 2026): Last Minute Guide",
       "date": "Wed, 30 Sep 2026",
@@ -48,11 +53,6 @@
       "title": "Fall Marathon: Buddy Trek",
       "date": "Wed, 23 Sep 2026",
       "link": "https://pokemongohub.net/post/event/fall-marathon-buddy-trek/"
-    },
-    {
-      "title": "IIT-Delhi x Pokémon GO: Rendezvous 2026",
-      "date": "Tue, 22 Sep 2026",
-      "link": "https://pokemongohub.net/post/event/iit-delhi-x-pokemon-go-rendezvous-2026/"
     }
   ]
 }
