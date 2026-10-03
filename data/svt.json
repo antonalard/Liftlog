@@ -1,6 +1,11 @@
 {
-  "updated": "2026-10-03 22:15 CEST",
+  "updated": "2026-10-04 01:10 CEST",
   "items": [
+    {
+      "title": "Okänt föremål hittat – fartygstrafiken i Helsingfors begränsas",
+      "link": "https://www.svt.se/nyheter/utrikes/okant-foremal-hittat-fgartygstrafiken-i-helsingfors-begransas",
+      "image": ""
+    },
     {
       "title": "Efter misslyckade avrättningen av Christa Pike – fängelsechef avgår",
       "link": "https://www.svt.se/nyheter/utrikes/efter-misslyckade-avrattningen-fangelsechef-avgar",
@@ -34,11 +39,6 @@
     {
       "title": "Bil har kört in i folkmassa norr om Sydney – 10 skadade",
       "link": "https://www.svt.se/nyheter/utrikes/bil-har-kort-in-i-folkmassa-i-sydney-10-skadade",
-      "image": ""
-    },
-    {
-      "title": "Här är smuggelkontona som försöker locka migranter in i EU",
-      "link": "https://www.svt.se/nyheter/utrikes/har-ar-smuggelkontona-som-forsoker-locka-migranter-in-i-eu",
       "image": ""
     }
   ]
