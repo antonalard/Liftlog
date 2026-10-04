@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-04 04:45 CEST",
+  "updated": "2026-10-04 10:53 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Dynamax Sizzlipede Max Monday",
+      "date": "Sun, 04 Oct 2026",
+      "link": "https://pokemongohub.net/post/event/dynamax-sizzlipede-max-monday-event-guide/"
+    },
     {
       "title": "Dynamax Uxie, Mesprit, and Azelf Max Battle Day",
       "date": "Thu, 01 Oct 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO Festival of Lights 2026: India Exclusive Event",
       "date": "Fri, 25 Sep 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-festival-of-lights-2026-india-exclusive-event/"
-    },
-    {
-      "title": "Sandile Hatch Day (October 2026)",
-      "date": "Thu, 24 Sep 2026",
-      "link": "https://pokemongohub.net/post/event/sandile-hatch-day/"
     }
   ]
 }
