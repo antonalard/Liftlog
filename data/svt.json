@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-04 01:10 CEST",
+  "updated": "2026-10-04 04:45 CEST",
   "items": [
     {
-      "title": "Okänt föremål hittat – fartygstrafiken i Helsingfors begränsas",
+      "title": "Nya regeringsattacker i Jemen",
+      "link": "https://www.svt.se/nyheter/utrikes/nya-regeringsattacker-i-jemen",
+      "image": ""
+    },
+    {
+      "title": "Tre fartyg i kollision i Norge",
+      "link": "https://www.svt.se/nyheter/utrikes/tre-fartyg-i-kollision-i-norge",
+      "image": ""
+    },
+    {
+      "title": "Tumult vid spanska demonstrantläger",
+      "link": "https://www.svt.se/nyheter/utrikes/tumult-vid-spanska-demonstrantlager",
+      "image": ""
+    },
+    {
+      "title": "Okänt föremål hittades – fartygstrafiken i Helsingfors begränsades",
       "link": "https://www.svt.se/nyheter/utrikes/okant-foremal-hittat-fgartygstrafiken-i-helsingfors-begransas",
       "image": ""
     },
@@ -24,21 +39,6 @@
     {
       "title": "Det här talar emot att regeringsbildningen slutar i extraval",
       "link": "https://www.svt.se/nyheter/inrikes/det-har-talar-emot-att-regeringsbildningen-slutar-i-extraval",
-      "image": ""
-    },
-    {
-      "title": "Tullverket: Ny lag gör skillnad – beslag av stöldgods i Göteborg",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/tullverket-ny-lag-gor-skillnad-beslag-av-stoldgods-i-goteborg",
-      "image": ""
-    },
-    {
-      "title": "SD: Nej till att be samer om ursäkt",
-      "link": "https://www.svt.se/nyheter/inrikes/sd-nej-till-att-be-samer-om-ursakt",
-      "image": ""
-    },
-    {
-      "title": "Bil har kört in i folkmassa norr om Sydney – 10 skadade",
-      "link": "https://www.svt.se/nyheter/utrikes/bil-har-kort-in-i-folkmassa-i-sydney-10-skadade",
       "image": ""
     }
   ]
