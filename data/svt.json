@@ -1,6 +1,11 @@
 {
-  "updated": "2026-10-04 23:41 CEST",
+  "updated": "2026-10-05 02:15 CEST",
   "items": [
+    {
+      "title": "Ronaldo fortsatt välkommen i landslaget",
+      "link": "https://www.svt.se/sport/artikel/ronaldo-fortsatt-valkommen-i-landslaget",
+      "image": ""
+    },
     {
       "title": "Efter flera djurangrepp: Varg skjuten i Karlskoga",
       "link": "https://www.svt.se/nyheter/lokalt/varmland/efter-flera-djurangrepp-varg-skjuten-i-karlskoga",
@@ -34,11 +39,6 @@
     {
       "title": "Två döda och en skadad i skjutning i norska Halden",
       "link": "https://www.svt.se/nyheter/utrikes/skjutning-i-norska-halden-nara-svenska-gransen",
-      "image": ""
-    },
-    {
-      "title": "Bagaren Amalias bästa tips: Så gör du en riktigt god kanelbulle",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/bagaren-amalias-basta-tips-sa-gor-du-en-riktigt-god-kanelbulle",
       "image": ""
     }
   ]
