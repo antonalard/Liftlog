@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-05 15:01 CEST",
+  "updated": "2026-10-05 23:14 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Pokémon GO Halloween 2026: Part One",
+      "date": "Mon, 05 Oct 2026",
+      "link": "https://pokemongohub.net/post/event/halloween-2026-part-one/"
+    },
     {
       "title": "Dynamax Sizzlipede Max Monday",
       "date": "Sun, 04 Oct 2026",
@@ -48,11 +53,6 @@
       "title": "Catch Mastery: Phantump",
       "date": "Fri, 25 Sep 2026",
       "link": "https://pokemongohub.net/post/event/catch-mastery-phantump/"
-    },
-    {
-      "title": "Pokémon GO Festival of Lights 2026: India Exclusive Event",
-      "date": "Fri, 25 Sep 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-festival-of-lights-2026-india-exclusive-event/"
     }
   ]
 }
