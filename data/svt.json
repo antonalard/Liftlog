@@ -1,6 +1,11 @@
 {
-  "updated": "2026-10-06 22:24 CEST",
+  "updated": "2026-10-07 01:54 CEST",
   "items": [
+    {
+      "title": "Här är Lionel Messis landslagskarriär",
+      "link": "https://www.svt.se/sport/fotboll/har-ar-lionel-messis-landslagskarriar",
+      "image": ""
+    },
     {
       "title": "Ryssland förnekar pest: Det vet vi om den misstänkta smittan i Sibirien",
       "link": "https://www.svt.se/nyheter/utrikes/ryssland-fornekar-pest-det-vet-vi-om-den-misstankta-smittan-i-sibirien",
@@ -34,11 +39,6 @@
     {
       "title": "Novak Djokovic tog årets första titel – efter motståndarens skada",
       "link": "https://www.svt.se/sport/tennis/novak-djokovic-tog-arets-forsta-titel-efter-motstandarens-skada",
-      "image": ""
-    },
-    {
-      "title": "Präst i Norrbotten dömdes för barnporr – avkragas",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/prast-i-norrbotten-domdes-for-barnporr-avkragas",
       "image": ""
     }
   ]
