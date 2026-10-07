@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-07 11:24 CEST",
+  "updated": "2026-10-07 18:41 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "PokéXciting! Singapore 2026",
+      "date": "Wed, 07 Oct 2026",
+      "link": "https://pokemongohub.net/post/event/pokexciting-singapore-2026/"
+    },
     {
       "title": "Pokémon GO Halloween 2026: Part One",
       "date": "Mon, 05 Oct 2026",
@@ -48,11 +53,6 @@
       "title": "Dynamax Sobble Max Monday: Event Guide",
       "date": "Sun, 27 Sep 2026",
       "link": "https://pokemongohub.net/post/event/dynamax-sobble-max-monday-event-guide/"
-    },
-    {
-      "title": "Catch Mastery: Phantump",
-      "date": "Fri, 25 Sep 2026",
-      "link": "https://pokemongohub.net/post/event/catch-mastery-phantump/"
     }
   ]
 }
