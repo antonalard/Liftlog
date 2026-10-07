@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-07 18:41 CEST",
+  "updated": "2026-10-07 23:39 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Gigantamax Duraludon Debuts at Pokémon GO Wild Area",
+      "date": "Wed, 07 Oct 2026",
+      "link": "https://pokemongohub.net/post/news/gigantamax-duraludon-debuts-at-pokemon-go-wild-area/"
+    },
     {
       "title": "PokéXciting! Singapore 2026",
       "date": "Wed, 07 Oct 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO: Pokémon TCG 30th Celebration Event for US Players",
       "date": "Sun, 27 Sep 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-pokemon-tcg-30th-celebration-event-for-us-players/"
-    },
-    {
-      "title": "Dynamax Sobble Max Monday: Event Guide",
-      "date": "Sun, 27 Sep 2026",
-      "link": "https://pokemongohub.net/post/event/dynamax-sobble-max-monday-event-guide/"
     }
   ]
 }
