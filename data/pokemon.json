@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-08 16:58 CEST",
+  "updated": "2026-10-08 22:28 CEST",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Pokémon GO Halloween 2026: Part Two",
+      "date": "Thu, 08 Oct 2026",
+      "link": "https://pokemongohub.net/post/event/pokemon-go-halloween-2026-part-two/"
+    },
     {
       "title": "Gigantamax Duraludon Debuts at Pokémon GO Wild Area",
       "date": "Wed, 07 Oct 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO Harvest Festival 2026: Applin Picking",
       "date": "Tue, 29 Sep 2026",
       "link": "https://pokemongohub.net/post/event/harvest-festival-2026-applin-picking/"
-    },
-    {
-      "title": "Pokémon GO: Pokémon TCG 30th Celebration Event for US Players",
-      "date": "Sun, 27 Sep 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-pokemon-tcg-30th-celebration-event-for-us-players/"
     }
   ]
 }
