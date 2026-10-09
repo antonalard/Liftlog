@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-09 08:51 CEST",
-  "community_day_title": "",
-  "community_day_image": "",
-  "community_day_link": "",
+  "updated": "2026-10-09 15:54 CEST",
+  "community_day_title": "Zorua Community Day (October 2026)",
+  "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/09/zorua-community-day-pokemon-go.jpg",
+  "community_day_link": "https://pokemongohub.net/post/event/zorua-community-day-october-2026/",
   "items": [
+    {
+      "title": "Zorua Community Day (October 2026)",
+      "date": "Fri, 09 Oct 2026",
+      "link": "https://pokemongohub.net/post/event/zorua-community-day-october-2026/"
+    },
     {
       "title": "Pokémon GO Halloween 2026: Part Two",
       "date": "Thu, 08 Oct 2026",
@@ -48,11 +53,6 @@
       "title": "Seedot Spotlight Hour (October 2026): Last Minute Guide",
       "date": "Wed, 30 Sep 2026",
       "link": "https://pokemongohub.net/post/event/seedot-spotlight-hour-october-2026-last-minute-guide/"
-    },
-    {
-      "title": "Pokémon GO Harvest Festival 2026: Applin Picking",
-      "date": "Tue, 29 Sep 2026",
-      "link": "https://pokemongohub.net/post/event/harvest-festival-2026-applin-picking/"
     }
   ]
 }
