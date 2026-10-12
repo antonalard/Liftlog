@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-12 00:59 CEST",
+  "updated": "2026-10-12 04:03 CEST",
   "items": [
+    {
+      "title": "Tarantino gör teaterdebut i London i mars",
+      "link": "https://www.svt.se/kultur/tarantino-gor-teaterdebut-i-london-i-mars",
+      "image": ""
+    },
+    {
+      "title": "Nordkorea avfyrade projektil",
+      "link": "https://www.svt.se/nyheter/utrikes/nordkorea-avfyrade-projektil",
+      "image": ""
+    },
+    {
+      "title": "Burnham: Ryssland försökte påverka Brexit-omröstningen",
+      "link": "https://www.svt.se/nyheter/utrikes/burnham-ryssland-forsokte-paverka-brexit-omrostningen",
+      "image": ""
+    },
+    {
+      "title": "Bakom lyxvillans fasad – par misstänks för misshandel av minst 14 barn",
+      "link": "https://www.svt.se/nyheter/utrikes/bakom-lyxvillans-fasad-par-misstanks-for-misshandel-av-minst-14-barn",
+      "image": ""
+    },
     {
       "title": "Egypten anklagas för dödlig attack mot guldgruva",
       "link": "https://www.svt.se/nyheter/utrikes/egypten-anklagas-for-dodlig-attack-mot-guldgruva",
@@ -19,26 +39,6 @@
     {
       "title": "Sora Matsushima segrare i China Smash – vrålar rakt ut",
       "link": "https://www.svt.se/sport/bordtennis/sora-matsushima-segrare-i-china-smash-vralar-rakt-ut",
-      "image": ""
-    },
-    {
-      "title": "Gaza: Han flydde striderna vid gula linjen",
-      "link": "https://www.svt.se/nyheter/utrikes/gaza-han-flydde-striderna-vid-gula-linjen",
-      "image": ""
-    },
-    {
-      "title": "Två brandmän till sjukhus efter brand vid gruva i Lycksele",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/tva-brandman-till-sjukhus-efter-brand-vid-gruva-i-lycksele",
-      "image": ""
-    },
-    {
-      "title": "Jakt efter misstänkt skadeskjuten älg i Eksjö",
-      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/skadeskjuten-alg-i-eksjo",
-      "image": ""
-    },
-    {
-      "title": "Premiär för ”Hövdingen” – dokumentär om sekt i Sollefteå",
-      "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/premiar-for-hovdingen-dokumentar-om-sekt-i-solleftea",
       "image": ""
     }
   ]
