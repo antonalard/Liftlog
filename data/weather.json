@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-18 03:39 CEST",
+  "updated": "2026-10-18 08:40 CEST",
   "today": {
     "weekday": "sunday",
     "temp": 0,
-    "meta": "clearsky night • Vind 1 m/s",
-    "symbol_code": "clearsky_night"
+    "meta": "clearsky day • Vind 1 m/s",
+    "symbol_code": "clearsky_day"
   },
   "week": [
     {
@@ -21,8 +21,8 @@
     },
     {
       "weekday": "tue",
-      "night": 2,
-      "day": 12,
+      "night": 0,
+      "day": 10,
       "symbol_code": "fair_day"
     },
     {
