@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-20 20:01 CEST",
+  "updated": "2026-10-20 23:44 CEST",
   "today": {
     "weekday": "tuesday",
-    "temp": 9,
-    "meta": "rain • Vind 3 m/s",
-    "symbol_code": "rain"
+    "temp": 8,
+    "meta": "cloudy • Vind 4 m/s",
+    "symbol_code": "cloudy"
   },
   "week": [
     {
       "weekday": "tue",
-      "night": 9,
+      "night": 8,
       "day": 9,
-      "symbol_code": "rain"
+      "symbol_code": "cloudy"
     },
     {
       "weekday": "wed",
       "night": 9,
       "day": 12,
-      "symbol_code": "cloudy"
+      "symbol_code": "lightrain"
     },
     {
       "weekday": "thu",
-      "night": 9,
+      "night": 10,
       "day": 12,
       "symbol_code": "cloudy"
     },
@@ -41,7 +41,7 @@
       "weekday": "sun",
       "night": 8,
       "day": 10,
-      "symbol_code": "rain"
+      "symbol_code": "cloudy"
     },
     {
       "weekday": "mon",
