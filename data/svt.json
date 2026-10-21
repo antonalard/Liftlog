@@ -1,6 +1,11 @@
 {
-  "updated": "2026-10-21 21:23 CEST",
+  "updated": "2026-10-22 00:30 CEST",
   "items": [
+    {
+      "title": "Inbytte Viktor Gyökeres bakom Arsenals kvittering i stormötet",
+      "link": "https://www.svt.se/sport/fotboll/inbytte-viktor-gyokeres-bakom-arsenals-kvittering-i-stormotet",
+      "image": ""
+    },
     {
       "title": "SVT möter flyktingarna från katastrofbyn: ”Hundar äter döda kroppar”",
       "link": "https://www.svt.se/nyheter/utrikes/svt-moter-flyktingarna-fran-katastrofbyn-hundar-ater-doda-kroppar",
@@ -34,11 +39,6 @@
     {
       "title": "2 000 deltar i gränsöverskridande övning med Norge",
       "link": "https://www.svt.se/nyheter/lokalt/varmland/2-000-deltar-i-gransoverskridande-ovning-med-norge",
-      "image": ""
-    },
-    {
-      "title": "Följ med in på bygget av det gigantiska AI-datacentret i Tydal",
-      "link": "https://www.svt.se/nyheter/lokalt/jamtland/folj-med-in-pa-bygget-av-det-gigantiska-ai-datacentret-i-tydal",
       "image": ""
     }
   ]
