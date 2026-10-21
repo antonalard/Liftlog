@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-21 17:24 CEST",
-  "community_day_title": "Zorua Community Day (October 2026)",
-  "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/09/zorua-community-day-pokemon-go.jpg",
-  "community_day_link": "https://pokemongohub.net/post/event/zorua-community-day-october-2026/",
+  "updated": "2026-10-21 21:23 CEST",
+  "community_day_title": "Pawniard Community Day (November 2026)",
+  "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/10/pawniard-community-day.jpg",
+  "community_day_link": "https://pokemongohub.net/post/event/pawniard-community-day-november-2026/",
   "items": [
+    {
+      "title": "Pawniard Community Day (November 2026)",
+      "date": "Wed, 21 Oct 2026",
+      "link": "https://pokemongohub.net/post/event/pawniard-community-day-november-2026/"
+    },
     {
       "title": "Minior Showers: Orionids (October 2026)",
       "date": "Mon, 19 Oct 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO Halloween 2026: Part Two",
       "date": "Thu, 08 Oct 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-halloween-2026-part-two/"
-    },
-    {
-      "title": "Gigantamax Duraludon Debuts at Pokémon GO Wild Area",
-      "date": "Wed, 07 Oct 2026",
-      "link": "https://pokemongohub.net/post/news/gigantamax-duraludon-debuts-at-pokemon-go-wild-area/"
     }
   ]
 }
