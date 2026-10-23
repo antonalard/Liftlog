@@ -1,6 +1,11 @@
 {
-  "updated": "2026-10-23 22:41 CEST",
+  "updated": "2026-10-24 01:35 CEST",
   "items": [
+    {
+      "title": "Hitlers ”Örnnäste” i brand",
+      "link": "https://www.svt.se/nyheter/utrikes/hitlers-ornnaste-i-brand",
+      "image": ""
+    },
     {
       "title": "Polisernas vansinnesfärd på E4 i Luleå – körde i 280 km/h",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/polisernas-vansinnesfard-pa-e4-i-lulea-korde-i-280-kmh",
@@ -34,11 +39,6 @@
     {
       "title": "Polisens bilar får ny radar – ska stoppa fler fortkörare",
       "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/polisens-bilar-far-ny-radar-ska-stoppa-fler-fortkorare",
-      "image": ""
-    },
-    {
-      "title": "E4 avstängd norr om Gävle efter krock",
-      "link": "https://www.svt.se/nyheter/lokalt/gavleborg/e4-avstangd-norr-om-gavle-efter-krock",
       "image": ""
     }
   ]

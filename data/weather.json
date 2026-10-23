@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-23 22:41 CEST",
+  "updated": "2026-10-24 01:35 CEST",
   "today": {
-    "weekday": "friday",
+    "weekday": "saturday",
     "temp": 9,
     "meta": "cloudy • Vind 4 m/s",
     "symbol_code": "cloudy"
@@ -9,14 +9,14 @@
   "week": [
     {
       "weekday": "fri",
-      "night": 8,
+      "night": 9,
       "day": 9,
       "symbol_code": "cloudy"
     },
     {
       "weekday": "sat",
       "night": 9,
-      "day": 11,
+      "day": 12,
       "symbol_code": "cloudy"
     },
     {
