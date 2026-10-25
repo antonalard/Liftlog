@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-25 19:27 CET",
+  "updated": "2026-10-25 22:01 CET",
   "today": {
     "weekday": "sunday",
-    "temp": 11,
-    "meta": "lightrain • Vind 7 m/s",
+    "temp": 10,
+    "meta": "lightrain • Vind 8 m/s",
     "symbol_code": "lightrain"
   },
   "week": [
     {
       "weekday": "sun",
       "night": 10,
-      "day": 11,
+      "day": 10,
       "symbol_code": "lightrain"
     },
     {
