@@ -1,9 +1,19 @@
 {
-  "updated": "2026-10-25 07:19 CET",
+  "updated": "2026-10-25 12:48 CET",
   "community_day_title": "Pawniard Community Day (November 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/10/pawniard-community-day.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/pawniard-community-day-november-2026/",
   "items": [
+    {
+      "title": "This Week in Pokémon GO: October 26 to November 1, 2026",
+      "date": "Sun, 25 Oct 2026",
+      "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-october-26-to-november-1-2026/"
+    },
+    {
+      "title": "Dynamax Sableye Max Monday: Event Guide",
+      "date": "Sun, 25 Oct 2026",
+      "link": "https://pokemongohub.net/post/event/dynamax-sableye-max-monday/"
+    },
     {
       "title": "Pokémon GO Dia de Muertos 2026: Mexico Exclusive Event",
       "date": "Fri, 23 Oct 2026",
@@ -43,16 +53,6 @@
       "title": "Super Mega Chandelure Raid Day",
       "date": "Tue, 13 Oct 2026",
       "link": "https://pokemongohub.net/post/event/super-mega-chandelure-raid-day/"
-    },
-    {
-      "title": "This Week in Pokémon GO: 12-18 October 2026",
-      "date": "Sun, 11 Oct 2026",
-      "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-12-18-october-2026/"
-    },
-    {
-      "title": "Zorua Community Day (October 2026)",
-      "date": "Fri, 09 Oct 2026",
-      "link": "https://pokemongohub.net/post/event/zorua-community-day-october-2026/"
     }
   ]
 }
