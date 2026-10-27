@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-27 03:10 CET",
+  "updated": "2026-10-27 09:02 CET",
   "today": {
     "weekday": "tuesday",
     "temp": 10,
-    "meta": "rain • Vind 6 m/s",
+    "meta": "rain • Vind 7 m/s",
     "symbol_code": "rain"
   },
   "week": [
@@ -15,8 +15,8 @@
     },
     {
       "weekday": "wed",
-      "night": 10,
-      "day": 12,
+      "night": 9,
+      "day": 13,
       "symbol_code": "cloudy"
     },
     {
