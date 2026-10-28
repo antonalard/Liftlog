@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-28 16:32 CET",
+  "updated": "2026-10-28 21:36 CET",
   "community_day_title": "Pawniard Community Day (November 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/10/pawniard-community-day.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/pawniard-community-day-november-2026/",
   "items": [
+    {
+      "title": "Dynamax Trails: Eternatus Returns",
+      "date": "Wed, 28 Oct 2026",
+      "link": "https://pokemongohub.net/post/event/dynamax-trails-eternatus-returns/"
+    },
     {
       "title": "Pokémon GO Wild Area: Global European Meet-Ups",
       "date": "Tue, 27 Oct 2026",
@@ -48,11 +53,6 @@
       "title": "This Week in Pokémon GO: 19-25 October 2026",
       "date": "Sun, 18 Oct 2026",
       "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-19-25-october-2026/"
-    },
-    {
-      "title": "Sandile Hatch Day (October 2026)",
-      "date": "Fri, 16 Oct 2026",
-      "link": "https://pokemongohub.net/post/event/sandile-hatch-day/"
     }
   ]
 }
