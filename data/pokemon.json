@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-30 17:02 CET",
+  "updated": "2026-10-30 21:54 CET",
   "community_day_title": "Pawniard Community Day (November 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/10/pawniard-community-day.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/pawniard-community-day-november-2026/",
   "items": [
+    {
+      "title": "Super Mega Chandelure Raid Day",
+      "date": "Fri, 30 Oct 2026",
+      "link": "https://pokemongohub.net/post/event/super-mega-chandelure-raid-day/"
+    },
     {
       "title": "Pokémon Center BANGKOK Opens: Pokémon GO Thailand Event",
       "date": "Thu, 29 Oct 2026",
@@ -48,11 +53,6 @@
       "title": "Minior Showers: Orionids (October 2026)",
       "date": "Mon, 19 Oct 2026",
       "link": "https://pokemongohub.net/post/event/minior-showers-orionids-october-2026/"
-    },
-    {
-      "title": "Pokémon GO November 2026 Events",
-      "date": "Mon, 19 Oct 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-november-2026-events/"
     }
   ]
 }
