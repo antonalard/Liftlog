@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-31 12:37 CET",
+  "updated": "2026-10-31 17:22 CET",
   "today": {
     "weekday": "saturday",
-    "temp": 9,
-    "meta": "cloudy • Vind 2 m/s",
+    "temp": 10,
+    "meta": "cloudy • Vind 1 m/s",
     "symbol_code": "cloudy"
   },
   "week": [
@@ -15,19 +15,19 @@
     },
     {
       "weekday": "sun",
-      "night": 8,
+      "night": 9,
       "day": 11,
       "symbol_code": "cloudy"
     },
     {
       "weekday": "mon",
-      "night": 5,
+      "night": 2,
       "day": 10,
       "symbol_code": "cloudy"
     },
     {
       "weekday": "tue",
-      "night": 3,
+      "night": 2,
       "day": 9,
       "symbol_code": "fair_day"
     },
