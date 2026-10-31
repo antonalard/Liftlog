@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-31 06:58 CET",
+  "updated": "2026-10-31 12:37 CET",
   "items": [
+    {
+      "title": "Misstänkt mordförsök i Örebro – skadad man förd till sjukhus",
+      "link": "https://www.svt.se/nyheter/lokalt/orebro/misstankt-mordforsok-i-orebro-skadad-man-ford-till-sjukhus",
+      "image": ""
+    },
+    {
+      "title": "Misstänkt mordförsök i Mora – man svårt skadad",
+      "link": "https://www.svt.se/nyheter/lokalt/dalarna/misstankt-mordforsok-i-mora-man-svart-skadad",
+      "image": ""
+    },
+    {
+      "title": "Man drogs upp ur vattnet i Göteborg – misstänkt dråpförsök",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/man-raddades-ur-vattnet-i-goteborg-allvarligt-skadad",
+      "image": ""
+    },
+    {
+      "title": "Misstänkt mordförsök på restaurang i Stockholm",
+      "link": "https://www.svt.se/nyheter/lokalt/stockholm/mordforsok-pa-restaurang-i-stockholm",
+      "image": ""
+    },
     {
       "title": "Mittuniversitetet ledande i forskningen kring giftbankar: ”Bör återvinnas”",
       "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/mittuniversitetet-ledande-i-forskningen-kring-giftbankar-i-havet-bor-atervinnas",
@@ -19,26 +39,6 @@
     {
       "title": "Jakten igång i Sörmland – så ska skadeskjutningar undvikas",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/jakten-igang-i-sormland-sa-ska-skadeskjutningar-undvikas",
-      "image": ""
-    },
-    {
-      "title": "Recension: ”Nocturne” baserad på Lars Keplers ”Sandmannen” och ”Lazarus”",
-      "link": "https://www.svt.se/kultur/recension-nocturne-baserad-pa-lars-keplers-sandmannen-och-lazarus",
-      "image": ""
-    },
-    {
-      "title": "Kanada fördjupar samarbete med EU – vill se ”associerat medlemskap”",
-      "link": "https://www.svt.se/nyheter/utrikes/kanada-fordjupar-samarbete-med-eu-vill-se-associerat-medlemskap",
-      "image": ""
-    },
-    {
-      "title": "Lastbil har vält på E4an – oklart skadeläge",
-      "link": "https://www.svt.se/nyheter/lokalt/helsingborg/lastbil-har-valt-pa-e4an-oklart-skadelage",
-      "image": ""
-    },
-    {
-      "title": "Svenska ishockeyförbundet om Ryssland-beslutet: ”Blev förbannad”",
-      "link": "https://www.svt.se/sport/ishockey/svenska-ishockeyforbundet-om-ryssland-beslutet-blev-forbannad",
       "image": ""
     }
   ]
