@@ -1,6 +1,11 @@
 {
-  "updated": "2026-10-31 21:06 CET",
+  "updated": "2026-11-01 00:29 CET",
   "items": [
+    {
+      "title": "Deep Purple-sångare inlagd på sjukhus",
+      "link": "https://www.svt.se/kultur/deep-purple-sangare-inlagd-pa-sjukhus",
+      "image": ""
+    },
     {
       "title": "Niklas var på plats vid rallyolyckan utanför Nässjö: ”Helt osannolikt”",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/niklas-var-pa-plats-vid-rallyolyckan-utanfor-nassjo-helt-osannolikt",
@@ -34,11 +39,6 @@
     {
       "title": "Misstänkt mordförsök i Örebro – skadad man förd till sjukhus",
       "link": "https://www.svt.se/nyheter/lokalt/orebro/misstankt-mordforsok-i-orebro-skadad-man-ford-till-sjukhus",
-      "image": ""
-    },
-    {
-      "title": "Misstänkt mordförsök i Mora – man svårt skadad",
-      "link": "https://www.svt.se/nyheter/lokalt/dalarna/misstankt-mordforsok-i-mora-man-svart-skadad",
       "image": ""
     }
   ]
