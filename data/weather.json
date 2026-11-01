@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-01 10:25 CET",
+  "updated": "2026-11-01 17:09 CET",
   "today": {
     "weekday": "sunday",
-    "temp": 10,
-    "meta": "cloudy • Vind 4 m/s",
+    "temp": 11,
+    "meta": "cloudy • Vind 3 m/s",
     "symbol_code": "cloudy"
   },
   "week": [
@@ -21,13 +21,13 @@
     },
     {
       "weekday": "tue",
-      "night": 1,
+      "night": 0,
       "day": 8,
       "symbol_code": "clearsky_day"
     },
     {
       "weekday": "wed",
-      "night": 3,
+      "night": 1,
       "day": 11,
       "symbol_code": "clearsky_day"
     },
