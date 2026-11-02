@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-02 13:41 CET",
+  "updated": "2026-11-02 22:57 CET",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Pokémon GO Twilight Wishes (2026)",
+      "date": "Mon, 02 Nov 2026",
+      "link": "https://pokemongohub.net/post/event/twilight-wishes-2026/"
+    },
     {
       "title": "This Week in Pokémon GO (November 2–8): Wild Area 2026, Giratina & Halloween Finale",
       "date": "Sun, 01 Nov 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO Halloween 2026: Part One",
       "date": "Tue, 27 Oct 2026",
       "link": "https://pokemongohub.net/post/event/halloween-2026-part-one/"
-    },
-    {
-      "title": "This Week in Pokémon GO: October 26 to November 1, 2026",
-      "date": "Sun, 25 Oct 2026",
-      "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-october-26-to-november-1-2026/"
     }
   ]
 }
