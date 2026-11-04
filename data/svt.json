@@ -1,6 +1,11 @@
 {
-  "updated": "2026-11-04 19:43 CET",
+  "updated": "2026-11-05 00:59 CET",
   "items": [
+    {
+      "title": "Trump efter valförlusten: Kriget mot Iran värt det",
+      "link": "https://www.svt.se/nyheter/utrikes/trump-efter-valforlusten-kriget-mot-iran-vart-det",
+      "image": ""
+    },
     {
       "title": "Besök från Asien i Jönköping – mandarinanden väcker uppmärksamhet",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/besok-fran-asien-i-jonkoping-mandarinanden-vacker-uppmarksamhet",
@@ -12,7 +17,7 @@
       "image": ""
     },
     {
-      "title": "Stor polisinsats i Sollentuna – misstänkt grovt brott",
+      "title": "Misstänkt mord i Sollentuna – en död och en skadad",
       "link": "https://www.svt.se/nyheter/lokalt/stockholm/stor-polisinsats-i-sollentuna-misstankt-grovt-brott",
       "image": ""
     },
@@ -34,11 +39,6 @@
     {
       "title": "USA-experterna: Nu får Demokraterna stort inflytande",
       "link": "https://www.svt.se/nyheter/utrikes/usa-experterna-nu-far-demokraterna-stort-inflytande",
-      "image": ""
-    },
-    {
-      "title": "Hundratals kommunbilar i Örnsköldsvik såldes vidare av samma företag",
-      "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/hundratals-kommunbilar-i-ornskoldsvik-saldes-vidare-av-samma-foretag",
       "image": ""
     }
   ]
