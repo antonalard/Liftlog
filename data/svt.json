@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-06 17:01 CET",
+  "updated": "2026-11-06 22:39 CET",
   "items": [
     {
-      "title": "Misstanken: Ska ha hjälpt till vid trippelmordet i Uppsala",
+      "title": "Kvinna hittad död på hotell i Norrköping – misstänkt mord",
+      "link": "https://www.svt.se/nyheter/lokalt/ost/misstankt-mord-i-norrkoping-kvinna-hittad-dod-pa-hotell",
+      "image": ""
+    },
+    {
+      "title": "UD om sitt agerande kring ”ryska huset”: Ska skyddas",
+      "link": "https://www.svt.se/nyheter/inrikes/ud-om-sitt-agerande-kring-ryska-huset-ska-skyddas",
+      "image": ""
+    },
+    {
+      "title": "SVT-produktion bakom fejkade djurklipp: ”Stresstest”",
+      "link": "https://www.svt.se/nyheter/inrikes/svt-produktion-bakom-fejkade-djurklipp-stresstest",
+      "image": ""
+    },
+    {
+      "title": "Misstänks ha hjälpt till vid trippelmordet i Uppsala – häktas i sin utevaro",
       "link": "https://www.svt.se/nyheter/lokalt/uppsala/misstanken-ska-ha-hjalpt-till-vid-trippelmordet-i-uppsala",
       "image": ""
     },
@@ -24,21 +39,6 @@
     {
       "title": "Ung kvinna häktad för grovt brott i Rådhusparken i Jönköping",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/ung-kvinna-haktad-for-grovt-brott-i-radhusparken-i-jonkoping",
-      "image": ""
-    },
-    {
-      "title": "Edgeconnex om protesterna mot datacenter i Skellefteå: ”Vi lyssnar”",
-      "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/edgeconnex-om-protesterna-mot-datacenter-i-skelleftea-vi-lyssnar",
-      "image": ""
-    },
-    {
-      "title": "En man avliden efter larm om drunkning i Eskilstuna",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/just-nu-larm-om-drunkning-en-person-hittad-i-vattnet",
-      "image": ""
-    },
-    {
-      "title": "Vilka är landslagsdebutanterna Genesis Antwi och Alieu Njie?",
-      "link": "https://www.svt.se/sport/fotboll/vilka-ar-landslagsdebutanterna-genesis-antwi-och-alieu-njie",
       "image": ""
     }
   ]
