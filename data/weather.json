@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07 02:19 CET",
+  "updated": "2026-11-07 08:21 CET",
   "today": {
     "weekday": "saturday",
     "temp": -1,
@@ -10,18 +10,18 @@
     {
       "weekday": "sat",
       "night": -1,
-      "day": 6,
+      "day": 5,
       "symbol_code": "cloudy"
     },
     {
       "weekday": "sun",
-      "night": 2,
+      "night": 1,
       "day": 6,
       "symbol_code": "cloudy"
     },
     {
       "weekday": "mon",
-      "night": 3,
+      "night": 2,
       "day": 6,
       "symbol_code": "cloudy"
     },
