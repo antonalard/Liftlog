@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-07 19:54 CET",
+  "updated": "2026-11-07 23:23 CET",
   "items": [
+    {
+      "title": "Finland: Över fyra miljoner kilo potatis förstörd i brand",
+      "link": "https://www.svt.se/nyheter/utrikes/finland-over-fyra-miljoner-kilo-potatis-forstord-i-brand",
+      "image": ""
+    },
+    {
+      "title": "Detta vet vi om skytten i Kraków",
+      "link": "https://www.svt.se/nyheter/utrikes/detta-vet-vi-om-skytten-i-krakow",
+      "image": ""
+    },
     {
       "title": "Hackergruppernas mystiska ”bevis” för frysattackerna sågas",
       "link": "https://www.svt.se/nyheter/inrikes/hackergruppernas-mystiska-bevis-for-frysattackerna-sagas",
@@ -29,16 +39,6 @@
     {
       "title": "Maskerade personer slog sönder fönster på skola och garage",
       "link": "https://www.svt.se/nyheter/lokalt/vast/maskerade-personer-slog-sonder-fonster-pa-skola-och-garage",
-      "image": ""
-    },
-    {
-      "title": "Kaos på tåg från Köpenhamn efter dansk öldag",
-      "link": "https://www.svt.se/nyheter/lokalt/skane/kaos-pa-tag-fran-kopenhamn-efter-dansk-oldag",
-      "image": ""
-    },
-    {
-      "title": "Man död efter trafikolycka på Öland",
-      "link": "https://www.svt.se/nyheter/lokalt/smaland/man-dod-efter-trafikolycka-pa-oland",
       "image": ""
     }
   ]
