@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-07 15:12 CET",
+  "updated": "2026-11-07 19:54 CET",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Minior Showers: Leonid (November 2026)",
+      "date": "Sat, 07 Nov 2026",
+      "link": "https://pokemongohub.net/post/event/minior-showers-leonid-november-2026/"
+    },
     {
       "title": "Super Mega Clefable Raid Day",
       "date": "Thu, 05 Nov 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon Center BANGKOK Opens: Pokémon GO Thailand Event",
       "date": "Thu, 29 Oct 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-center-bangkok-opens-pokemon-go-thailand-event/"
-    },
-    {
-      "title": "Dynamax Trails: Eternatus Returns",
-      "date": "Wed, 28 Oct 2026",
-      "link": "https://pokemongohub.net/post/event/dynamax-trails-eternatus-returns/"
     }
   ]
 }
