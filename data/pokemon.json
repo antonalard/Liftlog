@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-08 09:07 CET",
+  "updated": "2026-11-08 16:24 CET",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "This Week in Pokémon GO (November 9–15): GO Wild Area Global, Into the Wild and Minior Showers",
+      "date": "Sun, 08 Nov 2026",
+      "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-november-9-15-go-wild-area-global-into-the-wild-and-minior-showers/"
+    },
     {
       "title": "Minior Showers: Leonid (November 2026)",
       "date": "Sat, 07 Nov 2026",
@@ -48,11 +53,6 @@
       "title": "Super Mega Chandelure Raid Day",
       "date": "Fri, 30 Oct 2026",
       "link": "https://pokemongohub.net/post/event/super-mega-chandelure-raid-day/"
-    },
-    {
-      "title": "Pokémon Center BANGKOK Opens: Pokémon GO Thailand Event",
-      "date": "Thu, 29 Oct 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-center-bangkok-opens-pokemon-go-thailand-event/"
     }
   ]
 }
