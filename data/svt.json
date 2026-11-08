@@ -1,6 +1,11 @@
 {
-  "updated": "2026-11-08 20:47 CET",
+  "updated": "2026-11-09 00:14 CET",
   "items": [
+    {
+      "title": "”Fördel Kristersson eller extraval”",
+      "link": "https://www.svt.se/nyheter/inrikes/fordel-kristersson-eller-extraval",
+      "image": ""
+    },
     {
       "title": "BP slog nytt poängrekord – trots Zandéns trippla missar",
       "link": "https://www.svt.se/sport/fotboll/bp-slog-nytt-poangrekord-trots-zandens-trippla-missar",
@@ -34,11 +39,6 @@
     {
       "title": "Jemen: 33 uppges dödade i attacker",
       "link": "https://www.svt.se/nyheter/utrikes/jemen-33-uppges-dodade-i-attacker",
-      "image": ""
-    },
-    {
-      "title": "Fullt utvecklad brand på Kronoparken i Karlstad – boende evakuerades",
-      "link": "https://www.svt.se/nyheter/lokalt/varmland/fullt-utvecklad-brand-pa-kronoparken-i-karlstad",
       "image": ""
     }
   ]
