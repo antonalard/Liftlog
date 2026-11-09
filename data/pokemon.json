@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-09 03:46 CET",
+  "updated": "2026-11-09 11:28 CET",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "Into the Wild (2026) Event",
+      "date": "Mon, 09 Nov 2026",
+      "link": "https://pokemongohub.net/post/event/into-the-wild-2026-event/"
+    },
     {
       "title": "This Week in Pokémon GO (November 9–15): GO Wild Area Global, Into the Wild and Minior Showers",
       "date": "Sun, 08 Nov 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO Halloween 2026: Part Two",
       "date": "Sun, 01 Nov 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-halloween-2026-part-two/"
-    },
-    {
-      "title": "Super Mega Chandelure Raid Day",
-      "date": "Fri, 30 Oct 2026",
-      "link": "https://pokemongohub.net/post/event/super-mega-chandelure-raid-day/"
     }
   ]
 }
