@@ -1,6 +1,21 @@
 {
-  "updated": "2026-11-09 21:54 CET",
+  "updated": "2026-11-10 04:00 CET",
   "items": [
+    {
+      "title": "Bookerpriset till M John Harrison",
+      "link": "https://www.svt.se/kultur/bookerpriset-till-m-john-harrison",
+      "image": ""
+    },
+    {
+      "title": "Ida Gabrielsson pressas om ministerkravet: ”Har diskuterats”",
+      "link": "https://www.svt.se/nyheter/inrikes/ida-gabrielsson-pressas-om-ministerkravet-har-diskuterats",
+      "image": ""
+    },
+    {
+      "title": "De stora frågorna efter skandalen kring Nvidia",
+      "link": "https://www.svt.se/nyheter/utrikes/de-stora-fragorna-efter-skandalen-kring-nvidia",
+      "image": ""
+    },
     {
       "title": "Iran pekas ut efter hackerattack mot kylar i Frankrike",
       "link": "https://www.svt.se/nyheter/utrikes/iran-pekas-ut-efter-hackerattack-mot-kylar-i-frankrike",
@@ -24,21 +39,6 @@
     {
       "title": "Kärnkraften ingen fråga för det nya minoritetsstyret i Valdemarsvik",
       "link": "https://www.svt.se/nyheter/lokalt/ost/karnkraften-ingen-fraga-for-det-nya-minoritetsstyret-i-valdemarsvik",
-      "image": ""
-    },
-    {
-      "title": "Nytt pensionsavtal klart",
-      "link": "https://www.svt.se/nyheter/inrikes/nytt-pensionsavtal-klart",
-      "image": ""
-    },
-    {
-      "title": "Trump ifrågasätter resultatet i mellanårsvalet",
-      "link": "https://www.svt.se/nyheter/utrikes/trump-ifragasatter-resultatet-i-mellanarsvalet",
-      "image": ""
-    },
-    {
-      "title": "Par misstänks ha blåst hotell i hela Norrland – greps i Sundsvall",
-      "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/par-misstanks-ha-blast-hotell-i-hela-norrland-greps-i-sundsvall",
       "image": ""
     }
   ]
