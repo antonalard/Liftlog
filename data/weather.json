@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-12 02:05 CET",
+  "updated": "2026-11-12 09:27 CET",
   "today": {
     "weekday": "thursday",
-    "temp": 6,
-    "meta": "lightrain • Vind 3 m/s",
-    "symbol_code": "lightrain"
+    "temp": 5,
+    "meta": "cloudy • Vind 5 m/s",
+    "symbol_code": "cloudy"
   },
   "week": [
     {
       "weekday": "thu",
-      "night": 2,
-      "day": 7,
+      "night": 1,
+      "day": 6,
       "symbol_code": "rain"
     },
     {
@@ -22,7 +22,7 @@
     {
       "weekday": "sat",
       "night": -1,
-      "day": 8,
+      "day": 9,
       "symbol_code": "partlycloudy_day"
     },
     {
