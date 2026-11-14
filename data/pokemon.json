@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-14 03:48 CET",
+  "updated": "2026-11-14 10:33 CET",
   "community_day_title": "",
   "community_day_image": "",
   "community_day_link": "",
   "items": [
+    {
+      "title": "GO Wild Area 2026: Global",
+      "date": "Sat, 14 Nov 2026",
+      "link": "https://pokemongohub.net/post/event/wild-area-2026-global/"
+    },
     {
       "title": "Pokémon GO Into the Wild (2026)",
       "date": "Mon, 09 Nov 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO November 2026 Events",
       "date": "Sun, 01 Nov 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-november-2026-events/"
-    },
-    {
-      "title": "Pokémon GO Halloween 2026: Part Two",
-      "date": "Sun, 01 Nov 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-halloween-2026-part-two/"
     }
   ]
 }
