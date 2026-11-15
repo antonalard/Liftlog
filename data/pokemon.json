@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-15 20:51 CET",
-  "community_day_title": "",
-  "community_day_image": "",
-  "community_day_link": "",
+  "updated": "2026-11-16 00:36 CET",
+  "community_day_title": "This Week in Pokémon GO (November 16-22): Dynamax Trails, Eternatus, Pawniard Community Day",
+  "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/10/pawniard-community-day.jpg",
+  "community_day_link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-november-16-22-dynamax-trails-eternatus-pawniard-community-day/",
   "items": [
+    {
+      "title": "This Week in Pokémon GO (November 16-22): Dynamax Trails, Eternatus, Pawniard Community Day",
+      "date": "Sun, 15 Nov 2026",
+      "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-november-16-22-dynamax-trails-eternatus-pawniard-community-day/"
+    },
     {
       "title": "GO Wild Area 2026: Global",
       "date": "Sat, 14 Nov 2026",
@@ -48,11 +53,6 @@
       "title": "Dynamax Machop Max Monday: Event Guide",
       "date": "Sun, 01 Nov 2026",
       "link": "https://pokemongohub.net/post/event/dynamax-machop-max-monday/"
-    },
-    {
-      "title": "Pokémon GO November 2026 Events",
-      "date": "Sun, 01 Nov 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-november-2026-events/"
     }
   ]
 }
