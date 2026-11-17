@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-17 05:00 CET",
+  "updated": "2026-11-17 14:40 CET",
   "community_day_title": "This Week in Pokémon GO (November 16-22): Dynamax Trails, Eternatus, Pawniard Community Day",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/10/pawniard-community-day.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-november-16-22-dynamax-trails-eternatus-pawniard-community-day/",
   "items": [
+    {
+      "title": "Pokémon GO × Duolingo: Duo’s Pokémon Party, Timed Research & Language Tag",
+      "date": "Tue, 17 Nov 2026",
+      "link": "https://pokemongohub.net/post/event/pokemon-go-x-duolingo-duos-pokemon-party-timed-research-language-tag/"
+    },
     {
       "title": "Dynamax Trails: Eternatus Returns",
       "date": "Mon, 16 Nov 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO Twilight Wishes (2026)",
       "date": "Mon, 02 Nov 2026",
       "link": "https://pokemongohub.net/post/event/twilight-wishes-2026/"
-    },
-    {
-      "title": "This Week in Pokémon GO (November 2–8): Wild Area 2026, Giratina & Halloween Finale",
-      "date": "Sun, 01 Nov 2026",
-      "link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-november-2-8-wild-area-2026-giratina-halloween-finale/"
     }
   ]
 }
