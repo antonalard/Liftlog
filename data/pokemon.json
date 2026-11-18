@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-18 12:58 CET",
+  "updated": "2026-11-18 20:51 CET",
   "community_day_title": "This Week in Pokémon GO (November 16-22): Dynamax Trails, Eternatus, Pawniard Community Day",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/10/pawniard-community-day.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/this-week-in-pokemon-go-november-16-22-dynamax-trails-eternatus-pawniard-community-day/",
   "items": [
+    {
+      "title": "Grookey, Scorbunny and Sobble Spotlight Hour: Last Minute Guide",
+      "date": "Wed, 18 Nov 2026",
+      "link": "https://pokemongohub.net/post/event/gen-8-starters-spotlight-hour/"
+    },
     {
       "title": "Pokémon GO × Duolingo: Duo’s Pokémon Party, Timed Research & Language Tag",
       "date": "Tue, 17 Nov 2026",
@@ -48,11 +53,6 @@
       "title": "Pokémon GO Wild Area: Mexico City – Additional Details, Maps, In-Person Activities, Notable Trainers etc",
       "date": "Thu, 05 Nov 2026",
       "link": "https://pokemongohub.net/post/event/pokemon-go-wild-area-mexico-city-additional-details-maps-in-person-activities-notable-trainers-etc/"
-    },
-    {
-      "title": "Pokémon GO Twilight Wishes (2026)",
-      "date": "Mon, 02 Nov 2026",
-      "link": "https://pokemongohub.net/post/event/twilight-wishes-2026/"
     }
   ]
 }
