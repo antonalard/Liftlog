@@ -1,6 +1,11 @@
 {
-  "updated": "2026-11-20 23:43 CET",
+  "updated": "2026-11-21 04:34 CET",
   "items": [
+    {
+      "title": "Jordbävning vid Perus huvudstad Lima",
+      "link": "https://www.svt.se/nyheter/utrikes/jordbavning-i-perus-huvudstad-lima",
+      "image": ""
+    },
     {
       "title": "Experten häpnar över detaljen vid Rasmus Dahlins solomål",
       "link": "https://www.svt.se/sport/ishockey/experten-hapnar-over-detaljen-vid-rasmus-dahlins-solomal",
@@ -34,11 +39,6 @@
     {
       "title": "Nu sitter Värmekyrkans adventsljus på plats",
       "link": "https://www.svt.se/nyheter/lokalt/ost/nu-sitter-varmekyrkans-adventsljus-pa-plats",
-      "image": ""
-    },
-    {
-      "title": "Skräcksiffran – tre äldre har dött i bränder i Jönköpings län på nio dagar",
-      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/skracksiffran-tre-aldre-har-dott-i-brander-i-jonkopings-lan-pa-nio-dagar",
       "image": ""
     }
   ]
