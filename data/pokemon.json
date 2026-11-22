@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-22 04:20 CET",
+  "updated": "2026-11-22 12:43 CET",
   "community_day_title": "Pawniard Community Day (November 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/10/pawniard-community-day.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/pawniard-community-day-november-2026/",
   "items": [
+    {
+      "title": "Dynamax Espurr Max Monday: Event Guide",
+      "date": "Sun, 22 Nov 2026",
+      "link": "https://pokemongohub.net/post/event/dynamax-espurr-max-monday-event-guide/"
+    },
     {
       "title": "Eternatus Eternamax Battle Day (November 2026)",
       "date": "Sat, 21 Nov 2026",
@@ -48,11 +53,6 @@
       "title": "GO Wild Area 2026: Global",
       "date": "Sat, 14 Nov 2026",
       "link": "https://pokemongohub.net/post/event/wild-area-2026-global/"
-    },
-    {
-      "title": "Minior Showers: Leonid (November 2026)",
-      "date": "Wed, 11 Nov 2026",
-      "link": "https://pokemongohub.net/post/event/minior-showers-leonid-november-2026/"
     }
   ]
 }
