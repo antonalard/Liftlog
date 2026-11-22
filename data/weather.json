@@ -1,17 +1,17 @@
 {
-  "updated": "2026-11-22 12:43 CET",
+  "updated": "2026-11-22 19:43 CET",
   "today": {
     "weekday": "sunday",
-    "temp": 2,
-    "meta": "clearsky day • Vind 5 m/s",
-    "symbol_code": "clearsky_day"
+    "temp": 0,
+    "meta": "clearsky night • Vind 4 m/s",
+    "symbol_code": "clearsky_night"
   },
   "week": [
     {
       "weekday": "sun",
-      "night": -1,
-      "day": 2,
-      "symbol_code": "clearsky_day"
+      "night": 0,
+      "day": 0,
+      "symbol_code": "clearsky_night"
     },
     {
       "weekday": "mon",
@@ -23,7 +23,7 @@
       "weekday": "tue",
       "night": -4,
       "day": 1,
-      "symbol_code": "clearsky_day"
+      "symbol_code": "fair_day"
     },
     {
       "weekday": "wed",
