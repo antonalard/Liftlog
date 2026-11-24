@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-24 13:41 CET",
+  "updated": "2026-11-24 23:48 CET",
   "community_day_title": "Pawniard Community Day (November 2026)",
   "community_day_image": "https://pokemongohub.net/wp-content/uploads/2026/10/pawniard-community-day.jpg",
   "community_day_link": "https://pokemongohub.net/post/event/pawniard-community-day-november-2026/",
   "items": [
+    {
+      "title": "Pokémon GO Daydream Destinations Season Guide",
+      "date": "Tue, 24 Nov 2026",
+      "link": "https://pokemongohub.net/post/guide/daydream-destinations-season/"
+    },
+    {
+      "title": "GO Battle League Daydream Destinations Update",
+      "date": "Tue, 24 Nov 2026",
+      "link": "https://pokemongohub.net/post/guide/gbl-daydream-destinations-update/"
+    },
     {
       "title": "Pokémon GO Twilight Wishes (2026)",
       "date": "Tue, 24 Nov 2026",
@@ -43,16 +53,6 @@
       "title": "Grookey, Scorbunny and Sobble Spotlight Hour: Last Minute Guide",
       "date": "Wed, 18 Nov 2026",
       "link": "https://pokemongohub.net/post/event/gen-8-starters-spotlight-hour/"
-    },
-    {
-      "title": "Pokémon GO × Duolingo: Duo’s Pokémon Party, Timed Research & Language Tag",
-      "date": "Tue, 17 Nov 2026",
-      "link": "https://pokemongohub.net/post/event/pokemon-go-x-duolingo-duos-pokemon-party-timed-research-language-tag/"
-    },
-    {
-      "title": "Dynamax Trails: Eternatus Returns",
-      "date": "Mon, 16 Nov 2026",
-      "link": "https://pokemongohub.net/post/event/dynamax-trails-eternatus-returns/"
     }
   ]
 }
