@@ -1,21 +1,21 @@
 {
-  "updated": "2026-11-27 01:07 CET",
+  "updated": "2026-11-27 09:50 CET",
   "today": {
     "weekday": "friday",
-    "temp": -2,
-    "meta": "partlycloudy night • Vind 1 m/s",
-    "symbol_code": "partlycloudy_night"
+    "temp": -3,
+    "meta": "partlycloudy day • Vind 1 m/s",
+    "symbol_code": "partlycloudy_day"
   },
   "week": [
     {
       "weekday": "fri",
-      "night": -2,
-      "day": 2,
+      "night": -3,
+      "day": 0,
       "symbol_code": "partlycloudy_day"
     },
     {
       "weekday": "sat",
-      "night": -1,
+      "night": -2,
       "day": 2,
       "symbol_code": "partlycloudy_day"
     },
